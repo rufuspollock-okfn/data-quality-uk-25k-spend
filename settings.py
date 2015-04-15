@@ -1,4 +1,4 @@
-CSV_DELIMETER = '~'
+CSV_DELIMETER = '\t'
 DB_NAME = 'expenditure.db'
 
 # Limit the number of simultaneous requests (async)
