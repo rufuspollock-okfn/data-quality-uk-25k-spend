@@ -2,7 +2,7 @@ CSV_DELIMETER = '~'
 DB_NAME = 'expenditure.db'
 
 # Limit the number of simultaneous requests (async)
-MAX_REQUESTS = 2
+MAX_REQUESTS = 5
 
 # Publisher has list of packages. Each package has list of resources (files).
 PACKAGE_FILES = 'http://data.gov.uk/api/3/action/dataset_show?id=%s'

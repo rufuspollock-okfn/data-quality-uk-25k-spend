@@ -14,7 +14,7 @@ publishers = [P.split(CSV_DELIMETER) for P in sys.stdin.readlines()]
 # Iterate publishers
 for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 	for request in grequests.map([
-		grequests.get(PUBLISHER_DETAILS % P[0]) for P in publishers[i:(i + 1) * MAX_REQUESTS]
+		grequests.get(PUBLISHER_DETAILS % P[0]) for P in publishers[i * MAX_REQUESTS:(i + 1) * MAX_REQUESTS]
 	]):
 		try:
 			# Iterate appropriate packages
