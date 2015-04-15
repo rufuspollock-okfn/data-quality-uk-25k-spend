@@ -32,7 +32,7 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 			results[publisher['name']] = [
 				publisher['id'],
 				publisher['title'],
-				publisher['category'],
+				publisher.get('category', 'NULL'),
 				parent,
 				publisher.get('foi-web', 'NULL'),
 				PUBLISHER_DATA_PAGE % publisher['name'], # There may be multiple pages with files listed on
