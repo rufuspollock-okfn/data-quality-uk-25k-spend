@@ -8,9 +8,10 @@ db = sqlite3.connect(DB_NAME)
 
 db.execute('''CREATE TABLE publisher(
 	id CHAR(32) PRIMARY KEY,
+	name CHAR(64),
 	title CHAR(255),
 	type CHAR(64),
-	parent CHAR(32),
+	parent CHAR(96),
 	homepage CHAR(255),
 	"homepage-for-data" CHAR(255)
 )''')

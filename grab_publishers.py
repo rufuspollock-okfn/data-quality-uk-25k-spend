@@ -9,7 +9,7 @@ from settings import *
 
 
 publishers = requests.get(PUBLISHERS_LIST).json()['result']
-results = []
+results = {}
 
 # Iterate publishers
 for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
@@ -17,14 +17,28 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 		grequests.get(PUBLISHER_DETAILS % P) for P in publishers[i:(i + 1) * MAX_REQUESTS]
 	]):
 		try:
-			print CSV_DELIMETER.join((lambda **K: [K.get(F, 'NULL') for F in [
-				'id',
-				'title',
-				'category',
-				'PARENT', # There is no special field for parent
-				'foi-web',
+			publisher = request.json()['result']
+
+			try:
+				parent = results[publisher.get('groups', [{}])[0].get('name')]['id']
+
+			except IndexError:
+				parent = 'NULL'
+
+			except KeyError:
+				parent = requests.get(PUBLISHER_DETAILS % publisher['id']).json()['result']['id']
+
+			# Manage parent records
+			results[publisher['name']] = [
+				publisher['id'],
+				publisher['title'],
+				publisher['category'],
+				parent,
+				publisher.get('foi-web', 'NULL'),
 				'HOME-PAGE-FOR-DATA', # There may be multiple pages with files listed on
-			]])(**request.json()['result']))
+			]
+
+			print CSV_DELIMETER.join(results[publisher['name']])
 
 		except AttributeError:
 			pass
