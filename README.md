@@ -28,14 +28,14 @@ extract_db.py --table publisher | grab_files.py | update_db.py --table datafile
 
 All records in DB will have unique ```ID```. There are no duplicating records.
 
-Generate publishers report
+Publishers report
 --------------------------
 ```sh
 # Get all publishers sorted by type and create .xls report
 extract_db.py --table publisher --orderby type | publishers_xls.py
 ```
 
-Generate files report
+Files report
 --------------------------
 ```sh
 # Get all files and create .xls report. Files will be grouped by publisher.
