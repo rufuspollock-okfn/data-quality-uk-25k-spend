@@ -28,6 +28,11 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 				if not re.findall('(500|25000|25 000|25,000|25K)[\s\.\,]+', S, re.I):
 					continue
 
+				spend_over = 500
+
+				if re.findall('(25000|25 000|25,000|25K)[\s\.\,]+', S, re.I):
+					spend_over = 25000
+
 				# Now get links to all resources belong to package
 				for resource in requests.get(PACKAGE_FILES % package['id']).json()['result'].get('resources'):
 					try:
@@ -42,6 +47,7 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 							resource['hash'],
 							request.url.split('?id=')[1],
 							'PERIOD',
+							spend_over
 						])
 						
 					except KeyError:

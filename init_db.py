@@ -22,7 +22,8 @@ db.execute('''CREATE TABLE datafile(
 	mediatype CHAR(128),
 	hash CHAR(255),
 	publisher CHAR(128),
-	period CHAR(32)
+	period CHAR(32),
+	"spend-over" INT
 )''')
 
 print '\033[92mDB %s create!\033[0m' % DB_NAME
