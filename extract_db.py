@@ -19,6 +19,6 @@ cursor.execute('select * from %s%s' % (
 	options.orderby and ' order by %s' % options.orderby or ''
 ))
 
-print '\n'.join([CSV_DELIMETER.join([F is None and 'NULL' or str(F).strip() for F in P]) for P in cursor.fetchall()])
+print '\n'.join([CSV_DELIMETER.join([F and str(F).strip() or 'NULL' for F in P]) for P in cursor.fetchall()])
 
 db.close()
