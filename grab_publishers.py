@@ -31,6 +31,7 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 			# Manage parent records
 			results[publisher['name']] = [
 				publisher['id'],
+				publisher['name'],
 				publisher['title'],
 				publisher.get('category', 'NULL'),
 				parent,
