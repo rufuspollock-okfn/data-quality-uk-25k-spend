@@ -4,7 +4,7 @@
 	"resources": [
 		{
 			"dialect": {"delimiter": "\t"},
-			"path": "datafiles.csv",
+			"path": "data/datafiles.csv",
 
 			"schema": {
 				"fields": [
@@ -22,7 +22,7 @@
 
 		{
 			"dialect": {"delimiter": "\t"},
-			"path": "publishers.csv",
+			"path": "data/publishers.csv",
 
 			"schema": {
 				"fields": [
