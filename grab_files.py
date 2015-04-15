@@ -46,8 +46,8 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 							resource.get('mimetype', 'NULL'),
 							resource['hash'],
 							request.url.split('?id=')[1],
-							'PERIOD',
-							spend_over
+							'NULL',
+							str(spend_over)
 						])
 						
 					except KeyError:
