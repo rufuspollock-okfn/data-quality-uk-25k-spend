@@ -15,12 +15,12 @@ If necessary update other options of ```settings.py```.
 Grab data
 ---------
 Two scripts are used for data grabbing:
-* ```grab_publishers.py``` — grab all publishers and print in stdin.
+* ```grab_publishers.py``` — grab all publishers and output in *stdout*.
 ```sh
 # Grab all publishers and store in DB
 grab_publishers.py | update_db.py --table publisher
 ```
-* ```grab_files.py``` — grab all files for publishers passed in pipeline and print in stdbin.
+* ```grab_files.py``` — grab all files for publishers passed in *stdin* and print in *stdout*.
 ```sh
 # Get all publishers from DB, grab their files and store in DB
 extract_db.py --table publisher | grab_files.py | update_db.py --table datafile
@@ -29,15 +29,20 @@ extract_db.py --table publisher | grab_files.py | update_db.py --table datafile
 All records in DB will have unique ```ID```. There are no duplicating records.
 
 Publishers report
---------------------------
+-----------------
+Get all publishers sorted by type and create .xls report:
 ```sh
-# Get all publishers sorted by type and create .xls report
 extract_db.py --table publisher --orderby type | publishers_xls.py
 ```
 
 Files report
---------------------------
+------------
+Get all files and create .xls report. Files will be grouped by publisher:
 ```sh
-# Get all files and create .xls report. Files will be grouped by publisher.
 extract_db.py --table datafile | datafiles_xls.py
 ```
+
+Other tools
+-----------
+* ```update_db --table <table name>``` — gets *stdin* input strings, split them by ```settings.py:CSV_DELIMETER``` and store in ```<table name>``` DB table.
+* ```extract_db --table <table name>[ --orderby <column name>]``` — get data from DB and output in *stdout*. Sort data if optional param specified.
