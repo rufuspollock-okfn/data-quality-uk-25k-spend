@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import os
 import sys
 import xlwt
 from settings import *
@@ -41,4 +42,4 @@ for line in sys.stdin.readlines():
 	
 	row += 1
 
-xls.save('reports/publishers.xls')
+xls.save(os.path,join(REPORTS_PATH, 'publishers.xls'))

@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import os
 import sqlite3
 import sys
 import xlwt
@@ -63,5 +64,5 @@ for publisher in cursor.fetchall():
 
 		row += 1
 
-xls.save('reports/datafiles.xls')
+xls.save(os.path,join(REPORTS_PATH, 'datafiles.xls'))
 db.close()

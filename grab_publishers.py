@@ -8,7 +8,7 @@ from simplejson.scanner import JSONDecodeError
 from settings import *
 
 
-publishers = requests.get(PUBLISHERS_LIST).json()['result']
+publishers = requests.get(PUBLISHERS_LIST).json()['result'][:16]
 results = {}
 
 # Iterate publishers
@@ -19,22 +19,13 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 		try:
 			publisher = request.json()['result']
 
-			try:
-				parent = results[publisher.get('groups', [{}])[0].get('name')]['id']
-
-			except IndexError:
-				parent = 'NULL'
-
-			except KeyError:
-				parent = requests.get(PUBLISHER_DETAILS % publisher['id']).json()['result']['id']
-
 			# Manage parent records
 			results[publisher['name']] = [
 				publisher['id'],
 				publisher['name'],
 				publisher['title'],
 				publisher.get('category', 'NULL'),
-				parent,
+				(publisher.get('groups') or [{}])[0].get('name', 'NULL'),
 				publisher.get('foi-web', 'NULL'),
 				PUBLISHER_DATA_PAGE % publisher['name'], # There may be multiple pages with files listed on
 			]
