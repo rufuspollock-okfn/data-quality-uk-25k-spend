@@ -64,5 +64,5 @@ for publisher in cursor.fetchall():
 
 		row += 1
 
-xls.save(os.path,join(REPORTS_PATH, 'datafiles.xls'))
+xls.save(os.path.join(REPORTS_PATH, 'datafiles.xls'))
 db.close()

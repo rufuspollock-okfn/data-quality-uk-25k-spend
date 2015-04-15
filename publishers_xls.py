@@ -42,4 +42,4 @@ for line in sys.stdin.readlines():
 	
 	row += 1
 
-xls.save(os.path,join(REPORTS_PATH, 'publishers.xls'))
+xls.save(os.path.join(REPORTS_PATH, 'publishers.xls'))
