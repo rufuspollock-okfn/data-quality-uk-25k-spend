@@ -3,8 +3,41 @@ Set of tools to grab, store and generate reports on expenditure docs and publish
 
 Installation and configuration
 ------------------------------
+Scripts utilize sqlite DB for storing grabbed data. For DB init run:
+```sh
+python init_db.py
+```
+
+Create a reports dir where all reports will be generated to. And then update ```settings.py``` with correct ```REPORTS_PATH```.
+
+If necessary update other options of ```settings.py```.
+
 Grab data
 ---------
-Generate report
----------------
+Two scripts are used for data grabbing:
+* ```grab_publishers.py``` — grab all publishers and print in stdin.
+```sh
+# Grab all publishers and store in DB
+grab_publishers.py | update_db.py --table publisher
+```
+* ```grab_files.py``` — grab all files for publishers passed in pipeline and print in stdbin.
+```sh
+# Get all publishers from DB, grab their files and store in DB
+extract_db.py --table publisher | grab_files.py | update_db.py --table datafile
+```
 
+All records in DB will have unique ```ID```. There are no duplicating records.
+
+Generate publishers report
+--------------------------
+```sh
+# Get all publishers sorted by type and create .xls report
+extract_db.py --table publisher --orderby type | publishers_xls.py
+```
+
+Generate files report
+--------------------------
+```sh
+# Get all files and create .xls report. Files will be grouped by publisher.
+extract_db.py --table datafile | datafiles_xls.py
+```
