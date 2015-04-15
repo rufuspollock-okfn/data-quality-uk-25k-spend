@@ -14,6 +14,10 @@ parser.add_option('-o', '--orderby', dest='orderby', help='Order output by field
 db = sqlite3.connect(DB_NAME)
 cursor = db.cursor()
 
+cursor.execute('pragma table_info(%s)' % options.table)
+
+print CSV_DELIMETER.join(map(lambda C: C[1], cursor.fetchall()))
+
 cursor.execute('select * from %s%s' % (
 	options.table,
 	options.orderby and ' order by %s' % options.orderby or ''
