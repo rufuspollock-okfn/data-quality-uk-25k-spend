@@ -8,7 +8,7 @@ from simplejson.scanner import JSONDecodeError
 from settings import *
 
 
-publishers = requests.get(PUBLISHERS_LIST).json()['result'][:16]
+publishers = requests.get(PUBLISHERS_LIST).json()['result']
 results = {}
 
 # Iterate publishers
