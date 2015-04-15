@@ -37,7 +37,7 @@ for line in sys.stdin.readlines():
 	column = 0
 
 	for value in line.split(CSV_DELIMETER):
-		xlsheet.write(row, column, value)
+		xlsheet.write(row, column, value.strip())
 		column += 1
 	
 	row += 1
