@@ -1,4 +1,10 @@
-CSV_DELIMETER = '\t'
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import csv
+
+
+CSV_DELIMETER = ','
+CSV_QUOTING = csv.QUOTE_ALL
 DB_NAME = 'expenditure.db'
 
 # Limit the number of simultaneous requests (async)

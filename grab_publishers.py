@@ -1,13 +1,16 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import csv
 import grequests
 import math
 import re
 import requests
+import sys
 from simplejson.scanner import JSONDecodeError
 from settings import *
 
 
+output = csv.writer(sys.stdout, delimiter=CSV_DELIMETER, quoting=CSV_QUOTING)
 publishers = requests.get(PUBLISHERS_LIST).json()['result']
 results = {}
 
@@ -19,8 +22,7 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 		try:
 			publisher = request.json()['result']
 
-			# Manage parent records
-			results[publisher['name']] = [
+			output.writerow([
 				publisher['id'],
 				publisher['name'],
 				publisher['title'],
@@ -28,9 +30,7 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 				(publisher.get('groups') or [{}])[0].get('name', 'NULL'),
 				publisher.get('foi-web', 'NULL'),
 				PUBLISHER_DATA_PAGE % publisher['name'], # There may be multiple pages with files listed on
-			]
-
-			print CSV_DELIMETER.join(results[publisher['name']])
+			])
 
 		except AttributeError:
 			pass
