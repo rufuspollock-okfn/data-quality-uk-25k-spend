@@ -20,6 +20,7 @@ db.execute('''CREATE TABLE datafile(
 	url CHAR(255),
 	title CHAR(255),
 	mediatype CHAR(128),
+	format CHAR(32),
 	hash CHAR(255),
 	publisher CHAR(128),
 	period CHAR(32),

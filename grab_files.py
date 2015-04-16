@@ -41,6 +41,7 @@ def grab_files(connections):
 							resource['url'],
 							resource['description'],
 							resource.get('mimetype', 'NULL'),
+							resource.get('format', 'NULL'),
 							resource['hash'],
 							connections[i][0],
 							'NULL',

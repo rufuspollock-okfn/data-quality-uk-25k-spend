@@ -12,6 +12,7 @@
 					{"name": "url", "title": "URL", "type": "string"},
 					{"name": "title", "title": "Title", "type": "string"},
 					{"name": "mediatype", "title": "Media type", "type": "string"},
+					{"name": "format", "title": "Format", "type": "string"},
 					{"name": "hash", "title": "Hash", "type": "string"},
 					{"name": "publisher", "title": "Publisher ID", "type": "string"},
 					{"name": "period", "title": "Period", "type": "string"},
