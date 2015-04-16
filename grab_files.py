@@ -9,13 +9,10 @@ from settings import *
 from simplejson.scanner import JSONDecodeError
 
 
-publishers = [P.split(CSV_DELIMETER) for P in sys.stdin.readlines()]
+def grab_files(connections):
+	i = 0
 
-# Iterate publishers
-for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
-	for request in grequests.map([
-		grequests.get(PUBLISHER_DETAILS % P[0]) for P in publishers[i * MAX_REQUESTS:(i + 1) * MAX_REQUESTS]
-	]):
+	for request in grequests.map([C[1] for C in connections]):
 		try:
 			# Iterate appropriate packages
 			for package in request.json()['result']['packages']:
@@ -39,20 +36,20 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 						if resource['resource_type'] != 'file':
 							continue
 
-						print CSV_DELIMETER.join([
+						output.writerow([
 							resource['id'],
 							resource['url'],
 							resource['description'],
 							resource.get('mimetype', 'NULL'),
 							resource['hash'],
-							request.url.split('?id=')[1],
+							connections[i][0],
 							'NULL',
 							str(spend_over)
 						])
-						
+
 					except KeyError:
 						pass
-						
+
 					except UnicodeEncodeError:
 						pass
 
@@ -64,3 +61,24 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 
 		except KeyError:
 			pass
+
+	i += 1
+
+
+publishers = csv.reader(sys.stdin.readlines(), delimiter=CSV_DELIMETER, quoting=CSV_QUOTING)
+output = csv.writer(sys.stdout, delimiter=CSV_DELIMETER, quoting=CSV_QUOTING)
+requests_pull = []
+
+for publisher in publishers:
+	# Fill up async connections pull
+	requests_pull.append([publisher[0], grequests.get(PUBLISHER_DETAILS % publisher[0])])
+
+	if len(requests_pull) < MAX_REQUESTS:
+		continue
+
+	grab_files(requests_pull)
+	last_publisher = publisher
+	requests_pull = []
+
+# There may be < MAX_REQUESTS connections in requests_pull
+grab_files(requests_pull)
