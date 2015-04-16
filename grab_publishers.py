@@ -23,7 +23,6 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 			publisher = request.json()['result']
 
 			output.writerow([
-				publisher['id'],
 				publisher['name'],
 				publisher['title'],
 				publisher.get('category', 'NULL'),

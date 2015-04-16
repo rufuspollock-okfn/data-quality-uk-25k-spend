@@ -27,7 +27,6 @@
 			"schema": {
 				"fields": [
 					{"name": "id", "title": "ID", "type": "string"},
-					{"name": "name", "title": "Short name", "type": "string"},
 					{"name": "title", "title": "Title", "type": "string"},
 					{"name": "type", "title": "Type", "type": "string"},
 					{"name": "parent", "title": "Parent short name", "type": "string"},
