@@ -14,13 +14,13 @@ db = sqlite3.connect(DB_NAME)
 success_count = 0
 unique_count = 0
 
-for line in sys.stdin.readlines():
-	if not line:
+for row in csv.reader(sys.stdin.readlines(), delimiter=CSV_DELIMETER, quoting=CSV_QUOTING):
+	if not row:
 		continue
 
 	try:
 		db.cursor().execute('INSERT INTO %s VALUES (%s)' % (options.table, ', '.join([
-			R == 'NULL' and R or '"%s"' % R for R in line.split(CSV_DELIMETER)
+			R == 'NULL' and R or '"%s"' % R for R in row
 		])))
 
 		success_count += 1
