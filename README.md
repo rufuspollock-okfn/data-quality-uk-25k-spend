@@ -51,5 +51,5 @@ extract_db.py --table datafile | datafiles_xls.py
 
 Other tools
 -----------
-* ```update_db --table <table name>``` — gets *stdin* input strings, split them by ```settings.py:CSV_DELIMETER``` and store in ```<table name>``` DB table.
+* ```update_db --table <table name>``` — gets CSV from *stdin* input strings and store it in ```<table name>``` DB table.
 * ```extract_db --table <table name>[ --orderby <column name>]``` — get data from DB and output in *stdout*. Sort data if optional param specified.
