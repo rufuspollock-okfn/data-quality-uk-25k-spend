@@ -14,7 +14,7 @@ MAX_REQUESTS = 5
 PACKAGE_FILES = 'http://data.gov.uk/api/3/action/dataset_show?id=%s'
 
 PUBLISHERS_LIST = 'http://data.gov.uk/api/3/action/organization_list'
-PUBLISHER_DATA_PAGE = 'http://data.gov.uk/publisher/%s'
+PUBLISHER_PAGE = 'http://data.gov.uk/publisher/%s'
 DATASET_PAGE = 'http://data.gov.uk/dataset/%s'
 PUBLISHER_DETAILS = 'http://data.gov.uk/api/3/action/organization_show?id=%s'
 REPORTS_PATH = 'data'
