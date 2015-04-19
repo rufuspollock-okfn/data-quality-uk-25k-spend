@@ -42,13 +42,13 @@ def grab_files(connections):
 							resource['id'],
 							resource['url'],
 							DATASET_PAGE % package['name'],
-							resource['description'],
+							'%s / %s' % (package['title'].encode('utf-8'), resource['description'].encode('utf-8')),
 							resource.get('mimetype', 'NULL'),
 							resource.get('format', 'NULL'),
 							resource['hash'],
 							connections[i][0],
 							'NULL',
-							str(spend_over)
+							str(spend_over).encode('utf-8')
 						])
 
 					except KeyError:
