@@ -32,8 +32,7 @@
 					{"name": "title", "title": "Title", "type": "string"},
 					{"name": "type", "title": "Type", "type": "string"},
 					{"name": "parent", "title": "Parent short name", "type": "string"},
-					{"name": "homepage", "title": "Homepage", "type": "string"},
-					{"name": "homepage-for-data", "title": "Homepage for spend files", "type": "string"}
+					{"name": "homepage", "title": "Homepage", "type": "string"}
 				]
 			}
 		}

@@ -27,8 +27,7 @@ for i in range(0, int(math.ceil(float(len(publishers)) / MAX_REQUESTS))):
 				publisher['title'],
 				publisher.get('category', 'NULL'),
 				(publisher.get('groups') or [{}])[0].get('name', 'NULL'),
-				publisher.get('foi-web', 'NULL'),
-				PUBLISHER_PAGE % publisher['name'], # There may be multiple pages with files listed on
+				PUBLISHER_PAGE % publisher['name'],
 			])
 
 		except AttributeError:

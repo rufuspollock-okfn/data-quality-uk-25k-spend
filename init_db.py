@@ -11,8 +11,7 @@ db.execute('''CREATE TABLE publisher(
 	title CHAR(255),
 	type CHAR(64),
 	parent CHAR(96),
-	homepage CHAR(255),
-	"homepage-for-data" CHAR(255)
+	homepage CHAR(255)
 )''')
 
 db.execute('''CREATE TABLE datafile(
