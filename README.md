@@ -37,16 +37,16 @@ All records in DB will have unique ```ID```. There are no duplicating records.
 
 Publishers report
 -----------------
-Get all publishers sorted by type and create .xls report:
+Get all publishers sorted by type and create .csv report:
 ```sh
-extract_db.py --table publisher --orderby type | publishers_xls.py
+extract_db.py --table publisher --orderby type | cat > data/publishers.csv
 ```
 
 Files report
 ------------
-Get all files and create .xls report. Files will be grouped by publisher:
+Get all files and create .csv report. Files will be grouped by publisher:
 ```sh
-extract_db.py --table datafile | datafiles_xls.py
+extract_db.py --table datafile | cat > data/files.csv
 ```
 
 Other tools
