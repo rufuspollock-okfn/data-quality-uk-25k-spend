@@ -10,6 +10,7 @@
 				"fields": [
 					{"name": "id", "title": "ID", "type": "string"},
 					{"name": "url", "title": "URL", "type": "string"},
+					{"name": "dataset-page", "title": "Dataset page URL", "type": "string"},
 					{"name": "title", "title": "Title", "type": "string"},
 					{"name": "mediatype", "title": "Media type", "type": "string"},
 					{"name": "format", "title": "Format", "type": "string"},

@@ -18,6 +18,7 @@ db.execute('''CREATE TABLE publisher(
 db.execute('''CREATE TABLE datafile(
 	id CHAR(32) PRIMARY KEY,
 	url CHAR(255),
+	"dataset-page" CHAR(255),
 	title CHAR(255),
 	mediatype CHAR(128),
 	format CHAR(32),

@@ -9,7 +9,9 @@ from settings import *
 from simplejson.scanner import JSONDecodeError
 
 
+# Use passed connections list to get list files from connections URLs
 def grab_files(connections):
+	# Keep track of loop index
 	i = 0
 
 	for request in grequests.map([C[1] for C in connections]):
@@ -39,6 +41,7 @@ def grab_files(connections):
 						output.writerow([
 							resource['id'],
 							resource['url'],
+							DATASET_PAGE % package['name'],
 							resource['description'],
 							resource.get('mimetype', 'NULL'),
 							resource.get('format', 'NULL'),
