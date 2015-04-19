@@ -7,6 +7,15 @@ from settings import *
 from optparse import OptionParser
 
 
+# Translate DB row value into string
+def to_string(value):
+	try:
+		return value and value.encode('utf-8') or 'NULL'
+
+	# Non-string value
+	except AttributeError:
+		return str(value)
+
 output = csv.writer(sys.stdout, delimiter=CSV_DELIMETER, quoting=CSV_QUOTING)
 
 parser = OptionParser()
@@ -27,6 +36,6 @@ cursor.execute('select * from %s%s' % (
 ))
 
 for row in cursor.fetchall():
-	output.writerow([(C and str(C).strip()) or 'NULL' for C in row])
+	output.writerow(map(to_string, row))
 
 db.close()
