@@ -1,0 +1,10 @@
+{
+    "data_dir": "data",
+    "result_file": "results.csv",
+    "run_file": "runs.csv",
+    "source_file": "clean_sources.csv",
+    "publisher_file": "publishers.csv",
+    "remotes": ["origin"],
+    "branch": "master",
+    "goodtables_web": "http://goodtables.okfnlabs.org"
+}

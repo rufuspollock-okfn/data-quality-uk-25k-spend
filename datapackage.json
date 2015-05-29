@@ -3,36 +3,34 @@
 
 	"resources": [
 		{
-			"dialect": {"delimiter": "\t"},
-			"path": "data/datafiles.csv",
+			"path": "data/sources.csv",
 
 			"schema": {
 				"fields": [
-					{"name": "id", "title": "ID", "type": "string"},
-					{"name": "url", "title": "URL", "type": "string"},
-					{"name": "dataset-page", "title": "Dataset page URL", "type": "string"},
-					{"name": "title", "title": "Title", "type": "string"},
-					{"name": "mediatype", "title": "Media type", "type": "string"},
-					{"name": "format", "title": "Format", "type": "string"},
-					{"name": "hash", "title": "Hash", "type": "string"},
-					{"name": "publisher", "title": "Publisher ID", "type": "string"},
-					{"name": "period", "title": "Period", "type": "string"},
-					{"name": "spend-over", "title": "Spend over", "type": "number"}
+					{"name": "id", "type": "string"},
+					{"name": "publihser_id", "type": "string"},
+					{"name": "title", "type": "string"},
+					{"name": "data", "type": "string"},
+					{"name": "format", "type": "string"},
+					{"name": "last_modified", "type": "string"},
+					{"name": "period_id", "type": "string"},
+					{"name": "schema", "type": "string"}
 				]
 			}
 		},
 
 		{
-			"dialect": {"delimiter": "\t"},
 			"path": "data/publishers.csv",
 
 			"schema": {
 				"fields": [
-					{"name": "id", "title": "ID", "type": "string"},
-					{"name": "title", "title": "Title", "type": "string"},
-					{"name": "type", "title": "Type", "type": "string"},
-					{"name": "parent", "title": "Parent short name", "type": "string"},
-					{"name": "homepage", "title": "Homepage", "type": "string"}
+					{"name": "id", "type": "string"},
+					{"name": "title", "type": "string"},
+					{"name": "type", "type": "string"},
+					{"name": "homepage", "type": "string"},
+					{"name": "contact", "type": "string"},
+					{"name": "email", "type": "string"},
+					{"name": "parent_id", "type": "string"}
 				]
 			}
 		}

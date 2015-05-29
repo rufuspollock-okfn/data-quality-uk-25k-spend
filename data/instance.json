@@ -1,0 +1,5 @@
+{
+    "name": "UK Spend Publishing Dashboard",
+    "admin": "info@okfn.org",
+    "validator_url": "https://goodtables.okfnlabs.org/api/run"
+}
