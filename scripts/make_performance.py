@@ -12,7 +12,7 @@ import math
 # Files path.
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data'))
 PUBLISHERS_FILEPATH = os.path.join(DATA_DIR, 'publishers.csv')
-SOURCES_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
+SOURCES_FILEPATH = os.path.join(DATA_DIR, 'datafiles.csv')
 RESULTS_FILEPATH = os.path.join(DATA_DIR, 'results.csv')
 PERFORMANCE_FILEPATH = os.path.join(DATA_DIR, 'performance.csv')
 

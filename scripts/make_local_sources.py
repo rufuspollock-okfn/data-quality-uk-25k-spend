@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""This script makes a new CSV sources file with local urls.
+"""This script makes a new CSV datafiles file with local urls.
 
 """
 
@@ -11,8 +11,8 @@ import re
 # Settings
 # Files path.
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data'))
-SOURCE_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
-LOCAL_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'local_sources.csv')
+SOURCE_FILEPATH = os.path.join(DATA_DIR, 'datafiles.csv')
+LOCAL_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'local_datafiles.csv')
 
 MAIN_DIR = (os.path.dirname(os.path.dirname(__file__)))
 ARCHIVE_DIR = MAIN_DIR + '/archive'

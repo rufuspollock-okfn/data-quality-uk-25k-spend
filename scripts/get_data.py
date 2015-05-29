@@ -17,7 +17,7 @@ import period
 # Files path.
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data'))
 PUBLISHER_FILEPATH = os.path.join(DATA_DIR, 'publishers.csv')
-SOURCE_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
+SOURCE_FILEPATH = os.path.join(DATA_DIR, 'datafiles.csv')
 
 # Schema for spending files.
 SCHEMA = 'https://raw.githubusercontent.com/okfn/tabular-validator/master/examples/hmt/spend-publishing-schema.json'

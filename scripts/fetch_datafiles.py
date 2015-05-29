@@ -28,7 +28,7 @@ except OSError as e:
 CURRENT_DATE_DIR = ARCHIVE_DIR + '/' + CURRENT_DATE
 
 # Sources file path.
-SOURCES_FILEPATH = os.path.join(os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')), 'sources.csv')
+SOURCES_FILEPATH = os.path.join(os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')), 'datafiles.csv')
 
 
 def fetch_file(url):

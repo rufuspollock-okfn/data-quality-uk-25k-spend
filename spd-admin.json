@@ -2,7 +2,7 @@
     "data_dir": "data",
     "result_file": "results.csv",
     "run_file": "runs.csv",
-    "source_file": "clean_sources.csv",
+    "source_file": "clean_datafiles.csv",
     "publisher_file": "publishers.csv",
     "remotes": ["origin"],
     "branch": "master",

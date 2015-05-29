@@ -9,8 +9,8 @@ import uuid
 
 # Files path.
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data'))
-SOURCE_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
-INVALID_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'invalid_sources.csv')
+SOURCE_FILEPATH = os.path.join(DATA_DIR, 'datafiles.csv')
+INVALID_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'invalid_datafiles.csv')
 RESULTS_FILEPATH = os.path.join(DATA_DIR, 'results.csv')
 FINAL_RESULTS_FILEPATH = os.path.join(DATA_DIR, 'final_results.csv')
 RUNS_FILEPATH = os.path.join(DATA_DIR, 'runs.csv')
