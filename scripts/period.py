@@ -268,8 +268,8 @@ def get_period(title, url):
     name = title.split(' / ')
     
     period = name_error(title, url)
-    if not period:
-        if name[1]:
+    if not period and title:
+        if len(name) == 2 and name[1]:
             period = search_period(name[1])
         if not period and name[0]:
             period = search_period(name[0])
