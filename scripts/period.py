@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""This module provides functions to find the period id of a source.
+"""This module provides functions to find the period id of a datafile.
 
 """
 
