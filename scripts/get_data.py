@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""This script scrapes spending data from http://data.gov.uk/.
+"""This script scrapes ministerial departments spending data from http://data.gov.uk/.
 
 """
 
@@ -17,7 +17,7 @@ import period
 # Files path.
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data'))
 PUBLISHER_FILEPATH = os.path.join(DATA_DIR, 'publishers.csv')
-SOURCE_FILEPATH = os.path.join(DATA_DIR, 'datafiles.csv')
+SOURCE_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
 
 # Schema for spending files.
 SCHEMA = 'https://raw.githubusercontent.com/okfn/tabular-validator/master/examples/hmt/spend-publishing-schema.json'
@@ -124,8 +124,16 @@ def get_all_organizations(url_base):
     print('Loading publishers data...')
     publishers = []
     for organization in organization_list:
-        organization_data = get_organization_data(organization)
-        publishers.append(organization_data)
+        # Scrape only ministerial departments
+        category = ''
+        if organization.get('extras'):
+            extras = organization.get('extras')
+            for extra in extras:
+                if extra.get('key') == 'category' and extra.get('value'):
+                    category = extra.get('value')
+        if category == 'ministerial-department':
+            organization_data = get_organization_data(organization)
+            publishers.append(organization_data)
     print('Loading publishers data... Done')
     print('Scraped: ' + str(len(publishers)) + ' publishers')
     
@@ -260,7 +268,7 @@ def get_datafile_data(package, resource):
     datafile['period_id'] = period.get_period(datafile['title'], datafile['data'])
     return datafile
 
-def get_datafiles(package):
+def get_datafiles(package, publishers):
     """Return list of datafiles of a package.
 
     Parameters:
@@ -270,27 +278,34 @@ def get_datafiles(package):
     datafiles = []
     searched = ''
 
-    # Get datafiles for packages with 500 or 25000 in their title, name or description.
-    if package.get('title'):
-        searched += package['title']
-    if package.get('name'):
-        searched += package['name']
+    # Scrape only ministerial departments data
+    if package.get('organization'):
+        organization = package.get('organization')
+        if organization.get('name'):
+            package_publisher = organization.get('name')
+    for publisher in publishers:
+        if package_publisher == publisher['id']:
+            # Get datafiles for packages with 500 or 25000 in their title, name or description.
+            if package.get('title'):
+                searched += package['title']
+            if package.get('name'):
+                searched += package['name']
 
-    if re.search('([^0-9]|^)(500|25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
-        if 'resources' in package:
-            for resource in package['resources']:
-                datafile = get_datafile_data(package, resource)
-                datafiles.append(datafile)
-    # Get datafiles with 500 or 25000 in their description.
-    else:
-        if 'resources' in package:
-            for resource in package['resources']:
-                searched = ''
-                if resource.get('description'):
-                    searched += resource['description']
-                if re.search('([^0-9]|^)(500|25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
-                    datafile = get_datafile_data(package, resource)
-                    datafiles.append(datafile)
+            if re.search('([^0-9]|^)(500|25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
+                if 'resources' in package:
+                    for resource in package['resources']:
+                        datafile = get_datafile_data(package, resource)
+                        datafiles.append(datafile)
+            # Get datafiles with 500 or 25000 in their description.
+            else:
+                if 'resources' in package:
+                    for resource in package['resources']:
+                        searched = ''
+                        if resource.get('description'):
+                            searched += resource['description']
+                        if re.search('([^0-9]|^)(500|25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
+                            datafile = get_datafile_data(package, resource)
+                            datafiles.append(datafile)
 
     return datafiles
 
@@ -319,8 +334,9 @@ def make_publishers_csv(csvfile):
     print('Making ' + csvfile + '...')
     make_csv(csvfile, fieldnames, publishers)
     print('Making ' + csvfile + '... Done')
+    return publishers
 
-def make_datafiles_csv(csvfile):
+def make_datafiles_csv(csvfile, publishers):
     """Make datafiles csv file."""
     # Get results from http://data.gov.uk/.
     url_base = 'http://data.gov.uk/api/'
@@ -337,14 +353,15 @@ def make_datafiles_csv(csvfile):
             datafiles = []
             if 'unpublished' in package:
                 if package['unpublished'] != 'true':
-                    datafiles = get_datafiles(package)
+                    datafiles = get_datafiles(package, publishers)
                     resources += datafiles
             else:
-                datafiles = get_datafiles(package)
+                datafiles = get_datafiles(package, publishers)
                 resources += datafiles
         package_count += len(page)
     print('Loading sources data... Done')
-    print('Scraped: ' + str(len(resources)) + ' sources from ' + str(package_count) + ' packages.')
+    #print('Scraped: ' + str(len(resources)) + ' sources from ' + str(package_count) + ' packages.')
+    print('Scraped: ' + str(len(resources)) + ' sources.')
     
     # Make datafiles csv file.
     fieldnames = ['id', 'publisher_id', 'title', 'data', 'format', 'last_modified', 'period_id', 'schema']
@@ -352,6 +369,6 @@ def make_datafiles_csv(csvfile):
     make_csv(csvfile, fieldnames, resources)
     print('Making ' + csvfile + '... Done')
 
-# Scrape all data.
-make_publishers_csv(PUBLISHER_FILEPATH)
-make_datafiles_csv(SOURCE_FILEPATH)
+# Scrape all ministerial departments data.
+publishers = make_publishers_csv(PUBLISHER_FILEPATH)
+make_datafiles_csv(SOURCE_FILEPATH, publishers)

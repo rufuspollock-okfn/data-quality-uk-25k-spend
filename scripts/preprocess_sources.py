@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""This script preprocesses datafiles before running spd_admin on them.
+"""This script preprocesses sources before running spd_admin on them.
 
 """
 
@@ -19,9 +19,9 @@ CURRENT_DATE = datetime.utcnow().strftime('%Y-%m-%d')
 CURRENT_DATE_DIR = ARCHIVE_DIR + '/' + CURRENT_DATE
 
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data'))
-INVALID_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'invalid_datafiles.csv')
-LOCAL_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'local_datafiles.csv')
-CLEAN_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'clean_datafiles.csv')
+INVALID_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'invalid_sources.csv')
+LOCAL_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'local_sources.csv')
+CLEAN_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'clean_sources.csv')
 
 LOCALHOST = 'http://localhost:8000'
 RELATIVE_DATE_DIR = LOCALHOST + '/archive/' + CURRENT_DATE + '/'
