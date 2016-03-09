@@ -22,9 +22,6 @@ SOURCE_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
 # Schema for spending files.
 SCHEMA = 'https://raw.githubusercontent.com/okfn/goodtables/master/examples/hmt/spend-publishing-schema.json'
 
-# Search query for spending files.
-SEARCH_QUERY = '*:spend%20OR%20*:spent%20OR%20*:expenditure'
-
 def import_dataset(url):
     """Return CKAN dataset.
 
@@ -83,33 +80,55 @@ def get_organization_data(organization):
 
     """
     # Get the data.
-    publisher = {'id': '', 'title': '', 'type': '', 'contact': '', 'email': '', 'parent_id': '', 'homepage': ''}
-    if organization.get('name'):
-        publisher['id'] = organization.get('name')
-    if organization.get('title'):
-        publisher['title'] = organization.get('title')
+    publisher = {}
+    publisher['title'] = organization.get('title', '')
+    publisher['id'] = organization.get('name', '')
+    if publisher['id']:
+        publisher['homepage'] = 'http://data.gov.uk/publisher/' + publisher['id']
+    else:
+        publisher['homepage'] = ''
     if organization.get('extras'):
         extras = organization.get('extras')
         for extra in extras:
-            if extra.get('key') == 'category' and extra.get('value'):
-                publisher['type'] = extra.get('value')
-            elif extra.get('key') == 'contact-name' and extra.get('value'):
-                publisher['contact'] = extra.get('value')
-            elif extra.get('key') == 'contact-email' and extra.get('value'):
-                publisher['email'] = re.sub('mailto:|email ', '', extra.get('value'))
+            if extra.get('key') == 'category':
+                publisher['type'] = extra.get('value', '')
+            elif extra.get('key') == 'contact-name':
+                publisher['contact'] = extra.get('value', '')
+            elif extra.get('key') == 'contact-email':
+                publisher['email'] = re.sub('mailto:|email ', '', extra.get('value', ''))
     if organization.get('groups'):
         groups = organization.get('groups')
-        parent = ''
+        parent = [group.get('name')]
         for group in groups:
             if parent and group.get('name'):
                 parent += ' / ' + group.get('name')
             elif group.get('name'):
                 parent += group.get('name')
         publisher['parent_id'] = parent
-    if publisher['id']:
-        publisher['homepage'] = 'http://data.gov.uk/publisher/' + publisher['id']
 
     return publisher
+
+def relevant_publishers(filepath=os.path.join(DATA_DIR, 'relevant_publishers.csv')):
+    """Define the list of publishers for which data is wanted
+
+    Parameters:
+    filepath (path): File containing normalized instition names(ex: ministry-of-defence)
+
+    """
+    with open(filepath, mode='r') as f:
+        data = {}
+        reader = csv.DictReader(f)
+        for row in reader:
+            for header, value in row.items():
+                try:
+                    data[header].append(value)
+                except KeyError:
+                    data[header] = [value]
+
+    relevant_publishers = data['normalized_name']
+
+    return relevant_publishers
+
 
 def get_all_organizations(url_base):
     """Return list of publishers."""
@@ -124,16 +143,11 @@ def get_all_organizations(url_base):
     print('Loading publishers data...')
     publishers = []
     for organization in organization_list:
-        # Scrape only ministerial departments
-        category = ''
-        if organization.get('extras'):
-            extras = organization.get('extras')
-            for extra in extras:
-                if extra.get('key') == 'category' and extra.get('value'):
-                    category = extra.get('value')
-        if category == 'ministerial-department':
+        # Scrape only the relevant publishers.
+        if organization.get('name') in relevant_publishers():
             organization_data = get_organization_data(organization)
             publishers.append(organization_data)
+
     print('Loading publishers data... Done')
     print('Scraped: ' + str(len(publishers)) + ' publishers')
 
@@ -147,13 +161,9 @@ def get_count(url):
 
     """
     result = import_dataset(url)
-
     # Get the count.
-    count = ''
-    if result.get('count'):
-        count = result.get('count')
-
-    return count
+    count = result.get('count', '')
+    return int(count)
 
 def get_number_pages(count):
     """Return the number of pages for 1000 results per page."""
@@ -241,32 +251,21 @@ def get_datafile_data(package, resource):
 
     """
     # Get data of datafile.
-    datafile = {'id': '', 'data': '', 'format': '', 'last_modified': '', 'period_id': '', 'title': '', 'publisher_id': '', 'schema': ''}
-    if resource.get('id'):
-        datafile['id'] = resource.get('id')
-    if resource.get('url'):
-        datafile['data'] = resource.get('url')
-    if resource.get('format'):
-        datafile['format'] = clean_format(resource['format'], datafile['data'])
-    else:
-        datafile['format'] = clean_format('', datafile['data'])
-    if resource.get('last_modified'):
-        datafile['last_modified'] = resource.get('last_modified')
-    title = ''
-    if package.get('title'):
-        title += package.get('title')
-    if title and resource.get('description'):
-        title += ' / ' + resource.get('description')
-    elif resource.get('description'):
-        title += resource.get('description')
-    datafile['title'] = title
-    if package.get('organization'):
-        organization = package.get('organization')
-        if organization.get('name'):
-            datafile['publisher_id'] = organization.get('name')
+    datafile = {}
+    datafile['id'] = resource.get('id', '')
+    datafile['data'] = resource.get('url', '')
+    datafile['format'] = clean_format(resource.get('format', ''), datafile['data'])
+    datafile['last_modified'] = resource.get('last_modified', '')
+
+    title = package.get('title', '')
+    description = resource.get('description', '')
+    datafile['title'] = '/'.join(string for string in [title, description] if string )
+
+    datafile['publisher_id'] = package.get('organization', {}).get('name', '')
     datafile['schema'] = SCHEMA
     datafile['period_id'] = period.get_period(datafile['title'], datafile['data'])
     return datafile
+
 
 def get_datafiles(package, publishers):
     """Return list of datafiles of a package.
@@ -279,31 +278,28 @@ def get_datafiles(package, publishers):
     searched = ''
 
     # Scrape only ministerial departments data
-    if package.get('organization'):
-        organization = package.get('organization')
-        if organization.get('name'):
-            package_publisher = organization.get('name')
+    package_publisher = package.get('organization', {}).get('name', '')
     for publisher in publishers:
         if package_publisher == publisher['id']:
-            # Get datafiles for packages with 500 or 25000 in their title, name or description.
+            # Get datafiles for packages with 25000 in their title, name or description.
             if package.get('title'):
                 searched += package['title']
             if package.get('name'):
                 searched += package['name']
 
-            if re.search('([^0-9]|^)(500|25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
+            if re.search('([^0-9]|^)(25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
                 if 'resources' in package:
                     for resource in package['resources']:
                         datafile = get_datafile_data(package, resource)
                         datafiles.append(datafile)
-            # Get datafiles with 500 or 25000 in their description.
+            # Get datafiles with 25000 in their description.
             else:
                 if 'resources' in package:
                     for resource in package['resources']:
                         searched = ''
                         if resource.get('description'):
                             searched += resource['description']
-                        if re.search('([^0-9]|^)(500|25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
+                        if re.search('([^0-9]|^)(25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
                             datafile = get_datafile_data(package, resource)
                             datafiles.append(datafile)
 
@@ -340,8 +336,10 @@ def make_datafiles_csv(csvfile, publishers):
     """Make datafiles csv file."""
     # Get results from http://data.gov.uk/.
     url_base = 'http://data.gov.uk/api/'
+    # Search query for spending files.
+    search_query = 'title%3A(over%20AND%2025)%20OR%20description%3A(over%20AND%2025)'
     print('Scraping sources...')
-    results = get_results(url_base, SEARCH_QUERY)
+    results = get_results(url_base, search_query)
     print('Scraping sources... Done')
 
     # Get datafiles from results.

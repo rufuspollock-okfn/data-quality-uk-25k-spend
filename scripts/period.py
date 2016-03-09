@@ -265,8 +265,8 @@ def get_period(title, url):
     """Return period id from title and url. """
 
     period = ''
-    name = title.split(' / ')
-    
+    name = title.split('/')
+
     period = name_error(title, url)
     if not period:
         if name[1]:
