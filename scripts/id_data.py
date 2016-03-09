@@ -20,7 +20,7 @@ PUBLISHER_FILEPATH = os.path.join(DATA_DIR, 'publishers.csv')
 SOURCE_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
 
 # Schema for spending files.
-SCHEMA = 'https://raw.githubusercontent.com/okfn/tabular-validator/master/examples/hmt/spend-publishing-schema.json'
+SCHEMA = 'https://raw.githubusercontent.com/okfn/goodtables/master/examples/hmt/spend-publishing-schema.json'
 
 # Search query for spending files.
 SEARCH_QUERY = '*:spend%20OR%20*:spent%20OR%20*:expenditure'
@@ -74,7 +74,7 @@ def import_dataset(url):
                     sys.exit(0)
                 else:
                     return result
-    
+
 def get_organization_data(organization):
     """Return dict of organization data from a CKAN dataset.
 
@@ -108,7 +108,7 @@ def get_organization_data(organization):
         publisher['parent_id'] = parent
     if publisher['id']:
         publisher['homepage'] = 'http://data.gov.uk/publisher/' + publisher['id']
-    
+
     return publisher
 
 def get_all_organizations(url_base):
@@ -119,7 +119,7 @@ def get_all_organizations(url_base):
     organization_list = import_dataset(url)
     time.sleep(0.3)
     print('Scraping publishers... Done')
-    
+
     # Get data for each organization.
     print('Loading publishers data...')
     publishers = []
@@ -136,7 +136,7 @@ def get_all_organizations(url_base):
             publishers.append(organization_data)
     print('Loading publishers data... Done')
     print('Scraped: ' + str(len(publishers)) + ' publishers')
-    
+
     return publishers
 
 def get_count(url):
@@ -147,12 +147,12 @@ def get_count(url):
 
     """
     result = import_dataset(url)
-    
+
     # Get the count.
     count = ''
     if result.get('count'):
         count = result.get('count')
-    
+
     return count
 
 def get_number_pages(count):
@@ -175,12 +175,12 @@ def get_results(url_base, query):
     print('Scraping number of packages... Done')
     print('Number of packages to scrape: ' + str(count))
     time.sleep(0.3)
-    
+
     # Get the number of pages.
     pages = get_number_pages(count)
     print('Maximum number of packages per page: 1000')
     print('Number of results pages to scrape: ' + str(pages))
-    
+
     # Get the results.
     print('Scraping packages...')
     results = []
@@ -191,7 +191,7 @@ def get_results(url_base, query):
         if result.get('results'):
             results.append(result['results'])
     print('Scraping packages... Done')
-        
+
     return results
 
 def clean_format(format_value, url):
@@ -328,7 +328,7 @@ def make_publishers_csv(csvfile):
     """Make publishers csv file."""
     # Get organizations data
     publishers = get_all_organizations('http://data.gov.uk/api/')
-    
+
     # Make publishers csv file.
     fieldnames = ['id', 'title', 'type', 'homepage', 'contact', 'email', 'parent_id']
     print('Making ' + csvfile + '...')
@@ -343,7 +343,7 @@ def make_datafiles_csv(csvfile, publishers):
     print('Scraping sources...')
     results = get_results(url_base, SEARCH_QUERY)
     print('Scraping sources... Done')
-    
+
     # Get datafiles from results.
     resources = []
     package_count = 0
@@ -362,7 +362,7 @@ def make_datafiles_csv(csvfile, publishers):
     print('Loading sources data... Done')
     #print('Scraped: ' + str(len(resources)) + ' sources from ' + str(package_count) + ' packages.')
     print('Scraped: ' + str(len(resources)) + ' sources.')
-    
+
     # Make datafiles csv file.
     fieldnames = ['id', 'publisher_id', 'title', 'data', 'format', 'last_modified', 'period_id', 'schema']
     print('Making ' + csvfile + '...')

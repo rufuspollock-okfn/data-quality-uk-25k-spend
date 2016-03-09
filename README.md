@@ -1,127 +1,147 @@
-# UK expenditure files
+# Data quality - UK 25K spend
 
-All data is in the `data/*` directory.
+## Overview
 
-The data in `publishers.csv` and `datafiles.csv` comes from [data.gov.uk](http://data.gov.uk).
+This repository contains a set of statistics on the *quality* of 25K spend data published by the UK government on [data.gov.uk](http://data.gov.uk).
 
-Based on this data, a set of statistics as to the quality of the published data has been collected using [SPD Admin](https://github.com/okfn/spd-admin), and is written to the `results.csv` and `runs.csv` files.
+The statistics are a set of data quality results, and are published in the structure required for use in a [Data Quality Dashboard](https://github.com/okfn/data-quality-dashboard).
+
+All data is available in the `data/*` directory. The repository itself is a valid [Data Package](http://dataprotocols.org/data-packages/): see the `datapackage.json` file for more information.
+
+## Who defines "data quality"?
+
+In the case of the UK 25K spend data, we assess quality based on two broad factors:
+
+1. Are the tabular data files themselves structurally valid?
+2. Do the data files conform to the [HM Treasury regulations for publishing 25K spend data](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/198197/Guidance_for_publishing_spend_over__25k.pdf)?
+
+If you have a question or a concern about our methodology, please open an issue. We are open to adjustment based on feedback.
+
+## Databases used in data collection
+
+All information on publishers (Ministerial Departments) and sources (the data sources they release as 25K spend data) is acquired from [data.gov.uk](http://data.gov.uk).
+
+The lists of publishers and data sources we have identified can be found in these files:
+
+* `data/publishers.csv`
+* `data/sources.csv`
+
+There is no API on data.gov.uk to concretely return all published 25K spend data, nor to return a list of all ministerial departments that are required to publish 25K spend data.
+
+Due to these restrictions, it is possible that we may have missed publishers and data sources, or, added publishers and data sources that are not subject to the regulations for publishing 25K spend data.
+
+Please [open an issue](https://github.com/okfn/uk-25k-spend-data-quality/issues) if you find this to be the case, so that we can update our scripts and results accordingly.
+
+## Data generated from running data quality checks
+
+When we run data quality checks against `data/publishers.csv` and `data/sources.csv`, we write the results out to a number of other files, also located in the `data/*` directory. These files are:
+
+* `data/runs.csv`
+* `data/results.csv`
+* `data/performance.csv`
+
+In addition, we have a file called `instance.json` which provides some metadata to the [Data Quality Dashboard](https://github.com/okfn/data-quality-dashboard) that displays these results. That dashboard is publicly visible here:
+
+* [UK 25K Spend Data Quality](http://uk-25k.openspending.org/)
 
 ## Installation
 
-The tooling for managing the data is written in Python. It is recommended to create a Py3 virtual environment, and to install the required dependencies as follows:
+If you want to work with the data here, you first need to set up a Python development environment. It is recommended to create a Python 3 virtual environment, and to install the required dependencies as follows:
 
 ```
 pip install -r scripts/requirements.txt
 ```
 
-The installation will add the `spd-admin` tool to your PATH. Check that with:
+The installation will add the `dq` tool to your `PATH` (Also available as `dataquality`). Ensure it is installed and available by running the following in your terminal:
 
 ```
-spd-admin --help
+dq --help
 ```
 
 ## Data model
 
-Data in `data/*` conforms to a data model. Find more about the data model in `datapackage.json`.
+As the data in `data/*` serves as a database for a [Data Quality Dashboard](https://github.com/okfn/data-quality-dashboard), it conforms to a particular schema. Information about this schema [can be found here](https://github.com/okfn/data-quality-cli/#schema).
 
 ## Working with the data
 
-### Collecting publisher data
+### Data identification
 
-There is a script that gets all public spending data from [data.gov.uk](http://data.gov.uk/).
-
-```
-python scripts/get_data.py
-```
-
-This will populate `publishers.csv` and  `datafiles.csv`. The `period_id` field in `datafiles.csv` will be automatically filled in by `scripts/get_data.py` thanks to `scripts/period.py`.
-
-### Downloading data files
-
-To download all data files from `datafiles.csv` and store them locally in `archive/date` run:
+First, we need to build out our `publishers.csv` and `sources.csv`. The following script does just that: acquires references to all data sources we can find on [data.gov.uk](http://data.gov.uk/) that contain 25k spend data, and the publishers of those data sources.
 
 ```
-python scripts/fetch_datafiles.py
+python scripts/id_data.py
 ```
 
-`date/` in `archive/date` will be the current date as `archive/2015-05-29/`. Those directories will be created by `scripts/fetch_datafiles.py` if they don't exist.
+After running this script, `data/publishers.csv` and `data/sources.csv` will have entries for the most recent data we could identify as 25k spend data published by ministerial departments.
 
-Downloaded files are not stored in this GitHub repository.
+### Fetching data sources
 
-### Collecting quality results
+Data sources should be fetched from the server and stored locally. These data sources should be committed to this repository along with each data quality run that is committed. This helps build an audit trail of the files actually assessed for a give data quality assessment.
 
-[SPD Admin](https://github.com/okfn/spd-admin) collects statistical data on **publishers** and their **datafiles**, assessing the quality of each published data file, and the overall quality of output per publisher.
-
-#### Configuring SPD Admin
-
-SPD Admin needs a config file. This config sets basic information for running results and deploying the data to a remote.
-
-A typical config file looks like this:
+To download all data sources and store them locally at `fetched/*`, run the following script.
 
 ```
-# spd-admin.config
+python scripts/fetch_sources.py
+```
+
+### Assessing data quality
+
+[Data Quality CLI](https://github.com/okfn/data-quality-cli) assesses the quality of each data source, and thereby the quality of the data publication of each publisher. It makes this assessment each time it is run, and also builds up an assessment of quality over time.
+
+#### Configuring Data Quality CLI
+
+The Data Quality CLI needs a configuration file in order to run against a set of data sources. This configuration file is typically called `dq.json` and located in a repository with the files.
+
+The configuration file is responsible for:
+
+* The file names used to build the data quality database.
+* The options passed to the GoodTables batch processor, which runs the data quality assessment.
+
+A typical configuration file looks like this:
+
+```
+# dq.json
 {
-    "data_dir": "data",
-    "result_file": "results.csv",
-    "run_file": "runs.csv",
-    "source_file": "datafiles.csv",
-    "publisher_file": "publishers.csv",
-    "remotes": ["origin"],
-    "branch": "master",
-    "goodtables_web": "http://goodtables.okfnlabs.org"
+  "data_dir": "data",
+  "result_file": "results.csv",
+  "run_file": "runs.csv",
+  "source_file": "sources.csv",
+  "publisher_file": "publishers.csv",
+  "remotes": ["origin"],
+  "branch": "master",
+  "goodtables": {
+    "location": "http://goodtables.okfnlabs.org/",
+    "processors": ["structure", "schema"],
+    "arguments": {
+      "pipeline": {
+        "post_task": "",
+        "options": {}
+      },
+      "batch": {
+        "post_task": ""
+      }
+    }
+  }
 }
 ```
 
 Note that `data_dir` is either an absolute path, or a path **relative to the path of the config file**.
 
-#### Running with SPD Admin
-
-Before running SPD Admin do:
+#### Running the Data Quality CLI
 
 ```
-python scripts/make_local_sources.py
+dq run dq.json
 ```
 
-It will create `data/local_datafiles.csv`. It is a copy of `data/datafiles.csv` but with local urls.
+Essentially, the data quality run is a [Good Tables batch process](http://goodtables.readthedocs.org/en/latest/batch.html). on each row in `sources.csv`. GoodTables has hooks for passing in pre and post task runners for both each individual pipeline, and, the whole batch process.
 
-Then run an http server on port 8000 and run:
-
-```
-python scripts/preprocess_sources.py
-```
-
-It will create `data/invalid_datafiles.csv` and `data/clean_datafiles.csv`. It will populate `data/invalid_datafiles.csv` with all invalid files in `data/datafiles.csv` (empty files, html files... etc) that can't be processed by SPD Admin. It will populate `data/clean_datafiles.csv` with all valid files in `data/datafiles.csv` that can be processed by SPD Admin.
-
-Then run:
-
-```
-spd-admin run spd-admin.json --encoding ISO-8859-2
-```
-
-This will run a [Good Tables batch process](http://goodtables.readthedocs.org/en/latest/batch.html) on all the data files.
-
-Data files are those in `data/clean_datafiles.csv`.
-
-A new entry will be appended to the `results.csv` file for each data file that is processed, and a single new entry will be added to the `runs.csv` file to identify this run.
+These task runners are responsible for the actual data quality assessment, building on the raw information the GoodTables collects on all the data sources, and, while the Data Quality CLI ships with default post processing tasks, you may pass in your own custom tasks if they are API compatible, via `dq.json`.
 
 **Important**: *the encoding argument.*
 
 Good Tables can automatically detect encoding, but it can also be wrong.
 This allows you to explicitly pass in an encoding to be used to read the data file stream.
 
-Then run:
+### Publish the assessment
 
-```
-python scripts/make_results.py
-```
-
-It will create `data/final_results.csv` and `data/final_runs.csv`. It will populate `data/final_results.csv` with all results from `data/results.csv` and add results for data files in `data/invalid_datafiles.csv`.
-
-Then, rename `data/final_results.csv` to `data/results.csv` and `data/final_runs.csv` to `data/runs.csv`.
-Finally, run:
-
-```
-python scripts/make_performance.py
-```
-
-It will create `data/performance.csv` with all publishers performances by period.
+Once the results have been collected, publish the assessment by committing and pushing back to GitHub. The Data Quality Dashboard for this dataset will automatically start using the new data.
