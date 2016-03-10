@@ -2,11 +2,14 @@
 """This script fetches spending data files.
 
 """
-
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
+from datetime import datetime
 import requests
 import csv
 import time
-from datetime import datetime
 import re
 import os
 import shutil

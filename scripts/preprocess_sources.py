@@ -2,7 +2,10 @@
 """This script preprocesses sources before running spd_admin on them.
 
 """
-
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 import requests
 import os
 import csv

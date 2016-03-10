@@ -2,7 +2,10 @@
 """This module provides functions to find the period id of a source.
 
 """
-
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 import csv
 import re
 import calendar

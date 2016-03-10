@@ -2,9 +2,14 @@
 """This script scrapes ministerial departments spending data from http://data.gov.uk/.
 
 """
-
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 import requests
 import json
+import sys
+import csv
 import csv
 import math
 import time
@@ -358,7 +363,6 @@ def make_datafiles_csv(csvfile, publishers):
                 resources += datafiles
         package_count += len(page)
     print('Loading sources data... Done')
-    #print('Scraped: ' + str(len(resources)) + ' sources from ' + str(package_count) + ' packages.')
     print('Scraped: ' + str(len(resources)) + ' sources.')
 
     # Make datafiles csv file.
