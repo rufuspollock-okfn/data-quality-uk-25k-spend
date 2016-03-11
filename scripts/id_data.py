@@ -113,7 +113,7 @@ def get_organization_data(organization):
 
     return publisher
 
-def relevant_publishers(filepath=os.path.join(DATA_DIR, 'relevant_publishers.csv')):
+def relevant_publishers(filepath=os.path.join(DATA_DIR, 'publisher_lookup.csv')):
     """Define the list of publishers for which data is wanted
 
     Parameters:
