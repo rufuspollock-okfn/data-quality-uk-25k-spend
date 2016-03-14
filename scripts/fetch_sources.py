@@ -7,6 +7,7 @@ from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
 from datetime import datetime
+from bs4 import BeautifulSoup
 import requests
 import csv
 import time
@@ -14,11 +15,14 @@ import re
 import os
 import shutil
 
+from preprocess_sources import make_clean_sources
+
 # Prepare directories and paths.
 MAIN_DIR = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 
 # Sources file path.
-SOURCES_FILEPATH = os.path.join(os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')), 'sources.csv')
+SOURCES_FILEPATH = os.path.join(os.path.abspath(os.path.join(MAIN_DIR, 'data')), 'sources.csv')
+INVALID_FILEPATH = os.path.join(os.path.abspath(os.path.join(MAIN_DIR, 'data')), 'invalid_sources.csv')
 
 def clean_fetched_dir():
     """ Set up the /fetched directory """
@@ -58,8 +62,8 @@ def fetch_file(url):
         response_content = response.iter_content(chunk_size=1024)
     return response_content
 
-def make_archive_file(content, file_id, file_url, dir_name):
-    """Create a file in archive directory.
+def make_cache_file(content, file_id, file_url, dir_name):
+    """Create a file in fetched directory.
 
     Parameters:
     content (bytes): content of the file
@@ -82,16 +86,16 @@ def make_archive_file(content, file_id, file_url, dir_name):
     return filepath
 
 
-def make_archive(sources):
-    """Fetch all data files from sources, store them in archive directory and
-        add the archived file path to sources.csv cache column
+def make_cache(sources):
+    """Fetch all data files from sources, store them in /fetched directory and
+        add the cached file path to sources.csv cache column
 
     Parameter:
     sources (str): file path of CSV file with all data files
 
     """
-    archive_path = clean_fetched_dir()
-    temp_file =  os.path.join(os.path.dirname(os.path.abspath(sources)), 'temp_surces.csv')
+    fetch_path = clean_fetched_dir()
+    temp_file = os.path.join(os.path.dirname(os.path.abspath(sources)), 'temp_surces.csv')
     with open(sources, mode='r') as indata:
         with open(temp_file, mode='w+t', encoding='utf-8') as outdata:
             reader = csv.DictReader(indata)
@@ -104,12 +108,13 @@ def make_archive(sources):
                 content = fetch_file(row['data'])
                 # Wait to avoid traffic control.
                 time.sleep(0.6)
-                cache_path = make_archive_file(content, row['id'], row['data'], archive_path)
+                cache_path = make_cache_file(content, row['id'], row['data'], fetch_path)
                 row['cache'] = cache_path
                 writer.writerow(row)
 
-    os.remove(sources) # not needed on unix
+    os.remove(sources)
     os.rename(temp_file, sources)
 
 # Fetch all files and store them in archive directory
-make_archive(SOURCES_FILEPATH)
+make_cache(SOURCES_FILEPATH)
+make_clean_sources(INVALID_FILEPATH, SOURCES_FILEPATH)

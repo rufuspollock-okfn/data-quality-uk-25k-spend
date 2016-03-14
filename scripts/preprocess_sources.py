@@ -12,28 +12,15 @@ import csv
 import fileinput
 import sys
 import re
-from bs4 import BeautifulSoup
+import bs4
 from datetime import datetime
 import json
 
 # Files path.
-ARCHIVE_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'archive'))
-CURRENT_DATE = datetime.utcnow().strftime('%Y-%m-%d')
-CURRENT_DATE_DIR = ARCHIVE_DIR + '/' + CURRENT_DATE
-
+FETCHED_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'fetched'))
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data'))
 INVALID_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'invalid_sources.csv')
-LOCAL_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'local_sources.csv')
-CLEAN_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'clean_sources.csv')
-
-LOCALHOST = 'http://localhost:8000'
-RELATIVE_DATE_DIR = LOCALHOST + '/archive/' + CURRENT_DATE + '/'
-
-def get_filpath(local_url):
-    """Return file path from local url. """
-    file_name = re.sub(RELATIVE_DATE_DIR, '', local_url)
-    filepath = ARCHIVE_DIR + '/' + CURRENT_DATE + '/' + file_name
-    return filepath
+LOCAL_SOURCE_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
 
 def is_empty(datafile):
     """Return true if datafile is an empty file. """
@@ -92,10 +79,15 @@ def is_invalid(datafile):
             else:
                 return False
 
-def make_clean_sources(invalid_sources, local_sources, clean_sources):
+def make_clean_sources(invalid_sources, sources):
     """Make a CSV file with valid sources and another with invalid sources from local_sources CSV file. """
+
+    clean_sources = os.path.join(os.path.dirname(os.path.abspath(sources)), 'clean_surces.csv')
+    total_lines = 0
+    no_valid_lines = 0
+
     with open(invalid_sources, mode='w') as invalid:
-        fieldnames = ['id', 'publisher_id', 'title', 'data', 'format', 'last_modified', 'period_id', 'schema']
+        fieldnames = ['id', 'publisher_id', 'title', 'data', 'format', 'last_modified', 'period_id', 'schema', 'cache']
         invalid_writer = csv.DictWriter(invalid, fieldnames=fieldnames)
         invalid_writer.writeheader()
 
@@ -103,21 +95,27 @@ def make_clean_sources(invalid_sources, local_sources, clean_sources):
             clean_writer = csv.DictWriter(clean, fieldnames=fieldnames)
             clean_writer.writeheader()
 
-            with open(local_sources, mode='r') as local:
-                reader = csv.DictReader(local)
+            with open(sources, mode='r') as source:
+                reader = csv.DictReader(source)
                 for row in reader:
-                    filepath = get_filpath(row['data'])
-                    print('File: ' + filepath)
-                    if is_empty(filepath) or is_invalid(filepath) or (has_csv_extension(filepath) and is_invalid_csv(filepath)):
+                    total_lines +=1
+                    fetched = row['cache']
+                    print('File: ' + fetched)
+                    if is_empty(fetched) or is_invalid(fetched) or (has_csv_extension(fetched) and is_invalid_csv(fetched)):
                         invalid_row = row
                         invalid_writer.writerow(invalid_row)
                         print('is invalid')
                     else:
                         clean_row = row
                         clean_writer.writerow(clean_row)
+                        no_valid_lines += 1
                         print('is valid')
 
+            os.remove(sources)
+            os.rename(clean_sources, sources)
+
+            print("Finished. {0} out of {1} lines are valid.".format(no_valid_lines, total_lines))
 
 
 # Make a CSV file with valid sources and another with invalid sources from local_sources.csv.
-make_clean_sources(INVALID_SOURCE_FILEPATH, LOCAL_SOURCE_FILEPATH, CLEAN_SOURCE_FILEPATH)
+# make_clean_sources(INVALID_SOURCE_FILEPATH, LOCAL_SOURCE_FILEPATH)
