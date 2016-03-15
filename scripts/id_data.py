@@ -6,10 +6,12 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
+from urllib.request import urlopen
+from urllib.parse import quote
+from bs4 import BeautifulSoup
 import requests
 import json
 import sys
-import csv
 import csv
 import math
 import time
@@ -209,43 +211,6 @@ def get_results(url_base, query):
 
     return results
 
-def clean_format(format_value, url):
-    """Return cleaned format string.
-
-    Parameters:
-    format_value (str): format value of the resource
-    url (str): url of the resource
-
-    """
-    url = url.strip()
-
-    # Get format from file extension or format value in resource
-    if re.search('\.csv$', url, re.I) or re.search('csv', format_value, re.I):
-        cleaned = 'CSV'
-    elif re.search('\.xls[xm]?$', url, re.I) or re.search('xls', format_value, re.I):
-        cleaned = 'XLS'
-    elif re.search('\.pdf$', url, re.I) or re.search('pdf', format_value, re.I):
-        cleaned = 'PDF'
-    elif re.search('\.xml$', url, re.I) or re.search('xml', format_value, re.I):
-        cleaned = 'XML'
-    elif re.search('\.(html|htm|php|aspx)$', url, re.I) or re.search('htm|aspx|php|web', format_value, re.I):
-        cleaned = 'HTML'
-    elif re.search('\.zip$', url, re.I) or re.search('zip', format_value, re.I):
-        cleaned = 'ZIP'
-    elif re.search('\.ods$', url, re.I) or re.search('ods', format_value, re.I):
-        cleaned = 'ODS'
-    elif re.search('\.doc[x]?$', url, re.I) or re.search('doc|word', format_value, re.I):
-        cleaned = 'DOC'
-    elif re.search('\.json$', url, re.I) or re.search('json', format_value, re.I):
-        cleaned = 'JSON'
-    elif re.search('\.jpg$', url, re.I) or re.search('jpg', format_value, re.I):
-        cleaned = 'JPG'
-    elif re.search('\.txt$', url, re.I) or re.search('txt', format_value, re.I):
-        cleaned = 'TXT'
-    else:
-        cleaned = ''
-
-    return cleaned
 
 def get_datafile_data(package, resource):
     """Return dict of data of a resource.
@@ -258,8 +223,9 @@ def get_datafile_data(package, resource):
     # Get data of datafile.
     datafile = {}
     datafile['id'] = resource.get('id', '')
-    datafile['data'] = resource.get('url', '')
-    datafile['format'] = clean_format(resource.get('format', ''), datafile['data'])
+    datafile['data'] = resource.get('url', '').strip(' ')
+    datafile['format'] =  resource.get('format', clean_format(datafile['data']))
+
     datafile['last_modified'] = resource.get('last_modified', '')
 
     title = package.get('title', '')
@@ -280,33 +246,15 @@ def get_datafiles(package, publishers):
 
     """
     datafiles = []
-    searched = ''
 
     # Scrape only ministerial departments data
     package_publisher = package.get('organization', {}).get('name', '')
     for publisher in publishers:
         if package_publisher == publisher['id']:
-            # Get datafiles for packages with 25000 in their title, name or description.
-            if package.get('title'):
-                searched += package['title']
-            if package.get('name'):
-                searched += package['name']
-
-            if re.search('([^0-9]|^)(25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
-                if 'resources' in package:
-                    for resource in package['resources']:
-                        datafile = get_datafile_data(package, resource)
-                        datafiles.append(datafile)
-            # Get datafiles with 25000 in their description.
-            else:
-                if 'resources' in package:
-                    for resource in package['resources']:
-                        searched = ''
-                        if resource.get('description'):
-                            searched += resource['description']
-                        if re.search('([^0-9]|^)(25000|25 000|25,000|25K)([^0-9]|$)', searched, re.I):
-                            datafile = get_datafile_data(package, resource)
-                            datafiles.append(datafile)
+            for resource in package['resources']:
+                datafile = get_datafile_data(package, resource)
+                if datafile['format'] != 'HTML':
+                    datafiles.append(datafile)
 
     return datafiles
 
@@ -341,8 +289,8 @@ def make_datafiles_csv(csvfile, publishers):
     """Make datafiles csv file."""
     # Get results from http://data.gov.uk/.
     url_base = 'http://data.gov.uk/api/'
-    # Search query for spending files.
-    search_query = 'title%3A(over%20AND%2025)%20OR%20description%3A(over%20AND%2025)'
+    # Apache Solr search query for spending files.
+    search_query = quote('title:(over AND 25) OR description:(over AND 25) OR name:(over AND 25)')
     print('Scraping sources...')
     results = get_results(url_base, search_query)
     print('Scraping sources... Done')
@@ -370,6 +318,50 @@ def make_datafiles_csv(csvfile, publishers):
     print('Making ' + csvfile + '...')
     make_csv(csvfile, fieldnames, resources)
     print('Making ' + csvfile + '... Done')
+
+def clean_format(url):
+    """Return cleaned format string.
+
+    Parameters:
+    url (str): url of the resource
+
+    """
+    formats = { 'CSV': '\.csv$', 'XLS': '\.xls[xm]?$', 'PDF': '\.pdf$',
+    'XML': '\.xml$', 'HTML': '\.(html|htm|php|aspx)$', 'ZIP': '\.zip$',
+    'ODS': '\.ods$', 'DOC': '\.doc[x]?$', 'JSON': '\.json$', 'TXT': '\.txt$'}
+    # Get format from file extension or format value in resource
+
+    for file_format, rule in formats.items():
+        if re.search(rule, url, re.I):
+            break
+    else:
+        file_format = ''
+
+    if file_format == '' and  is_html(url):
+        file_format = 'HTML'
+    return file_format
+
+
+def is_html(data_url):
+    """Return true if is an html file.
+
+    Parameters:
+    data_url (str): url of the resource
+
+    """
+
+    try:
+        content = urlopen(data_url)
+    except (ValueError, IOError):
+        return False
+    else:
+        html = BeautifulSoup(content, 'html.parser').find()
+        if html:
+            return True
+        else:
+            return False
+
+
 
 # Scrape all ministerial departments data.
 publishers = make_publishers_csv(PUBLISHER_FILEPATH)
