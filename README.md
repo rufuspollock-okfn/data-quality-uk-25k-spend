@@ -12,12 +12,21 @@ All data is available in the `data/*` directory. The repository itself is a vali
 
 In the case of the UK 25K spend data, we assess quality based on two broad factors:
 
-1. Are the tabular data files themselves structurally valid?
-2. Do the data files conform to the [HM Treasury regulations for publishing 25K spend data](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/198197/Guidance_for_publishing_spend_over__25k.pdf)?
+1. Are the tabular data files accessible at the provided URL?
+2. Are the tabular data files themselves structurally valid?
+3. Do the data files conform to the [HM Treasury regulations for publishing 25K spend data](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/198197/Guidance_for_publishing_spend_over__25k.pdf)?
 
 If you have a question or a concern about our methodology, please open an issue. We are open to adjustment based on feedback.
 
 ## Databases used in data collection
+
+There is no API on data.gov.uk to concretely return all published 25K spend data, nor to return a list of all ministerial departments that are required to publish 25K spend data.
+
+Due to these restrictions, it is possible that we may have missed publishers and data sources, or, added publishers and data sources that are not subject to the regulations for publishing 25K spend data.
+
+Please [open an issue](https://github.com/okfn/uk-25k-spend-data-quality/issues) if you find this to be the case, so that we can update our scripts and results accordingly.
+
+Currently we aim to analyze the files published by the ministerial departments listed in `data/publisher_lookup.csv`.
 
 All information on publishers (Ministerial Departments) and sources (the data sources they release as 25K spend data) is acquired from [data.gov.uk](http://data.gov.uk).
 
@@ -26,11 +35,6 @@ The lists of publishers and data sources we have identified can be found in thes
 * `data/publishers.csv`
 * `data/sources.csv`
 
-There is no API on data.gov.uk to concretely return all published 25K spend data, nor to return a list of all ministerial departments that are required to publish 25K spend data.
-
-Due to these restrictions, it is possible that we may have missed publishers and data sources, or, added publishers and data sources that are not subject to the regulations for publishing 25K spend data.
-
-Please [open an issue](https://github.com/okfn/uk-25k-spend-data-quality/issues) if you find this to be the case, so that we can update our scripts and results accordingly.
 
 ## Data generated from running data quality checks
 
@@ -66,23 +70,16 @@ As the data in `data/*` serves as a database for a [Data Quality Dashboard](http
 
 ### Data identification
 
-First, we need to build out our `publishers.csv` and `sources.csv`. The following script does just that: acquires references to all data sources we can find on [data.gov.uk](http://data.gov.uk/) that contain 25k spend data, and the publishers of those data sources.
+First, we need to build out our `publishers.csv` and `sources.csv`. The following script does just that: acquires references to all data sources we can find on [data.gov.uk](http://data.gov.uk/)
+published by the ministerial departments listed in `data/publisher_lookup.csv`
+that contain 25k spend data.
 
 ```
 python scripts/id_data.py
 ```
 
-After running this script, `data/publishers.csv` and `data/sources.csv` will have entries for the most recent data we could identify as 25k spend data published by ministerial departments.
+After running this script, `data/publishers.csv` and `data/sources.csv` will have entries for the most recent data we could identify as 25k spend data published by those ministerial departments.
 
-### Fetching data sources
-
-Data sources should be fetched from the server and stored locally. These data sources should be committed to this repository along with each data quality run that is committed. This helps build an audit trail of the files actually assessed for a give data quality assessment.
-
-To download all data sources and store them locally at `fetched/*`, run the following script.
-
-```
-python scripts/fetch_sources.py
-```
 
 ### Assessing data quality
 
@@ -90,7 +87,7 @@ python scripts/fetch_sources.py
 
 #### Configuring Data Quality CLI
 
-The Data Quality CLI needs a configuration file in order to run against a set of data sources. This configuration file is typically called `dq.json` and located in a repository with the files.
+Data Quality CLI needs a configuration file in order to run against a set of data sources. This configuration file is typically called `dq.json` and located in a repository with the files.
 
 The configuration file is responsible for:
 
@@ -133,7 +130,7 @@ Note that `data_dir` is either an absolute path, or a path **relative to the pat
 dq run dq.json
 ```
 
-Essentially, the data quality run is a [Good Tables batch process](http://goodtables.readthedocs.org/en/latest/batch.html). on each row in `sources.csv`. GoodTables has hooks for passing in pre and post task runners for both each individual pipeline, and, the whole batch process.
+Essentially, the data quality run is a [Good Tables batch process](http://goodtables.readthedocs.org/en/latest/batch.html). on each row in `data/sources.csv`. GoodTables has hooks for passing in pre and post task runners for both each individual pipeline, and, the whole batch process.
 
 These task runners are responsible for the actual data quality assessment, building on the raw information the GoodTables collects on all the data sources, and, while the Data Quality CLI ships with default post processing tasks, you may pass in your own custom tasks if they are API compatible, via `dq.json`.
 
@@ -141,6 +138,9 @@ These task runners are responsible for the actual data quality assessment, build
 
 Good Tables can automatically detect encoding, but it can also be wrong.
 This allows you to explicitly pass in an encoding to be used to read the data file stream.
+
+Data Quality CLI will fetch the files that were found at the url provided by `data/sources.csv`,and store them locally in the `fetched/*` directory. These data sources should be committed to this repository along with each data quality run that is committed. This helps build an audit trail of the files actually assessed for a give data quality assessment.
+
 
 ### Publish the assessment
 
