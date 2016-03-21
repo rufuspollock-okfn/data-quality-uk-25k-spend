@@ -95,7 +95,7 @@ def make_cache(sources):
 
     """
     fetch_path = clean_fetched_dir()
-    temp_file = os.path.join(os.path.dirname(os.path.abspath(sources)), 'temp_surces.csv')
+    temp_file = os.path.join(os.path.dirname(os.path.abspath(sources)), 'temp_sources.csv')
     with open(sources, mode='r') as indata:
         with open(temp_file, mode='w+t', encoding='utf-8') as outdata:
             reader = csv.DictReader(indata)

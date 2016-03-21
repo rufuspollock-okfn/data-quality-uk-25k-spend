@@ -6,14 +6,14 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
+from bs4 import BeautifulSoup
+from datetime import datetime
 import requests
 import os
 import csv
 import fileinput
 import sys
 import re
-import bs4
-from datetime import datetime
 import json
 
 # Files path.
@@ -115,7 +115,3 @@ def make_clean_sources(invalid_sources, sources):
             os.rename(clean_sources, sources)
 
             print("Finished. {0} out of {1} lines are valid.".format(no_valid_lines, total_lines))
-
-
-# Make a CSV file with valid sources and another with invalid sources from local_sources.csv.
-# make_clean_sources(INVALID_SOURCE_FILEPATH, LOCAL_SOURCE_FILEPATH)

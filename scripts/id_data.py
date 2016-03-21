@@ -6,9 +6,10 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
-from urllib.request import urlopen
-from urllib.parse import quote
+
 from bs4 import BeautifulSoup
+import urllib.request
+import urllib.parse
 import requests
 import json
 import sys
@@ -224,7 +225,7 @@ def get_datafile_data(package, resource):
     datafile = {}
     datafile['id'] = resource.get('id', '')
     datafile['data'] = resource.get('url', '').strip(' ')
-    datafile['format'] =  resource.get('format', clean_format(datafile['data']))
+    datafile['format'] = clean_format(datafile['data'])
 
     datafile['last_modified'] = resource.get('last_modified', '')
 
@@ -253,7 +254,8 @@ def get_datafiles(package, publishers):
         if package_publisher == publisher['id']:
             for resource in package['resources']:
                 datafile = get_datafile_data(package, resource)
-                if datafile['format'] != 'HTML':
+
+                if datafile['format'] in ['CSV', 'XLS', 'XLSX', '']:
                     datafiles.append(datafile)
 
     return datafiles
@@ -290,7 +292,7 @@ def make_datafiles_csv(csvfile, publishers):
     # Get results from http://data.gov.uk/.
     url_base = 'http://data.gov.uk/api/'
     # Apache Solr search query for spending files.
-    search_query = quote('title:(over AND 25) OR description:(over AND 25) OR name:(over AND 25)')
+    search_query = urllib.parse.quote('title:(over AND 25) OR description:(over AND 25) OR name:(over AND 25)')
     print('Scraping sources...')
     results = get_results(url_base, search_query)
     print('Scraping sources... Done')
@@ -350,9 +352,10 @@ def is_html(data_url):
 
     """
 
+    data_surce = urllib.request.Request(data_url)
     try:
-        content = urlopen(data_url)
-    except (ValueError, IOError):
+        content = urllib.request.urlopen(data_surce)
+    except urllib.error.URLError as e:
         return False
     else:
         html = BeautifulSoup(content, 'html.parser').find()
