@@ -255,7 +255,7 @@ def get_datafiles(package, publishers):
             for resource in package['resources']:
                 datafile = get_datafile_data(package, resource)
 
-                if datafile['format'] in ['CSV', 'XLS', 'XLSX', '']:
+                if datafile['format'] in ['csv', 'excel', '']:
                     datafiles.append(datafile)
 
     return datafiles
@@ -328,9 +328,9 @@ def clean_format(url):
     url (str): url of the resource
 
     """
-    formats = { 'CSV': '\.csv$', 'XLS': '\.xls[xm]?$', 'PDF': '\.pdf$',
-    'XML': '\.xml$', 'HTML': '\.(html|htm|php|aspx)$', 'ZIP': '\.zip$',
-    'ODS': '\.ods$', 'DOC': '\.doc[x]?$', 'JSON': '\.json$', 'TXT': '\.txt$'}
+    formats = { 'csv': '\.csv$', 'excel': '\.xls[xm]?$', 'pdf': '\.pdf$',
+    'xml': '\.xml$', 'html': '\.(html|htm|php|aspx)$', 'zip': '\.zip$',
+    'ods': '\.ods$', 'doc': '\.doc[x]?$', 'json': '\.json$', 'txt': '\.txt$'}
     # Get format from file extension or format value in resource
 
     for file_format, rule in formats.items():
@@ -339,32 +339,46 @@ def clean_format(url):
     else:
         file_format = ''
 
-    if file_format == '' and  is_html(url):
-        file_format = 'HTML'
+    try:
+        resource_request = open_resource_url(url)
+        if file_format == '' and not isinstance(resource_request, int) and \
+            is_html(resource_request):
+            file_format = 'html'
+    except urllib.error.URLError as e:
+        file_format = 'unknown'
+    
     return file_format
 
 
-def is_html(data_url):
+def is_html(content):
     """Return true if is an html file.
+
+    Parameters:
+    content (str): content of the resource
+
+    """
+
+    html = BeautifulSoup(content, 'html.parser').find()
+    if html:
+        return True
+    else:
+        return False
+
+def open_resource_url(data_url):
+    """Return resource content or http error status.
 
     Parameters:
     data_url (str): url of the resource
 
     """
-
     data_surce = urllib.request.Request(data_url)
     try:
         content = urllib.request.urlopen(data_surce)
+        return content
+    except urllib.error.HTTPError as e:
+        return e.getcode()
     except urllib.error.URLError as e:
-        return False
-    else:
-        html = BeautifulSoup(content, 'html.parser').find()
-        if html:
-            return True
-        else:
-            return False
-
-
+        raise e
 
 # Scrape all ministerial departments data.
 publishers = make_publishers_csv(PUBLISHER_FILEPATH)
