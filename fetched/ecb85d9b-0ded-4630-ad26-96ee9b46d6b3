@@ -1,0 +1,5 @@
+Department family,Entity,Pay date,Expense type,Expense area,Supplier,TransNo,Amount
+DEFRA,Cefas,16-Dec-10,Aerial Surveillance,Central Finance Group,Directflight Ltd,226,"176,962.45"
+DEFRA,Cefas,06-Dec-10,Estates Charges,Central Finance Group,D T Z,25017,"80,257.04"
+DEFRA,Cefas,06-Dec-10,Estates Charges,Central Finance Group,D T Z,24784,"80,138.90"
+DEFRA,Cefas,16-Dec-10,GPC Card,Central Finance Group,Barclaycard Business Issuing,4.71565E+21,"36,236.69"

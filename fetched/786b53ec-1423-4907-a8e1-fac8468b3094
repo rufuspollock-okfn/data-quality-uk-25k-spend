@@ -1,0 +1,9 @@
+Department family(T),Entity,Date,Expense type,Expense area,Supplier,Transaction,Amount
+DEFRA,Cefas,08/04/2011,Assets Under Construction,Corporate,INSIGHT DIRECT(UK) LIMITED,20016688,"49,869.00"
+DEFRA,Cefas,08/04/2011,Assets Under Construction,Fisheries,ECHOMASTER MARINE LTD,20016559,"35,110.00"
+DEFRA,Cefas,08/04/2011,Professional Services Technical Subcontracts (original research),Monitoring and Programme Management,GEODATA INSTITUTE,20016593,"27,675.00"
+DEFRA,Cefas,08/04/2011,Professional Services Technical Subcontracts (original research),Monitoring and Programme Management,NERC REF 9704,20016156,"100,000.00"
+DEFRA,Cefas,08/04/2011,Professional Services Technical Subcontracts (scientific work),Aquatic Health & Hygiene,UNIVERSITY OF EXETER,20016588,"46,065.00"
+DEFRA,Cefas,08/04/2011,Professional Services Technical Subcontracts (original research),Monitoring and Programme Management,MARIN,20016484,"22,800.00"
+DEFRA,Cefas,14/04/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20016756,"646,194.22"
+DEFRA,Cefas,14/04/2011,Assets Under Construction,Monitoring and Programme Management,CEFAS TECHNOLOGY LTD,20016821,"22,920.00"

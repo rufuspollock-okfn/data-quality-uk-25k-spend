@@ -1,0 +1,10 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Defra,Fera,04/01/2011,Legal Fees,Finance And Corporate Services,'D E F R A,39991,25000,
+Defra,Fera,05/01/2011,Student Fees,Operations Directorate,University of Exeter,35768,37975,
+Defra,Fera,05/01/2011,Defra Central Overheads,Finance And Corporate Services,'D E F R A,39949,31669,
+Defra,Fera,07/01/2011,Scientific Eq: Capital At Cost,Operations Directorate,Waters Ltd,39118,214117.35,
+Defra,Fera,11/01/2011,Computers: Capital At Cost,External Affairs Directorate,Cristie Data Ltd,40029,42487.37,
+Defra,Fera,11/01/2011,Prepayment Postal Visa Card,Finance And Corporate Services,National Westminster Bank plc,40506,76139.03,
+Defra,Fera,13/01/2011,Computers: Capital At Cost,External Affairs Directorate,Cetus Solutions,40650,35557.1,
+Defra,Fera,14/01/2011,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,40330,94461.78,
+Defra,Fera,24/01/2011,IT Software Support,External Affairs Directorate,Advanced Business Solutions,39723,-6021.01,

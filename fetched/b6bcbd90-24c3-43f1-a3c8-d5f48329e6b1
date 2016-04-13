@@ -1,0 +1,472 @@
+Department,Entity,Payment date,Transaction Number,Invoice Amount,Supplier,Account Description
+FCO,FCO,31/03/2014,4655566,2120010.00,ORACLE CORPORATION (UK) LTD,Information Systems Maintenance
+FCO,FCO,28/03/2014,4628464,1510906.00,FCO SERVICES,IT/IS Consultancy
+FCO,FCO,07/03/2014,4617139,1370770.00,COMPUTACENTER (UK) LTD,Temporary Staff (Admin and Clerical Only)
+FCO,FCO,18/03/2014,4633957,938017.00,G4S RISK MANAGEMENT LTD FORMALLY ARMOURGROUP SERVICES LTD,UK Guarding Contracts Overseas
+FCO,FCO,10/03/2014,4622549,824534.20,GARDA WORLD LTD,UK Mobile Guarding Contract overseas
+FCO,FCO,12/03/2014,4622951,774941.20,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4658760,768302.00,VODAFONE LTD CABLE AND WIRELESS UK,FTN Unitary Payment
+FCO,FCO,31/03/2014,4656540,718889.60,VODAFONE LTD CABLE AND WIRELESS UK,"Assets Under Construction (Oracle PA Control Account), FTN Unitary Payment"
+FCO,FCO,12/03/2014,4622955,680718.50,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/03/2014,4632778,656069.00,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656715,624520.20,EXTRASPACE SOLUTIONS,Construction Project more than Ł10k
+FCO,FCO,18/03/2014,4633973,608650.60,G4S RISK MANAGEMENT LTD FORMALLY ARMOURGROUP SERVICES LTD,UK Guarding Contracts Overseas
+FCO,FCO,24/03/2014,4644276,578270.00,COFFEY INTERNATIONAL DEVELOPMENT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4615418,570233.20,EXCEL LONDON,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4643166,570233.20,EXCEL LONDON,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/03/2014,4632775,569827.00,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4658774,546215.40,VODAFONE LTD CABLE AND WIRELESS UK,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,04/03/2014,4615257,539987.30,INTERSERVE FM LTD,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Interim Helpdesk, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Rematching / Reinstatement, Waste Disposal"
+FCO,FCO,12/03/2014,4626489,539987.30,INTERSERVE FM LTD,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Interim Helpdesk, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Rematching / Reinstatement, Waste Disposal"
+FCO,FCO,31/03/2014,4658764,522548.20,VODAFONE LTD CABLE AND WIRELESS UK,"Assets Under Construction (Oracle PA Control Account), FTN Unitary Payment"
+FCO,FCO,10/03/2014,4622598,506064.30,ARTEOS GMBH,"Electricity Non-Residential, Estates - Other Machinery and Equipment, Pfi : Public/Private Partnership Consultants Fees Non-Residential, Waste Disposal, Water Residential"
+FCO,FCO,14/03/2014,4627575,500000.00,IOM INTERNATIONAL ORGANIZATION FOR MIGRATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632766,461829.30,VODAFONE LTD CABLE AND WIRELESS UK,IT/IS Consultancy
+FCO,FCO,31/03/2014,4658680,455593.90,MECHANICAL LLOYD CO LTD,Rental Payments - residential
+FCO,FCO,13/03/2014,4628940,424285.00,IOM INTERNATIONAL ORGANIZATION FOR MIGRATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,05/03/2014,4615070,420288.30,OROSTREAM INTERNATIONAL CONTRACTS LTD,Construction Project more than Ł10k
+FCO,FCO,31/03/2014,4656545,413030.70,VODAFONE LTD CABLE AND WIRELESS UK,"Assets Under Construction (Oracle PA Control Account), FTN Unitary Payment"
+FCO,FCO,28/03/2014,4655422,342385.80,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,31/03/2014,4641857,332209.70,G4S SECURE SOLUTIONS UK,Manned Guarding Services
+FCO,FCO,27/03/2014,4622540,330902.40,GARDA WORLD LTD,UK Guarding Contracts Overseas
+FCO,FCO,26/03/2014,4632773,326460.70,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4644369,302801.90,FCO SERVICES,Temporary Staff (Admin and Clerical Only)
+FCO,FCO,31/03/2014,4657053,300000.00,ORGANISATION FOR ECONOMIC CO OPERATION AND DEVELOPMENT OECD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4618973,299644.70,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4632881,299512.70,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,31/03/2014,4656752,282200.00,MERCYCORPS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4654103,273816.80,INTERPEACE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4628190,268158.00,FCO SERVICES,"Assets Under Construction (Oracle PA Control Account), Information Systems Implementation"
+FCO,FCO,13/03/2014,4627137,262000.00,MERCYCORPS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,05/03/2014,4615461,252300.00,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4655568,250000.00,THE CELTIC MANOR RESORT,Accommodation
+FCO,FCO,20/03/2014,4638177,243558.70,DANISH REFUGEE COUNCIL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4645526,242562.30,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Non-Residential, Gas Residential, Property Maintenance Overseas Non Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,13/03/2014,4629068,231406.60,G4S RISK MANAGEMENT LTD FORMALLY ARMOURGROUP SERVICES LTD,UK Mobile Guarding Contract overseas
+FCO,FCO,20/03/2014,4638384,228683.00,TORCHLIGHT SOLUTIONS LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4655769,225168.00,CAPGEMINI UK PLC,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,04/03/2014,4615128,224005.00,BOUYGUES CONSTRUCTION NIGERIA LIMITED,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,26/03/2014,4628686,223341.30,DEFENCE BUSINESS SERVICES FINANCE,Mod Guarding Services Residential
+FCO,FCO,26/03/2014,4622959,214618.30,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4632823,213578.60,EXTRASPACE SOLUTIONS,Construction Project more than Ł10k
+FCO,FCO,12/03/2014,4619090,208209.40,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,21/03/2014,4641646,201552.00,PHYSICIANS FOR HUMAN RIGHTS INC,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/03/2014,4631320,182010.80,KELLOGG BROWN AND ROOT,Estates Management Services
+FCO,FCO,24/03/2014,4643410,177320.00,CAPGEMINI UK PLC,Temporary Staff (Admin and Clerical Only)
+FCO,FCO,18/03/2014,4633989,177320.00,CAPGEMINI UK PLC,Temporary Staff (Admin and Clerical Only)
+FCO,FCO,18/03/2014,4633985,177320.00,CAPGEMINI UK PLC,Temporary Staff (Admin and Clerical Only)
+FCO,FCO,25/03/2014,4627578,173185.50,LONDON ENERGY,Electricity Non-Residential
+FCO,FCO,05/03/2014,4618354,165851.20,RENCO,Rental Payments - non residential
+FCO,FCO,26/03/2014,4632771,163521.00,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/03/2014,4624502,163289.70,SAVE SOMALI WOMEN AND CHILDREN SSWC,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656719,162000.00,GREENACRE ASSOCIATES LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4642826,161444.00,DAI EUROPE LIMITED,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/03/2014,4632770,156668.00,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632655,155828.40,SAHAN RESEARCH LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4619092,155359.70,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,31/03/2014,4658756,155106.00,VODAFONE LTD CABLE AND WIRELESS UK,FTN Unitary Payment
+FCO,FCO,12/03/2014,4624775,153625.00,FCO SERVICES,Information Systems Maintenance
+FCO,FCO,14/03/2014,4631038,153545.40,SAVE SOMALI WOMEN AND CHILDREN SSWC,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4630604,153111.40,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,27/03/2014,4655654,150000.00,INTERNATIONAL COMMISSION FOR MISSING PERSONS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656666,149940.90,OROSTREAM INTERNATIONAL CONTRACTS LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,31/03/2014,4657055,149747.00,ORGANISATION FOR ECONOMIC CO OPERATION AND DEVELOPMENT OECD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4645528,145140.00,ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Residential"
+FCO,FCO,05/03/2014,4617916,144680.00,ORGANISATION FOR ECONOMIC CO OPERATION AND DEVELOPMENT OECD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4645530,141870.70,ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - residential, Telephone Call Charges, Telephone line and equipment rental charges, Water Non-Residential, Water Residential"
+FCO,FCO,25/03/2014,4645540,141322.90,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,12/03/2014,4619097,139739.90,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,24/03/2014,4615079,139713.20,DLA PIPER UK LLP,Residential Property Services
+FCO,FCO,18/03/2014,4636850,138991.40,SOMALIA AID FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4643852,137253.00,S MACNEILLIE & SON LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,24/03/2014,4643847,137253.00,S MACNEILLIE & SON LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,24/03/2014,4643849,137253.00,S MACNEILLIE & SON LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,24/03/2014,4643859,137253.00,S MACNEILLIE & SON LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,24/03/2014,4643858,137253.00,S MACNEILLIE & SON LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,24/03/2014,4643857,137253.00,S MACNEILLIE & SON LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,07/03/2014,4619591,137140.00,CONTROL RISKS GROUP,UK Mobile Guarding Contract overseas
+FCO,FCO,28/03/2014,4654112,136908.40,INTERPEACE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/03/2014,4614811,135564.80,NORWEGIAN CHURCH AID,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4645534,135043.40,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Non-Residential, Gas Residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal, Water Non-Residential, Water Residential"
+FCO,FCO,25/03/2014,4645531,131277.70,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,28/03/2014,4654069,127889.20,FINNCHURCHAID,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4627077,127718.40,LANGUAGE SERVICES DIRECT,Language Tuition: Essential
+FCO,FCO,21/03/2014,4641141,125000.00,UNIVERSITY OF OXFORD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,10/03/2014,4622580,125000.00,UNIVERSITY OF OXFORD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4637158,122707.00,FCO SERVICES,Misc Security Payments
+FCO,FCO,31/03/2014,4656755,122195.00,S MACNEILLIE & SON LTD,Recharge Suspense Account (Oracle PA Control Account)
+FCO,FCO,25/03/2014,4622599,121772.30,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,31/03/2014,4658786,120948.70,CABLE AND WIRELESS GLOBAL NETWORKS LTD,FTN Unitary Payment
+FCO,FCO,25/03/2014,4645993,120256.70,KELLOGG BROWN AND ROOT,Property Maintenance Overseas Residential
+FCO,FCO,12/03/2014,4619083,118782.80,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,10/03/2014,4622571,117529.30,HEALIX INTERNATIONAL LTD,Fco Healthcare Scheme
+FCO,FCO,11/03/2014,4624506,116419.20,GILBERT ASH FITOUT LIMITED,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,17/03/2014,4632656,115920.00,XMA LIMITED,Information Systems Under Ł3000 (non-capitalised)
+FCO,FCO,28/03/2014,4630596,114874.40,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/03/2014,4630643,112383.50,NORDIC INTERNATIONAL SUPPORT FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/03/2014,4630646,112383.20,NORDIC INTERNATIONAL SUPPORT FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4619075,111238.70,FCO SERVICES,Residential Property Services
+FCO,FCO,25/03/2014,4645525,110847.10,ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Rental Payments - non residential, Rental Payments - residential"
+FCO,FCO,05/03/2014,4615162,110541.10,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/03/2014,4630601,110246.00,CLEEN FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,19/03/2014,4634255,109274.00,HEWLETT PACKARD LTD,Temporary Staff (Admin and Clerical Only)
+FCO,FCO,07/03/2014,4620784,103187.60,N A MOVING SERVICES LTD,Heavy Baggage
+FCO,FCO,20/03/2014,4638088,101080.80,DANISH REFUGEE COUNCIL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4653898,100000.00,GEORGIA RED CROSS SOCIETY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632774,99553.68,ALBANY ASSOCIATES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/03/2014,4615566,98500.00,AXIOM INTERNATIONAL LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4653734,95975.05,NORDIC INTERNATIONAL SUPPORT FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4633787,94169.45,ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,14/03/2014,4631303,93376.76,OROSTREAM INTERNATIONAL CONTRACTS LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,21/03/2014,4641040,93001.00,ELECTORAL REFORM INTERNATIONAL SERVICES LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4628213,92185.00,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,06/03/2014,4618925,91845.91,WRG CREATIVE COMMINICATIONS LIMITED,UK - Air Travel
+FCO,FCO,24/03/2014,4633780,91361.08,ISS FACILITY SERVICES LTD FCO OP,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,25/03/2014,4641999,91326.26,NATIONAL HOTEL COMPLEX,Rental Payments - non residential
+FCO,FCO,21/03/2014,4640902,91266.46,CROWN AGENTS NIGERIA LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/03/2014,4616927,91266.46,CROWN AGENTS NIGERIA LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4638661,91266.46,CROWN AGENTS NIGERIA LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,18/03/2014,4632723,90576.45,HAJI AKBAR SHAKI LTD,Property Maintenance Overseas Residential
+FCO,FCO,07/03/2014,4620610,90045.08,AFRICAN SKIES LTD,Local Guards
+FCO,FCO,11/03/2014,4620682,89976.61,DIPLOMAT FREIGHT SERVICES LTD(DFS),Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4638654,89976.61,DIPLOMAT FREIGHT SERVICES LTD(DFS),Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4632879,89791.03,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,18/03/2014,4633981,88617.26,OROSTREAM INTERNATIONAL CONTRACTS LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,12/03/2014,4619082,86887.98,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,06/03/2014,4619592,86100.00,INTEGRITY RESEARCH AND CONSULTANCY LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4630659,85798.82,FCO SERVICES,Construction Project more than Ł10k
+FCO,FCO,07/03/2014,4620438,84741.93,ICRIER-INDIAN COUNCIL FOR RESEARCH ON INTERNATIONAL ECONOMIC RELATIONS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4637281,82246.00,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4630653,82007.02,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4644290,81625.38,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,18/03/2014,4631593,81499.26,PAKISTAN PEACE COLLECTIVE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,18/03/2014,4635818,80878.25,AFGHAN WOMEN SKILLS DEVELOPMENT CENTER,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/03/2014,4649534,80007.05,MSECURE LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4655346,80000.00,FCO SERVICES,Information Systems Maintenance
+FCO,FCO,26/03/2014,4649199,79860.00,AUTONOMY,Legal Charges
+FCO,FCO,21/03/2014,4634090,79010.00,TUFTS UNIVERSITY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4648860,78182.54,FELTECH ELECTRONICS LTD,Miscellaneous Expenditure: inc subscriptions and equipment maintenance
+FCO,FCO,24/03/2014,4643076,78165.08,INTERSERVE FM LTD,"Construction Project more than Ł10k, FM Interserve Works, GH/VIP Grant in Aid, Selling into Wider Markets"
+FCO,FCO,31/03/2014,4655527,77439.56,ADAM SMITH INTERNATIONAL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4637291,74591.41,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,24/03/2014,4643519,74338.67,EMERGENCY MANAGEMENT ACCREDITATION PROGRAM EMAP,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4655602,73284.03,TURNER AND TOWNSEND PROPERTY SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,11/03/2014,4624218,73242.18,CRANFIELD UNIVERSITY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4637172,72833.18,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,25/03/2014,4646254,72306.02,CHATHAM HOUSE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4637221,71000.00,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,19/03/2014,4637336,70970.00,ADROIT CONSULTANTS LLP,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,19/03/2014,4636110,70684.55,SUPREME FUELS TRADING FZE,Fuel
+FCO,FCO,21/03/2014,4639435,70506.27,JUAN GAVIRIA RESTREPO & CIA,Rental Payments - non residential
+FCO,FCO,28/03/2014,4644412,70223.22,FCO SERVICES,Estates - Other Machinery and Equipment
+FCO,FCO,25/03/2014,4646400,69710.00,PARTNERS FOR DEMOCRATIC CHANGE INTERNATIONAL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4628709,69160.56,HEWLETT PACKARD LTD,IT/IS Consultancy
+FCO,FCO,21/03/2014,4641846,69000.00,G4S SECURE SOLUTIONS UK,Manned Guarding Services
+FCO,FCO,28/03/2014,4644274,68296.81,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,06/03/2014,4617814,68167.10,IR CONSILIUM LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,11/03/2014,4621593,67866.06,COMITATO INTERNAZIONALE PER LO SVILUPPO DEI POPOLI CISP,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656569,66407.00,SAFERWORLD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4644397,64513.00,INTERIGHTS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4657051,64420.00,ORGANISATION FOR ECONOMIC CO OPERATION AND DEVELOPMENT OECD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4655855,63598.51,VOLUNTARY SERVICE OVERSEAS (VSO),Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4622805,63382.35,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4630558,62723.00,FCO SERVICES,Technical Consultancy
+FCO,FCO,17/03/2014,4632405,61942.52,INTERNATIONAL ALERT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4654691,61518.00,INTERNATIONAL ALERT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,05/03/2014,4615200,60578.31,INTERSERVE FM LTD,"Construction Project more than Ł10k, FM Interserve BES Maintenance, FM Interserve Building Fabric Maintenance, FM Interserve Grounds Maintenance, FM Interserve Waste Management, FM Interserve Works, Inward visits to the UK and UK Conferences, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Purchase of Furniture, Fittings and Domestic Appliances"
+FCO,FCO,25/03/2014,4646407,60513.00,PEACE NOW,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4651409,60000.00,MERCYCORPS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4644407,59906.27,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/03/2014,4630655,59384.56,2 DEGREES NORTH LIMITED,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4643542,59324.49,FCO SERVICES,Freight & Customs Clearance Charges
+FCO,FCO,20/03/2014,4636186,58940.71,HARIS ENTERPRISES PVT LTD,Local Guards
+FCO,FCO,28/03/2014,4619123,58760.67,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,12/03/2014,4622810,58612.86,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,12/03/2014,4626924,58242.54,ASHTOH PROPERTIES DUSSELDORF THREE GMBH,"Electricity Non-Residential, Gas Non-Residential, Rates Taxes Non-Residential, Rental Payments - non residential, Water Non-Residential"
+FCO,FCO,11/03/2014,4624602,57833.34,BREAKTHROUGH MEDIA NETWORK LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4643254,57527.91,KOIZA INTERNATIONAL LTD,"Purchase of Furniture, Fittings and Domestic Appliances"
+FCO,FCO,21/03/2014,4638307,57517.40,WORLDREACH SOFTWARE CORPORATION,Information Systems Maintenance
+FCO,FCO,14/03/2014,4630815,57432.82,MONETICS FZE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,18/03/2014,4631072,56857.17,SYRIAN COMMISSION FOR JUSTICE AND ACCOUNTABILITY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/03/2014,4614856,56817.11,MASOOD AKBAR CONSTRUCTION COMPANY (MACC),Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4645545,56592.22,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Telephone line and equipment rental charges"
+FCO,FCO,11/03/2014,4622724,56396.86,INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,24/03/2014,4633769,56084.03,ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,10/03/2014,4622452,55266.00,CROWN AGENTS FINANCIAL SERVICES LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4633774,54947.38,ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,19/03/2014,4636452,54778.23,ALBANY ASSOCIATES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4645536,54597.70,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Rates Taxes Residential, Rental Payments - non residential, Telephone Call Charges, Waste Disposal, Water Residential"
+FCO,FCO,18/03/2014,4622665,54377.12,INTERSERVE FM LTD,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,26/03/2014,4650438,54341.00,THE MELLMAN GROUP,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656378,53329.40,RTKL-UK LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4632880,53261.70,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,07/03/2014,4621578,53228.60,CONCILIATION RESOURCES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/03/2014,4649272,52330.00,CAMBRIDGE CONSULTANTS,Construction Project more than Ł10k
+FCO,FCO,25/03/2014,4645524,51666.42,ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal"
+FCO,FCO,21/03/2014,4641333,51400.00,BBC MEDIA ACTION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4644314,51347.31,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4628470,51218.54,FCO SERVICES,Estates - Other Machinery and Equipment
+FCO,FCO,14/03/2014,4631218,50843.55,N A MOVING SERVICES LTD,Heavy Baggage
+FCO,FCO,24/03/2014,4642192,50795.99,ACTIONAID MYANMAR,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,13/03/2014,4628571,50774.37,ATCP,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632568,50749.84,PEACEFUL CHANGE INITIATIVE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,20/03/2014,4633483,50745.43,FONNEGRA GERLEIN S.A,Estates Management Services
+FCO,FCO,13/03/2014,4628956,50637.00,HERMAN MILLER LTD,Construction Project more than Ł10k
+FCO,FCO,12/03/2014,4619204,50600.00,SECURITY SERVICES GROUP,Estates - Other Machinery and Equipment
+FCO,FCO,14/03/2014,4621970,50428.89,SOCIAL PIONEERS LTD.,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4644393,50373.06,ASSOCIATION FOR THE PREVENTION OF TORTURE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4630724,50230.79,THE ASIA FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656768,50218.24,VODAFONE LTD CABLE AND WIRELESS UK,FTN Unitary Payment
+FCO,FCO,21/03/2014,4637313,50185.00,INTERNATIONAL ALERT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,19/03/2014,4630243,50085.35,RESEARCH CENTER OF SASAC,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4644358,50000.00,KANTAR MEDIA INTELLIGENCE LTD,General Information Services
+FCO,FCO,27/03/2014,4654814,49981.54,CENTRI CIVILNIH INICIJATIVA,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4627058,49825.90,LANGUAGE SERVICES DIRECT,Language Tuition: Essential
+FCO,FCO,21/03/2014,4641713,49387.28,KOIZA INTERNATIONAL LTD,"Purchase of Furniture, Fittings and Domestic Appliances"
+FCO,FCO,24/03/2014,4644299,48863.33,COGENT ELECTRICAL SERVICES LTD FORM WES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,12/03/2014,4620248,48822.61,VFS BUSINESS INFORMATION CONSULTING (SHANGHAI) CO LTD,Commercial Partners (Visa)
+FCO,FCO,25/03/2014,4634239,48691.88,HEWLETT PACKARD LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,25/03/2014,4642806,48638.00,NATIONAL DEMOCRATIC INSTITUTE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4643890,48569.68,PEACEFUL CHANGE INITIATIVE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4654025,48534.65,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,17/03/2014,4632423,48160.00,BBC MEDIA ACTION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4615632,48020.04,HEWLETT PACKARD LTD,Miscellaneous Expenditure: inc subscriptions and equipment maintenance
+FCO,FCO,28/03/2014,4653766,47987.52,NORDIC INTERNATIONAL SUPPORT FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/03/2014,4631352,47977.34,KOIZA INTERNATIONAL LTD,"Purchase of Furniture, Fittings and Domestic Appliances, Recharge Suspense Account (Oracle PA Control Account)"
+FCO,FCO,17/03/2014,4632492,47580.65,GLOBE INTERNATIONAL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4644392,47536.65,FCO SERVICES,Security: Works Non-Residential
+FCO,FCO,07/03/2014,4621702,47383.39,N A MOVING SERVICES LTD,Heavy Baggage
+FCO,FCO,12/03/2014,4622808,47321.37,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4653887,47033.77,THE GORDON TRUST,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,05/03/2014,4618103,46957.00,CAPGEMINI UK PLC,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,11/03/2014,4622647,46945.38,INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Residential Property Services, Waste Disposal"
+FCO,FCO,12/03/2014,4618097,46726.89,SECURITY SERVICES GROUP,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,11/03/2014,4621968,46562.42,SUPREME FUELS TRADING FZE,Fuel
+FCO,FCO,21/03/2014,4640960,46552.49,LEVEL 3 COMMUNICATIONS UK LTD,Information Systems Implementation
+FCO,FCO,11/03/2014,4621989,46512.76,SUPREME FUELS TRADING FZE,Fuel
+FCO,FCO,27/03/2014,4654827,46472.05,OXFAM ITALIA,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4654141,46345.87,INTERNET SOLUTIONS,Mobile Telephone Equipment
+FCO,FCO,25/03/2014,4651121,46320.23,LAND ROVER HUNTINGTON,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4655478,45949.00,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,11/03/2014,4621981,45846.18,SUPREME FUELS TRADING FZE,Fuel
+FCO,FCO,11/03/2014,4620827,45204.49,SUPREME FUELS TRADING FZE,Fuel
+FCO,FCO,12/03/2014,4625928,45094.05,Elixir Solutions,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4640945,44959.38,KOIZA INTERNATIONAL LTD,"Purchase of Furniture, Fittings and Domestic Appliances"
+FCO,FCO,12/03/2014,4620233,44000.86,VFS BUSINESS INFORMATION CONSULTING (SHANGHAI) CO LTD,Commercial Partners (Visa)
+FCO,FCO,31/03/2014,4656730,43747.00,CGI IT LIMITED,IT/IS Consultancy
+FCO,FCO,18/03/2014,4630343,43555.88,SUPREME FUELS TRADING FZE,Fuel
+FCO,FCO,17/03/2014,4632419,43517.21,INTERNATIONAL ALERT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4627146,43235.37,GLOBAL PARTNERS GOVERNANCE PRACTICE LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4644293,42848.00,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4644398,42758.90,FCO SERVICES,Construction Project more than Ł10k
+FCO,FCO,28/03/2014,4618884,42750.00,APCO WORLDWIDE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/03/2014,4630472,41997.58,BRIGHT HORIZONS FAMILY SOLUTION LTD,FCO KCS Nursery
+FCO,FCO,14/03/2014,4630466,41997.58,BRIGHT HORIZONS FAMILY SOLUTION LTD,FCO KCS Nursery
+FCO,FCO,14/03/2014,4630461,41997.58,BRIGHT HORIZONS FAMILY SOLUTION LTD,FCO KCS Nursery
+FCO,FCO,04/03/2014,4614853,41566.11,HAYAT HELMANDWAL CONSTRUCTION COMPANY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,05/03/2014,4615225,41555.99,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,10/03/2014,4622985,41360.00,HEATHROW TRAVEL CARE,Human Rights : Assistance Policy
+FCO,FCO,21/03/2014,4636477,41297.00,LAPIS LIMITED,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656607,41165.08,CONCERN WORLDWIDE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/03/2014,4644058,41012.83,DOGA KORUMA MERKEZI,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656170,40950.00,AXIOM INTERNATIONAL LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4641937,40873.62,BRUEGEL AISBL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4633788,40836.76,ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,24/03/2014,4623116,40563.20,FIELD FISHER WATERHOUSE,Specialist Contractors
+FCO,FCO,19/03/2014,4636574,40226.91,COFFEY INTERNATIONAL DEVELOPMENT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4644323,40090.00,POWER ELECTRICS BRISTOL LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,21/03/2014,4639049,40000.00,UNICEF,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/03/2014,4646058,40000.00,HM TREASURY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/03/2014,4649475,40000.00,CAMBRIDGE CONSULTANTS,Protection Measures
+FCO,FCO,20/03/2014,4632900,39999.08,OCO GLOBAL LTD,Recharge Suspense Account (Oracle PA Control Account)
+FCO,FCO,31/03/2014,4656135,39914.51,WESTMINSTER ABBEY,Inward visits to the UK and UK Conferences
+FCO,FCO,20/03/2014,4639128,39666.86,INTERNATIONAL COMMISSION FOR MISSING PERSONS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/03/2014,4627576,39608.05,INTERNATIONAL CENTRE FOR MIGRATION POLICY DEVELOPMENT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4626413,39582.51,INTERSERVE FM LTD,FM Interserve Grounds Maintenance
+FCO,FCO,27/03/2014,4650373,39364.01,MAUGECAD (1980) CONTRACTING CO. LTD.,Construction Project more than Ł10k
+FCO,FCO,05/03/2014,4615176,39296.14,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4630606,39245.99,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/03/2014,4624632,39141.07,UTRIKESDEPARTEMENTET,"Le Staff Pay, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Post - Air Travel"
+FCO,FCO,18/03/2014,4627357,38959.50,COGENT ELECTRICAL SERVICES LTD FORM WES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,27/03/2014,4653473,38852.25,DFID-SHARED SERVICES,"Cleaning & Waste, Electricity Non-Residential, Electricity Residential, Estates - Other Machinery and Equipment, Estates Management Services, Fuel Oil Non-Residential, General Information Services, Le Staff Overtime Expenditure, Le Staff Pay, Local Staff Pension Contributions, Office Support Services, Postal Services, Printing, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Purchase of Furniture, Fittings and Domestic Appliances, Subsidy To Local Medical Schemes, Telephone Call Charges, Water Non-Residential"
+FCO,FCO,06/03/2014,4619554,38725.50,PENAL REFORM INTERNATIONAL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4643475,38500.00,WOMENS INTERNATIONAL LEAGUE FOR PEACE + FREEDOM,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4642824,38493.86,AVESON TRAVEL PTE LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656722,38471.65,WILTSHIRE POLICE AUTHORITY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,18/03/2014,4634267,38455.70,MEDIA DIVERSITY INSTITUTE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4633781,38419.52,ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,27/03/2014,4632389,38408.35,ETHICAL TRADING INITIATIVE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,20/03/2014,4639156,38163.62,VANJSKO POLITICKA INICIJATIVA,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4641424,38000.12,MAYORS OFFICE FOR POLICING AND CRIME MOPC,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4654033,37959.95,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,18/03/2014,4636164,37856.16,UNHAS SOMALIA,Post - Air Travel
+FCO,FCO,28/03/2014,4628198,37795.57,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,20/03/2014,4639242,37705.00,SG ELECTRICAL SOLUTIONS,Construction Project more than Ł10k
+FCO,FCO,21/03/2014,4615609,37686.74,COFFEY INTERNATIONAL DEVELOPMENT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4650667,37541.50,FOXFIRE COMPUTER SERVICES LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4653740,37461.16,NORDIC INTERNATIONAL SUPPORT FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4637265,37216.03,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,26/03/2014,4639320,37122.34,UNDP CONTRIBUTIONS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656723,37114.63,INTERNATIONAL ALERT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4645907,37000.00,SG ELECTRICAL SOLUTIONS,Construction Project more than Ł10k
+FCO,FCO,20/03/2014,4638963,36996.00,IISS - INTERNATIONAL INSTITUTE FOR STRATEGIC STUDIES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4644446,36699.86,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4644447,36699.86,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,12/03/2014,4619146,36653.48,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/03/2014,4626841,36588.73,CONTROL RISKS SERVICES WEST AFRICA LIMITED,Local Guards
+FCO,FCO,25/03/2014,4649236,36518.99,ASPAUD CO,Recharge Suspense Account (Oracle PA Control Account)
+FCO,FCO,13/03/2014,4627918,36499.42,CONTROL RISKS SERVICES WEST AFRICA LIMITED,Local Guards
+FCO,FCO,20/03/2014,4639415,36036.00,LIVING EARTH FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,18/03/2014,4630482,35989.48,PROLOG SOLUTIONS CONSTRUCTION DIVISION,Property Maintenance Overseas Residential
+FCO,FCO,28/03/2014,4643830,35947.29,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4628992,35728.50,COGENT ELECTRICAL SERVICES LTD FORM WES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,05/03/2014,4615188,35668.13,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,04/03/2014,4615376,35629.00,INTERNATIONAL GOVERNANCE AND RISK LIMITED GOVRISK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4627125,35603.10,COFFEY INTERNATIONAL DEVELOPMENT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/03/2014,4631238,35326.76,WESTMINSTER FOUNDATION FOR DEMOCRACY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4654393,35296.21,HOTELLINE FOR TOURISTIC INVESTMENT LTD,Rental Payments - residential
+FCO,FCO,25/03/2014,4648185,35090.18,SUPREME FUELS TRADING FZE,Fuel
+FCO,FCO,28/03/2014,4628498,34933.42,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,27/03/2014,4650942,34913.25,GLOBAL PARTNERS GOVERNANCE PRACTICE LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4640872,34791.85,GIO INSURANCE,"Local Staff Pension Contributions, Miscellaneous Expenditure: inc subscriptions and equipment maintenance"
+FCO,FCO,11/03/2014,4619252,34790.95,OFFICER SURVIVAL SOLUTIONS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/03/2014,4617092,34500.00,POWER ELECTRICS BRISTOL LTD,Estates - Other Machinery and Equipment
+FCO,FCO,24/03/2014,4615641,34436.00,HEWLETT PACKARD LTD,Information Systems Maintenance
+FCO,FCO,18/03/2014,4619174,34320.11,G4S SECURITY SERVICES,Local Guards
+FCO,FCO,12/03/2014,4622586,34000.00,FCO SERVICES,Information Systems Maintenance
+FCO,FCO,05/03/2014,4618000,33965.00,AKTIS STRATEGY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656571,33819.76,GLOBE INTERNATIONAL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4628426,33812.51,FCO SERVICES,IT/IS Consultancy
+FCO,FCO,28/03/2014,4628514,33686.38,FCO SERVICES,Construction Project more than Ł10k
+FCO,FCO,17/03/2014,4632584,33615.00,NORTHERN IRELAND CO OPERATION OVERSEAS NI CO LIMITED,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,13/03/2014,4628935,33545.04,ECORYS GROUP UK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4644525,33499.28,LILLEKER BROTHERS NIGERIA LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,31/03/2014,4656191,33217.29,INTERNATIONAL ALERT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,10/03/2014,4622623,33090.93,INTERSERVE FM LTD,FM Interserve Works
+FCO,FCO,21/03/2014,4638636,33089.71,ACTIONAID,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/03/2014,4630551,33053.73,GLOBAL PARTNERS GOVERNANCE PRACTICE LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4641896,32958.00,SG ELECTRICAL SOLUTIONS,Construction Project more than Ł10k
+FCO,FCO,25/03/2014,4645543,32874.02,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Residential, Telephone Call Charges, Waste Disposal, Water Non-Residential, Water Residential"
+FCO,FCO,28/03/2014,4654635,32455.00,SAFERWORLD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,19/03/2014,4624103,32292.10,THE MELLMAN GROUP,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4653982,32218.63,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,20/03/2014,4632175,32185.79,LONRHO GHANA PORTS LIMITED,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4642703,31942.68,THE JUBILEE INSURANCE COMPANY OF UGANDA LTD,Medical Supplies
+FCO,FCO,10/03/2014,4619059,31938.00,CHARTERED INSTITUTE OF PERSONNEL AND DEVELOPMENT CIPD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4618674,31810.17,CHINA ENERGY NET CONSULTING CO LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,05/03/2014,4617964,31800.00,ROYAL AERONAUTICAL SOCIETY,Inward visits to the UK and UK Conferences
+FCO,FCO,28/03/2014,4637318,31776.00,FCO SERVICES,Temporary Staff (Admin and Clerical Only)
+FCO,FCO,11/03/2014,4624210,31743.17,CONCILIATION RESOURCES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4622801,31709.00,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,05/03/2014,4615331,31612.56,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,12/03/2014,4622813,31577.30,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,31/03/2014,4656044,31564.00,SAFERWORLD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632743,31470.00,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,Specialist Training (Devolved)
+FCO,FCO,11/03/2014,4624508,31416.36,CAUSEWAY INSTITUTE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,05/03/2014,4617534,31233.22,ASSOCIATION DE SOUTIEN AU COLLECTIF DEMOCRATIE ET MODERNITE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4644380,30979.00,FCO SERVICES,IT/IS Consultancy
+FCO,FCO,11/03/2014,4622720,30857.39,INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Waste Disposal"
+FCO,FCO,31/03/2014,4656173,30850.00,AXIOM INTERNATIONAL LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656573,30834.00,SAFERWORLD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,07/03/2014,4615075,30775.29,THE ASSOCIATION FOR THE EXTRACTIVE INDUSTRIES TRANSPARENCY INITIATIVE EITI,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,11/03/2014,4624375,30590.00,TRANSPARENCY SOLUTIONS LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4642111,30578.77,HOTELLINE FOR TOURISTIC INVESTMENT LTD,Rental Payments - residential
+FCO,FCO,21/03/2014,4641906,30515.00,CROWN AGENTS BANK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4650673,30509.73,FOXFIRE COMPUTER SERVICES LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/03/2014,4615122,30324.34,COFFEY INTERNATIONAL DEVELOPMENT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,07/03/2014,4620757,30315.60,SUPPLY PLUS,Technical Supplies (Maint)
+FCO,FCO,06/03/2014,4615589,30273.32,NORTEL SECURITY ZAO OP,Local Guards
+FCO,FCO,11/03/2014,4622682,30227.59,INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,28/03/2014,4628195,30219.75,FCO SERVICES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4640949,30207.81,KOIZA INTERNATIONAL LTD,"Purchase of Furniture, Fittings and Domestic Appliances"
+FCO,FCO,28/03/2014,4644441,30120.15,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,06/03/2014,4620413,30043.00,CIVILITAS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,19/03/2014,4631262,30000.00,NATIONAL DEMOCRATIC INSTITUTE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656594,30000.00,BRITISH HUMANIST ASSOCIATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4654173,29992.20,NORDIC INTERNATIONAL SUPPORT FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4654643,29989.00,CAPGEMINI UK PLC,Information Systems Maintenance
+FCO,FCO,28/03/2014,4637295,29942.88,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,04/03/2014,4615397,29920.00,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,Specialist Training (Devolved)
+FCO,FCO,25/03/2014,4636549,29909.60,AMERICAN INTERNATIONAL SCHOOL,Schooling for Children at Post
+FCO,FCO,28/03/2014,4630751,29810.10,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,13/03/2014,4629001,29799.87,KOIZA INTERNATIONAL LTD,Construction Project more than Ł10k
+FCO,FCO,13/03/2014,4629026,29733.77,VIASOL LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,07/03/2014,4617250,29690.44,SHREE NAMAN DEVELOPERS LIMITED,Rental Payments - non residential
+FCO,FCO,24/03/2014,4633778,29423.43,ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,12/03/2014,4627156,29366.80,VERCO ADVISORY SERVICES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4644129,29249.89,SHREE NAMAN DEVELOPERS LIMITED,Rental Payments - non residential
+FCO,FCO,26/03/2014,4649420,29044.95,NATIONAL NUCLEAR LABORATORY LTD,Temporary Duty Overseas - Staff and Travel Costs
+FCO,FCO,27/03/2014,4651072,28780.00,INFRASTRUCTURE UK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4639109,28723.84,IRISH LIFE,Le Staff Pay
+FCO,FCO,25/03/2014,4639100,28723.84,IRISH LIFE,Le Staff Pay
+FCO,FCO,25/03/2014,4645535,28708.52,ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Non-Residential, Gas Residential, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Rental Payments - residential, Telephone Call Charges, Water Residential"
+FCO,FCO,20/03/2014,4641098,28577.76,SPARK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,25/03/2014,4645527,28553.40,ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,21/03/2014,4622517,28292.00,CROWN AGENTS BANK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4653954,28184.00,FCO SERVICES,Construction Project more than Ł10k
+FCO,FCO,26/03/2014,4643385,27899.83,LA SENEGALAISE DE L AUTOMOBILE,Recharge Suspense Account (Oracle PA Control Account)
+FCO,FCO,07/03/2014,4615585,27880.00,FSS FIRE + SECURITY SOLUTIONS LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,31/03/2014,4655597,27775.28,TURNER AND TOWNSEND PROPERTY SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4655433,27693.72,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,28/03/2014,4646091,27592.83,MJB ELECTRICAL PVT LTD,Construction Project more than Ł10k
+FCO,FCO,11/03/2014,4622772,27565.52,INTERSERVE FM LTD,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,24/03/2014,4633786,27531.18,ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,31/03/2014,4655521,27500.00,ECA INTERNATIONAL,Cost of Living Addition (COLA)
+FCO,FCO,21/03/2014,4638599,27476.42,SLUSH HELSINKI 0Y,"Business Hospitality (former DEE), Recharge Suspense Account (Oracle PA Control Account)"
+FCO,FCO,24/03/2014,4637880,27312.70,VERITE RESEARCH PVT LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632588,27292.68,PEACEFUL CHANGE INITIATIVE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,10/03/2014,4620574,27265.00,DSTL - DEFENCE SCIENCE & TECHNOLOGY LABORATORY,Specialist Contractors
+FCO,FCO,28/03/2014,4637276,27024.07,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,25/03/2014,4645955,27013.00,INTIMUS INTERNATIONAL LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/03/2014,4631805,27007.16,G4S SECURITY SERVICES KENYA LTD,"Local Guards, Recharge Suspense Account (Oracle PA Control Account)"
+FCO,FCO,26/03/2014,4650443,26960.00,THE MELLMAN GROUP,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4641003,26954.79,CHATHAM HOUSE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,11/03/2014,4622721,26919.72,INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Rematching / Reinstatement"
+FCO,FCO,11/03/2014,4622626,26865.50,INTERSERVE FM LTD,Construction Project more than Ł10k
+FCO,FCO,04/03/2014,4615427,26849.43,TURNER AND TOWNSEND PROPERTY SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,25/03/2014,4638641,26837.95,DIPLOMAT FREIGHT SERVICES LTD(DFS),Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4644483,26819.00,INTERNATIONAL ALERT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4648723,26782.92,INSTITUTE FOR WAR & PEACE REPORTING,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656593,26704.04,DSTL - DEFENCE SCIENCE & TECHNOLOGY LABORATORY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,10/03/2014,4623111,26666.00,BULLET MARKETING LTD,General Information Services
+FCO,FCO,23/03/2014,4644617,26628.45,HILTON HOTELS RESORTS AND SPA,Recharge Suspense Account (Oracle PA Control Account)
+FCO,FCO,26/03/2014,4632777,26608.00,DEFENCE BUSINESS SERVICES FINANCE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,13/03/2014,4628694,26551.84,WILLIAMS LEA,General Information Services
+FCO,FCO,13/03/2014,4628698,26551.84,WILLIAMS LEA,General Information Services
+FCO,FCO,19/03/2014,4622746,26531.89,INTERSERVE FM LTD,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Residential Property Services, Waste Disposal"
+FCO,FCO,10/03/2014,4622589,26500.00,PORTLAND PR LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,20/03/2014,4638954,26478.97,INTERNATIONAL GOVERNANCE AND RISK LIMITED GOVRISK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4643336,26411.17,REUTERS FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,28/03/2014,4628476,26368.54,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,05/03/2014,4614807,26297.16,NEW ERA OIL AND GAS,Fuel Oil Non-Residential
+FCO,FCO,21/03/2014,4641670,26279.05,FOXFIRE COMPUTER SERVICES LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632653,26266.35,SAHAN RESEARCH LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4642811,26257.00,INTERNATIONAL ALERT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,10/03/2014,4622777,26091.51,SECURITAS SAC,Local Guards
+FCO,FCO,17/03/2014,4624521,26089.80,BLITZ COMMUNICATIONS LTD,UK - Air Travel
+FCO,FCO,25/03/2014,4639368,26078.54,BURFORD INTERNATIONAL LTD,"Assets Under Construction (Oracle PA Control Account), Construction Project more than Ł10k, Repairs And Refurbishment: Works Residential"
+FCO,FCO,31/03/2014,4656116,25979.00,KPMG LLP,Specialist Contractors
+FCO,FCO,06/03/2014,4620581,25803.00,CROWN AGENTS BANK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,20/03/2014,4638341,25742.00,CROWN AGENTS BANK,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4654811,25639.43,BALKANSKE INSTRAZIVACKE MREZE BIRN,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/03/2014,4642762,25519.68,CONTROL RISKS SERVICES WEST AFRICA LIMITED,Local Guards
+FCO,FCO,20/03/2014,4639108,25436.69,CENTRE FOR FOREST ECOLOGY AND PRODUCTIVITY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/03/2014,4638141,25394.40,NEW ERA OIL AND GAS,Fuel Oil Non-Residential
+FCO,FCO,24/03/2014,4643369,25325.00,CGI IT LIMITED,Information Systems Maintenance
+FCO,FCO,20/03/2014,4640804,25320.02,PRI REP OFFICE CENTRAL ASIA,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632642,25312.00,PACE FUELCARE LIMITED,Fuel Oil Non-Residential
+FCO,FCO,13/03/2014,4628943,25213.83,DX NETWORK SERVICES,Postal Services
+FCO,FCO,28/03/2014,4651407,25042.97,FCO SERVICES,Air Freight Dip Bags - Freight & Clearance Charges
+FCO,FCO,24/03/2014,4642901,25020.44,CENTRE FOR LOW CARBON FUTURES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632478,25000.00,FOND B92,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/03/2014,4632762,-26315.30,BLITZ COMMUNICATIONS LTD,UK - Air Travel
+FCO,FCO,31/03/2014,4641060,-26718.00,CHATHAM HOUSE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,31/03/2014,4656150,-40950.00,AXIOM INTERNATIONAL LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4619021,-52469.09,FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/03/2014,4631063,-56857.17,SYRIAN COMMISSION FOR JUSTICE AND ACCOUNTABILITY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,24/03/2014,4643923,-126392.30,BJSS LIMITED,Information Systems Maintenance
+FCO,FCO,14/03/2014,4615353,-144499.70,ALPHA ARMOURING PANZERUNG GMBH,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/03/2014,4631025,-163289.70,SAVE SOMALI WOMEN AND CHILDREN SSWC,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/03/2014,4624757,-307250.00,FCO SERVICES,Information Systems Maintenance
+FCO,FCO,12/03/2014,4624763,-376935.00,FCO SERVICES,Information Systems Maintenance
+FCO,FCO,17/03/2014,4632523,-570233.20,EXCEL LONDON,Programme Spend (Oracle Projects Control Account)

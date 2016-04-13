@@ -1,0 +1,171 @@
+Department,Entity,Payment date,Transaction Number,Invoice Amount,Supplier ,Account Description
+FCO,FCO,06/08/2015,"5,147,467","4,769,197",MAYDAY RESCUE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,03/08/2015,"5,143,251","1,803,022",BOUYGUES CONSTRUCTION NIGERIA LIMITED,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,12/08/2015,"5,154,172","1,279,430",MACE LIMITED,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,06/08/2015,"5,147,329","939,608.50",GARDA WORLD LTD,UK Mobile Guarding Contract overseas
+FCO,FCO,20/08/2015,"5,164,313","709,075.40",KANTO ZAIMUKYOKU TOKYO ZAIMU JIMUSHO,Rental Payments - non residential
+FCO,FCO,14/08/2015,"5,159,595","610,901.20",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,159,992","558,676.50",INTERSERVE FM LTD,"Building Fabric Services, Building Mechanical and Engineering Services, Catering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Interim Helpdesk, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Rematching / Reinstatement, Waste Disposal"
+FCO,FCO,26/08/2015,"5,169,640","517,272.70",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Property Maintenance Overseas Residential, Rent Deposits, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,20/08/2015,"5,164,952","465,933.30",HIGH VILL KAZAKHSTAN,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,12/08/2015,"5,155,003","437,319.10",ARTEOS GMBH,"Electricity Non-Residential, Estates - Other Machinery and Equipment, Pfi : Public/Private Partnership Consultants Fees Non-Residential, Waste Disposal, Water Residential"
+FCO,FCO,24/08/2015,"5,167,217","331,445.90",G4S SECURE SOLUTIONS UK,Manned Guarding Services
+FCO,FCO,07/08/2015,"5,148,448","318,353.80",MSECURE LIMITED,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,19/08/2015,"5,163,483","304,786.50",ADAM SMITH INTERNATIONAL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,19/08/2015,"5,163,454","300,000",SLAUGHTER AND MAY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/08/2015,"5,169,598","296,539.40",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
+FCO,FCO,26/08/2015,"5,169,643","263,800.80",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,13/08/2015,"5,158,438","259,848",SECURITY SERVICES GROUP,Site Maintenance
+FCO,FCO,05/08/2015,"5,146,039","246,698.10",GILBERT ASH LIMITED,"Assets Under Construction (Oracle PA Control Account), Construction Project more than ÂŁ10k"
+FCO,FCO,26/08/2015,"5,169,646","223,275",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Rent Deposits, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,159,598","205,571.90",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,159,600","200,147.80",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Rent Deposits, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,26/08/2015,"5,169,644","196,627",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Rates Taxes Non-Residential, Rates Taxes Residential, Rental Payments - residential, Telephone Call Charges, Water Residential"
+FCO,FCO,05/08/2015,"5,145,695","178,254",CAPGEMINI UK PLC,Estates Management Services
+FCO,FCO,06/08/2015,"5,147,307","169,110.10",COMITATO INTERNAZIONALE PER LO SVILUPPO DEI POPOLI CISP,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,17/08/2015,"5,161,019","165,448",STABILIZATION SUPPORT SERVICES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/08/2015,"5,166,113","156,241.10",DBB CONSTRUCTION DECORATION CO LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,17/08/2015,"5,160,956","156,143.40",PEACEFUL CHANGE INITIATIVE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,13/08/2015,"5,157,640","142,327.80",KELLOGG BROWN AND ROOT,Estates Management Services
+FCO,FCO,11/08/2015,"5,152,032","137,156.40",PICKFORDS MOVE MANAGEMENT LTD,Heavy Baggage
+FCO,FCO,14/08/2015,"5,159,982","136,955.40",ISS FACILITY SERVICES LTD FCO OP,"FM Interserve BES Maintenance, FM Interserve Cleaning, Unscheduled repairs to building infrastructure"
+FCO,FCO,14/08/2015,"5,159,603","129,867.70",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Non-Residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,159,622","124,156.10",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - residential, Telephone Call Charges, Water Residential"
+FCO,FCO,06/08/2015,"5,147,478","121,084",LANGUAGE SERVICES DIRECT,Language Tuition: Essential
+FCO,FCO,11/08/2015,"5,152,273","115,698.60",ASSOCIATION OF MIDDLE EAST STUDIES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/08/2015,"5,144,742","115,378",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,06/08/2015,"5,147,135","113,615.40",CEUME CONSORTIUM FOR ENHANCEMENT OF UKRAINIAN MANAGEMENT EDUCATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,07/08/2015,"5,148,771","111,740.70",KAINOS SOFTWARE LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,19/08/2015,"5,163,958","110,045",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,03/08/2015,"5,143,241","109,323.30",AFRICAN SKIES LTD,Local Guards
+FCO,FCO,05/08/2015,"5,146,122","108,978.50",WAR CHILD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,11/08/2015,"5,151,941","105,963.60",HEALIX INTERNATIONAL LTD,Fco Healthcare Scheme
+FCO,FCO,03/08/2015,"5,143,240","105,796.70",AFRICAN SKIES LTD,Local Guards
+FCO,FCO,20/08/2015,"5,165,037","102,000",EXTRASPACE SOLUTIONS,Construction Project more than ÂŁ10k
+FCO,FCO,26/08/2015,"5,169,657","100,472.60",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Telephone line and equipment rental charges, Water Residential"
+FCO,FCO,11/08/2015,"5,152,331","100,064.60",VESTGUARD UK LTD,Misc Security Payments
+FCO,FCO,19/08/2015,"5,163,307","94,527.26",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/08/2015,"5,159,943","94,144.28",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,05/08/2015,"5,145,712","91,847.27",ADAM SMITH INTERNATIONAL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/08/2015,"5,169,653","86,970.13",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Residential, Gas Residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,159,936","81,583.89",ISS FACILITY SERVICES LTD FCO OP,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,26/08/2015,"5,169,648","81,424.07",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Fuel Oil Non-Residential, Gas Non-Residential, Gas Residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal, Water Non-Residential, Water Residential"
+FCO,FCO,19/08/2015,"5,163,960","80,093.95",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,27/08/2015,"5,170,895","79,529.14",AKON SERVICE I STOCKHOLM AB,Construction Project more than ÂŁ10k
+FCO,FCO,26/08/2015,"5,169,650","79,390.10",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Residential"
+FCO,FCO,11/08/2015,"5,153,103","75,250.71",KELLOGG BROWN AND ROOT,UK Guarding Contracts Overseas
+FCO,FCO,14/08/2015,"5,159,606","74,925.48",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Fuel Oil Non-Residential, Gas Non-Residential, Gas Residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,12/08/2015,"5,154,566","73,902",FCO SERVICES,IT/IS Consultancy
+FCO,FCO,25/08/2015,"5,168,221","70,405.36",HOTELLINE ,"Meals, Rental Payments - residential"
+FCO,FCO,14/08/2015,"5,159,632","70,066.68",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,07/08/2015,"5,148,849","67,926.28",PICKFORDS MOVE MANAGEMENT LTD,Heavy Baggage
+FCO,FCO,21/08/2015,"5,165,571","67,619",GUANGZHOU MEILUN AUTOMOBILE CO LTD,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,06/08/2015,"5,147,444","67,209.89",LANGUAGE SERVICES DIRECT,Language Tuition: Essential
+FCO,FCO,26/08/2015,"5,169,457","67,194.22",HOTELLINE ,"Meals, Rental Payments - residential"
+FCO,FCO,05/08/2015,"5,145,649","65,108.93",PICKFORDS MOVE MANAGEMENT LTD,"Heavy Baggage, Personal Car Freight, Unaccompanied Air Freight"
+FCO,FCO,26/08/2015,"5,169,639","64,566.92",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,17/08/2015,"5,161,125","64,300",GILBERT ASH LIMITED,Unscheduled repairs to building infrastructure
+FCO,FCO,12/08/2015,"5,155,805","64,142.48",G4S SECURE SOLUTIONS SA,Consular Crisis Expenditure
+FCO,FCO,26/08/2015,"5,169,631","62,248.29",INTERSERVE FM LTD,Energy Saving Measures
+FCO,FCO,05/08/2015,"5,145,818","62,217.80",INTER MEDIATE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/08/2015,"5,159,920","61,816.15",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,13/08/2015,"5,158,444","61,435.24",GLOBAL PARTNERS GOVERNANCE PRACTICE LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,27/08/2015,"5,170,974","60,764.12",ADAM SMITH INTERNATIONAL,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,07/08/2015,"5,148,567","59,881.81",G4S SECURE SOLUTIONS SA,Consular Crisis Expenditure
+FCO,FCO,19/08/2015,"5,163,306","59,292.14",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,10/08/2015,"5,150,828","59,137.20",NATIONAL DEMOCRATIC INSTITUTE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,03/08/2015,"5,143,447","58,744.18",CAPITA BUSINESS SERVICES LTD,Language Exams (excl Hays)
+FCO,FCO,14/08/2015,"5,159,665","58,193.70",INTERSERVE FM LTD,FM Interserve BES Maintenance
+FCO,FCO,03/08/2015,"5,143,356","57,849.85",WESTMINSTER FOUNDATION FOR DEMOCRACY,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/08/2015,"5,169,655","57,521",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Rent Deposits, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,159,637","57,054.49",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Telephone line and equipment rental charges, Waste Disposal, Water Residential"
+FCO,FCO,12/08/2015,"5,154,357","56,485.90",CONSOLIDATED PR LTD,General Information Services
+FCO,FCO,07/08/2015,"5,148,683","56,046.70",PEACEFUL CHANGE INITIATIVE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/08/2015,"5,160,005","54,761.07",INTERSERVE FM LTD,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,26/08/2015,"5,169,659","54,756",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Residential, Gas Residential, Rent Deposits, Rental Payments - residential, Telephone Call Charges, Water Residential"
+FCO,FCO,12/08/2015,"5,153,792","54,445.30",DIPLOMAT FREIGHT SERVICES LTD(DFS),Post - Air Travel
+FCO,FCO,14/08/2015,"5,160,004","54,119.60",INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,07/08/2015,"5,148,580","52,651.57",G4S SECURE SOLUTIONS SA,Consular Crisis Expenditure
+FCO,FCO,14/08/2015,"5,159,913","50,939.51",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,17/08/2015,"5,161,120","50,879.56",CONTROL RISKS GROUP,Local Guards
+FCO,FCO,14/08/2015,"5,159,120","50,301.09",BBC MEDIA ACTION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/08/2015,"5,169,638","49,892.51",ISS FACILITY SERVICES LTD FCO OP - POE,"Gas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal, Water Residential"
+FCO,FCO,07/08/2015,"5,149,020","48,673.13",FCO SERVICES,IT/IS Consultancy
+FCO,FCO,05/08/2015,"5,145,659","48,415.39",SAUDI BRITISH JOINT BUSINESS COUNCIL SBJBC,Miscellaneous Expenditure: inc subscriptions and equipment maintenance
+FCO,FCO,24/08/2015,"5,167,176","48,006.70",VESTGUARD UK LTD,Estates - Other Machinery and Equipment
+FCO,FCO,24/08/2015,"5,167,195","48,006.70",VESTGUARD UK LTD,Estates - Other Machinery and Equipment
+FCO,FCO,25/08/2015,"5,168,350","47,866.89",GLOBAL PARTNERS GOVERNANCE PRACTICE LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,07/08/2015,"5,148,572","47,073.97",G4S SECURE SOLUTIONS SA,Consular Crisis Expenditure
+FCO,FCO,13/08/2015,"5,157,467","46,150",COMPUTACENTER UK LTD,IT/IS Consultancy
+FCO,FCO,17/08/2015,"5,161,141","45,650",ENGLANDS SPECIALIST SAFETY EQUIP,Misc Security Payments
+FCO,FCO,11/08/2015,"5,152,484","45,000",IIZUKA,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/08/2015,"5,159,593","43,978.16",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal"
+FCO,FCO,21/08/2015,"5,165,678","43,600.24",INTERSERVE FM LTD,"Building Fabric Services, Building Mechanical and Engineering Services, Catering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Purchase of Furniture, Fittings and Domestic Appliances"
+FCO,FCO,10/08/2015,"5,150,582","43,363.54",CREATIVE ASSOCIATES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/08/2015,"5,169,649","43,083.31",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Non-Residential, Gas Residential, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,158,931","42,311.63",COMMUNITY WORLD SERVICE ASIA,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,13/08/2015,"5,157,115","42,102.23",CATHOLIC RELIEF SERVICES,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/08/2015,"5,159,945","41,290.89",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,14/08/2015,"5,159,994","41,155.51",INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Residential Property Services, Waste Disposal"
+FCO,FCO,12/08/2015,"5,155,259","40,939.29",CHONGQING LOW-CARBON ASSOCIATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,26/08/2015,"5,169,789","40,871.39",HARIS ENTERPRISES PVT LTD,Local Guards
+FCO,FCO,04/08/2015,"5,144,758","40,000",TFPL LTD,Specialist Contractors
+FCO,FCO,12/08/2015,"5,154,986","39,944",LAW ENFORCEMENT INTERNATIONAL LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,21/08/2015,"5,166,145","39,892.17",SECURITAS SAC,Security: Works Residential
+FCO,FCO,07/08/2015,"5,148,806","39,755.55",THE THOMSON FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/08/2015,"5,159,611","39,557.67",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Non-Residential, Gas Residential, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Rental Payments - residential, Telephone Call Charges, Water Residential"
+FCO,FCO,26/08/2015,"5,169,642","39,370.25",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,27/08/2015,"5,171,112","38,770.69",ZENITH COUNCIL DEUTSCHER LEVANTE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/08/2015,"5,144,612","38,708.69",AMB DYNAMIC SUPPORT SRL,Recharge Suspense Account (Oracle PA Control Account)
+FCO,FCO,03/08/2015,"5,143,249","38,593",FCO SERVICES,Post - Air Travel
+FCO,FCO,05/08/2015,"5,145,940","38,510.30",THE THOMSON FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,13/08/2015,"5,157,677","38,466.22",KELLOGG BROWN AND ROOT,UK Guarding Contracts Overseas
+FCO,FCO,14/08/2015,"5,159,937","38,252.44",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,10/08/2015,"5,150,833","38,100.80",INTERNATIONAL RELIEF AND DEVELOPMENT,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/08/2015,"5,159,848","38,085.23",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
+FCO,FCO,17/08/2015,"5,161,151","37,865.33",STEER DAVIES AND GLEAVE MEXICO,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,03/08/2015,"5,143,290","37,529.10",KOIZA INTERNATIONAL LTD,Repair and maintenance of furniture and fittings
+FCO,FCO,17/08/2015,"5,161,121","37,081",ASSOCIATION FOR THE PREVENTION OF TORTURE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,06/08/2015,"5,147,415","36,973.84",DX NETWORK SERVICES,Postal Services
+FCO,FCO,14/08/2015,"5,159,594","36,535.74",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,159,978","35,855.91",ISS FACILITY SERVICES LTD FCO OP,"FM Interserve BES Maintenance, FM Interserve Cleaning, Unscheduled repairs to building infrastructure"
+FCO,FCO,04/08/2015,"5,144,072","35,137.40",WOMEN EMPOWERMENT LITERACY DEV ORG,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,10/08/2015,"5,150,779","35,003.65",RANGER PROTECTION AND SECURITY COMPANY LTD,Local Guards
+FCO,FCO,27/08/2015,"5,171,107","34,989.50",ZENITH COUNCIL DEUTSCHER LEVANTE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/08/2015,"5,144,581","34,730.03",TURNER AND TOWNSEND PROPERTY SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/08/2015,"5,159,695","34,086.24",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
+FCO,FCO,12/08/2015,"5,155,015","33,310",KADEWE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,14/08/2015,"5,159,614","32,992.63",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Rent Deposits, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal, Water Residential"
+FCO,FCO,20/08/2015,"5,164,477","32,762.24",GO GROUP NLE,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,04/08/2015,"5,144,042","32,670.64",SACH STRUGGLE FOR CHANGE,Human Rights: FMU
+FCO,FCO,14/08/2015,"5,159,977","31,921.62",ISS FACILITY SERVICES LTD FCO OP,"FM Interserve BES Maintenance, FM Interserve Cleaning, Unscheduled repairs to building infrastructure"
+FCO,FCO,05/08/2015,"5,145,883","31,762.90",MARSH UK LTD,Insurance Of Personal Effects
+FCO,FCO,14/08/2015,"5,159,597","31,727.55",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Property Maintenance Overseas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,159,942","31,624.48",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,03/08/2015,"5,143,465","31,470",LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,Specialist Training (Devolved)
+FCO,FCO,03/08/2015,"5,143,491","31,399.40",TURNER AND TOWNSEND PROPERTY SERVICES,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,14/08/2015,"5,159,615","31,157.74",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - residential, Telephone Call Charges, Water Residential"
+FCO,FCO,14/08/2015,"5,159,932","30,757.58",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
+FCO,FCO,13/08/2015,"5,157,045","30,233.15",G4S SECURITY SERVICE DRC SPRL,Local Guards
+FCO,FCO,07/08/2015,"5,148,537","30,000",FUJITSU SERVICES LIMITED,IT/IS Consultancy
+FCO,FCO,04/08/2015,"5,144,417","29,705.16",BRITSOURCE INTERNATIONAL,Property Maintenance Overseas Residential
+FCO,FCO,07/08/2015,"5,148,544","29,446.32",G4S SECURE SOLUTIONS SA,Consular Crisis Expenditure
+FCO,FCO,13/08/2015,"5,157,453","28,520",KINETIC SIX LTD,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,07/08/2015,"5,149,004","28,280.34",HAYS SPECIALIST RECRUITMENT LTD,Miscellaneous Expenditure: inc subscriptions and equipment maintenance
+FCO,FCO,14/08/2015,"5,159,421","28,258.44",PICKFORDS MOVE MANAGEMENT LTD,Heavy Baggage
+FCO,FCO,05/08/2015,"5,145,948","27,783.65",HEALIX INTERNATIONAL LTD,Hospital/Specialist Treatment
+FCO,FCO,26/08/2015,"5,169,654","27,751.74",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal, Water Non-Residential, Water Residential"
+FCO,FCO,14/08/2015,"5,160,000","27,051.65",INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Waste Disposal"
+FCO,FCO,14/08/2015,"5,159,605","26,957.27",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Electricity Residential, Gas Residential, Rental Payments - non residential, Rental Payments - residential, Waste Disposal"
+FCO,FCO,14/08/2015,"5,160,007","26,673.96",INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Estates Management Services, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,04/08/2015,"5,144,556","26,120",INSTITUT FRANCAIS,Language Tuition: Essential
+FCO,FCO,05/08/2015,"5,145,717","25,340",EDGAR BROTHERS,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,07/08/2015,"5,149,019","25,173.75",FCO SERVICES,Air Freight Dip Bags - Freight & Clearance Charges
+FCO,FCO,14/08/2015,"5,159,990","25,138.35",INTERSERVE FM LTD,"Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Minor New Works <10K, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Rematching / Reinstatement, Residential Property Services, Waste Disposal"
+FCO,FCO,12/08/2015,"5,156,133","-28,149.38",COMPUTACENTER UK LTD,Recruitment - Gen And Training
+FCO,FCO,20/08/2015,"5,165,025","-33,822.43",COMPUTACENTER UK LTD,Recruitment - Gen And Training
+FCO,FCO,07/08/2015,"5,148,810","-39,755.55",THE THOMSON FOUNDATION,Programme Spend (Oracle Projects Control Account)
+FCO,FCO,12/08/2015,"5,156,064","-44,226.79",COMPUTACENTER UK LTD,Recruitment - Gen And Training
+FCO,FCO,06/08/2015,"5,147,234","-59,122",FCO SERVICES,IT/IS Consultancy
+FCO,FCO,25/08/2015,"5,168,775","-76,695.26",CROWN AGENTS,Assets Under Construction (Oracle PA Control Account)
+FCO,FCO,20/08/2015,"5,165,105","-100,064.60",VESTGUARD UK LTD,Misc Security Payments

@@ -5,25 +5,24 @@
   "run_file": "runs.csv",
   "source_file": "sources.csv",
   "publisher_file": "publishers.csv",
-  "performance_file": "publishers.csv",
+  "performance_file": "performance.csv",
   "remotes": ["origin"],
   "branch": "master",
-  "goodtables_web": "http://goodtables.okfnlabs.org",
-  "data_key": "data",
-  "schema_key": "schema",
-  "format_key": "format",
-  "sleep": 3,
   "goodtables": {
-    "location": "http://goodtables.okfnlabs.org",
-    "processors": ["structure", "schema"],
+    "goodtables_web": "http://goodtables.okfnlabs.org",
     "arguments": {
-      "encoding": "ISO-8859-2",
       "pipeline": {
-        "post_task": "",
-        "options": {}
+        "processors": ["structure", "schema"],
+	"options":{
+          "schema": {"case_insensitive_headers": true}
+	},
+	"encoding": "ISO-8859-2"
       },
       "batch": {
-        "post_task": ""
+	"sleep":2,
+	"data_key": "data",
+      	"format_key": "format",
+        "schema_key": "schema"
       }
     }
   }

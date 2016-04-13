@@ -1,0 +1,34 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Narrative
+HM Treasury,HM Treasury,05/08/2010,Cost Additions - IT Hardware,Corporate Services,CABINET OFFICE,86309,50000,IT services
+HM Treasury,HM Treasury,05/08/2010,Maintenance,Corporate Services,MITIE MANAGED SERVICES LTD,86367,27583.49,Estates Norwich Office
+HM Treasury,HM Treasury,05/08/2010,Maintenance,Corporate Services,MITIE MANAGED SERVICES LTD,86386,32442.55,Estates Norwich Office
+HM Treasury,HM Treasury,05/08/2010,Consultants - Mgt - Non Advisory,Public Services & Growth,DESCISYS LTD,86476,28493.75,COINS System support
+HM Treasury,UKFI,06/08/2010,VAT Control Account,UKFI,HM REVENUE AND CUSTOMS,86525,31235.43,VAT payment 
+HM Treasury,HM Treasury,09/08/2010,It Equipment  - Current,Corporate Services,CABLE & WIRELESS PLC,85746,60718.96,IT services
+HM Treasury,HM Treasury,10/08/2010,Capital payment on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,86361,128554.76,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/08/2010,Rent on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,86361,360938.03,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/08/2010,Interest Payable on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,86361,811037.96,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/08/2010,Service Charges,Corporate Services,EXCHEQUER PARTNERSHIP PLC,86361,2308.83,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/08/2010,Service Element of PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,86361,309278.52,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/08/2010,Service Charges,Corporate Services,EXCHEQUER PARTNERSHIP PLC,86362,31357.1,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/08/2010,AME Mint Stock Metal Costs,Macro Economic & Fiscal Policy,ROYAL MINT,86447,1365590.3,
+HM Treasury,HM Treasury,10/08/2010,DEL Mint Stock Manufacturing Costs,Macro Economic & Fiscal Policy,ROYAL MINT,86447,1174203,
+HM Treasury,HM Treasury,10/08/2010,Electricity,Corporate Services,EDF ENERGY,86450,47566.55,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/08/2010,Equitable Life Enquiry,"Budget, Tax & Welfare",DELOITTE LLP,86591,71536.9,
+HM Treasury,APA,10/08/2010,Rates,Operations,CORPORATION OF LONDON,86614,43536,Office Management Facilities
+HM Treasury,HM Treasury,12/08/2010,Consultants - Mgt - Non Advisory,Public Services & Growth,CAPGEMINI UK PLC,86669,31325.5,Development of COINS replacement
+HM Treasury,DMO,16/08/2010,Market data services,Business Delivery,REUTERS LIMITED,86231,104830.33,
+HM Treasury,APA,18/08/2010,Cost Additions - Assets Under Construction Software Licences,Risk,PRICEWATERHOUSECOOPERS,86142,386324.48,Asset Protection Scheme Advice -software development
+HM Treasury,DMO,18/08/2010,IT support and maintenance recoverable,Business Delivery,KING & SHAXSON BOND BROKERS,86790,22500,
+HM Treasury,DMO,18/08/2010,DMO - Banking Costs,Settlements,BANK OF ENGLAND,86792,38712.07,
+HM Treasury,APA,20/08/2010,Consultants - Mgt - Non Advisory,Infrastructure Management,KPMG LLP,86403,75809.83,Asset Protection Scheme Advice
+HM Treasury,HM Treasury,20/08/2010,Consultancy - Other prof svcs framwrk agrmts,Corporate Services,DEPARTMENT FOR WORKS AND PENSIONS,86408,310000,Cross government exercise on major financial systems
+HM Treasury,HM Treasury,20/08/2010,Rent,Corporate Services,ST ANDREW'S PARK NORWICH LTD,86850,282793.13,Estates Norwich
+HM Treasury,HM Treasury,24/08/2010,Hire Of It Equipment,Corporate Services,THE DANWOOD GROUP LTD,85901,64693.41,Printers/ copiers
+HM Treasury,HM Treasury,24/08/2010,IT support and maintenance recoverable,Corporate Services,SPECIALIST COMPUTER CENTRES PLC,86833,29980,warranty
+HM Treasury,HM Treasury,24/08/2010,Govt. Car Service,Permanent Secretary & Ministersanent Secretary & Ministers,GCDA (GOVERNMENT CAR SERVICE),86848,25823.85,
+HM Treasury,HM Treasury,24/08/2010,Equitable Life Enquiry,"Budget, Tax & Welfare",ONE ESSEX COURT LTD,86856,33250,
+HM Treasury,HM Treasury,24/08/2010,Telephone Rental,Corporate Services,COI COMMUNICATIONS,86914,40537.5,TREASURY HOPTV SERVICE 2010-2011
+HM Treasury,HM Treasury,24/08/2010,Procurement Card,Corporate Services,NATWEST BANK PLC,86919,121538.68,various purchases on Government Procurement Card
+HM Treasury,HM Treasury,24/08/2010,Consultancy - Legal -  Contracted out services,Corporate Services,THE TREASURY SOLICITOR,86920,285811.21,Treasury Legal Advisors - salary costs recharged from TSOL 
+HM Treasury,HM Treasury,26/08/2010,IT profssnl svcs contractd out,Corporate Services,EXCHEQUER PARTNERSHIP PLC,86965,26653.9,Estates 1 Horse Guards Road

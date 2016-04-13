@@ -1,0 +1,54 @@
+Department Family,Entity,Date,Expense Area,Expense Type,Supplier,Transaction Number,Transaction Description,Amount
+HM Treasury,HM Treasury,01-Nov-11,Corporate Centre Group,UKFI MANAGEMENT FEE,UK FINANCIAL INVESTMENTS LTD,95204,UKFI MANAGEMENT FEE NOVEMBER 2011,500000
+HM Treasury,HM Treasury,02-Nov-11,Business and International Tax Grp,Equitable Life,DELOITTE MCS LTD,95133,For professional services for the design of the Equitable Life Payments Scheme for September 2011.,54527.34
+HM Treasury,HM Treasury,02-Nov-11,Business and International Tax Grp,Equitable Life,DELOITTE MCS LTD,95134,For consulting services in support of the Equitable Life Payments Scheme for September 2011 .,57200.13
+HM Treasury,HM Treasury,02-Nov-11,Financial Group,Financial Stability Consultancy,PRICEWATERHOUSECOOPERS ,93622,INDEPENDENT VALUER BRADFORD AND BINGLEY 06-30 JUNE 2011 - RECHARGEABLE TO BRADFORD & BINGLEY,63604.12
+HM Treasury,HM Treasury,02-Nov-11,Corporate Centre Group,TSols Contract,THE TREASURY SOLICITOR,95156,TSOL TREASURY LEGAL ADVISORS - SALARY COST RECHARGED FROM TSOL,250203.23
+HM Treasury,HM Treasury,02-Nov-11,Corporate Centre Group,TSols Contract,THE TREASURY SOLICITOR,95156,TSOL TREASURY LEGAL ADVISORS - SALARY COST RECHARGED FROM TSOL,6618
+HM Treasury,APA,04-Nov-11,APA,Data Management,PRICEWATERHOUSECOOPERS ,95208,"PROFESSIONAL FEES - SEPTEMBER 2011 - ASSET PROTECTION AGENCY VALIDATION FEES (processing of data received from RBS)
+",71196.79
+HM Treasury,HM Treasury,04-Nov-11,Business and International Tax Grp,Equitable Life,TOWERS WATSON,95188,Actuarial support to HM Treasury in respect of the Equitable Life Payment Scheme for September 2011. ,179016.32
+HM Treasury,HM Treasury,07-Nov-11,Corporate Centre Group,Estates,EXCHEQUER PARTNERSHIP PLC,95183,"POST, GOODS & PORTERAGE COSTS NOVEMBER 2011",33736.46
+HM Treasury,HM Treasury,07-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),FUJITSU SERVICES LIMITED,95281,HMT WORKPLACE OPTIMISATION PROJECT,25985.5
+HM Treasury,HM Treasury,07-Nov-11,Corporate Centre Group,FLEX Services,FUJITSU SERVICES LIMITED,95261,FLEX SERVICES JUNE 11,647277.93
+HM Treasury,HM Treasury,07-Nov-11,Corporate Centre Group,FLEX Services,FUJITSU SERVICES LIMITED,95260,FLEX SERVICES JULY 11,657591.91
+HM Treasury,HM Treasury,07-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),MICHELMORES SOLICITORS,95220,LEGAL ADVICE IN RELATION TO THE WORKSPACE OPTIMISATION PROJECT,21540.53
+HM Treasury,DMO,09-Nov-11,DMO,Consolidated Projects,NETWORKERS RECRUITMENT SERVICES LTD ,95271,SOFTWARE DEVELOPMENT FOR THE DEBT MANAGEMENT OFFICE - AUGUST - OCTOBER 2011,26918.1
+HM Treasury,HM Treasury,09-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),SENATOR INTERNATIONAL LTD,95291,WORKPLACE OPTIMISATION PROJECT COSTS,26896.86
+HM Treasury,DMO,09-Nov-11,DMO,Consolidated Projects,TESSELLA PLC,95318,THIS PAYMENT REPRESENTS THE WORK UNDERTAKEN IN OCTOBER TOWARDS A PROJECT DELIVERY MILESTONE.,20969.63
+HM Treasury,HM Treasury,11-Nov-11,Corporate Centre Group,Estates,EDF ENERGY,95365,ELECTRICITY OCTOBER 2011,47133.95
+HM Treasury,HM Treasury,11-Nov-11,Corporate Centre Group,Estates,EXCHEQUER PARTNERSHIP PLC,95182,UNITARY PAYMENT FOR NOVEMBER 2011,2040424.86
+HM Treasury,UKFI,11-Nov-11,UKFI,UKFI Balance Sheet,HM REVENUE AND CUSTOMS,95350,UKFI VAT AUGUST - OCTOBER 2011,114768.91
+HM Treasury,HM Treasury,11-Nov-11,Financial Management Reporting Grp,Project OSCAR (inc DPI),IBM UK,95374,INFRASTRUCTURE SERVICE HOSTING 01/10/11 - 01/11/11,63806.4
+HM Treasury,HM Treasury,11-Nov-11,Financial Management Reporting Grp,Project OSCAR (inc DPI),IBM UK,95375,INFRASTRUCTURE SERVICE HOSTING 01/11/11 - 01/12/11,63806.4
+HM Treasury,HM Treasury,11-Nov-11,Financial Management Reporting Grp,Project OSCAR (inc DPI),IBM UK,95376,PROJECT OSCAR TRANSITION - INFRASTRUCTURE SET UP,118429.2
+HM Treasury,HM Treasury,11-Nov-11,Corporate Centre Group,Hmt Suspense,ROYAL MINT,95187,PAYMENT FOR METAL AND COINAGE PRODUCTION COSTS - OCTOBER 2011,146031.6
+HM Treasury,HM Treasury,11-Nov-11,Corporate Centre Group,Hmt Suspense,ROYAL MINT,95187,PAYMENT FOR METAL AND COINAGE PRODUCTION COSTS - OCTOBER 2011,197175.44
+HM Treasury,HM Treasury,11-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),TURNER AND TOWNSEND,95254,WORKPLACE OPTIMISATION PROJECT COSTS,72000
+HM Treasury,HM Treasury,16-Nov-11,Corporate Centre Group,IS Retained Services,BT PLC,94629,BT LINE RENTAL AND CALL CHARGES - JUNE - SEPTEMBER 2011,26030.71
+HM Treasury,HM Treasury,16-Nov-11,Corporate Centre Group,IS Retained Services,COI COMMUNICATIONS,95404,ANNUAL TV SERVICE CHARGE FOR ACCESS TO THE CENTRAL OFFICE OF COMMUNICATION - 01/04/11 - 31/03/11,35190
+HM Treasury,HM Treasury,16-Nov-11,Business and International Tax Grp,Equitable Life,NATIONAL SAVINGS AND INVESTMENTS,95421,Development and implementation of the payment system for the Equitable Life Payment Scheme for September 2011,257481.68
+HM Treasury,HM Treasury,16-Nov-11,Business and International Tax Grp,Equitable Life,NATIONAL SAVINGS AND INVESTMENTS,95423,Operational costs for the Equitable Life Payment Scheme for September 2011.,864176.2
+HM Treasury,APA,17-Nov-11,APA,Risk and Analysis,BLOOMBERG FINANCE L.P.,95346,FINANCIAL INFORMATION SERVICES - APA,29252.67
+HM Treasury,DMO,17-Nov-11,DMO,Business Delivery,BLOOMBERG FINANCE L.P.,95604,FINANCIAL INFORMATION SERVICES - DMO,47353.94
+HM Treasury,HM Treasury,18-Nov-11,Business and International Tax Grp,Equitable Life,DELOITTE MCS LTD,95464,For professional services for the design of the Equitable Life Payments Scheme for October 2011.,57692.11
+HM Treasury,HM Treasury,18-Nov-11,Corporate Centre Group,FLEX Services,FUJITSU SERVICES LIMITED,95475,FLEX SERVICES FEBRUARY 2011,409634.9
+HM Treasury,HM Treasury,18-Nov-11,Corporate Centre Group,FLEX Services,FUJITSU SERVICES LIMITED,95476,FLEX SERVICES MAY 2011,433743.15
+HM Treasury,DMO,21-Nov-11,DMO,Settlements,BANK OF ENGLAND ,95530,BANKING CHARGES - OCTOBER 2011,58300.23
+HM Treasury,HM Treasury,21-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),EXCHEQUER PARTNERSHIP PLC,95189,HMT WORKPLACE OPTIMISATION PROJECT,85672.12
+HM Treasury,HM Treasury,21-Nov-11,Financial Management Reporting Grp,Project OSCAR (inc DPI),FUJITSU SERVICES LIMITED,95440,IT TESTING COSTS FOR PROJECT OSCAR,41355.61
+HM Treasury,HM Treasury,23-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),FUJITSU SERVICES LIMITED,95478,HMT WORKPLACE OPTIMISATION PROJECT,25359.02
+HM Treasury,HM Treasury,23-Nov-11,Corporate Centre Group,IS Retained Services,GOVERNMENT PROCUREMENT SERVICE,95074,TELECOMMUNICATION COSTS - TO BE RECOVERED FROM CABINET OFFICE,68497.86
+HM Treasury,HM Treasury,23-Nov-11,Corporate Centre Group,Hmt Suspense,NATWEST BANK PLC ,95537,VARIOUS COSTS SETTLED THROUGH GOVERNMENT PROCUREMENT CARD - NOVEMBER 2011,79453.25
+HM Treasury,HM Treasury,23-Nov-11,Corporate Centre Group,Hmt Suspense,RBS LODGE ,95536,VARIOUS COSTS SETTLED THROUGH THE LODGE CARD - NOVEMBER 2011,62744.05
+HM Treasury,HM Treasury,23-Nov-11,Business and International Tax Grp,Equitable Life,TOWERS WATSON,95547,Actuarial support to HM Treasury in respect of the Equitable Life Payment Scheme for October 2011. ,262582.57
+HM Treasury,HM Treasury,23-Nov-11,Corporate Centre Group,IS Retained Services,TRUSTMARQUE SOLUTIONS,95511,ANNUAL LICENCE RENEWAL FOR THE DEPARTMENTS RECORD MANAGEMENT SYSTEM,156793.47
+HM Treasury,HM Treasury,23-Nov-11,Enterprise & Growth Grp,IUK,UNUM LTD,95553,TUPE CONTRACTUAL BENEFITS 04/11/11 - 03/11/12,66830.25
+HM Treasury,HM Treasury,28-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),EXCHEQUER PARTNERSHIP PLC,95568,HMT WORKPLACE OPTIMISATION PROJECT,856599.83
+HM Treasury,APA,28-Nov-11,APA,Risk and Analysis,GOVERNMENT ACTUARY'S DEPT,95607,ACTURIAL SERVICES for the period ending 31/10/11,37548
+HM Treasury,HM Treasury,30-Nov-11,Financial Management Reporting Grp,Financial Management,DESCISYS LTD,95615,IT SUPPORT FOR COINS SYSTEM  30/12/11 - 29/03/12,120037.5
+HM Treasury,HM Treasury,30-Nov-11,Corporate Centre Group,Finance Central,ECOVERT FM,95641,BUILDING REFURBISMENT COSTS,25874.38
+HM Treasury,HM Treasury,30-Nov-11,Corporate Centre Group,Finance Central,ECOVERT FM,95636,BUILDING REFURBISMENT COSTS,27840
+HM Treasury,HM Treasury,30-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),EXCHEQUER PARTNERSHIP PLC,95565,HMT WORKPLACE OPTIMISATION PROJECT,170667.26
+HM Treasury,HM Treasury,30-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),EXCHEQUER PARTNERSHIP PLC,95646,HMT WORKPLACE OPTIMISATION PROJECT,1660882.55
+HM Treasury,HM Treasury,30-Nov-11,Corporate Centre Group,Workspace Optimisation (Project),SENATOR INTERNATIONAL LTD,95611,WORKPLACE OPTIMISATION PROJECT COSTS,48444.48

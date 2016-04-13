@@ -1,0 +1,4 @@
+Department family(T),Entity(T),Pay date,Expense type(T),Expense area(T),Supplier,Supplier(T),TransNo,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
+DEFRA,Cefas,01/12/2011,Lab Consumables,Corporate,202007,Barclaycard,20025850,100488.67,GPC transactions,TS17 6YG,Large,N/A,50001B,Administration
+DEFRA,Cefas,13/12/2011,Data Collection Services,Monitoring and Programme Management,201186,W STEVENSON & SONS,20025756,45600.00,Fisheries Science Partnership - Vessel Hire,TR18 5HB,Small,N/A,C3300A,Programme
+DEFRA,Cefas,13/12/2011,Data Collection Services,Monitoring and Programme Management,201186,W STEVENSON & SONS,20025757,45600.00,Fisheries Science Partnership - Vessel Hire,TR18 5HB,Small,N/A,C3300A,Programme

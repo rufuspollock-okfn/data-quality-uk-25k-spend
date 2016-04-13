@@ -1,0 +1,442 @@
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (ÂŁ)
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GILBERT-ASH FITOUT LIMITED,1169438,"113,083.55"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GILBERT-ASH FITOUT LIMITED,1169438,"19,789.62"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,INTUITY CONSULTING LIMITED,1169450,"15,920.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,INTUITY CONSULTING LIMITED,1169450,"5,970.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,INTUITY CONSULTING LIMITED,1169450,"3,830.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GIBS LTD,1002489,"58,659.83"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1002490,"3,713,155.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1002491,"6,179,354.73"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1002492,"8,763,706.15"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1002493,"1,134,575.12"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1002494,"6,512,934.48"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1002495,"2,256,416.94"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,DTZ DEBENHAM TIE LEUNG,1169579,"32,721.56"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG DEFENCE AND INTELLIGENCE,SAFERWORLD,1169614,"25,244.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,WILTON PARK EXECUTIVE AGENCY,1169634,"50,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Compensation,DG CHANGE & DELIVERY,THE TREASURY SOLICITOR,3000050,"123,121.74"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COB EMPLOYEE EXPENSES,3007367,"208,128.12"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,PLUOTOS CAPITAL,500002704,"45,360.99"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,PLUOTOS CAPITAL,500002704,"-45,360.99"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,PLUOTOS CAPITAL,500002704,"55,100.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,05-Aug-10,Programme and Project Management Consultancy,DG FINANCE,CONCERTO CONSULTING LTD,1169656,"22,950.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,05-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,CONCERTO CONSULTING LTD,1169656,"4,016.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,05-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,KOIZA INTERNATIONAL LTD,300000134,"29,962.59"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,05-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,KOIZA INTERNATIONAL LTD,300000134,"-29,962.59"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,05-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,KOIZA INTERNATIONAL LTD,300000134,"29,932.59"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,"45,200.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,"1,500.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,900
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,224
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,288
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,500
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,200
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,"11,106.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,18
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,14
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,"1,943.55"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1000007,35
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1000007,"8,512.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,-224
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,-14
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1000007,-41.65
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,224
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1000007,14
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"3,744.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"6,833.58"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,481
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1000022,"9,522.08"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1000022,"9,234.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"5,400.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"8,512.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"2,515.33"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"3,738.08"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"3,097.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"7,992.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1000022,"12,161.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,315.23
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,389.08
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,468.78
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,394.92
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"5,849.61"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"2,643.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"13,585.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,241.43
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,360.69
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,371.96
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,326.7
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"8,452.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"3,415.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"3,712.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"11,520.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"-11,520.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"11,158.56"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,"18,329.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1000022,"10,051.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"9,044.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"11,469.60"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,326.7
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,400.41
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,823.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1000022,"10,467.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"3,024.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,-481
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,216.12
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1000022,"1,615.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1000022,"2,128.22"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"2,007.18"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"1,952.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1000022,"1,398.60"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,462.67
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,597.71
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,440.18
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,649.74
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,655.27
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,654.16
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,271.35
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,274.41
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1000022,"1,666.36"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HAYS SPECIALIST RECRUITMENT LTD,1000022,"18,228.72"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,-216.12
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,06-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1000022,216.12
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,CM SOLUTIONS LTD,1169774,"31,540.58"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"72,568.65"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Contract Fees,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"53,873.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"33,753.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Contract Fees,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"-53,873.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Contract Fees,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"53,873.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"-72,568.65"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"72,568.65"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"-33,753.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"33,753.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"5,906.87"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"-33,753.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"-5,906.87"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Property Maintenance Overseas Non Residential,DG EUROPE AND GLOBALISATION,MORSON HUMAN RESOURCES LTD,1169807,"33,753.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Aug-10,Additional Volunteer Contribution,NON CASH & UNALLOCATED COSTS,SCOTTISH WIDOWS PLC,1169820,"31,202.69"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1169855,"502,262.03"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1169855,"1,191.38"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1169855,210.88
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1169855,"24,989.19"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,FIELD FISHER WATERHOUSE,1169897,"43,243.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FIELD FISHER WATERHOUSE,1169897,"7,567.66"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,INSTITUTE FOR PUBLIC POLICY RESEARCH,1169913,"135,593.39"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Specialist Training (Devolved),DG CHANGE & DELIVERY,ROFFEY PARK INSTITUTE LIMITED,1169965,"21,936.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Specialist Training (Devolved),DG CHANGE & DELIVERY,ROFFEY PARK INSTITUTE LIMITED,1169965,"1,438.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Specialist Training (Devolved),DG CHANGE & DELIVERY,ROFFEY PARK INSTITUTE LIMITED,1169965,568
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Uk Duty Travel,DG CHANGE & DELIVERY,ROFFEY PARK INSTITUTE LIMITED,1169965,308.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ROFFEY PARK INSTITUTE LIMITED,1169965,"4,189.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Uk Duty Travel,DG CHANGE & DELIVERY,ROFFEY PARK INSTITUTE LIMITED,1169965,-308.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Uk Duty Travel,DG CHANGE & DELIVERY,ROFFEY PARK INSTITUTE LIMITED,1169965,308.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Uk Duty Travel,DG CHANGE & DELIVERY,ROFFEY PARK INSTITUTE LIMITED,1169965,53.99
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,10-Aug-10,Uk Duty Travel,DG CHANGE & DELIVERY,ROFFEY PARK INSTITUTE LIMITED,1169965,0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1169996,"517,500.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1169996,"90,562.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,Corporate Strategy Consultancy,DG FINANCE,DTZ CONSULTING AND RESEARCH,1170014,"37,805.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,Overseas Duty Travel,DG FINANCE,DTZ CONSULTING AND RESEARCH,1170014,438.44
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DTZ CONSULTING AND RESEARCH,1170014,"6,692.61"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DTZ CONSULTING AND RESEARCH,1170014,-0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,Energy Saving Measures,DG CHANGE & DELIVERY,FIRST CLIMATE MARKETS AG,1170018,"213,369.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,SURREY POLICE AUTHORITY,1170061,"29,076.01"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,BRITISH COUNCIL,2004840,"30,927.84"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,P.A.Y.E Income Tax (Oracle PAY Control Account),NON CASH & UNALLOCATED COSTS,HM REVENUE & CUSTOMS,3000065,"4,301,834.39"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,National Insurance (NI) (Oracle PAY Control Account),NON CASH & UNALLOCATED COSTS,HM REVENUE & CUSTOMS,3000065,"2,297,868.76"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Aug-10,Customer Refund Account,NON CASH & UNALLOCATED COSTS,FPD,4007002,"89,316.90"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,12-Aug-10,Rates Taxes Non-Residential,DG CHANGE & DELIVERY,WELLINGTON CITY COUNCIL,68602,"46,184.88"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,"45,200.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,"1,500.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,900
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,224
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,288
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,500
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,200
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,"11,106.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,18
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,14
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,"1,943.55"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1170081,35
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1170081,"8,512.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,-224
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,-14
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1170081,-41.65
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,224
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1170081,14
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"3,744.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"6,833.58"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,481
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170097,"9,522.08"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170097,"9,234.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"5,400.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"8,512.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"2,515.33"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"3,738.08"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"3,097.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"7,992.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170097,"12,161.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,315.23
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,389.08
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,468.78
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,394.92
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"5,849.61"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"2,643.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"13,585.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,241.43
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,360.69
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,371.96
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,326.7
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"8,452.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"3,415.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"3,712.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"11,520.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"-11,520.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"11,158.56"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,"18,329.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170097,"10,051.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"9,044.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"11,469.60"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,326.7
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,400.41
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,823.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170097,"10,467.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"3,024.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,-481
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,216.12
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170097,"1,615.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170097,"2,128.22"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"2,007.18"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"1,952.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170097,"1,398.60"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,462.67
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,597.71
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,440.18
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,649.74
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,655.27
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,654.16
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,271.35
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,274.41
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170097,"1,666.36"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HAYS SPECIALIST RECRUITMENT LTD,1170097,"18,228.72"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,-216.12
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170097,216.12
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1170199,"31,573.92"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1170199,"20,636.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1170199,"9,136.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1170199,-0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1170199,"-31,573.92"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1170199,"-20,636.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1170199,"31,573.92"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1170199,"20,636.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GMW ARCHITECTS,1170207,"35,186.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GMW ARCHITECTS,1170207,"-35,186.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GMW ARCHITECTS,1170207,"28,674.65"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GMW ARCHITECTS,1170207,"6,512.20"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,470.3
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"14,055.02"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,567.21
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,416.04
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"20,235.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,860.54
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"81,269.59"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"3,729.18"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"3,329.29"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"1,882.84"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,654.8
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,545
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"2,820.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"1,715.06"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"1,410.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"2,131.01"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,470.12
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"1,892.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,655.37
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"1,310.02"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"19,444.97"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,563.2
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,"4,048.96"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1170221,958.19
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,PUBLIC ADMINISTRATION INTERNATIONAL,1170279,"27,754.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Information Systems Maintenance,DG CENTRAL GROUP,SYMANTEC LIRIC LTD,1170301,"186,555.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,THE CARBON TRUST,1170305,"27,150.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,BRITISH COUNCIL,1008432,"46,378.42"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Information Systems Under ĂÂŁ3000,DG CENTRAL GROUP,BRITISH TELECOM  PLC,1170364,"86,094.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Information Systems Under ĂÂŁ3000,DG CENTRAL GROUP,BRITISH TELECOM  PLC,1170364,"15,066.45"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,COFFEY INTERNATIONAL DEVELOPMENT,1170377,"108,356.31"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Inward Visits/Uk Conferences,DG CHANGE & DELIVERY,THE QUEEN ELIZABETH II CONFERENCE CENTRE,1170480,"135,927.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,THE QUEEN ELIZABETH II CONFERENCE CENTRE,1170480,"23,787.23"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,THE QUEEN ELIZABETH II CONFERENCE CENTRE,1170480,-0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,ELECTORAL REFORM INTERNATIONAL SERVICES LTD,1170510,"35,996.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1170517,"278,937.04"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1170517,"48,813.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1170517,314.47
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Aslc Contribution,NON CASH & UNALLOCATED COSTS,CABINET OFFICE,3000069,"3,529,558.10"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Added Years and Wwpsc,NON CASH & UNALLOCATED COSTS,CABINET OFFICE,3000069,"403,993.60"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Added Years and Wwpsc,NON CASH & UNALLOCATED COSTS,CABINET OFFICE,3000069,"68,200.01"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Unidentified Bank Deposits/Receipts,NON CASH & UNALLOCATED COSTS,HOME OFFICE,3000086,"6,680,428.86"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,INTERNATIONAL PEACE COOPERATION CENTER,600000301,374.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,INTERNATIONAL PEACE COOPERATION CENTER,600000301,"69,137.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,ISCOS,1021516,"39,255.13"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"2,808.30"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,581.9
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,576.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Specialist Contractors,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"8,410.56"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,"11,902.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,"2,430.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"15,600.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"11,286.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"8,960.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"3,023.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"2,808.30"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,936.1
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,380.49"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,815.29"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,552.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,296.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,406.26
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,246.97"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"4,499.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"4,704.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,789.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"7,150.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Specialist Contractors,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"7,150.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,106.56"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,292.41
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,509.38"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Interim Managers,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"6,641.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,872.20"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,860.2
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,936.1
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"2,808.30"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,936.1
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"11,158.56"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"10,360.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,"10,580.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"4,284.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"2,380.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"2,867.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,564.83"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,"8,767.31"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"11,151.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"4,115.10"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"-4,115.10"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"3,695.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,366.16"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,"9,072.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"-2,867.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"4,460.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,425.25
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,271.69
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,780.57
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,823.2
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,952.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HAYS SPECIALIST RECRUITMENT LTD,1170580,226.8
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,313.25
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,478.18
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,529.09
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,491.45
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,491.45
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,491.45
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,239.08
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,71.1
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1170580,"2,082.92"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,163.82
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,163.82
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,101.83
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,163.82
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,273.85
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,218.22
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HAYS SPECIALIST RECRUITMENT LTD,1170580,"24,092.11"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HAYS SPECIALIST RECRUITMENT LTD,1170580,0.2
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"-1,789.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,-313.25
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"1,745.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,44.28
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,305.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,7.75
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"-3,023.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,-529.09
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,"2,634.49"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,388.86
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,461.04
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Temporary Staff (Admin and Clerical Only),DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1170580,68.05
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,ENERGY AND ENVIRONMENTAL DEVELOPMENT RESEARCH CENTER,1216467,"35,597.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,19-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,THE CLIMATE GROUP,1216473,"27,403.56"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,CAPGEMINI  UK PLC,1170642,"51,161.72"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,CAPGEMINI  UK PLC,1170642,"8,953.30"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Research Budget,UK TRADE AND INVESTMENT DIRECTORATE,ERNST & YOUNG LLP,1170653,"25,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Research Budget,UK TRADE AND INVESTMENT DIRECTORATE,ERNST & YOUNG LLP,1170653,"4,375.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,GLOBAL PARTNERS & ASSOCIATES LTD,1170658,"49,323.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"12,066.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"10,597.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"18,408.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"54,351.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"69,953.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"11,270.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1170663,"42,731.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1170663,"20,047.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"12,176.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Information Systems Maintenance,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1170663,"4,004.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1170663,"13,999.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Information Systems Maintenance,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1170663,700.7
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"2,130.80"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,"44,348.88"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1170663,-0.02
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,20-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1170683,"35,406.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,INSTITUTE OF PEACE AND CONFLICT STUDIES,20006,"42,291.03"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD (FORM WES),1170711,"19,451.45"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD (FORM WES),1170711,"5,063.88"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD (FORM WES),1170711,"7,696.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Aug-10,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,EDENRED,1170737,"28,553.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Aug-10,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,EDENRED,1170737,"1,427.65"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,EDENRED,1170737,249.84
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Aug-10,Programme Spend (Oracle Projects Control Account),DG DEFENCE AND INTELLIGENCE,ETIC,14148,"25,003.10"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Aug-10,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,BRIGHT HORIZONS FAMILY SOLUTION LTD,1170842,"39,499.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Aug-10,General Information Services,DG CHANGE & DELIVERY,BULLET MARKETING LTD,1170846,"26,572.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,BULLET MARKETING LTD,1170846,"4,650.10"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Aug-10,Information Systems Maintenance,DG CENTRAL GROUP,SPECIALIST COMPUTER CENTRES PLC,1170971,"57,750.44"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,SPECIALIST COMPUTER CENTRES PLC,1170971,"10,106.33"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,FOUNDATION PROPERTY MANAGEMENT CO.LLC,925130,"33,695.97"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Aug-10,Inward Visits/Uk Conferences,DG CHANGE & DELIVERY,WRG CREATIVE COMMINICATIONS LIMITED,2000046,"2,221,865.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,WRG CREATIVE COMMINICATIONS LIMITED,2000046,"388,826.38"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Aug-10,Programme Spend (Oracle Projects Control Account),DG DEFENCE AND INTELLIGENCE,CPS - CROWN PROSECUTION SERVICE HQ,3000093,"26,559.26"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,TRP EMPLOYEE EXPENSES,3000842,"63,735.58"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Aug-10,Rent and Condominium Charges Non-Residential,DG CHANGE & DELIVERY,COLLIERS MEREDITH & GREW / TECHNOLOGY AGENCY ACCT,2000028434,"37,910.88"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,OSCE PARLIAMENTARY ASSEMBLY,1001877,"222,492.08"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,FTN Unitary Payment,DG CENTRAL GROUP,GLOBAL CROSSING,1171154,"51,345.58"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,FTN Unitary Payment,DG CENTRAL GROUP,GLOBAL CROSSING,1171154,"8,985.48"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171160,"18,856.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171160,"3,452.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171160,"45,135.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171160,"20,819.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171160,"38,678.60"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171160,"66,351.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171160,"14,976.73"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171160,"28,410.27"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171160,"41,418.86"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171160,-0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Project Works>10K,DG CHANGE & DELIVERY,WESTBURY ESTATE SERVICES LIMITED,1171234,"3,762.20"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Project Works>10K,DG CHANGE & DELIVERY,WESTBURY ESTATE SERVICES LIMITED,1171234,"6,930.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,26-Aug-10,Project Works>10K,DG CHANGE & DELIVERY,WESTBURY ESTATE SERVICES LIMITED,1171234,"16,528.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171253,"1,534,815.86"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171253,"268,592.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171253,"-1,534,815.86"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171253,"-268,592.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171253,"1,534,816.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171253,"268,592.80"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171253,"-1,534,816.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171253,"-268,592.80"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171253,"1,534,815.66"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171253,"268,592.74"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171253,"-1,534,815.66"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171253,"-268,592.74"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1171253,"1,534,815.86"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1171253,"268,592.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,STERIA LTD,1171272,"756,394.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,STERIA LTD,1171272,"132,368.95"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,Inward Visits/Uk Conferences,DG CHANGE & DELIVERY,MANTAPLAN LTD,2000052,"481,882.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,27-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,MANTAPLAN LTD,2000052,"84,329.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,31-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,WORLD ECONOMIC FORUM,1171386,"90,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,31-Aug-10,Inward Visits/Uk Conferences,DG CHANGE & DELIVERY,FELTECH ELECTRONICS LTD,2000056,"300,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,31-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FELTECH ELECTRONICS LTD,2000056,"52,500.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,31-Aug-10,Inward Visits/Uk Conferences,DG CHANGE & DELIVERY,WRG CREATIVE COMMINICATIONS LIMITED,2000058,"1,916,987.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,31-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,WRG CREATIVE COMMINICATIONS LIMITED,2000058,"335,472.73"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,31-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,YOUTH AGENDA,700001552,"46,091.80"

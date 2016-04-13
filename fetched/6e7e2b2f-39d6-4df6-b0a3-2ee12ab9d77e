@@ -1,0 +1,8 @@
+Department family(T);Entity(T);Pay date;Expense type(T);Expense area(T);Supplier;Supplier(T);TransNo;Amount;VAT Registration Number
+DEFRA;Cefas;08/10/2010;Professional Services Technical Subcontracts (original research);Monitoring and Programme Management;200408;EMU LTD;20008303;26518.00;
+DEFRA;Cefas;21/10/2010;Assets Under Construction;Corporate;201178;SSD HR SHARED SERVICES;20009026;55891.37;
+DEFRA;Cefas;21/10/2010;Professional Services Technical Subcontracts (original research);Monitoring and Programme Management;200879;NERC REF 9704;20008781;30127.00;
+DEFRA;Cefas;21/10/2010;Professional Services Technical Subcontracts (original research);Monitoring and Programme Management;201294;UNIVERSITY OF BRISTOL;20009121;30189.00;
+DEFRA;Cefas;27/10/2010;Charters;Environment & Ecosystems;200019;AFBI;20009498;39855.00;
+DEFRA;Cefas;27/10/2010;ICT Maintence & Support;Corporate;200201;Bytes Technology;20009537;25167.08;
+DEFRA;Cefas;27/10/2010;ICT Maintence & Support;Monitoring and Programme Management;200201;Bytes Technology;20009537;20243.33;

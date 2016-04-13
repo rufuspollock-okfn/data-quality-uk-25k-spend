@@ -1,0 +1,6 @@
+Department family (T),Entity (T),Pay date,Expense type (T),Expense area (T),Supplier,Supplier (T),TransNo,Amount
+DEFRA,Cefas,01/12/2010,Professional Services Technical Sub...,Monitoring and Programme Management,201594,MARIN,20010110,"114,000.00"
+DEFRA,Cefas,03/12/2010,Assets Under Construction,Monitoring and Programme Management,200229,CEFAS TECHNOLOGY LTD,20011530,"42,000.00"
+DEFRA,Cefas,10/12/2010,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20011696,"31,280.03"
+DEFRA,Cefas,10/12/2010,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20011696,"21,113.81"
+DEFRA,Cefas,10/12/2010,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20011696,"248,854.53"

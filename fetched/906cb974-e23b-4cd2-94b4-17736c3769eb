@@ -1,0 +1,2334 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier Name,Transaction Number,Spend
+Home Office,DBS - Disclosure & Barring Service,03/01/2014,IT Run Cost,DBS - Disclosure & Barring Service,CAPITA BUSINESS SERVICES LTD,1001520116,"33,403.56"
+Home Office,DBS - Disclosure & Barring Service,03/01/2014,IT Run Cost,DBS - Disclosure & Barring Service,CAPITA BUSINESS SERVICES LTD,1001520116,"286,384.32"
+Home Office,DBS - Disclosure & Barring Service,03/01/2014,IT Run Cost,DBS - Disclosure & Barring Service,HOME OFFICE,9000066,"112,284.46"
+Home Office,DBS - Disclosure & Barring Service,06/01/2014,IT Run Cost,DBS - Disclosure & Barring Service,CAPITA BUSINESS SERVICES LTD,1001520775,"35,190.00"
+Home Office,DBS - Disclosure & Barring Service,10/01/2014,DBS Direct Costs,DBS - Disclosure & Barring Service,CAPITA BUSINESS SERVICES LTD,1001522816,"55,847.30"
+Home Office,DBS - Disclosure & Barring Service,10/01/2014,DBS Direct Costs,DBS - Disclosure & Barring Service,CAPITA BUSINESS SERVICES LTD,1001522816,"330,552.14"
+Home Office,DBS - Disclosure & Barring Service,10/01/2014,DBS Direct Costs,DBS - Disclosure & Barring Service,CGI IT UK LTD,1001522820,"52,320.00"
+Home Office,DBS - Disclosure & Barring Service,10/01/2014,IT Run Cost,DBS - Disclosure & Barring Service,HOME OFFICE,9000069,"56,142.23"
+Home Office,DBS - Disclosure & Barring Service,14/01/2014,IT Run Cost,DBS - Disclosure & Barring Service,HOME OFFICE,9000070,"56,142.23"
+Home Office,DBS - Disclosure & Barring Service,17/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,MAYORS OFFICE FOR POLICING AND CRIME (MOPC),1001525377,"439,723.85"
+Home Office,DBS - Disclosure & Barring Service,17/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,THE OFFICE OF THE POLICE & CRIME COMMISSIONER FOR NORTHUMBRIA,1001525487,"92,647.62"
+Home Office,DBS - Disclosure & Barring Service,17/01/2014,IT Run Cost,DBS - Disclosure & Barring Service,HOME OFFICE,9000075,"56,142.23"
+Home Office,DBS - Disclosure & Barring Service,22/01/2014,Contingent Labour,DBS - Disclosure & Barring Service,HOME OFFICE,9000077,"96,974.40"
+Home Office,DBS - Disclosure & Barring Service,23/01/2014,Legal Fees,DBS - Disclosure & Barring Service,HOME OFFICE,9000079,"54,052.96"
+Home Office,DBS - Disclosure & Barring Service,24/01/2014,DBS Direct Costs,DBS - Disclosure & Barring Service,CAPITA BUSINESS SERVICES LTD,1001528785,"1,080,344.75"
+Home Office,DBS - Disclosure & Barring Service,24/01/2014,DBS Direct Costs,DBS - Disclosure & Barring Service,CAPITA BUSINESS SERVICES LTD,1001528785,"-330,552.14"
+Home Office,DBS - Disclosure & Barring Service,24/01/2014,DBS Direct Costs,DBS - Disclosure & Barring Service,CAPITA BUSINESS SERVICES LTD,1001528785,"330,552.14"
+Home Office,DBS - Disclosure & Barring Service,27/01/2014,IT Run Cost,DBS - Disclosure & Barring Service,MINISTRY OF JUSTICE,3000047730,"33,576.04"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,AVON & SOMERSET POLICE & CRIME COMMISSIONER,1001530187,"82,639.96"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,BRITISH TRANSPORT POLICE,1001530195,"45,179.78"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,CAMBRIDGESHIRE POLICE & CRIME COMMISSIONER,1001530200,"31,075.17"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,NORTHAMPTONSHIRE OFFICE OF THE POLICE & CRIME COMMISSIONER,1001530254,"26,214.48"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,OFFICE OF THE KENT POLICE & CRIME COMMISSIONER,1001530258,"51,720.22"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR GREATER MANCHESTER,1001530259,"186,866.95"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR LEICESTERSHIRE (THE),1001530261,"56,065.28"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR STAFFORDSHIRE,1001530262,"52,098.60"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR WARWICKSHIRE,1001530263,"33,206.99"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,POLICE & CRIME COMMISSIONER FOR CHESHIRE,1001530273,"42,069.87"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,POLICE & CRIME COMMISSIONER FOR DERBYSHIRE,1001530275,"43,839.95"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,POLICE & CRIME COMMISSIONER FOR HAMPSHIRE,1001530278,"41,080.75"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,POLICE & CRIME COMMISSIONER FOR SURREY,1001530280,"37,327.97"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,ROYAL MILITARY POLICE FORCE,1001530287,"31,335.90"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,THE NOTTINGHAMSHIRE OFFICE OF THE POLICE & CRIME COMMISSIONER,1001530311,"58,033.11"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,THE POLICE & CRIME COMMISSIONER FOR LANCASHIRE,1001530312,"90,562.42"
+Home Office,DBS - Disclosure & Barring Service,28/01/2014,Criminal Record Checks,DBS - Disclosure & Barring Service,THE POLICE & CRIME COMMISSIONER FOR NORTH YORKSHIRE,1001530313,"85,889.19"
+Home Office,HMPO - HM Passport Office,03/01/2014,IT Application Consultancy & Development,HMPO - HM Passport Office,BRAMBLE.CC LIMITED,1001520049,"35,178.00"
+Home Office,HMPO - HM Passport Office,06/01/2014,Accomodation - Rent,HMPO - HM Passport Office,OSBORNE KING & MEGRAN LTD T/A OSBORNE KING CLIENTS ACCOUNT,1001520802,"27,267.73"
+Home Office,HMPO - HM Passport Office,06/01/2014,Accomodation - Rent,HMPO - HM Passport Office,OSBORNE KING & MEGRAN LTD T/A OSBORNE KING CLIENTS ACCOUNT,1001520802,"99,226.94"
+Home Office,HMPO - HM Passport Office,06/01/2014,"IT,Telecom TelephNtwork",HMPO - HM Passport Office,BT GLOBAL SERVICES,1001520772,"49,172.58"
+Home Office,HMPO - HM Passport Office,07/01/2014,Passport Production,HMPO - HM Passport Office,EQUIFAX LTD,1001521337,"163,255.49"
+Home Office,HMPO - HM Passport Office,10/01/2014,IT & Telecoms Components,HMPO - HM Passport Office,STATIONERY OFFICE LTD (THE),1001522914,"151,380.00"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"279,267.60"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"291,235.20"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"311,124.00"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"373,122.00"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"1,010,661.60"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"815,230.80"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"132,631.20"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"129,024.00"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"73,363.20"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"73,363.20"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"179,718.00"
+Home Office,HMPO - HM Passport Office,10/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"194,803.20"
+Home Office,HMPO - HM Passport Office,10/01/2014,Passport Production,HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"142,772.40"
+Home Office,HMPO - HM Passport Office,10/01/2014,Passport Production,HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001522828,"142,772.40"
+Home Office,HMPO - HM Passport Office,10/01/2014,Rates,HMPO - HM Passport Office,DEPARTMENT FOR WORK & PENSIONS (DWP),3000047661,41.77
+Home Office,HMPO - HM Passport Office,10/01/2014,Rates,HMPO - HM Passport Office,DEPARTMENT FOR WORK & PENSIONS (DWP),3000047661,"59,851.85"
+Home Office,HMPO - HM Passport Office,10/01/2014,Rates,HMPO - HM Passport Office,DEPARTMENT FOR WORK & PENSIONS (DWP),3000047661,"8,272.12"
+Home Office,HMPO - HM Passport Office,13/01/2014,Secure Delivery Costs,HMPO - HM Passport Office,DX SECURE LTD,1001523456,"312,965.47"
+Home Office,HMPO - HM Passport Office,14/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001524018,"38,674.00"
+Home Office,HMPO - HM Passport Office,15/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001524540,"82,221.60"
+Home Office,HMPO - HM Passport Office,15/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001524540,"82,221.60"
+Home Office,HMPO - HM Passport Office,15/01/2014,Passport Production,HMPO - HM Passport Office,MM TELEPERFORMANCE LTD T/A TELEPERFORMANCE,1001524582,"27,082.70"
+Home Office,HMPO - HM Passport Office,16/01/2014,"IT, Telecomms Hardware",HMPO - HM Passport Office,MANTECH SOLUTIONS AND TECHNOLO,7000008274,"67,876.22"
+Home Office,HMPO - HM Passport Office,16/01/2014,"IT, Telecomms Managed Service",HMPO - HM Passport Office,VODAFONE LTD,1001525207,"7,488.07"
+Home Office,HMPO - HM Passport Office,16/01/2014,"IT,Telecom TelephNtwork",HMPO - HM Passport Office,VODAFONE LTD,1001525207,"103,385.75"
+Home Office,HMPO - HM Passport Office,16/01/2014,"IT,Telecom TelephNtwork",HMPO - HM Passport Office,VODAFONE LTD,1001525207,"1,080.00"
+Home Office,HMPO - HM Passport Office,16/01/2014,"IT,Telecom TelephNtwork",HMPO - HM Passport Office,VODAFONE LTD,1001525207,"1,918.39"
+Home Office,HMPO - HM Passport Office,16/01/2014,Passport Production,HMPO - HM Passport Office,MM TELEPERFORMANCE LTD T/A TELEPERFORMANCE,1001525168,"101,508.04"
+Home Office,HMPO - HM Passport Office,16/01/2014,Passport Production,HMPO - HM Passport Office,MM TELEPERFORMANCE LTD T/A TELEPERFORMANCE,1001525168,"405,325.27"
+Home Office,HMPO - HM Passport Office,16/01/2014,Passport Production,HMPO - HM Passport Office,WILLIAMS LEA,1001525209,"37,193.69"
+Home Office,HMPO - HM Passport Office,16/01/2014,Passport Production,HMPO - HM Passport Office,WILLIAMS LEA,1001525209,"38,138.40"
+Home Office,HMPO - HM Passport Office,17/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,STERIA UK,1001525470,"84,804.00"
+Home Office,HMPO - HM Passport Office,17/01/2014,"IT, Telecomms Hardware",HMPO - HM Passport Office,SPECIALIST COMPUTER CENTRES PLC,1001525465,61.36
+Home Office,HMPO - HM Passport Office,17/01/2014,"IT, Telecomms Hardware",HMPO - HM Passport Office,SPECIALIST COMPUTER CENTRES PLC,1001525465,"29,958.62"
+Home Office,HMPO - HM Passport Office,21/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,SPECIALIST COMPUTER CENTRES PLC,1001526510,"29,228.16"
+Home Office,HMPO - HM Passport Office,21/01/2014,Passport Production,HMPO - HM Passport Office,DE LA RUE INTERNATIONAL LTD,1001526436,"114,295.13"
+Home Office,HMPO - HM Passport Office,21/01/2014,Professional & Admin Services,HMPO - HM Passport Office,DELOITTE LLP,1001526437,"32,161.32"
+Home Office,HMPO - HM Passport Office,21/01/2014,Secure Delivery Costs,HMPO - HM Passport Office,DHL GLOBAL FORWARDING UK LTD,1001526438,"264,164.71"
+Home Office,HMPO - HM Passport Office,21/01/2014,Secure Delivery Costs,HMPO - HM Passport Office,DHL GLOBAL FORWARDING UK LTD,1001526438,"101,693.05"
+Home Office,HMPO - HM Passport Office,22/01/2014,Community & Social Service,HMPO - HM Passport Office,ICM RESEARCH LTD,1001527393,"34,968.00"
+Home Office,HMPO - HM Passport Office,22/01/2014,IT/IS Programme Delivery / Implementation,HMPO - HM Passport Office,ERNST AND YOUNG LLP,1001527372,"110,322.00"
+Home Office,HMPO - HM Passport Office,22/01/2014,IT/IS Programme Delivery / Implementation,HMPO - HM Passport Office,ERNST AND YOUNG LLP,1001527372,"94,500.00"
+Home Office,HMPO - HM Passport Office,22/01/2014,IT/IS Programme Delivery / Implementation,HMPO - HM Passport Office,ERNST AND YOUNG LLP,1001527372,"54,216.00"
+Home Office,HMPO - HM Passport Office,22/01/2014,IT/IS Programme Delivery / Implementation,HMPO - HM Passport Office,ERNST AND YOUNG LLP,1001527372,"93,948.00"
+Home Office,HMPO - HM Passport Office,22/01/2014,IT/IS Programme Delivery / Implementation,HMPO - HM Passport Office,ERNST AND YOUNG LLP,1001527372,"65,700.00"
+Home Office,HMPO - HM Passport Office,22/01/2014,"IT, Telecomms Hardware",HMPO - HM Passport Office,ATOS I T SERVICES UK LTD,1001527323,"33,020.40"
+Home Office,HMPO - HM Passport Office,22/01/2014,Office Equipment Access Supplies,HMPO - HM Passport Office,DE LA RUE INTERNATIONAL LTD,1001527361,"487,011.08"
+Home Office,HMPO - HM Passport Office,22/01/2014,Passport Production,HMPO - HM Passport Office,DE LA RUE INTERNATIONAL LTD,1001527361,"2,571,027.53"
+Home Office,HMPO - HM Passport Office,22/01/2014,Professional & Admin Services,HMPO - HM Passport Office,DE LA RUE INTERNATIONAL LTD,1001527361,"462,859.52"
+Home Office,HMPO - HM Passport Office,23/01/2014,"IT, Telecomms Managed Service",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001528129,"245,129.76"
+Home Office,HMPO - HM Passport Office,23/01/2014,"IT, Telecomms Managed Service",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001528129,"244,490.69"
+Home Office,HMPO - HM Passport Office,23/01/2014,"IT, Telecomms Managed Service",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001528129,"248,781.60"
+Home Office,HMPO - HM Passport Office,24/01/2014,IT & Telecoms Components,HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001528796,"156,488.21"
+Home Office,HMPO - HM Passport Office,28/01/2014,Secure Delivery Costs,HMPO - HM Passport Office,DX SECURE LTD,1001530215,"446,119.28"
+Home Office,HMPO - HM Passport Office,29/01/2014,Accomodation - Rent,HMPO - HM Passport Office,OSBORNE KING & MEGRAN LTD T/A OSBORNE KING CLIENTS ACCOUNT,1001531112,"27,267.73"
+Home Office,HMPO - HM Passport Office,29/01/2014,Accomodation - Rent,HMPO - HM Passport Office,OSBORNE KING & MEGRAN LTD T/A OSBORNE KING CLIENTS ACCOUNT,1001531112,"99,226.94"
+Home Office,HMPO - HM Passport Office,29/01/2014,IT & Telecoms Components,HMPO - HM Passport Office,ORACLE CORPORATION UK LIMITED,1001531111,"28,260.41"
+Home Office,HMPO - HM Passport Office,29/01/2014,"IT, Telecomms Hardware",HMPO - HM Passport Office,ORACLE CORPORATION UK LIMITED,1001531111,"6,217.07"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,MM TELEPERFORMANCE LTD T/A TELEPERFORMANCE,1001531099,"74,274.52"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"168,331.14"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"471,852.78"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"443,565.93"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"146,296.84"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"141,667.95"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"143,223.08"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"142,213.34"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"142,213.34"
+Home Office,HMPO - HM Passport Office,29/01/2014,Passport Production,HMPO - HM Passport Office,STERIA UK,1001531152,"168,213.60"
+Home Office,HMPO - HM Passport Office,30/01/2014,Accomodation - Rent,HMPO - HM Passport Office,ATOS I T SERVICES UK LTD,1001531557,"279,745.24"
+Home Office,HMPO - HM Passport Office,30/01/2014,IT & Telecoms Components,HMPO - HM Passport Office,COSMO GRAPHIS IMAGING LTD,1001531591,"174,000.00"
+Home Office,HMPO - HM Passport Office,30/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001531593,"65,508.00"
+Home Office,HMPO - HM Passport Office,30/01/2014,"IT, Broadcasting & Telecomms",HMPO - HM Passport Office,CSC COMPUTER SCIENCES CORPORATION,1001531593,"65,508.00"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001519854,"323,415.22"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001519854,"55,059.49"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001519854,"193,213.43"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001519854,"183,253.27"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001519854,"69,264.97"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001519854,"43,936.07"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001519889,"26,985.00"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"39,494.86"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"29,657.30"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"385,223.16"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"131,426.24"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"53,735.29"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"90,755.68"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"48,076.61"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"26,502.31"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"95,097.84"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519923,"33,120.79"
+Home Office,Home Office,02/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"103,425.77"
+Home Office,Home Office,02/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001519902,"847,687.36"
+Home Office,Home Office,02/01/2014,"IT, Telecomms Hardware",CDSD,FCO SERVICES,3000047625,"91,268.10"
+Home Office,Home Office,02/01/2014,"IT, Telecomms Software",CDSD,TRUSTMARQUE SOLUTIONS LIMITED,1001520008,"570,782.16"
+Home Office,Home Office,02/01/2014,"IT, Telecomms Software",CDSD,TRUSTMARQUE SOLUTIONS LIMITED,1001520008,"706,159.80"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"316,268.47"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"121,035.82"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"109,931.22"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"131,262.33"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"237,436.04"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"82,223.76"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"267,652.54"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"293,205.71"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"94,299.46"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"111,672.17"
+Home Office,Home Office,02/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001519921,"303,429.70"
+Home Office,Home Office,03/01/2014,"Building, Construction Services",CDSD,AMEY COMMUNITY LTD,1001520034,"41,334.12"
+Home Office,Home Office,03/01/2014,"Building, Construction Services",CDSD,AMEY COMMUNITY LTD,1001520034,"48,402.07"
+Home Office,Home Office,06/01/2014,"Building, Construction Services",CDSD,LONDON GATEWAY PORT LTD,1001520796,"400,575.60"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"7,449.83"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"50,452.46"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"21,321.73"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"12,716.70"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,730.80
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"3,865.46"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,480.16
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,70.08
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"7,449.83"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"50,452.46"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"21,321.73"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"12,716.70"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,730.80
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,"3,865.46"
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,480.16
+Home Office,Home Office,06/01/2014,"IT, Broadcasting & Telecomms",CDSD,SAVVIS UK LTD,1001520814,70.08
+Home Office,Home Office,06/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001520787,"107,933.15"
+Home Office,Home Office,06/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001520787,"107,933.15"
+Home Office,Home Office,07/01/2014,"Building, Construction Services",CDSD,DELOITTE LLP,1001521332,"25,281.55"
+Home Office,Home Office,07/01/2014,Facilities Management ,CDSD,ANNES GATE PROPERTY PLC,1001521313,"93,362.98"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,ATOS I T SERVICES UK LTD,1001521315,"64,842.85"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"36,499.68"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"40,320.00"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"9,792.00"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"21,660.00"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"33,456.00"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"23,868.00"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"31,752.00"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"14,688.00"
+Home Office,Home Office,07/01/2014,"IT, Broadcasting & Telecomms",CDSD,MOZAIC SERVICES LTD,1001521360,"9,504.00"
+Home Office,Home Office,07/01/2014,"IT, Telecomms Managed Service",CDSD,CADENCE PARTNERSHIP LLP,1001521324,"29,970.00"
+Home Office,Home Office,07/01/2014,"IT, Telecomms Managed Service",CDSD,CADENCE PARTNERSHIP LLP,1001521324,"26,460.00"
+Home Office,Home Office,08/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001521798,"156,530.49"
+Home Office,Home Office,08/01/2014,IT Application Consultancy & Development,CDSD,FUJITSU SERVICES LTD,1001521798,"27,892.80"
+Home Office,Home Office,08/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001521798,"29,088.00"
+Home Office,Home Office,08/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001521798,"142,330.80"
+Home Office,Home Office,08/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001521798,"31,942.22"
+Home Office,Home Office,08/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001521798,"43,248.34"
+Home Office,Home Office,08/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001521798,"47,006.25"
+Home Office,Home Office,08/01/2014,Office Equipment Access Supplies,CDSD,CANON (UK) LTD,1001521779,"30,021.55"
+Home Office,Home Office,09/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001522308,"143,649.95"
+Home Office,Home Office,09/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001522309,"469,171.60"
+Home Office,Home Office,09/01/2014,"IT, Broadcasting & Telecomms",CDSD,TRUSTMARQUE SOLUTIONS LIMITED,1001522378,412.92
+Home Office,Home Office,09/01/2014,"IT, Broadcasting & Telecomms",CDSD,TRUSTMARQUE SOLUTIONS LIMITED,1001522378,"41,432.54"
+Home Office,Home Office,09/01/2014,"IT, Telecomms Hardware",CDSD,CARETOWER LTD,1001522296,"62,815.20"
+Home Office,Home Office,09/01/2014,"IT, Telecomms Hardware",CDSD,FUJITSU SERVICES LTD,1001522317,"67,562.02"
+Home Office,Home Office,09/01/2014,"IT, Telecomms Hardware",CDSD,FUJITSU SERVICES LTD,1001522317,"67,562.02"
+Home Office,Home Office,09/01/2014,"IT, Telecomms Hardware",CDSD,FUJITSU SERVICES LTD,1001522317,"67,562.02"
+Home Office,Home Office,09/01/2014,"IT, Telecomms Managed Service",CDSD,MICROSOFT LTD,1001522336,"63,054.00"
+Home Office,Home Office,09/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001522317,"103,332.37"
+Home Office,Home Office,09/01/2014,"IT, Telecomms Software",CDSD,FUJITSU SERVICES LTD,1001522317,"42,348.55"
+Home Office,Home Office,10/01/2014,"Building, Construction Services",CDSD,DELOITTE LLP,1001522829,"26,625.55"
+Home Office,Home Office,10/01/2014,"IT, Broadcasting & Telecomms",CDSD,SPECIALIST COMPUTER CENTRES PLC,1001522911,"124,329.38"
+Home Office,Home Office,13/01/2014,Contingent Labour,CDSD,ADVANTAGE TECHNICAL RESOURCING,1001523415,"26,496.00"
+Home Office,Home Office,13/01/2014,Contingent Labour,CDSD,ADVANTAGE TECHNICAL RESOURCING,1001523415,"28,815.00"
+Home Office,Home Office,13/01/2014,Contingent Labour,CDSD,ADVANTAGE TECHNICAL RESOURCING,1001523415,28.20
+Home Office,Home Office,13/01/2014,Contingent Labour,CDSD,ADVANTAGE TECHNICAL RESOURCING,1001523415,"3,579.12"
+Home Office,Home Office,13/01/2014,Contingent Labour,CDSD,ADVANTAGE TECHNICAL RESOURCING,1001523415,"22,291.20"
+Home Office,Home Office,13/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001523418,"72,788.09"
+Home Office,Home Office,13/01/2014,Facilities Management ,CDSD,EDF ENERGY,1001523458,"90,696.01"
+Home Office,Home Office,14/01/2014,"IT, Telecomms Hardware",CDSD,IBM DIRECT UNITED KINGDOM LTD,1001524027,"1,468,029.02"
+Home Office,Home Office,14/01/2014,"IT, Telecomms Managed Service",CDSD,MICROSOFT LTD,1001524041,"39,510.00"
+Home Office,Home Office,15/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001524559,"61,312.66"
+Home Office,Home Office,15/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001524560,"33,599.67"
+Home Office,Home Office,15/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001524561,"74,545.99"
+Home Office,Home Office,15/01/2014,"Building, Construction Services",CDSD,AMEY COMMUNITY LTD,1001524510,"84,864.46"
+Home Office,Home Office,15/01/2014,"IT, Telecomms Hardware",CDSD,SERCO LTD,1001524607,"206,634.17"
+Home Office,Home Office,15/01/2014,"IT, Telecomms Hardware",CDSD,SERCO LTD,1001524607,"162,305.34"
+Home Office,Home Office,15/01/2014,"IT, Telecomms Hardware",CDSD,SERCO LTD,1001524607,"132,630.87"
+Home Office,Home Office,15/01/2014,"IT, Telecomms Hardware",CDSD,SERCO LTD,1001524607,"170,784.23"
+Home Office,Home Office,15/01/2014,"IT, Telecomms Hardware",CDSD,SERCO LTD,1001524607,"105,162.06"
+Home Office,Home Office,15/01/2014,"IT, Telecomms Hardware",CDSD,SERCO LTD,1001524607,"340,763.73"
+Home Office,Home Office,15/01/2014,"IT, Telecomms Hardware",CDSD,SERCO LTD,1001524607,"103,164.31"
+Home Office,Home Office,16/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001525136,"53,659.26"
+Home Office,Home Office,16/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,7000008285,"36,795.32"
+Home Office,Home Office,16/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001525150,"28,817.35"
+Home Office,Home Office,16/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001525152,"28,135.13"
+Home Office,Home Office,16/01/2014,"IT, Telecomms Hardware",CDSD,FUJITSU SERVICES LTD,1001525139,"60,000.00"
+Home Office,Home Office,16/01/2014,"IT, Telecomms Hardware",CDSD,HEWLETT PACKARD (HP) LTD,1001525147,"147,053.37"
+Home Office,Home Office,16/01/2014,"IT, Telecomms Hardware",CDSD,HEWLETT PACKARD (HP) LTD,1001525147,"183,734.45"
+Home Office,Home Office,16/01/2014,"IT, Telecomms Hardware",CDSD,HEWLETT PACKARD (HP) LTD,1001525147,"104,649.16"
+Home Office,Home Office,16/01/2014,"IT, Telecomms Hardware",CDSD,HEWLETT PACKARD (HP) LTD,1001525147,"82,149.56"
+Home Office,Home Office,16/01/2014,"IT, Telecomms Hardware",CDSD,HEWLETT PACKARD (HP) LTD,1001525147,"93,657.26"
+Home Office,Home Office,16/01/2014,"Transport, Storage & Mail Services",CDSD,TNT UK LTD,1001525201,"60,190.50"
+Home Office,Home Office,16/01/2014,"Transport, Storage & Mail Services",CDSD,TNT UK LTD,1001525201,"40,432.44"
+Home Office,Home Office,17/01/2014,"IT,Telecom TelephNtwork",CDSD,BRITISH TELECOMMUNICATIONS LTD,1001525257,"102,693.79"
+Home Office,Home Office,17/01/2014,"IT,Telecom TelephNtwork",CDSD,BT GLOBAL SERVICES,1001525260,"100,608.32"
+Home Office,Home Office,21/01/2014,IT Infrastructure Support,CDSD,FUJITSU SERVICES LTD,1001526450,"29,750.78"
+Home Office,Home Office,21/01/2014,"IT, Broadcasting & Telecomms",CDSD,IBM DIRECT UNITED KINGDOM LTD,1001526455,"26,001.36"
+Home Office,Home Office,21/01/2014,"IT, Broadcasting & Telecomms",CDSD,IPL INFORMATION PROCESSING LTD,1001526459,"35,454.00"
+Home Office,Home Office,21/01/2014,"IT, Broadcasting & Telecomms",CDSD,IPL INFORMATION PROCESSING LTD,1001526459,"27,147.00"
+Home Office,Home Office,21/01/2014,"IT, Telecomms Hardware",CDSD,THALES UK LTD,1001526523,"201,398.40"
+Home Office,Home Office,21/01/2014,"IT,Telecom TelephNtwork",CDSD,FUJITSU SERVICES LTD,1001526450,"50,400.00"
+Home Office,Home Office,22/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001527317,"183,472.54"
+Home Office,Home Office,22/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001527318,"90,029.83"
+Home Office,Home Office,22/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001527319,"204,373.95"
+Home Office,Home Office,22/01/2014,Facilities Management ,CDSD,GLEEDS MANAGEMENT SERVICES LTD,1001527380,"35,946.30"
+Home Office,Home Office,22/01/2014,"IT, Telecomms Software",CDSD,CSA WAVERLEY LTD,1001527357,"32,864.40"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"95,114.22"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"59,606.28"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"42,712.29"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"112,304.19"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"706,400.84"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"768,109.57"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"442,151.24"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"29,349.12"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001527312,"106,529.55"
+Home Office,Home Office,22/01/2014,Professional & Admin Services,CDSD,SODEXO PROPERTY SOLUTIONS LTD,1001527454,"218,770.18"
+Home Office,Home Office,23/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001528138,"26,561.00"
+Home Office,Home Office,23/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001528135,"489,595.11"
+Home Office,Home Office,23/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001528136,"279,051.23"
+Home Office,Home Office,23/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001528136,"38,079.00"
+Home Office,Home Office,23/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001528136,"49,500.00"
+Home Office,Home Office,23/01/2014,Facilities Management ,CDSD,DTZ DEBENHAM TIE LEUNG LTD,1001528137,"111,843.32"
+Home Office,Home Office,23/01/2014,IT Infrastructure Support,CDSD,ATOS I T SERVICES UK LTD,1001528017,"29,042.40"
+Home Office,Home Office,23/01/2014,"IT, Broadcasting & Telecomms",CDSD,ATOS I T SERVICES UK LTD,1001528017,"753,312.00"
+Home Office,Home Office,23/01/2014,"IT, Broadcasting & Telecomms",CDSD,ATOS I T SERVICES UK LTD,1001528017,"193,273.67"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,CDSD,IMPERIAL COLLEGE LONDON,1001528157,"197,489.78"
+Home Office,Home Office,24/01/2014,Facilities Management ,CDSD,HM REVENUE & CUSTOMS,3000047723,"264,563.15"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"658,499.81"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"1,157,763.57"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"1,084,220.53"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"1,074,697.55"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"626,328.57"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"688,440.17"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"1,056,352.52"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"939,139.23"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"-11,816.07"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"-13,767.57"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"-11,682.97"
+Home Office,Home Office,24/01/2014,"IT, Broadcasting & Telecomms",CDSD,FUJITSU SERVICES LTD,1001528814,"-55,345.57"
+Home Office,Home Office,24/01/2014,"IT, Telecomms Hardware",CDSD,FUJITSU SERVICES LTD,1001528814,"834,213.53"
+Home Office,Home Office,24/01/2014,"IT, Telecomms Hardware",CDSD,FUJITSU SERVICES LTD,1001528814,"-23,343.55"
+Home Office,Home Office,24/01/2014,Professional & Admin Services,CDSD,WEST MERCIA PCC,1001528902,"21,354.19"
+Home Office,Home Office,24/01/2014,Professional & Admin Services,CDSD,WEST MERCIA PCC,1001528902,"19,371.45"
+Home Office,Home Office,24/01/2014,Professional & Admin Services,CDSD,WEST MERCIA PCC,1001528902,"21,275.89"
+Home Office,Home Office,24/01/2014,Professional & Admin Services,CDSD,WEST MERCIA PCC,1001528902,"21,309.98"
+Home Office,Home Office,24/01/2014,Sirius - Telephony Services,CDSD,FUJITSU SERVICES LTD,1001528814,"621,621.52"
+Home Office,Home Office,27/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001529484,"132,030.22"
+Home Office,Home Office,28/01/2014,Facilities Management ,CDSD,ANNES GATE PROPERTY PLC,1001530181,"232,565.10"
+Home Office,Home Office,28/01/2014,Facilities Management ,CDSD,ANNES GATE PROPERTY PLC,1001530181,"120,260.79"
+Home Office,Home Office,28/01/2014,Facilities Management ,CDSD,ANNES GATE PROPERTY PLC,1001530181,"4,187,974.66"
+Home Office,Home Office,28/01/2014,"IT, Telecomms Hardware",CDSD,MINISTRY OF JUSTICE,3000047739,"815,876.40"
+Home Office,Home Office,28/01/2014,"IT, Telecomms Hardware",CDSD,MINISTRY OF JUSTICE,3000047739,"246,380.40"
+Home Office,Home Office,29/01/2014,Contingent Labour,CDSD,ADVANTAGE TECHNICAL RESOURCING,1001530945,"42,768.00"
+Home Office,Home Office,29/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001530948,"53,004.90"
+Home Office,Home Office,29/01/2014,"IT, Broadcasting & Telecomms",CDSD,ATOS I T SERVICES UK LTD,1001530952,"1,087,791.00"
+Home Office,Home Office,29/01/2014,"IT, Broadcasting & Telecomms",CDSD,ATOS I T SERVICES UK LTD,1001530952,"785,684.00"
+Home Office,Home Office,29/01/2014,"IT, Broadcasting & Telecomms",CDSD,ATOS I T SERVICES UK LTD,1001530952,"303,298.00"
+Home Office,Home Office,29/01/2014,"IT, Broadcasting & Telecomms",CDSD,ATOS I T SERVICES UK LTD,1001530952,"334,027.00"
+Home Office,Home Office,29/01/2014,"IT, Broadcasting & Telecomms",CDSD,ATOS I T SERVICES UK LTD,1001530952,"285,110.00"
+Home Office,Home Office,29/01/2014,"IT, Telecomms Hardware",CDSD,ATOS I T SERVICES UK LTD,1001530952,"56,049.60"
+Home Office,Home Office,29/01/2014,"IT, Telecomms Hardware",CDSD,FUJITSU SERVICES LTD,1001531069,"39,649.28"
+Home Office,Home Office,30/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531617,"26,584.06"
+Home Office,Home Office,30/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001531554,"310,552.19"
+Home Office,Home Office,30/01/2014,Facilities Management ,CDSD,AMEY COMMUNITY LTD,1001531554,"237,355.44"
+Home Office,Home Office,30/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"612,105.64"
+Home Office,Home Office,30/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"490,560.13"
+Home Office,Home Office,30/01/2014,Facilities Management ,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"404,005.31"
+Home Office,Home Office,30/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001531552,"17,736,196.47"
+Home Office,Home Office,30/01/2014,PCD National IT  Applications,CDSD,AIRWAVE SOLUTIONS LTD,1001531552,"271,268.66"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,AMEY COMMUNITY LTD,1001531554,"88,446.39"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,AMEY COMMUNITY LTD,1001531554,"191,802.41"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,AMEY COMMUNITY LTD,1001531554,"135,057.92"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,AMEY COMMUNITY LTD,1001531554,"211,917.57"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,AMEY COMMUNITY LTD,1001531554,"130,172.13"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,AMEY COMMUNITY LTD,1001531554,"442,729.57"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,AMEY COMMUNITY LTD,1001531554,"129,331.62"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,AMEY COMMUNITY LTD,1001531554,"375,772.82"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"316,268.47"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"121,035.82"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"109,931.22"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"131,262.33"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"237,436.04"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"82,223.76"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"267,652.54"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"293,205.71"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"94,299.46"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"111,672.17"
+Home Office,Home Office,30/01/2014,Professional & Admin Services,CDSD,INTERSERVE FACILITIES MANAGEMENT,1001531616,"303,429.70"
+Home Office,Home Office,15/01/2014,"IT, Telecomms Managed Service",Communications,KAINOS,1001524569,"101,323.40"
+Home Office,Home Office,17/01/2014,"Editorial, Design & Graphics",Communications,M4C,1001525374,"106,552.72"
+Home Office,Home Office,17/01/2014,"IT, Telecomms Managed Service",Communications,SAVVIS UK LTD,1001525447,"31,144.66"
+Home Office,Home Office,17/01/2014,"IT, Telecomms Managed Service",Communications,SAVVIS UK LTD,1001525447,"31,144.66"
+Home Office,Home Office,17/01/2014,"IT, Telecomms Managed Service",Communications,SAVVIS UK LTD,1001525447,"31,144.66"
+Home Office,Home Office,17/01/2014,"IT, Telecomms Managed Service",Communications,SAVVIS UK LTD,1001525447,"31,144.66"
+Home Office,Home Office,17/01/2014,"IT, Telecomms Managed Service",Communications,SAVVIS UK LTD,1001525447,"31,144.66"
+Home Office,Home Office,21/01/2014,"Editorial, Design & Graphics",Communications,M4C,1001526467,"59,253.98"
+Home Office,Home Office,21/01/2014,"Editorial, Design & Graphics",Communications,M4C,1001526467,"56,206.32"
+Home Office,Home Office,21/01/2014,"Editorial, Design & Graphics",Communications,M4C,1001526467,"140,107.21"
+Home Office,Home Office,22/01/2014,"Editorial, Design & Graphics",Communications,M4C,1001527411,"67,175.10"
+Home Office,Home Office,22/01/2014,Press - Other Publicity Expenses (RC),Communications,M4C,1001527411,"11,193.98"
+Home Office,Home Office,23/01/2014,"IT, Telecomms Managed Service",Communications,ENGINE GROUP LTD (THE) T/A ENGINE,1001528142,"50,268.00"
+Home Office,Home Office,23/01/2014,"IT, Telecomms Managed Service",Communications,KAINOS,1001528165,"117,899.40"
+Home Office,Home Office,23/01/2014,"IT, Telecomms Managed Service",Communications,STERIA UK,1001528248,"31,124.46"
+Home Office,Home Office,29/01/2014,"Editorial, Design & Graphics",Communications,M4C,1001531091,"67,737.45"
+Home Office,Home Office,03/01/2014,Professional & Admin Services,CPG - Crime & Policing Group,TRANSPORT FOR LONDON,1001520193,"47,322.00"
+Home Office,Home Office,03/01/2014,Professional & Admin Services,CPG - Crime & Policing Group,TRANSPORT FOR LONDON,1001520193,"47,322.00"
+Home Office,Home Office,06/01/2014,Grants,CPG - Crime & Policing Group,COLLEGE OF POLICING (G),1001520627,"5,200,000.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,INDEPENDENT POLICE COMPLAINTS COMISSION (G),3000047645,"4,000,000.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,AVON & SOMERSET POLICE & CRIME COMMISSIONER (G),1001521171,"5,128,608.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,AVON & SOMERSET POLICE & CRIME COMMISSIONER (G),1001521171,"9,650,372.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,CAMBRIDGESHIRE POLICE & CRIME COMMISSIONER (G),1001521172,"2,211,965.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,CAMBRIDGESHIRE POLICE & CRIME COMMISSIONER (G),1001521172,"4,472,259.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,CHAMBERLAIN OF LONDON (G),1001521173,"3,099,182.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,CHAMBERLAIN OF LONDON (G),1001521173,"1,717,301.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,CUMBRIA POLICE & CRIME COMMISSIONER (G),1001521174,"2,828,298.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,CUMBRIA POLICE & CRIME COMMISSIONER (G),1001521174,"2,657,558.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,DORSET POLICE & CRIME COMMISSIONERS (G),1001521175,"1,564,082.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,DORSET POLICE & CRIME COMMISSIONERS (G),1001521175,"3,821,473.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,GREATER LONDON AUTHORITY (G),1001521176,"15,416,667.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,GREATER LONDON AUTHORITY (G),1001521176,"68,449,936.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,GREATER LONDON AUTHORITY (G),1001521176,"79,453,233.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,NORTHAMPTONSHIRE OFFICE OF THE POLICE & CRIME COMMISSIONER (G),1001521177,"2,197,070.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,NORTHAMPTONSHIRE OFFICE OF THE POLICE & CRIME COMMISSIONER (G),1001521177,"3,972,968.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE FOR THE POLICE & CRIME COMMISSIONER OF NORFOLK (G),1001521178,"2,615,762.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE FOR THE POLICE & CRIME COMMISSIONER OF NORFOLK (G),1001521178,"4,654,556.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE DURHAM POLICE & CRIME COMMISSIONER (G),1001521179,"3,383,170.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE DURHAM POLICE & CRIME COMMISSIONER (G),1001521179,"3,941,641.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE KENT POLICE & CRIME COMMISSIONER (G),1001521180,"6,064,690.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE KENT POLICE & CRIME COMMISSIONER (G),1001521180,"9,859,534.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR GREATER MANCHESTER (G),1001521181,"16,583,312.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR GREATER MANCHESTER (G),1001521181,"20,688,934.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR GREATER MANCHESTER (G),1001521181,"1,971,419.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR GREATER MANCHESTER (G),1001521181,"280,218.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR HUMBERSIDE (G),1001521182,"4,248,191.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR HUMBERSIDE (G),1001521182,"6,114,339.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR LEICESTERSHIRE (THE) (G),1001521183,"3,608,358.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR LEICESTERSHIRE (THE) (G),1001521183,"5,991,721.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR MERSEYSIDE (G),1001521184,"10,336,529.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR MERSEYSIDE (G),1001521184,"11,227,420.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR STAFFORDSHIRE (G),1001521185,"3,633,924.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR STAFFORDSHIRE (G),1001521185,"6,152,007.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR SUFFOLK (G),1001521186,"2,077,898.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR SUFFOLK (G),1001521186,"3,772,039.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR WARWICKSHIRE (G),1001521187,"1,583,385.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR WARWICKSHIRE (G),1001521187,"2,873,590.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE WEST YORKSHIRE POLICE & CRIME COMMISSIONER (G),1001521188,"11,812,132.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE WEST YORKSHIRE POLICE & CRIME COMMISSIONER (G),1001521188,"15,647,516.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,PCC FOR THAMES VALLEY (G),1001521189,"6,704,163.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,PCC FOR THAMES VALLEY (G),1001521189,"12,989,077.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR CHESHIRE (G),1001521190,"4,087,163.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR CHESHIRE (G),1001521190,"5,701,665.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR CLEVELAND (G),1001521191,"3,524,976.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR CLEVELAND (G),1001521191,"4,187,399.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR CLEVELAND (G),1001521191,"301,369.81"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DERBYSHIRE (G),1001521192,"3,432,073.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DERBYSHIRE (G),1001521192,"5,745,006.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DEVON & CORNWALL (G),1001521193,"5,745,694.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DEVON & CORNWALL (G),1001521193,"9,501,947.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DYFED POWYS (G),1001521194,"496,438.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DYFED POWYS (G),1001521194,"2,822,548.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR ESSEX  (G),1001521195,"5,079,150.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR ESSEX  (G),1001521195,"9,536,740.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR GLOUCESTERSHIRE (G),1001521196,"1,775,269.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR GLOUCESTERSHIRE (G),1001521196,"3,185,308.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR GWENT (G),1001521197,"3,922,318.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR HAMPSHIRE (G),1001521198,"5,729,418.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR HAMPSHIRE (G),1001521198,"11,135,084.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR HERTFORDSHIRE (G),1001521199,"3,297,797.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR HERTFORDSHIRE (G),1001521199,"6,626,801.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR LANCASHIRE (THE) (G),1001521200,"7,235,224.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR LANCASHIRE (THE) (G),1001521200,"9,282,189.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR LINCOLNSHIRE (THE) (G),1001521201,"1,844,554.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR LINCOLNSHIRE (THE) (G),1001521201,"3,553,151.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR NORTH WALES (G),1001521202,"573,110.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR NORTH WALES (G),1001521202,"4,063,255.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR NORTH YORKSHIRE (G),1001521203,"2,463,955.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR NORTH YORKSHIRE (G),1001521203,"3,857,134.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR SOUTH WALES POLICE (G),1001521204,"8,129,943.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR SURREY (G),1001521205,"2,644,350.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR SURREY (G),1001521205,"5,775,896.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR SUSSEX (THE) (G),1001521206,"4,895,107.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR SUSSEX (THE) (G),1001521206,"9,073,827.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR WILTSHIRE (THE) (G),1001521207,"1,878,734.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR WILTSHIRE (THE) (G),1001521207,"3,476,174.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE AND CRIME COMMISSIONER FOR BEDFORDSHIRE (THE) (G),1001521208,"2,120,977.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,POLICE AND CRIME COMMISSIONER FOR BEDFORDSHIRE (THE) (G),1001521208,"3,704,848.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE & CRIME COMMISSIONER (G),1001521209,"7,078,421.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE & CRIME COMMISSIONER (G),1001521209,"9,170,032.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,THE NOTTINGHAMSHIRE OFFICE OF THE POLICE & CRIME COMMISSIONER (G),1001521210,"4,380,994.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,THE NOTTINGHAMSHIRE OFFICE OF THE POLICE & CRIME COMMISSIONER (G),1001521210,"7,077,433.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,THE OFFICE OF THE POLICE & CRIME COMMISSIONER FOR NORTHUMBRIA (G),1001521211,"9,842,053.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,THE OFFICE OF THE POLICE & CRIME COMMISSIONER FOR NORTHUMBRIA (G),1001521211,"10,097,030.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,WEST MERCIA PCC (G),1001521212,"3,954,100.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,WEST MERCIA PCC (G),1001521212,"6,140,704.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,WEST MIDLANDS OFFICE FOR POLICING & CRIME (G),1001521213,"16,455,335.00"
+Home Office,Home Office,07/01/2014,Grants,CPG - Crime & Policing Group,WEST MIDLANDS OFFICE FOR POLICING & CRIME (G),1001521213,"22,945,490.00"
+Home Office,Home Office,08/01/2014,Business Advice & Support,CPG - Crime & Policing Group,PA CONSULTING SERVICES LTD,1001521821,"242,691.00"
+Home Office,Home Office,09/01/2014,Grants,CPG - Crime & Policing Group,MAYORS OFFICE FOR POLICING AND CRIME (G),1001522098,"2,529,000.00"
+Home Office,Home Office,10/01/2014,Parking  - Airport,CPG - Crime & Policing Group,GATWICK AIRPORT LTD,1001522845,"1,686.26"
+Home Office,Home Office,10/01/2014,Grants,CPG - Crime & Policing Group,FORENSIC ARCHIVE LTD (G),1001522634,"1,500,000.00"
+Home Office,Home Office,10/01/2014,Public Administration Services,CPG - Crime & Policing Group,DEPARTMENT FOR COMMUNITIES & LOCAL GOVERNMENT,3000047660,"29,702.39"
+Home Office,Home Office,13/01/2014,Grants,CPG - Crime & Policing Group,LOCAL PARTNERSHIPS (G),1001523330,"146,000.00"
+Home Office,Home Office,13/01/2014,Grants,CPG - Crime & Policing Group,CRIMESTOPPERS TRUST (G),1001523324,"225,000.00"
+Home Office,Home Office,13/01/2014,Professional & Admin Services,CPG - Crime & Policing Group,SCOTTISH POLICE AUTHORITY,1001523505,"38,283.69"
+Home Office,Home Office,13/01/2014,Professional & Admin Services,CPG - Crime & Policing Group,SCOTTISH POLICE AUTHORITY,1001523505,"23,032.67"
+Home Office,Home Office,13/01/2014,Professional & Admin Services,CPG - Crime & Policing Group,SCOTTISH POLICE AUTHORITY,1001523505,"26,406.03"
+Home Office,Home Office,14/01/2014,Grants,CPG - Crime & Policing Group,RAPE CRISIS ENGLAND AND WALES (G),1001523896,"37,500.00"
+Home Office,Home Office,14/01/2014,Grants,CPG - Crime & Policing Group,SURVIVORS TRUST (THE) (G),1001523899,"37,500.00"
+Home Office,Home Office,14/01/2014,Grants,CPG - Crime & Policing Group,OFFICE FOR THE POLICE & CRIME COMMISSIONER OF NORFOLK (G),1001523893,"32,910.00"
+Home Office,Home Office,14/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR HAMPSHIRE (G),1001523895,"396,072.50"
+Home Office,Home Office,14/01/2014,Grants,CPG - Crime & Policing Group,WEST MIDLANDS OFFICE FOR POLICING & CRIME (G),1001523900,"1,742,250.00"
+Home Office,Home Office,15/01/2014,Laboratory & Scientific Equipment,CPG - Crime & Policing Group,BURNBANK SYSTEMS LTD,1001524521,"37,805.47"
+Home Office,Home Office,15/01/2014,Laboratory & Scientific Equipment,CPG - Crime & Policing Group,"KELLOGG, BROWN AND ROOT LTD",1001524570,"40,109.76"
+Home Office,Home Office,17/01/2014,IT Run Cost,CPG - Crime & Policing Group,UNITED NATIONS OFFICE ON DRUGS AND CRIME,7000008290,"41,510.00"
+Home Office,Home Office,21/01/2014,Grants,CPG - Crime & Policing Group,LOCAL PARTNERSHIPS (G),1001526303,"96,000.00"
+Home Office,Home Office,21/01/2014,"IT, Broadcasting & Telecomms",CPG - Crime & Policing Group,IPL INFORMATION PROCESSING LTD,1001526459,"14,155.00"
+Home Office,Home Office,21/01/2014,PCD National IT  Applications,CPG - Crime & Policing Group,IPL INFORMATION PROCESSING LTD,1001526459,"28,500.00"
+Home Office,Home Office,22/01/2014,Grants,CPG - Crime & Policing Group,MAYORS OFFICE FOR POLICING AND CRIME (G),1001527129,"38,829.69"
+Home Office,Home Office,22/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR GREATER MANCHESTER (G),1001527140,"34,165.00"
+Home Office,Home Office,22/01/2014,Grants,CPG - Crime & Policing Group,NEIGHBOURHOOD AND HOMEWATCH NETWORK (ENGLAND AND WALES) NETWORK (G),1001527132,"61,425.00"
+Home Office,Home Office,22/01/2014,Grants,CPG - Crime & Policing Group,BRITISH TRANSPORT POLICE AUTHORITY (G),1001527083,"132,250.00"
+Home Office,Home Office,24/01/2014,Professional & Admin Services,CPG - Crime & Policing Group,GOVERNMENT ACTUARY'S DEPARTMENT,3000047722,"100,474.99"
+Home Office,Home Office,27/01/2014,Grants,CPG - Crime & Policing Group,BOROUGH OF BROXBOURNE (G),1001529326,"38,044.00"
+Home Office,Home Office,27/01/2014,Grants,CPG - Crime & Policing Group,CUMBRIA POLICE & CRIME COMMISSIONER (G),1001529330,"50,197.97"
+Home Office,Home Office,27/01/2014,Grants,CPG - Crime & Policing Group,CUMBRIA POLICE & CRIME COMMISSIONER (G),1001529330,"89,801.08"
+Home Office,Home Office,27/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR ESSEX  (G),1001529332,"311,500.00"
+Home Office,Home Office,27/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR GWENT (G),1001529333,"342,250.00"
+Home Office,Home Office,27/01/2014,Grants,CPG - Crime & Policing Group,POLICE AND CRIME COMMISSIONER FOR BEDFORDSHIRE (THE) (G),1001529334,"292,827.30"
+Home Office,Home Office,27/01/2014,Grants,CPG - Crime & Policing Group,WEST MIDLANDS OFFICE FOR POLICING & CRIME (G),1001529335,"1,742,250.00"
+Home Office,Home Office,27/01/2014,Grants,CPG - Crime & Policing Group,WEST SUSSEX COUNTY COUNCIL 1 (G),1001529336,"42,752.28"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,AVON & SOMERSET POLICE & CRIME COMMISSIONER (G),1001530729,"346,340.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,CAMBRIDGESHIRE POLICE & CRIME COMMISSIONER (G),1001530735,"169,498.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,CHAMBERLAIN OF LONDON (G),1001530736,"129,733.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,CUMBRIA POLICE & CRIME COMMISSIONER (G),1001530739,"94,975.92"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,DORSET POLICE & CRIME COMMISSIONERS (G),1001530741,"191,810.73"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,MAYORS OFFICE FOR POLICING AND CRIME (G),1001530748,"1,664,234.82"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,NORTHAMPTONSHIRE OFFICE OF THE POLICE & CRIME COMMISSIONER (G),1001530755,"121,807.57"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE DURHAM POLICE & CRIME COMMISSIONER (G),1001530758,"172,069.08"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE KENT POLICE & CRIME COMMISSIONER (G),1001530759,"358,981.07"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR GREATER MANCHESTER (G),1001530760,"759,124.11"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR HUMBERSIDE (G),1001530761,"259,345.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR LEICESTERSHIRE (THE) (G),1001530762,"248,805.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR MERSEYSIDE (G),1001530763,"480,745.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR STAFFORDSHIRE (G),1001530764,"252,471.57"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR SUFFOLK (G),1001530765,"151,673.90"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR WARWICKSHIRE (G),1001530766,"54,940.13"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,PCC FOR THAMES VALLEY (G),1001530768,"174,075.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR CHESHIRE (G),1001530770,"270,399.38"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR CLEVELAND (G),1001530771,"130,971.54"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DERBYSHIRE (G),1001530772,"117,574.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DEVON & CORNWALL (G),1001530773,"320,807.69"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR DYFED POWYS (G),1001530774,"157,685.76"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR ESSEX  (G),1001530775,"395,888.07"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR GLOUCESTERSHIRE (G),1001530776,"104,645.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR GWENT (G),1001530777,"151,728.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR HAMPSHIRE (G),1001530778,"325,376.94"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR HERTFORDSHIRE (G),1001530779,"117,781.52"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR LANCASHIRE (THE) (G),1001530780,"250,843.33"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR NORTH WALES (G),1001530781,"522,985.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR NORTH YORKSHIRE (G),1001530782,"139,103.67"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR SOUTH WALES POLICE (G),1001530783,"221,954.46"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR SURREY (G),1001530784,"268,776.59"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR SUSSEX (THE) (G),1001530785,"232,740.04"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR WILTSHIRE (THE) (G),1001530786,"91,049.57"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,POLICE AND CRIME COMMISSIONER FOR BEDFORDSHIRE (THE) (G),1001530787,"122,453.54"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE & CRIME COMMISSIONER (G),1001530791,"235,564.68"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,THE NOTTINGHAMSHIRE OFFICE OF THE POLICE & CRIME COMMISSIONER (G),1001530794,"232,590.73"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,THE OFFICE OF THE POLICE & CRIME COMMISSIONER FOR NORTHUMBRIA (G),1001530795,"304,809.00"
+Home Office,Home Office,29/01/2014,Grants,CPG - Crime & Policing Group,WEST MERCIA PCC (G),1001530800,"183,109.17"
+Home Office,Home Office,30/01/2014,Grants,CPG - Crime & Policing Group,OFFICE OF THE WEST YORKSHIRE POLICE & CRIME COMMISSIONER (G),1001531487,"464,421.16"
+Home Office,Home Office,30/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR LINCOLNSHIRE (THE) (G),1001531488,"143,828.39"
+Home Office,Home Office,30/01/2014,Grants,CPG - Crime & Policing Group,POLICE & CRIME COMMISSIONER FOR NORTH WALES (G),1001531489,"160,282.36"
+Home Office,Home Office,07/01/2014,Pension admin fee,Group Human Resources,CABINET OFFICE,3000047641,"782,265.60"
+Home Office,Home Office,08/01/2014,"IT, Telecomms Managed Service",Group Human Resources,FUJITSU SERVICES LTD,1001521798,"47,211.12"
+Home Office,Home Office,13/01/2014,Professional & Admin Services,Group Human Resources,HM REVENUE & CUSTOMS,3000047669,"51,050.40"
+Home Office,Home Office,14/01/2014,Professional & Admin Services,Group Human Resources,FCO SERVICES,3000047675,"85,360.80"
+Home Office,Home Office,30/01/2014,Legal Fees,Group Human Resources,TREASURY SOLICITORS OFFICE,3000047757,"25,366.82"
+Home Office,Home Office,02/01/2014,Management & Admin Services,HOS - Home Office Science,ATOS I T SERVICES UK LTD,1001519857,"47,916.00"
+Home Office,Home Office,08/01/2014,Laboratory & Scientific Equipment,HOS - Home Office Science,NPL MANAGEMENT LIMITED,1001521819,"30,910.80"
+Home Office,Home Office,09/01/2014,Professional & Admin Services,HOS - Home Office Science,HM TREASURY,3000047657,"28,500.00"
+Home Office,Home Office,16/01/2014,"Science, Technical & Research",HOS - Home Office Science,SULLIVAN FORENSICS LTD T/A PRINCIPAL FORENSIC SERVICES,1001525195,"25,300.00"
+Home Office,Home Office,22/01/2014,"Science, Technical & Research",HOS - Home Office Science,NOTTINGHAM TRENT UNIVERSITY,1001527424,"28,733.00"
+Home Office,Home Office,23/01/2014,"Science, Technical & Research",HOS - Home Office Science,CT CENTRE (MOD) T/A DSTL,1001528131,"48,360.00"
+Home Office,Home Office,23/01/2014,"Science, Technical & Research",HOS - Home Office Science,CT CENTRE (MOD) T/A DSTL,1001528131,"55,032.00"
+Home Office,Home Office,24/01/2014,"IT, Telecomms Managed Service",HOS - Home Office Science,SPECIALIST COMPUTER CENTRES PLC,1001528881,"37,485.13"
+Home Office,Home Office,24/01/2014,"IT, Telecomms Managed Service",HOS - Home Office Science,SPECIALIST COMPUTER CENTRES PLC,1001528881,"5,828.26"
+Home Office,Home Office,30/01/2014,Management & Admin Services,HOS - Home Office Science,TNS UK LTD,1001531666,"44,468.00"
+Home Office,Home Office,30/01/2014,Management & Admin Services,HOS - Home Office Science,TNS UK LTD,1001531666,"82,078.00"
+Home Office,Home Office,30/01/2014,Management & Admin Services,HOS - Home Office Science,TNS UK LTD,1001531666,"58,560.00"
+Home Office,Home Office,30/01/2014,Management & Admin Services,HOS - Home Office Science,TNS UK LTD,1001531666,"58,200.00"
+Home Office,Home Office,06/01/2014,IT & Telecoms Components,Next Generation HR,CAPITA BUSINESS SERVICES LTD,1001520775,"89,496.00"
+Home Office,Home Office,06/01/2014,"IT, Telecomms Hardware",Next Generation HR,CAPITA BUSINESS SERVICES LTD,1001520775,"29,058.00"
+Home Office,Home Office,17/01/2014,"Associations, Clubs & Orgs",Next Generation HR,CORPORATE RESEARCH FORUM,1001525285,"27,000.00"
+Home Office,Home Office,29/01/2014,IT & Telecoms Components,Next Generation HR,EPIC PERFORMANCE IMPROVEMENT LTD,1001531066,"45,718.80"
+Home Office,Home Office,02/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,CT CENTRE (MOD) T/A DSTL(G),1001519815,"90,169.88"
+Home Office,Home Office,02/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,MINISTRY OF DEFENCE (G),3000047628,"45,000.00"
+Home Office,Home Office,09/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,MAYORS OFFICE FOR POLICING AND CRIME (G),1001522098,"74,746.00"
+Home Office,Home Office,09/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,MAYORS OFFICE FOR POLICING AND CRIME (G),1001522098,"150,744.00"
+Home Office,Home Office,09/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,OFFICE OF THE POLICE & CRIME COMMISSIONER FOR GREATER MANCHESTER (G),1001522099,"119,864.00"
+Home Office,Home Office,09/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,POLICE & CRIME COMMISSIONER FOR SOUTH WALES POLICE (G),1001522103,"31,454.00"
+Home Office,Home Office,09/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,POLICE & CRIME COMMISSIONER FOR SOUTH WALES POLICE (G),1001522103,"25,371.00"
+Home Office,Home Office,09/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,WEST MIDLANDS OFFICE FOR POLICING & CRIME (G),1001522107,"43,261.00"
+Home Office,Home Office,10/01/2014,Professional & Admin Services,OSCT - Office of Security and Counter-Terrorism,FOREIGN AND COMMONWEALTH OFFICE,1001522843,"48,429.96"
+Home Office,Home Office,15/01/2014,Professional & Admin Services,OSCT - Office of Security and Counter-Terrorism,THAMES VALLEY POLICE,1001524622,"28,307.84"
+Home Office,Home Office,16/01/2014,Professional & Admin Services,OSCT - Office of Security and Counter-Terrorism,THAMES VALLEY POLICE,1001525197,"28,484.82"
+Home Office,Home Office,16/01/2014,Real Estate Management Services,OSCT - Office of Security and Counter-Terrorism,LGC LTD,1001525161,"23,551.20"
+Home Office,Home Office,16/01/2014,Real Estate Management Services,OSCT - Office of Security and Counter-Terrorism,LGC LTD,1001525161,"30,988.80"
+Home Office,Home Office,16/01/2014,Real Estate Management Services,OSCT - Office of Security and Counter-Terrorism,LGC LTD,1001525161,"30,183.30"
+Home Office,Home Office,16/01/2014,Real Estate Management Services,OSCT - Office of Security and Counter-Terrorism,LGC LTD,1001525161,"30,183.30"
+Home Office,Home Office,16/01/2014,Real Estate Management Services,OSCT - Office of Security and Counter-Terrorism,LGC LTD,1001525161,"7,244.10"
+Home Office,Home Office,16/01/2014,Real Estate Management Services,OSCT - Office of Security and Counter-Terrorism,LGC LTD,1001525161,"30,910.13"
+Home Office,Home Office,17/01/2014,"IT, Telecomms Managed Service",OSCT - Office of Security and Counter-Terrorism,GOVERNMENT COMMUNICATION BUREAU,3000047690,"584,500.00"
+Home Office,Home Office,22/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,HM REVENUE & CUSTOMS (G),3000047707,"87,037.00"
+Home Office,Home Office,22/01/2014,Grants,OSCT - Office of Security and Counter-Terrorism,MAYORS OFFICE FOR POLICING AND CRIME (G),1001527129,"339,462.00"
+Home Office,Home Office,22/01/2014,Real Estate Management Services,OSCT - Office of Security and Counter-Terrorism,CT CENTRE (MOD) T/A DSTL,1001527359,"167,309.06"
+Home Office,Home Office,21/01/2014,Legal Fees,Other Central Services Corporate Support,FOREIGN AND COMMONWEALTH OFFICE,3000047696,"33,150.53"
+Home Office,Home Office,03/01/2014,Procurement Card - GPC,Performance & Finance Directorate,BARCLAYS BANK,1001520046,"72,617.69"
+Home Office,Home Office,06/01/2014,Procurement Card - Fuel Card,Performance & Finance Directorate,ALLSTAR BUSINESS SOLUTIONS LTD,1001520760,"113,081.86"
+Home Office,Home Office,06/01/2014,Travel & Food & Lodging,Performance & Finance Directorate,REDFERN TRAVEL LTD,1001520812,"48,872.42"
+Home Office,Home Office,07/01/2014,Procurement Card - Travel & Expenses,Performance & Finance Directorate,BARCLAYS BANK,1001521318,"105,090.93"
+Home Office,Home Office,08/01/2014,Accounts Refunds,Performance & Finance Directorate,CSC COMPUTER SCIENCES CORPORATION,1001521788,"317,575.20"
+Home Office,Home Office,08/01/2014,Accounts Refunds,Performance & Finance Directorate,CSC COMPUTER SCIENCES CORPORATION,1001521788,"-317,575.20"
+Home Office,Home Office,13/01/2014,Travel & Food & Lodging,Performance & Finance Directorate,REDFERN TRAVEL LTD,1001523501,"169,589.70"
+Home Office,Home Office,15/01/2014,Accounts Refunds,Performance & Finance Directorate,FOREIGN AND COMMONWEALTH OFFICE,3000047679,"64,487.50"
+Home Office,Home Office,15/01/2014,Accounts Refunds,Performance & Finance Directorate,FOREIGN AND COMMONWEALTH OFFICE,3000047679,"-64,487.50"
+Home Office,Home Office,16/01/2014,Facilities Management ,Performance & Finance Directorate,LEX AUTOLEASE LTD,6200044138,"-126,473.37"
+Home Office,Home Office,16/01/2014,Facilities Management ,Performance & Finance Directorate,LEX AUTOLEASE LTD,6200044138,"110,734.52"
+Home Office,Home Office,16/01/2014,Travel & Food & Lodging,Performance & Finance Directorate,REDFERN TRAVEL LTD,1001525182,"328,310.42"
+Home Office,Home Office,17/01/2014,Accounts Refunds,Performance & Finance Directorate,G4S CARE & JUSTICE SERVICES (UK) LTD,1001525322,"-129,985.02"
+Home Office,Home Office,17/01/2014,Accounts Refunds,Performance & Finance Directorate,G4S CARE & JUSTICE SERVICES (UK) LTD,1001525322,"-152,154.00"
+Home Office,Home Office,17/01/2014,Asylum Services,Performance & Finance Directorate,G4S CARE & JUSTICE SERVICES (UK) LTD,1001525322,"129,985.02"
+Home Office,Home Office,17/01/2014,Politics & Civic Affairs,Performance & Finance Directorate,G4S CARE & JUSTICE SERVICES (UK) LTD,1001525322,"152,154.00"
+Home Office,Home Office,17/01/2014,Telecoms - Fixed Line,Performance & Finance Directorate,BRITISH TELECOMMUNICATIONS LTD,1001525257,3.74
+Home Office,Home Office,21/01/2014,Business Advice & Support,Performance & Finance Directorate,DELOITTE MCS LTD,4000004250,"109,036.80"
+Home Office,Home Office,22/01/2014,Travel & Food & Lodging,Performance & Finance Directorate,REDFERN TRAVEL LTD,1001527444,"391,008.67"
+Home Office,Home Office,23/01/2014,GCDA Control,Performance & Finance Directorate,INCHCAPE FLEET SOLUTIONS LTD,1001528158,"121,274.23"
+Home Office,Home Office,27/01/2014,Grants,Performance & Finance Directorate,CT CENTRE (MOD) T/A DSTL(G),1001529328,"79,688.20"
+Home Office,Home Office,29/01/2014,Travel & Food & Lodging,Performance & Finance Directorate,REDFERN TRAVEL LTD,1001531133,"417,439.17"
+Home Office,Home Office,30/01/2014,Facilities Management ,Performance & Finance Directorate,CALDER CONFERENCES LTD,1001531578,"57,655.34"
+Home Office,Home Office,02/01/2014,IT & Telecoms Components,Performance & Reform Dir,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,6200044126,"-6,596.90"
+Home Office,Home Office,06/01/2014,IT & Telecoms Components,Performance & Reform Dir,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001520800,"-16,325.97"
+Home Office,Home Office,06/01/2014,IT & Telecoms Components,Performance & Reform Dir,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001520800,"-36,618.28"
+Home Office,Home Office,21/01/2014,Grants,Performance & Reform Dir,MISSING PEOPLE (G),1001526304,"55,000.00"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"12,626.46"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"17,126.44"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"10,019.32"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"9,453.32"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"7,718.32"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"12,626.46"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"17,126.44"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"10,019.32"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"9,453.32"
+Home Office,Home Office,24/01/2014,IT & Telecoms Components,Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"7,718.32"
+Home Office,Home Office,24/01/2014,"IT, Telecomms Hardware",Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"7,239.32"
+Home Office,Home Office,24/01/2014,"IT, Telecomms Hardware",Performance & Reform Dir,SPECIALIST COMPUTER CENTRES PLC,1001528881,"7,239.32"
+Home Office,Home Office,02/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001519874,"128,450.88"
+Home Office,Home Office,02/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001519874,"26,935.20"
+Home Office,Home Office,02/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001519874,"41,662.80"
+Home Office,Home Office,02/01/2014,PCD National IT  Applications,Police ICT Directorate,NORTHGATE INFORMATION SOLUTIONS UK LTD,1001519954,"39,000.00"
+Home Office,Home Office,03/01/2014,IT Application Consultancy & Development,Police ICT Directorate,FARSIGHT CONSULTING LTD,1001520130,"38,520.00"
+Home Office,Home Office,03/01/2014,IT Application Consultancy & Development,Police ICT Directorate,UNIFY ENTERPRISE COMMUNICATIONS LTD,1001520197,"62,888.40"
+Home Office,Home Office,06/01/2014,"IT, Telecomms Managed Service",Police ICT Directorate,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001520800,"40,909.00"
+Home Office,Home Office,06/01/2014,PCD National IT  Applications,Police ICT Directorate,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001520800,"45,547.00"
+Home Office,Home Office,06/01/2014,PCD National IT  Applications,Police ICT Directorate,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001520800,"1,582,413.00"
+Home Office,Home Office,08/01/2014,PCD National IT  Applications,Police ICT Directorate,NORTHGATE INFORMATION SOLUTIONS UK LTD,1001521818,"27,795.24"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"7,387.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"8,162.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"7,733.35"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"9,777.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"9,862.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"13,251.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"10,102.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"8,262.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"8,512.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"6,539.40"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"10,262.23"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"6,387.33"
+Home Office,Home Office,13/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001523523,"6,480.98"
+Home Office,Home Office,15/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001524528,"25,309.20"
+Home Office,Home Office,15/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001524528,"129,341.71"
+Home Office,Home Office,21/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001526419,"60,295.20"
+Home Office,Home Office,21/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001526534,"6,199.20"
+Home Office,Home Office,21/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001526534,360.00
+Home Office,Home Office,21/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001526534,"9,799.20"
+Home Office,Home Office,21/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001526534,"8,695.74"
+Home Office,Home Office,22/01/2014,PCD National IT  Applications,Police ICT Directorate,MEDLEY BUSINESS SOLUTIONS LTD,1001527416,"27,664.80"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"145,111.90"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"138,050.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"163,726.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"137,832.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"138,192.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"134,747.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"134,383.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"134,796.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"141,434.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"136,107.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"738,810.82"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"32,772.00"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"203,644.80"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"86,791.20"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"336,523.20"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,CGI IT UK LTD,1001528119,"227,120.40"
+Home Office,Home Office,23/01/2014,PCD National IT  Applications,Police ICT Directorate,LIBERATA UK LTD,1001528168,"36,000.00"
+Home Office,Home Office,24/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001528896,"23,721.05"
+Home Office,Home Office,24/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001528896,"34,578.51"
+Home Office,Home Office,27/01/2014,"IT, Telecomms Managed Service",Police ICT Directorate,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001529505,"-23,822.16"
+Home Office,Home Office,27/01/2014,"IT, Telecomms Managed Service",Police ICT Directorate,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001529505,"-1,919.00"
+Home Office,Home Office,27/01/2014,PCD National IT  Applications,Police ICT Directorate,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001529505,"32,260.39"
+Home Office,Home Office,28/01/2014,"IT, Telecomms Managed Service",Police ICT Directorate,NORTHROP GRUMMAN INFORMATION TECHNOLOGY LTD,1001530255,"58,032.08"
+Home Office,Home Office,28/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001530319,"-27,900.00"
+Home Office,Home Office,29/01/2014,"IT, Telecomms Managed Service",Police ICT Directorate,VODAFONE LTD,1001531170,"111,884.19"
+Home Office,Home Office,29/01/2014,"IT, Telecomms Managed Service",Police ICT Directorate,VODAFONE LTD,1001531170,"140,383.19"
+Home Office,Home Office,29/01/2014,"IT, Telecomms Managed Service",Police ICT Directorate,VODAFONE LTD,1001531170,"110,904.20"
+Home Office,Home Office,29/01/2014,"IT, Telecomms Managed Service",Police ICT Directorate,VODAFONE LTD,1001531170,"139,403.20"
+Home Office,Home Office,29/01/2014,PCD National IT  Applications,Police ICT Directorate,COLLEGE OF POLICING,1001531055,"42,052.03"
+Home Office,Home Office,29/01/2014,PCD National IT  Applications,Police ICT Directorate,VODAFONE LTD,1001531170,"41,638.15"
+Home Office,Home Office,02/01/2014,Laboratory & Scientific Equipment,UKBF - UK Border Force,LEIDOS LTD,1001519931,"37,435.20"
+Home Office,Home Office,02/01/2014,Uniforms & Protective Clothes,UKBF - UK Border Force,HUNTER APPAREL SOLUTIONS LTD,1001519915,"160,688.18"
+Home Office,Home Office,02/01/2014,Uniforms & Protective Clothes,UKBF - UK Border Force,HUNTER APPAREL SOLUTIONS LTD,1001519915,"29,810.28"
+Home Office,Home Office,02/01/2014,Uniforms & Protective Clothes,UKBF - UK Border Force,HUNTER APPAREL SOLUTIONS LTD,1001519915,"43,147.63"
+Home Office,Home Office,03/01/2014,Laboratory & Scientific Equipment,UKBF - UK Border Force,RAPISCAN SYSTEMS LTD,1001520168,"46,666.46"
+Home Office,Home Office,07/01/2014,Law Enforcement & Safety Equipment,UKBF - UK Border Force,G4S CASH SERVICES (UK) LIMITED,1001521342,"29,129.48"
+Home Office,Home Office,09/01/2014,IT/IS Programme Delivery / Implementation,UKBF - UK Border Force,VERAN PERFORMANCE LTD,1001522382,"52,374.00"
+Home Office,Home Office,09/01/2014,Law Enforcement & Safety Equipment,UKBF - UK Border Force,TNT UK LTD,1001522377,"228,021.25"
+Home Office,Home Office,09/01/2014,Public Administration Services,UKBF - UK Border Force,EAMUS CORK SOLUTIONS,7000008251,"218,345.02"
+Home Office,Home Office,10/01/2014,Parking  - Airport,UKBF - UK Border Force,GATWICK AIRPORT LTD,1001522845,49.60
+Home Office,Home Office,10/01/2014,Parking  - Airport,UKBF - UK Border Force,GATWICK AIRPORT LTD,1001522845,"27,972.15"
+Home Office,Home Office,10/01/2014,Parking  - Airport,UKBF - UK Border Force,GATWICK AIRPORT LTD,1001522845,49.60
+Home Office,Home Office,10/01/2014,Parking  - Airport,UKBF - UK Border Force,GATWICK AIRPORT LTD,1001522845,49.60
+Home Office,Home Office,10/01/2014,Parking  - Airport,UKBF - UK Border Force,GATWICK AIRPORT LTD,1001522845,"1,339.09"
+Home Office,Home Office,10/01/2014,Law Enforcement & Safety Equipment,UKBF - UK Border Force,ASSOCIATED BRITISH PORTS,1001522797,"275,935.99"
+Home Office,Home Office,10/01/2014,Law Enforcement & Safety Equipment,UKBF - UK Border Force,BIFFA WASTE SERVICES LIMITED,1001522801,"42,036.50"
+Home Office,Home Office,14/01/2014,Laboratory & Scientific Equipment,UKBF - UK Border Force,L3 COMMUNICATIONS (UK) LTD,1001524032,"51,292.84"
+Home Office,Home Office,15/01/2014,IT & Telecoms Components,UKBF - UK Border Force,FUJITSU SERVICES LTD,1001524552,"68,718.62"
+Home Office,Home Office,15/01/2014,Professional & Admin Services,UKBF - UK Border Force,CAPITA RESOURCING LTD,1001524525,"29,580.00"
+Home Office,Home Office,16/01/2014,Law Enforcement & Safety Equipment,UKBF - UK Border Force,TNT UK LTD,1001525201,"216,600.44"
+Home Office,Home Office,16/01/2014,Public Administration Services,UKBF - UK Border Force,HM REVENUE & CUSTOMS,3000047685,"1,686,700.00"
+Home Office,Home Office,16/01/2014,Public Administration Services,UKBF - UK Border Force,MINISTRY OF DEFENCE,3000047686,"478,420.35"
+Home Office,Home Office,17/01/2014,Management & Admin Services,UKBF - UK Border Force,EXPOTEL HOTEL RESERVATIONS LTD,7000008288,"28,770.61"
+Home Office,Home Office,17/01/2014,Management & Admin Services,UKBF - UK Border Force,EXPOTEL HOTEL RESERVATIONS LTD,7000008288,"49,550.41"
+Home Office,Home Office,21/01/2014,Parking  - Council,UKBF - UK Border Force,PORTSMOUTH CITY COUNCIL 1,1001526494,"34,224.00"
+Home Office,Home Office,23/01/2014,Management & Admin Services,UKBF - UK Border Force,PARIS APPARTMENTS SERVICES (PAS),7000008295,"98,912.42"
+Home Office,Home Office,24/01/2014,Parking  - Airport,UKBF - UK Border Force,HEATHROW AIRPORT LTD,1001528821,"311,948.95"
+Home Office,Home Office,24/01/2014,Animal Material & Supplies,UKBF - UK Border Force,WAGTAIL UK LTD,1001528898,"96,909.60"
+Home Office,Home Office,24/01/2014,Professional & Admin Services,UKBF - UK Border Force,HM REVENUE & CUSTOMS,3000047723,"25,147.73"
+Home Office,Home Office,28/01/2014,Travel & Food & Lodging,UKBF - UK Border Force,CHANNEL TUNNEL GROUP LTD (THE) T/A EUROTUNNEL,1001530310,"63,526.00"
+Home Office,Home Office,29/01/2014,Grants,UKBF - UK Border Force,WEST SUSSEX COUNTY COUNCIL 1 (G),1001530802,"69,030.00"
+Home Office,Home Office,29/01/2014,Public Administration Services,UKBF - UK Border Force,STANSTED AIRPORT LTD,1001531150,"33,265.51"
+Home Office,IPCC - Independent Police Complaints Commission,06/12/2013,Legal Fees,IPCC - Independent Police Complaints Commission,MATRIX CHAMBERS,20000656,"39,240.00"
+Home Office,IPCC - Independent Police Complaints Commission,01/01/2014,Accomodation - Rent,IPCC - Independent Police Complaints Commission,HOME OFFICE,20000870,"128,685.56"
+Home Office,IPCC - Independent Police Complaints Commission,23/01/2014,Travel & Food & Lodging,IPCC - Independent Police Complaints Commission,HRG,20001163,"25,668.37"
+Home Office,NFA - National Fraud Authority,07/01/2014,Advertising Media,NFA - National Fraud Authority,M&C SAATCHI (UK) LTD,1001521357,"44,848.19"
+Home Office,NFA - National Fraud Authority,07/01/2014,Advertising Media,NFA - National Fraud Authority,M&C SAATCHI (UK) LTD,1001521357,"47,582.10"
+Home Office,NFA - National Fraud Authority,07/01/2014,Advertising Media,NFA - National Fraud Authority,M&C SAATCHI (UK) LTD,1001521357,"40,317.60"
+Home Office,NFA - National Fraud Authority,07/01/2014,Advertising Media,NFA - National Fraud Authority,M&C SAATCHI (UK) LTD,1001521357,"25,126.80"
+Home Office,NFA - National Fraud Authority,07/01/2014,Public Administration Services,NFA - National Fraud Authority,BROADCASTING SUPPORT SERVICES,1001521322,"393,201.95"
+Home Office,NFA - National Fraud Authority,14/01/2014,Advertising Media,NFA - National Fraud Authority,NUDGE DIGITAL LTD,1001524044,"54,240.00"
+Home Office,SIA - Security Industry Authority,14/01/2014,Licensing ,SIA - Security Industry Authority,BT Global Services ,CBTG01,"539,763.88"
+Home Office,SIA - Security Industry Authority,15/01/2014,Licensing ,SIA - Security Industry Authority,BT Global Services ,CBTG01,"302,048.71"
+Home Office,SIA - Security Industry Authority,15/01/2014,Licensing ,SIA - Security Industry Authority,BT Global Services ,CBTG01,"38,758.77"
+Home Office,SIA - Security Industry Authority,15/01/2014,Licensing ,SIA - Security Industry Authority,DBS,CDBS02,"149,994.00"
+Home Office,SIA - Security Industry Authority,22/01/2014,Licensing ,SIA - Security Industry Authority,Kingsley Napley,CKIN02,"36,032.70"
+Home Office,SIA - Security Industry Authority,22/01/2014,Office Services,SIA - Security Industry Authority,OMD Services Limited,COLS01,"165,414.66"
+Home Office,UK V&I- UK Visas & Immigration,03/01/2014,Grants,UKBA Asylum Support,COSLA (G),1001520365,"35,000.00"
+Home Office,UK V&I- UK Visas & Immigration,03/01/2014,Grants,UKBA Asylum Support,EAST MIDLANDS REGIONAL LOCAL GOVERNMENT ASSOCIATION (G),1001520366,"26,250.00"
+Home Office,UK V&I- UK Visas & Immigration,03/01/2014,Grants,UKBA Asylum Support,MANCHESTER CITY COUNCIL (G),1001520368,"39,717.25"
+Home Office,UK V&I- UK Visas & Immigration,03/01/2014,Grants,UKBA Asylum Support,NORTHERN IRELAND LOCAL GOVERNMENT ASSOCIATION (G),1001520369,"32,418.50"
+Home Office,UK V&I- UK Visas & Immigration,03/01/2014,Grants,UKBA Asylum Support,WEST MIDLANDS LOCAL GOVERNMENT ASSOCIATION (WMLGA) (G),1001520371,"33,750.00"
+Home Office,UK V&I- UK Visas & Immigration,03/01/2014,Grants,UKBA Asylum Support,YORKSHIRE & HUMBERSIDE CONSORT (G),1001520372,"39,750.00"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,MIGRANT HELPLINE (G),1001520628,"112,732.25"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE ACTION (G),1001520629,"101,585.00"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE ACTION (G),1001520629,"72,408.50"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE ACTION (G),1001520629,"52,388.50"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE ACTION (G),1001520629,"117,652.50"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001520630,"68,262.25"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001520630,"113,352.00"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001520630,"143,316.50"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001520630,"42,470.25"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001520630,"40,293.75"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001520630,"110,538.25"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001520630,"100,355.25"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001520630,"53,250.00"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,SCOTTISH REFUGEE COUNCIL (G),1001520631,"57,232.50"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,SCOTTISH REFUGEE COUNCIL (G),1001520631,"114,277.75"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,WELSH REFUGEE COUNCIL 1 (G),1001520633,"46,835.75"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Asylum Support,WELSH REFUGEE COUNCIL 1 (G),1001520633,"81,976.00"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,IT & Telecoms Components,UKBA Asylum Support,EQUAL EXPERTS UK LTD,1001520785,"-93,870.00"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,IT & Telecoms Components,UKBA Asylum Support,EQUAL EXPERTS UK LTD,1001520785,"-28,890.00"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,IT & Telecoms Components,UKBA Asylum Support,EQUAL EXPERTS UK LTD,1001520785,"94,500.00"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,IT & Telecoms Components,UKBA Asylum Support,EQUAL EXPERTS UK LTD,1001520785,"40,500.00"
+Home Office,UK V&I- UK Visas & Immigration,07/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001521380,"169,464.89"
+Home Office,UK V&I- UK Visas & Immigration,07/01/2014,IT & Telecoms Components,UKBA Asylum Support,6POINT6 LTD,1001521306,"28,203.00"
+Home Office,UK V&I- UK Visas & Immigration,08/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001521846,"Ł1,039,215.58"
+Home Office,UK V&I- UK Visas & Immigration,08/01/2014,Grants,UKBA Asylum Support,SOLIHULL MBC (G),1001521657,"67,950.00"
+Home Office,UK V&I- UK Visas & Immigration,08/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047653,"609,429.20"
+Home Office,UK V&I- UK Visas & Immigration,09/01/2014,Grants,UKBA Asylum Support,HAMPSHIRE COUNTY COUNCIL 1 (G),1001522096,"76,010.00"
+Home Office,UK V&I- UK Visas & Immigration,09/01/2014,"Science, Technical & Research",UKBA Asylum Support,ATOS I T SERVICES UK LTD,1001522277,"52,800.00"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Parking  - Airport,UKBA Asylum Support,GATWICK AIRPORT LTD,1001522845,"1,239.90"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,BOLTON MBC 1 (G),1001523320,"81,000.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,CROYDON COUNCIL (G),1001523325,"1,233,537.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,DEPARTMENT OF WORK & PENSIONS (G),3000047668,"47,355.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,GLASGOW CITY COUNCIL 1 (G),1001523328,"55,862.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,LEICESTERSHIRE COUNTY COUNCIL 1 (G),1001523329,"26,807.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF HARINGEY 1 (G),1001523332,"87,644.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF HILLINGDON 1 (G),1001523333,"63,300.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF HILLINGDON 1 (G),1001523333,"305,806.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF LAMBETH 1 (G),1001523334,"39,118.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF MERTON 2 (G),1001523336,"31,027.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,MANCHESTER CITY COUNCIL (G),1001523338,"43,050.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,NORTHAMPTONSHIRE COUNTY COUNCIL (G),1001523340,"63,000.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,NOTTINGHAMSHIRE COUNTY COUNCIL 2 (G),1001523342,"60,687.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,SOLIHULL MBC (G),1001523349,"54,750.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,SOLIHULL MBC (G),1001523349,"143,164.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,STAFFORDSHIRE COUNTY COUNCIL 1 (G),1001523350,"48,999.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Grants,UKBA Asylum Support,SURREY COUNTY COUNCIL 1 (G),1001523351,"30,600.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047672,"249,114.70"
+Home Office,UK V&I- UK Visas & Immigration,14/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001524061,"198,362.11"
+Home Office,UK V&I- UK Visas & Immigration,14/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001524061,"1,000,000.00"
+Home Office,UK V&I- UK Visas & Immigration,14/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001524061,"172,748.67"
+Home Office,UK V&I- UK Visas & Immigration,15/01/2014,Interpreters,UKBA Asylum Support,SPRAKAB (SKANDINNAVISK SPRAKANALYS AB),7000008269,"31,693.00"
+Home Office,UK V&I- UK Visas & Immigration,15/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047684,"150,145.33"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Contingent Labour,UKBA Asylum Support,ADVANTAGE TECHNICAL RESOURCING,1001525013,"28,704.00"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001525322,"145,814.25"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001525322,"124,568.98"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Asylum Provision,UKBA Asylum Support,CLEAREL LTD,1001526423,"488,690.20"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Asylum Provision,UKBA Asylum Support,CLEAREL LTD,1001526423,"67,991.68"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Asylum Provision,UKBA Asylum Support,CLEAREL LTD,1001526423,"195,713.30"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Asylum Provision,UKBA Asylum Support,CLEAREL LTD,1001526422,"609,305.04"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Asylum Provision,UKBA Asylum Support,CLEAREL LTD,1001526422,"307,761.73"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Asylum Provision,UKBA Asylum Support,CLEAREL LTD,1001526422,"411,537.30"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047702,"218,269.90"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Politics & Civic Affairs,UKBA Asylum Support,CLEAREL LTD,1001526422,"38,979.77"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001527453,"976,311.15"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001527453,"192,966.12"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,BIRMINGHAM CITY COUNCIL (G),1001527078,"33,450.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,BRISTOL CITY COUNCIL 1 (G),1001527082,"27,030.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,CENTRAL BEDFORDSHIRE COUNCIL (G),1001527089,"30,884.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,CITY OF WAKEFIELD METROPOLITAN DISTRICT COUNCIL (G),1001527092,"28,238.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,ESSEX COUNTY COUNCIL 1 (G),1001527099,"112,071.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,HAMMERSMITH & FULHAM COMMUNITY (G),1001527103,"36,930.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,HAMPSHIRE COUNTY COUNCIL 1 (G),1001527104,"54,788.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,HERTFORDSHIRE COUNTY COUNCIL 1 (G),1001527105,"104,870.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LB OF BRENT CHILDRENS DIRECTORATE (G),1001527108,"57,898.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LINCOLNSHIRE COUNTY COUNCIL 1 (G),1001527111,"46,038.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF BARKING & DAGENHAM (G),1001527112,"79,990.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF BARNET 1 (G),1001527113,"64,687.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF CAMDEN 1 (G),1001527115,"51,992.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF ENFIELD 1 (G),1001527117,"37,130.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF HARROW 1 (G),1001527119,"46,920.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF HOUNSLOW 1 (G),1001527120,"47,296.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF ISLINGTON (G),1001527121,"92,218.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF KENSINGTON & CHELSEA (G),1001527122,"27,984.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH OF REDBRIDGE 1 (G),1001527124,"51,662.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,LONDON BOROUGH TOWER HAMLETS (G),1001527126,"47,100.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,MANCHESTER CITY COUNCIL (G),1001527128,"33,747.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,MIDDLESBROUGH BOROUGH COUNCIL 1 (G),1001527130,"49,416.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,MILTON KEYNES COUNCIL 1 (G),1001527131,"33,390.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,NORTHAMPTONSHIRE COUNTY COUNCIL (G),1001527137,"160,775.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,NOTTINGHAMSHIRE COUNTY COUNCIL 2 (G),1001527138,"40,100.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,OXFORDSHIRE COUNTY COUNCIL 1 (G),1001527143,"58,034.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,REFUGEE COUNCIL 1 (G),1001527149,"197,317.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,SLOUGH BOROUGH COUNCIL (G),1001527151,"Ł37,447.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,SURREY COUNTY COUNCIL 1 (G),1001527156,"104,829.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Asylum Support,WEST SUSSEX COUNTY COUNCIL 1 (G),1001527160,"66,405.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,EQUAL EXPERTS UK LTD,1001527371,"43,335.00"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"11,372.63"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"10,880.71"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"10,531.27"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"18,753.51"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"13,834.31"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"10,531.27"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"11,372.63"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"11,372.63"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"18,753.51"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,IT & Telecoms Components,UKBA Asylum Support,SPECIALIST COMPUTER CENTRES PLC,1001527457,"16,292.87"
+Home Office,UK V&I- UK Visas & Immigration,23/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047719,"119,961.43"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001528815,"735,015.78"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001528815,"255,745.02"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001528815,"24,430.80"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001528815,"160,562.00"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001528815,"138,260.89"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001528815,"95,376.52"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001528815,"31,792.16"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,SHEFFIELD CITY COUNCIL,1001528874,"Ł26,250.00"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Provision,UKBA Asylum Support,SHEFFIELD CITY COUNCIL,1001528874,"Ł4,114.94"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047727,"79,357.40"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Politics & Civic Affairs,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001528815,"13,714.20"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001530223,"807,123.39"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,Asylum Provision,UKBA Asylum Support,G4S CARE & JUSTICE SERVICES (UK) LTD,1001530223,"317,980.54"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001530293,"204,644.74"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,Asylum Provision,UKBA Asylum Support,SODEXO MOTIVATION SOLUTIONS UK LTD,1001530293,"1,114,253.31"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,Litigation Tribunal Costs,UKBA Asylum Support,HER MAJESTY'S COURTS & TRIBUNAL SERVICE,3000047737,"128,010.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Provision,UKBA Asylum Support,SERCO LTD,6200044159,"12,979.06"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Provision,UKBA Asylum Support,SERCO LTD,6200044159,"883,250.16"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Provision,UKBA Asylum Support,SERCO LTD,6200044159,"Ł131,827.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Provision,UKBA Asylum Support,SERCO LTD,6200044159,"Ł196,517.21"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Provision,UKBA Asylum Support,SERCO LTD,6200044159,"-Ł12,979.07"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Provision,UKBA Asylum Support,SERCO LTD,6200044159,"-Ł883,250.17"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Provision,UKBA Asylum Support,SERCO LTD,6200044159,"-Ł131,827.01"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Provision,UKBA Asylum Support,SERCO LTD,6200044159,"-Ł196,517.22"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,DEPARTMENT OF WORK & PENSIONS (G),3000047742,"37,884.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,DEPARTMENT OF WORK & PENSIONS (G),3000047742,"75,768.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,KENT COUNTY COUNCIL 1 (G),1001530743,"803,172.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,MANCHESTER CITY COUNCIL (G),1001530747,"98,058.24"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,NORTHAMPTONSHIRE COUNTY COUNCIL (G),1001530754,"166,815.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,SHEFFIELD CITY COUNCIL 1 (G),1001530790,"Ł148,500.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,THURROCK COUNCIL 1 (G),1001530796,"43,167.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,WARWICKSHIRE COUNTY COUNCIL 1 (G),1001530798,"117,372.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Asylum Support,WEST BERKSHIRE DISTRICT COUNCIL (LA) (G),1001530799,"32,836.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,IT & Telecoms Components,UKBA Asylum Support,EQUAL EXPERTS UK LTD,1001531067,"101,115.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"-1,680,000.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"28,716.14"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"20,718.24"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"11,907.74"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"45,430.44"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"66,589.31"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"60,115.92"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"17,359.68"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"30,407.52"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"520,694.23"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"1,628,554.68"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"168,579.07"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047749,"231,034.20"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Litigation Tribunal Costs,UKBA Asylum Support,HER MAJESTY'S COURTS & TRIBUNAL SERVICE,3000047745,"83,000.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Politics & Civic Affairs,UKBA Asylum Support,SERCO LTD,6200044159,"Ł20,726.31"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Politics & Civic Affairs,UKBA Asylum Support,SERCO LTD,6200044159,"-Ł20,726.32"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Legal Fees,UKBA Asylum Support,TREASURY SOLICITORS OFFICE,3000047758,"404,663.93"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Facilities Management ,UKBA Detention,MINISTRY OF JUSTICE,3000047708,"1,117,798.26"
+Home Office,UK V&I- UK Visas & Immigration,27/01/2014,Public Order Jail or prison services,UKBA Detention,THAMES VALLEY POLICE,1001529538,"26,255.40"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,Grants,UKBA Enablers,CITY COLLEGE NOTTINGHAM (G),1001519814,"142,915.38"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,FUJITSU SERVICES LTD,1001519902,"25,672.34"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,"Transport, Storage & Mail Services",UKBA Enablers,FRANCOTYP-POSTALIA LIMITED,1001519901,"40,000.00"
+Home Office,UK V&I- UK Visas & Immigration,07/01/2014,"Transport, Storage & Mail Services",UKBA Enablers,ROYAL MAIL,1001521372,"55,500.00"
+Home Office,UK V&I- UK Visas & Immigration,08/01/2014,IT & Telecoms Components,UKBA Enablers,ACUMA SOLUTIONS LTD,1001521757,"76,080.00"
+Home Office,UK V&I- UK Visas & Immigration,08/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,FUJITSU SERVICES LTD,1001521798,"29,929.92"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Grants,UKBA Enablers,EDUWISE LTD (G),1001522633,"87,848.25"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Grants,UKBA Enablers,PATH YORKSHIRE (G),1001522635,"27,724.61"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Security Guard Services Other costs,UKBA Enablers,OCS GROUP UK LTD,1001522875,"64,610.75"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Education & Training Services,UKBA Enablers,COLLEGE OF POLICING,1001523445,"28,644.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,Education & Training Services,UKBA Enablers,COLLEGE OF POLICING,1001523445,"26,694.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,"IT, Telecomms Managed Service",UKBA Enablers,BLACKTHORN TECHNOLOGIES LTD,1001523430,"30,600.00"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,"Science, Technical & Research",UKBA Enablers,FUJITSU SERVICES LTD,1001523466,"87,500.40"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,"Science, Technical & Research",UKBA Enablers,FUJITSU SERVICES LTD,1001523466,"87,500.40"
+Home Office,UK V&I- UK Visas & Immigration,13/01/2014,"Science, Technical & Research",UKBA Enablers,FUJITSU SERVICES LTD,1001523466,"34,815.04"
+Home Office,UK V&I- UK Visas & Immigration,14/01/2014,Security Guard Services Other costs,UKBA Enablers,ICTS UK LTD,1001524028,"28,125.24"
+Home Office,UK V&I- UK Visas & Immigration,15/01/2014,Legal Fees,UKBA Enablers,LONDON COURT OF INTERNATIONAL ARBITRATION,1001524578,"212,500.00"
+Home Office,UK V&I- UK Visas & Immigration,15/01/2014,"Transport, Storage & Mail Services",UKBA Enablers,IRON MOUNTAIN (UK) LTD,1001524562,"451,785.34"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Grants,UKBA Enablers,ARBOUR YOUTH CENTRE (G),1001524888,"60,118.88"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Grants,UKBA Enablers,EAVES HOUSING FOR WOMEN LTD (G),1001524894,"48,000.00"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Grants,UKBA Enablers,LEEDS CITY COUNCIL (G),1001524896,"92,990.01"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Grants,UKBA Enablers,SLOUGH BOROUGH COUNCIL (G),1001524899,"46,077.19"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,IT & Telecoms Components,UKBA Enablers,IBM DIRECT UNITED KINGDOM LTD,1001525149,"55,515.00"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Law Enforcement & Safety Equipment,UKBA Enablers,UNIVERSAL SECURITY SYSTEMS LTD,1001525205,"33,015.66"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Education & Training Services,UKBA Enablers,COLLEGE OF POLICING,1001526424,"20,533.00"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Education & Training Services,UKBA Enablers,COLLEGE OF POLICING,1001526424,"6,161.00"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Grants,UKBA Enablers,OFFICE OF THE IMMIGRATION SERVICES COMMISSIONER (OISC ) (G),3000047699,"378,973.00"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,"IT, Telecomms Managed Service",UKBA Enablers,BLACKTHORN TECHNOLOGIES LTD,1001526407,"157,103.20"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Grants,UKBA Enablers,QED FOUNDATION LTD(G),1001527146,"45,038.21"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,FUJITSU SERVICES LTD,1001527378,"28,252.69"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,FUJITSU SERVICES LTD,1001527378,"98,602.44"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,FUJITSU SERVICES LTD,1001527378,"26,527.90"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,"Transport, Storage & Mail Services",UKBA Enablers,ROYAL MAIL,1001527449,"55,500.00"
+Home Office,UK V&I- UK Visas & Immigration,23/01/2014,Grants,UKBA Enablers,DONCASTER ETHNIC MINORITY REGENERATION PARTNERSHIP (G),1001527825,"31,135.53"
+Home Office,UK V&I- UK Visas & Immigration,27/01/2014,Business Advice & Support,UKBA Enablers,GRANT THORNTON UK LLP,1001529478,"33,494.40"
+Home Office,UK V&I- UK Visas & Immigration,27/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,ATOS I T SERVICES UK LTD,1001529439,"319,002.72"
+Home Office,UK V&I- UK Visas & Immigration,27/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,IBM DIRECT UNITED KINGDOM LTD,1001529482,"27,091.31"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,IT & Telecoms Components,UKBA Enablers,ACUMA SOLUTIONS LTD,1001530180,"77,563.20"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,IT & Telecoms Components,UKBA Enablers,IBM DIRECT UNITED KINGDOM LTD,1001530230,"190,608.96"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,ATOS I T SERVICES UK LTD,1001530185,"84,564.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Enablers,ACTION ACTON LTD (G),1001530727,"67,644.17"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Enablers,ARBOUR YOUTH CENTRE (G),1001530728,"73,804.47"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Grants,UKBA Enablers,MI COMPUTSOLUTIONS INCORPORATED (G),1001530749,"135,328.27"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,"IT, Broadcasting & Telecomms",UKBA Enablers,ATOS I T SERVICES UK LTD,1001530952,"51,179.36"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Grants,UKBA Enablers,ACTION ACTON LTD (G),1001531483,"26,116.44"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Grants,UKBA Enablers,BRADFORD COLLEGE (G),1001531484,"61,877.36"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Grants,UKBA Enablers,HOUSING ASSOC CHARITABLE TRUST (G),1001531485,"34,890.50"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Grants,UKBA Enablers,INSPIRE FUTURES LTD(G),1001531486,"32,849.34"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Grants,UKBA Enablers,QED FOUNDATION LTD(G),1001531490,"28,280.76"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Grants,UKBA Enablers,SLOUGH BOROUGH COUNCIL (G),1001531491,"58,720.34"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001519872,"39,059.85"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,Professional & Admin Services,UKBA Enforcement & Removals,CUMBRIA POLICE & CRIME COMMISSIONER,1001519886,"16,909.61"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,Professional & Admin Services,UKBA Enforcement & Removals,CUMBRIA POLICE & CRIME COMMISSIONER,1001519886,"11,866.52"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,Voluntary Assisted Returns,UKBA Enforcement & Removals,SOUTH EAST STRATEGIC PARTNERSHIP FOR MIGRATION (SESPM),1001519824,"41,607.00"
+Home Office,UK V&I- UK Visas & Immigration,03/01/2014,Grants,UKBA Enforcement & Removals,SOUTH EAST ENGLAND COUNCILS (G),1001520370,"25,699.50"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001520776,"96,702.02"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001520776,"288,587.33"
+Home Office,UK V&I- UK Visas & Immigration,06/01/2014,Grants,UKBA Enforcement & Removals,MIGRANT HELPLINE (G),1001520628,"32,924.50"
+Home Office,UK V&I- UK Visas & Immigration,07/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001521327,"102,825.73"
+Home Office,UK V&I- UK Visas & Immigration,08/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,6200044128,"-18,674.79"
+Home Office,UK V&I- UK Visas & Immigration,09/01/2014,Facilities Management ,UKBA Enforcement & Removals,CAPITA BUSINESS SERVICES LTD,1001522294,"-1,233,820.25"
+Home Office,UK V&I- UK Visas & Immigration,09/01/2014,Facilities Management ,UKBA Enforcement & Removals,CAPITA BUSINESS SERVICES LTD,1001522294,"1,233,820.25"
+Home Office,UK V&I- UK Visas & Immigration,09/01/2014,Professional & Admin Services,UKBA Enforcement & Removals,POLICE & CRIME COMMISSIONER FOR SOUTH YORKSHIRE,1001522347,"31,129.07"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Parking  - Airport,UKBA Enforcement & Removals,GATWICK AIRPORT LTD,1001522845,"1,140.71"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001522818,"-8,636.06"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001522818,"50,323.44"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001522818,"45,776.98"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Professional & Admin Services,UKBA Enforcement & Removals,SCOTTISH POLICE AUTHORITY,3000047666,"38,962.94"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001525127,"36,702.44"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001525127,"63,955.03"
+Home Office,UK V&I- UK Visas & Immigration,16/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001525127,"-26,242.02"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Grants,UKBA Enforcement & Removals,REFUGEE ACTION (G),1001525786,"1,870,185.60"
+Home Office,UK V&I- UK Visas & Immigration,21/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001526418,"92,363.57"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001527341,"62,083.58"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001527341,"42,044.85"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001527341,"30,265.95"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,"Messenger, Portering and Reception Services",UKBA Enforcement & Removals,CAPITA BUSINESS SERVICES LTD,1001527340,"-82,448.04"
+Home Office,UK V&I- UK Visas & Immigration,22/01/2014,"Messenger, Portering and Reception Services",UKBA Enforcement & Removals,CAPITA BUSINESS SERVICES LTD,1001527340,"82,448.04"
+Home Office,UK V&I- UK Visas & Immigration,23/01/2014,Interpreters,UKBA Enforcement & Removals,BIG WORD INTERPRETING SERVICES LTD (THE),1001528034,"32,068.33"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001528787,"26,199.14"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001528787,"88,100.00"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001528787,"65,754.21"
+Home Office,UK V&I- UK Visas & Immigration,27/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001529456,"38,020.57"
+Home Office,UK V&I- UK Visas & Immigration,27/01/2014,Public Administration Services,UKBA Enforcement & Removals,DRYDENS LIMITED T/A DRYDENSFAIRFAX SOLICITORS,1001529465,"26,417.06"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001531047,"162,309.56"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001531047,"112,008.89"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001531584,"96,702.02"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001531584,"39,011.23"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Asylum Services,UKBA Enforcement & Removals,CARLSON WAGONLIT TRAVEL,1001531584,"84,774.51"
+Home Office,UK V&I- UK Visas & Immigration,03/01/2014,"IT, Broadcasting & Telecomms",UKBA International Group,FUJITSU SERVICES LTD,1001520131,"33,418.41"
+Home Office,UK V&I- UK Visas & Immigration,15/01/2014,"Transport, Storage & Mail Services",UKBA International Group,FCO SERVICES,3000047678,"25,200.00"
+Home Office,UK V&I- UK Visas & Immigration,23/01/2014,Professional & Admin Services,UKBA International Group,CSC COMPUTER SCIENCES CORPORATION,1001528129,"1,263,693.42"
+Home Office,UK V&I- UK Visas & Immigration,23/01/2014,Professional & Admin Services,UKBA International Group,VF WORLDWIDE HOLDINGS LTD,7000008301,"1,236,567.74"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Professional & Admin Services,UKBA International Group,CSC COMPUTER SCIENCES CORPORATION,1001528797,"-1,263,693.42"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Professional & Admin Services,UKBA International Group,CSC COMPUTER SCIENCES CORPORATION,1001528797,"1,263,693.42"
+Home Office,UK V&I- UK Visas & Immigration,24/01/2014,Professional & Admin Services,UKBA International Group,CSC COMPUTER SCIENCES CORPORATION,1001528797,"233,948.85"
+Home Office,UK V&I- UK Visas & Immigration,28/01/2014,"IT, Telecomms Managed Service",UKBA International Group,TRUSTMARQUE SOLUTIONS LIMITED,1001530317,"30,913.67"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Publishing & Media Design Services,UKBA International Group,WILLIAMS LEA,1001531676,"42,884.56"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,Integration Loan Scheme,UKBA Managed Migration,DEPARTMENT FOR WORK & PENSIONS (DWP),3000047624,"46,550.00"
+Home Office,UK V&I- UK Visas & Immigration,02/01/2014,"IT, Broadcasting & Telecomms",UKBA Managed Migration,DX SECURE LTD,1001519890,"217,310.77"
+Home Office,UK V&I- UK Visas & Immigration,07/01/2014,"Transport, Storage & Mail Services",UKBA Managed Migration,3M UNITED KINGDOM PLC,1001521305,"45,936.00"
+Home Office,UK V&I- UK Visas & Immigration,08/01/2014,Banking & Monetary Services,UKBA Managed Migration,WORLDPAY UK LTD,1001521863,"46,877.43"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,"IT, Broadcasting & Telecomms",UKBA Managed Migration,DX SECURE LTD,1001522832,"142,674.89"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Public Administration Services,UKBA Managed Migration,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),3000047662,"49,029.62"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Public Administration Services,UKBA Managed Migration,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),3000047662,"56,325.71"
+Home Office,UK V&I- UK Visas & Immigration,10/01/2014,Public Administration Services,UKBA Managed Migration,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),3000047662,"98,475.60"
+Home Office,UK V&I- UK Visas & Immigration,14/01/2014,"IT, Broadcasting & Telecomms",UKBA Managed Migration,ECCTIS LTD,1001524021,"29,160.00"
+Home Office,UK V&I- UK Visas & Immigration,15/01/2014,Legal Fees,UKBA Managed Migration,SCOTLAND OFFICE,3000047682,"314,709.60"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Citizen Ceremonies Receipts,UKBA Managed Migration,BIRMINGHAM CITY COUNCIL,1001525243,"30,320.00"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Citizen Ceremonies Receipts,UKBA Managed Migration,HAMPSHIRE (LA),1001525332,"26,320.00"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Citizen Ceremonies Receipts,UKBA Managed Migration,KENT COUNTY COUNCIL,1001525348,"28,560.00"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Citizen Ceremonies Receipts,UKBA Managed Migration,LONDON BOROUGH OF BRENT,1001525364,"35,520.00"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Citizen Ceremonies Receipts,UKBA Managed Migration,LONDON BOROUGH OF HOUNSLOW,1001525368,"25,520.00"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Citizen Ceremonies Receipts,UKBA Managed Migration,NEWHAM REGISTER OFFICE,1001525391,"38,560.00"
+Home Office,UK V&I- UK Visas & Immigration,17/01/2014,Grants,UKBA Managed Migration,NORTHAMPTONSHIRE COUNTY COUNCIL (G),1001525785,"30,720.00"
+Home Office,UK V&I- UK Visas & Immigration,29/01/2014,"IT, Broadcasting & Telecomms",UKBA Managed Migration,POST OFFICE LTD,1001531122,"92,736.00"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Public Administration Services,UKBA Managed Migration,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),3000047752,"40,360.73"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Public Administration Services,UKBA Managed Migration,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),3000047752,"56,325.71"
+Home Office,UK V&I- UK Visas & Immigration,30/01/2014,Public Administration Services,UKBA Managed Migration,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),3000047752,"98,475.60"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

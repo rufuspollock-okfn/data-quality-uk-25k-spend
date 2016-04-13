@@ -1,0 +1,95 @@
+Departmental Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description,Supplier Postcode,Supplier Type,Expenditure Type
+Cabinet Office,CABINET OFFICE,03/12/12,IT Costs,GOVERNMENT DIGITAL SERVICE,CANTOR & BALL LTD,3000031353,"30,000.00",Development services,SE1 0BU,SME,Programme
+Cabinet Office,CABINET OFFICE,03/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,COOPERATION IRELAND,3000031333,"42,059.00",National Citizen Service project grant ,BT12 5GH,SME,Grants
+Cabinet Office,CABINET OFFICE,03/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,COMMUNITY FOUNDATION NETWORK,3000031343,"82,500.00",Strategic partners transition grant ,N1 9HS,Large,Grants
+Cabinet Office,CABINET OFFICE,03/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,THE LINCOLNSHIRE & RUTLAND EBP,3000031350,"155,462.00",National Citizen Service project grant,LN2 4WH,SME,Grants
+Cabinet Office,CABINET OFFICE,04/12/12,Supplies and Services,HONOURS AND APPOINTMENTS,THE TREASURER TO THE QUEEN,3000031368,"71,911.00",Central Chancery charges for administration of Honours,SW1A 1AA,Government Department,Programme
+Cabinet Office,CABINET OFFICE,05/12/12,Supplies and Services,CENTRAL BUDGETS,TELEPERFORMANCE LTD,3000031415,"44,031.40",Storage Costs,BS1 3LG,Large,Admin
+Cabinet Office,CABINET OFFICE,05/12/12,IT Costs,HUMAN RESOURCES,DWP,3000031413,"99,307.00",Resource Management software development,FY5 3TA,Government Department,Admin
+Cabinet Office,CABINET OFFICE,06/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,NATIONAL YOUTH AGENCY,3000031429,"30,166.00",National Citizen Service project grant ,LE5 3GL,SME,Grants
+Cabinet Office,CABINET OFFICE,06/12/12,Supplies and Services,PARLIAMENTARY COUNSEL OFFICE,LEXIS NEXIS BUTTERWORTHS,3000031430,"32,859.15",Purchase of legal publications,CR9 5AF,Large,Admin
+Cabinet Office,CABINET OFFICE,06/12/12,Supplies and Services,INTELLIGENCE SECURITY AND RESILIENCE,CYBER SECURITY CHALLENGE UK LTD,3000031423,"45,000.00",Get Safe On Line campaign,HP9 2YX,SME,Programme
+Cabinet Office,CABINET OFFICE,06/12/12,Other Staff Related Costs,OFFICE FOR CIVIL SOCIETY,THE CHALLENGE NETWORK,3000031436,"3,899,869.00",National Citizen Service contract ,SE1 7HS,SME,Programme
+Cabinet Office,CABINET OFFICE,07/12/12,IT Costs,GOVERNMENT DIGITAL SERVICE,SKYSCAPE CLOUD LTD,3000031465,"40,109.81",Cost for hosting GOV.UK,GU14 0LX,SME,Programme
+Cabinet Office,CABINET OFFICE,07/12/12,Supplies and Services,KNOWLEDGE AND INFORMATION MANAGEMENT,HOME OFFICE,3000031475,"40,654.39",Historic records review,E14 5LB,Government Department,Admin
+Cabinet Office,CABINET OFFICE,07/12/12,Consultancy,GOVERNMENT PROPERTY UNIT,INVESTMENT PROPERY DATABANK LTD,3000031457,"45,000.00",Delivery of Annual Property Benchmarking Service,EC1 4BL,Large,Programme
+Cabinet Office,CABINET OFFICE,07/12/12,IT Costs,OFFICE FOR CIVIL SOCIETY,NCVO,3000031477,"89,334.00",Delivery of Funding Central website,N1 9RL,SME,Programme
+Cabinet Office,CABINET OFFICE,07/12/12,Assets Under Construction,ESTATE MANAGEMENT,ETDE FM,3000031493,"109,774.80",Facilities Management Services,BN1  1HG,Large,Programme
+Cabinet Office,CABINET OFFICE,10/12/12,Other Staff Related Costs,HUMAN RESOURCES,OXFORD SAID BUSINESS SCHOOL LTD,3000031520,"25,000.00",Attendence for 3 people at Leadership Academy ,OX1 5NY,SME,Admin
+Cabinet Office,CABINET OFFICE,10/12/12,Supplies and Services,POLITICAL AND CONSTITUTIONAL REFORM,M4C,3000031521,"31,119.05",Purchasing advertising space in the national press to publish notices relating to the review of Parliamentary constituency boundaries in England,WC1X 8RX,SME,Programme
+Cabinet Office,CABINET OFFICE,10/12/12,Accomodation and Utilities,ESTATE MANAGEMENT,ECOVERT FM LTD,3000031523,"47,854.11",Facilities Management Services,BN1 1HQ,Large,Admin
+Cabinet Office,CABINET OFFICE,10/12/12,Accomodation and Utilities,INTELLIGENCE SECURITY AND RESILIENCE,MINISTRY OF DEFENCE,3000031518,"224,168.34",High Integrity Telecomms System project costs,L2 3YL,Government Department,Programme
+Cabinet Office,CABINET OFFICE,11/12/12,IT Costs,GOVERNMENT DIGITAL SERVICE,NCC GROUP SECURITY SERVICES LTD,3000031555,"48,100.00",Testing of GOV.UK,M1 7EF,Large,Programme
+Cabinet Office,CABINET OFFICE,11/12/12,Accomodation and Utilities,CENTRAL BUDGETS,EMPRISE SECURITY,3000031568,"48,301.26",Security services ,EC1V 2NT,SME,Admin
+Cabinet Office,CABINET OFFICE,11/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,SCHOOL FOR SOCIAL ENTREPRENEURS,3000031562,"78,750.00",Strategic partners transition grant ,E2 9PF,SME,Grants
+Cabinet Office,CABINET OFFICE,11/12/12,IT Costs,GOVERNMENT DIGITAL SERVICE,ATOS ORIGIN IT SERVICES UK LTD,3000031567,"103,672.00",Cost for hosting GOV.UK,NW1 3HG,Large,Programme
+Cabinet Office,CABINET OFFICE,11/12/12,Supplies and Services,CENTRAL BUDGETS,TREASURY SOLICITOR TSOL,3000031561,"116,224.00",Legal services fee,WC2B 4TS,Government Department,Admin
+Cabinet Office,CABINET OFFICE,11/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,BIG SOCIETY NETWORK,3000031553,"116,667.34",Grant to support work on the Government's objectives for the Big Society.,WC2R 1LA,SME,Grants
+Cabinet Office,CABINET OFFICE,11/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,LOCALITY,3000031564,"124,143.00",Strategic partners transition grant ,N1 6DR,Large,Grants
+Cabinet Office,CABINET OFFICE,11/12/12,Assets Under Construction,ESTATE MANAGEMENT,ETDE FM,3000031551,"308,942.00",Facilities Management Services,BN1  1HG,Large,Programme
+Cabinet Office,CABINET OFFICE,11/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,REACHFOR,3000031566,"420,636.00",National Citizen Service project grant ,CA11 9BP,SME,Grants
+Cabinet Office,Government Procurement Service,12/12/12,Agency Staff,Enablement Projects,MICHAEL PAGE INTERNATIONAL RECRUITMENT LTD,PINDOH 35259,"29,884.92",eSourcing agency staffing,SL1 1DB,Large,Admin
+Cabinet Office,CABINET OFFICE,12/12/12,Supplies and Services,ESTATE MANAGEMENT,RICOH UK LTD,3000031609,"31,539.11",Reprographic Services,CR5 2HR,Large,Admin
+Cabinet Office,CABINET OFFICE,12/12/12,"Travel, Subsistence and Hospitality",PRIME MINISTERS OFFICE,FOREIGN & COMMONWEALTH OFFICE,3000031607,"39,047.15",Official travel ,MK10 1PX,Government Department,Admin
+Cabinet Office,CABINET OFFICE,12/12/12,Other Staff Related Costs,ERG CENTRAL TEAMS,PA CONSULTING SERVICES LTD,3000031611,"45,000.00",Provision of Mutuals Information Service ,SW1W 9SR,SME,Programme
+Cabinet Office,CABINET OFFICE,12/12/12,Accomodation and Utilities,ESTATE MANAGEMENT,MITIE BUSINESS SERVICES LTD,3000031599,"49,267.62",Facilities Management Services,BS16 7FN,Large,Admin
+Cabinet Office,CABINET OFFICE,12/12/12,Professional services,ESTATE MANAGEMENT,GVA GRIMLEY LTD,3000031608,"50,000.00",Professional services,B1 2JB,SME,Admin
+Cabinet Office,CABINET OFFICE,12/12/12,Accomodation and Utilities,ESTATE MANAGEMENT,MITIE BUSINESS SERVICES LTD,3000031599,"238,677.49",Facilities Management Services,BS16 7FN,Large,Admin
+Cabinet Office,CABINET OFFICE,12/12/12,Land and Buildings,ESTATE MANAGEMENT,JONES LANG LASALLE LTD,3000031595,"253,000.00",Rent for accommodation,BS8 9AQ,Large,Admin
+Cabinet Office,CABINET OFFICE,12/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,NESTA,3000031597,"3,000,000.00",Innovation in Giving Fund Project Grant ,EC4A 1DE,Large,Grants
+Cabinet Office,Government Procurement Service,13/12/12,General Rates,Estates Management,DTZ,PINDOH 34982,"29,795.00",General rates charges,B4 6AJ,Large,Admin 
+Cabinet Office,Government Procurement Service,13/12/12,Service Charges,Estates Management,DTZ,PINDOH 34982,"52,345.50",Service charges,B4 6AJ,Large,Admin
+Cabinet Office,CABINET OFFICE,13/12/12,Other Staff Related Costs,OFFICE FOR CIVIL SOCIETY,LOCALITY,3000031642,"75,000.00",Community Organisers Progression Funding Grants ,N1 6DR,Large,Programme
+Cabinet Office,CABINET OFFICE,13/12/12,Land and Buildings,ESTATE MANAGEMENT,ST ANDREWS PARK NORWICH LTD,3000031650,"240,675.00",Rent for accommodation,NR10 3JU,SME,Admin
+Cabinet Office,CABINET OFFICE,13/12/12,Other Staff Related Costs,OFFICE FOR CIVIL SOCIETY,NEW COLLEGE NOTTINGHAM,3000031630,"664,282.00",National Citizen Service contract,NG1 1PR,Large,Programme
+Cabinet Office,CABINET OFFICE,14/12/12,Accomodation and Utilities,GOVERNMENT PROPERTY UNIT,JONES LANG LASALLE LTD,3000031687,"25,219.20",Rent for Accommodation,BS8 9AQ,Large,Programme
+Cabinet Office,CABINET OFFICE,14/12/12,"Travel, Subsistence and Hospitality",PRIVATE OFFICE GROUP,HOGG ROBINSON TRAVEL LTD,3000031693,"25,598.34",Official travel ,GU14 7NJ,Large,Admin
+Cabinet Office,CABINET OFFICE,14/12/12,Accomodation and Utilities,ESTATE MANAGEMENT,ETDE FM,3000031684,"36,448.31",Facilities Management Services,BN1  1HG,Large,Admin
+Cabinet Office,CABINET OFFICE,14/12/12,Supplies and Services,POLITICAL AND CONSTITUTIONAL REFORM,WILLIAMS LEA,3000031706,"36,584.80","Printing, production and distribution of the Boundary Commission for England's revised proposals in compliance with the statutory duty to publicise these proposals during the review of Parliamentary constituency boundaries. ",W2 6LG,Large,Programme
+Cabinet Office,CABINET OFFICE,14/12/12,Accomodation and Utilities,ESTATE MANAGEMENT,ETDE FM,3000031684,"38,039.83",Facilities Management Services,BN1  1HG,Large,Admin
+Cabinet Office,CABINET OFFICE,14/12/12,Assets Under Construction,ESTATE MANAGEMENT,ECOVERT FM LTD,3000031691,"140,734.90",Facilities Management Services,BN1 1HQ,Large,Programme
+Cabinet Office,CABINET OFFICE,14/12/12,Accomodation and Utilities,ESTATE MANAGEMENT,ETDE FM,3000031684,"647,765.42",Facilities Management Services,BN1  1HG,Large,Admin
+Cabinet Office,Government Procurement Service,17/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,YOUNG DEVON,3000031741,"28,520.00",National Citizen Service project grant ,PL21 0AB,Large,Grants
+Cabinet Office,CABINET OFFICE,17/12/12,Agency and Temporary Staff,GOVERNMENT DIGITAL SERVICE,CAPITA RESOURCING LTD,3000031735,"45,963.41",Interim IT specialists,SL6 1DP,Large,Programme
+Cabinet Office,CABINET OFFICE,17/12/12,Agency and Temporary Staff,GOVERNMENT DIGITAL SERVICE,MICHAEL PAGE INTERNATIONAL RECRUITMENT LTD,3000031739,"56,384.31",Interim IT specialists,SL6 1DP,Large,Programme
+Cabinet Office,CABINET OFFICE,17/12/12,Supplies and Services,ERG STRATEGY AND MANAGEMENT INFORMATION,OXFORD SAID BUSINESS SCHOOL LTD,3000031743,"157,765.00",Development of Phase 1 residential module of the Governments Major Projects Leadership Academy,OX1 5NY,SME,Admin
+Cabinet Office,CABINET OFFICE,17/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,THE FOOTBALL LEAGUE COMMUNITY LTD,3000031737,"218,899.71",National Citizen Service project grant ,PR2 2YF,SME,Grants
+Cabinet Office,CABINET OFFICE,18/12/12,Resource Grants to NDPB's,OFFICE FOR CIVIL SOCIETY,BIG LOTTERY FUND,3000031768,"45,778.00",Grant for Social Incubator Fund to grow the social investment market,EC4A 1DE,Large,Grants
+Cabinet Office,Government Procurement Service,18/12/12,GPS Systems Support and Training,eCommerce,PROCSERVE SHARED SERVICES LTD,PINDOH 35315,"56,521.47",eMarketplace development,SW1E 5RS,Large,Admin
+Cabinet Office,CABINET OFFICE,18/12/12,Investments,OFFICE FOR CIVIL SOCIETY,BRIDGES VENTURES LTD,3000031765,"56,997.56",Investment in risk capital fund for social enterprise,W2 3EN,Large,Programme
+Cabinet Office,CABINET OFFICE,18/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,LOCALITY,3000031762,"1,041,940.00",Community Organisers Progression Funding Grants 2012/13,N1 6DR,Large,Grants
+Cabinet Office,CABINET OFFICE,19/12/12,Supplies and Services,PARLIAMENTARY COUNSEL OFFICE,TREASURY SOLICITORS DEPT 3861,3000031783,"41,889.74",Purchase of legal publications,WC2B 4TS,Government Department,Admin
+Cabinet Office,CABINET OFFICE,19/12/12,Agency and Temporary Staff,GOVERNMENT DIGITAL SERVICE,CAPITA RESOURCING LTD,3000031785,"49,179.43",Interim IT specialists,SL6 1DP,Large,Programme
+Cabinet Office,Government Procurement Service,19/12/12,Agency and Temporary Staff,GOVERNMENT DIGITAL SERVICE,CAPITA RESOURCING LTD,3000031785,"65,857.06",Interim IT specialists,SL6 1DP,Large,Programme
+Cabinet Office,Government Procurement Service,19/12/12,IT Costs,INTELLIGENCE SECURITY AND RESILIENCE,CABLE & WIRELESS PLC,3000031786,"75,000.00",Network Service Charge,RG12 1RW,Large,Admin
+Cabinet Office,CABINET OFFICE,20/12/12,IT Costs,GOVERNMENT PROPERTY UNIT,CORPORATE DOCUMENT SERVICES LTD,3000031830,"42,107.75","Support, maintenance and minor developments of e-PIMS",LS2 LY,Large,Programme
+Cabinet Office,CABINET OFFICE,20/12/12,Other Staff Related Costs,OFFICE FOR CIVIL SOCIETY,SKILLFORCE,3000031822,"53,250.00",Delivery of pilot Team Test for participants in National Citizen Service Autumn 2012 programmes ,NG21 9PR,SME,Programme
+Cabinet Office,Government Procurement Service,20/12/12,Agency and Temporary Staff,GOVERNMENT CIO SUMMARY,CAPITA RESOURCING LTD,3000031825,"239,706.59",Support cost for Public Service Network ,SL6 1DP,Large,Programme
+Cabinet Office,CABINET OFFICE,21/12/12,Resource Grants to Local Authorities,OFFICE FOR CIVIL SOCIETY,OXFORDSHIRE COUNTY COUNCIL,3000031876,"31,386.00",National Citizen Service project grant,OX1 1NA,Large,Grants
+Cabinet Office,CABINET OFFICE,21/12/12,Agency and Temporary Staff,GOVERNMENT CIO SUMMARY,ALPINE CONSORTIUM,3000031878,"33,750.00",Project support services for the Government Cloud programme,EC4A 2BA,SME,Programme
+Cabinet Office,CABINET OFFICE,21/12/12,Consultancy,ERG CENTRAL TEAMS,MUTUAL VENTURES,3000031862,"35,888.30",Support  provided under the Mutuals Support Programme,WC1B 3QJ,SME,Programme
+Cabinet Office,CABINET OFFICE,21/12/12,Consultancy,ERG STRATEGY AND MANAGEMENT INFORMATION,PRICEWATERHOUSE COOPERS LLP,3000031848,"39,600.00",Consultancy services ,E14 9SQ,Large,Admin
+Cabinet Office,CABINET OFFICE,21/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,SAFE IN TEES VALLEY,3000031851,"82,817.00",National Citizen Service project grant ,TS18 3TS,SME,Grants
+Cabinet Office,CABINET OFFICE,21/12/12,Agency and Temporary Staff,GOVERNMENT DIGITAL SERVICE,CAPITA RESOURCING LTD,3000031877,"108,454.82",Interim IT specialists,SL6 1DP,Large,Programme
+Cabinet Office,CABINET OFFICE,21/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,NATIONAL COUNCIL FOR VOLUNTARY ORGANISATIONS,3000031836,"125,000.00",Strategic partners transition grant ,N1 9RL,Large,Grants
+Cabinet Office,CABINET OFFICE,21/12/12,Consultancy,ERG STRATEGY AND MANAGEMENT INFORMATION,ORC INTERNATIONAL LIMITED,3000031873,"238,128.00",Civil Service People Survey 2012,N1 9AH,SME,Admin
+Cabinet Office,CABINET OFFICE,24/12/12,Accomodation and Utilities,PRIME MINISTERS OFFICE,ETDE FM,3000031903,"25,216.71",Facilities Management Services,BN1  1HG,Large,Admin
+Cabinet Office,CABINET OFFICE,24/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,STREETSMART,3000031906,"70,000.00",Match funding for Christmas fundraising campaign,W1B 5RR,SME,Grants
+Cabinet Office,CABINET OFFICE,24/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,SOCIAL ENTERPRISE COALITION,3000031911,"124,800.00",Strategic partners transition grant ,SE1 7SJ,SME,Grants
+Cabinet Office,CABINET OFFICE,24/12/12,Resource Grants to Private Sector,OFFICE FOR CIVIL SOCIETY,TRANSITION IMB LTD,3000031907,"303,314.00",National Citizen Service project grant ,W1W 5DW,SME,Grants
+Cabinet Office,CABINET OFFICE,27/12/12,Lord Lieutenant Expenses,POLITICAL AND CONSTITUTIONAL REFORM,LORD LIEUTENANT OF WEST YORKSHIRE,3000031953,"29,104.25",Quarterly advance expense payments to Her Majesty's Lord Lieutenants,LS23 6LP,Large,Programme
+Cabinet Office,CABINET OFFICE,27/12/12,Supplies and Services,PARLIAMENTARY COUNSEL OFFICE,LEXIS NEXIS BUTTERWORTHS,3000031958,"29,525.05",Purchase of legal publications,CR9 5AF,Large,Admin
+Cabinet Office,CABINET OFFICE,27/12/12,Lord Lieutenant Expenses,POLITICAL AND CONSTITUTIONAL REFORM,MERSEYSIDE LIEUTENANCY,3000031949,"30,106.25",Quarterly advance expense payments to Her Majesty's Lord Lieutenants,L69 3EN,Large,Programme
+Cabinet Office,CABINET OFFICE,27/12/12,Lord Lieutenant Expenses,POLITICAL AND CONSTITUTIONAL REFORM,GREATER MANCHESTER LIEUTENANCY,3000031948,"30,658.50",Quarterly advance expense payments to Her Majesty's Lord Lieutenants,M15 4AX,Large,Programme
+Cabinet Office,CABINET OFFICE,27/12/12,Lord Lieutenant Expenses,POLITICAL AND CONSTITUTIONAL REFORM,WEST MIDLANDS LIEUTENANCY,3000031952,"36,910.00",Quarterly advance expense payments to Her Majesty's Lord Lieutenants,B92 0JL,Large,Programme
+Cabinet Office,CABINET OFFICE,27/12/12,Lord Lieutenant Expenses,POLITICAL AND CONSTITUTIONAL REFORM,GREATER LONDON LIEUTENANCY,3000031947,"51,578.50",Quarterly advance expense payments to Her Majesty's Lord Lieutenants,SW1E 6QP,Large,Programme
+Cabinet Office,CABINET OFFICE,27/12/12,Agency and Temporary Staff,GOVERNMENT CIO SUMMARY,DEPARTMENT OF HEALTH,3000031959,"64,680.00",Project support services for the Government Cloud programme,LS2 7UE,Government Department,Programme
+Cabinet Office,CABINET OFFICE,27/12/12,Other Staff Related Costs,OFFICE FOR CIVIL SOCIETY,REED IN PARTNERSHIP LTD,3000031943,"1,545,698.40",National Citizen Service contract ,SE17 3PY,Large,Programme
+Cabinet Office,CABINET OFFICE,28/12/12,Consultancy,ERG CENTRAL TEAMS,GVA GRIMLEY LTD,1000683,"25,935.00",Support cost provided under the Mutuals Support Programme  ,B1 2JB,SME,Programme
+Cabinet Office,CABINET OFFICE,28/12/12,Other Staff Related Costs/Supplies and Services,SCHEME MANAGEMENT EXECUTIVE,MYCSP LTD,1000682,"1,039,233.53",Early Departure Costs,LS2 7UA,Large,Admin
+Cabinet Office,CABINET OFFICE,31/12/12,Agency and Temporary Staff,GOVERNMENT CIO SUMMARY,DWP NORCROSS,3000031996,"45,302.40",Contribution to software development,FY5 3TA,Government Department,Programme
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,  ,,,,,,,
+,,,,   ,,,,,,,

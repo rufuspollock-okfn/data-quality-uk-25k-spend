@@ -1,0 +1,305 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount ,VAT registration number
+DEFRA,Environment Agency,04-May-10,Audit Services,Finance Service Centre,National Audit Office,841546,"90,000.00",417632457
+DEFRA,Environment Agency,11-May-10,Audit Services,NLS Central Functions,LGC Ltd,850005,"50,345.89",674056721
+DEFRA,Environment Agency,11-May-10,Audit Services,NLS Support Nottingham,LGC Ltd,850005,"50,345.89",674056721
+DEFRA,Environment Agency,25-May-10,Building Management,AN Regional Facilities,Peterborough City Council,834677,"189,979.74",121533513
+DEFRA,Environment Agency,25-May-10,Building Management,AN Regional Facilities,Peterborough City Council,834672,"58,335.77",121533513
+DEFRA,Environment Agency,13-May-10,Building Management,FM Operating Unit - Central and South East,DEFRA,851123,"26,908.18",888800181
+DEFRA,Environment Agency,25-May-10,Building Management,FM Operating Unit - Central and South West,Solihull Metropolitan Borough Council,832276,"113,850.00",111979171
+DEFRA,Environment Agency,25-May-10,Building Management,MI Regional Facilities,Solihull Metropolitan Borough Council,832273,"157,361.54",111979171
+DEFRA,Environment Agency,18-May-10,Building Management,Nat Trading and Reg Services,Siemens IT Solutions & Services Ltd,852635,"25,057.17",479985260
+DEFRA,Environment Agency,25-May-10,Building Management,NE Facilities,Leeds City Council,832470,"178,020.00",171459162
+DEFRA,Environment Agency,25-May-10,Building Management,NE Facilities,Leeds City Council,832483,"117,486.64",171459162
+DEFRA,Environment Agency,25-May-10,Building Management,NE Facilities,Leeds City Council,831672,"34,362.00",171459162
+DEFRA,Environment Agency,25-May-10,Building Management,NLS Support Leeds,Leeds City Council,832477,"109,684.45",171459162
+DEFRA,Environment Agency,25-May-10,Building Management,NW Regional Facilities,Warrington Borough Council,832166,"204,385.14",152847160
+DEFRA,Environment Agency,25-May-10,Building Management,NW Regional Facilities,Warrington Borough Council,832169,"198,694.52",152847160
+DEFRA,Environment Agency,25-May-10,Building Management,SO Regional Facilities,Worthing Borough Council,832153,"152,644.55",193624349
+DEFRA,Environment Agency,18-May-10,Building Management,TH South East-Tidal Defence Mgr,Port of London Authority,852641,"80,001.87",243633669
+DEFRA,Environment Agency,25-May-10,Building Repair & Maintenance,Bristol 2010,Westmark Cabot Ltd,856629,"378,059.06",227179454
+DEFRA,Environment Agency,04-May-10,Building Repair & Maintenance,MI Regional Facilities,Integrated Water Services Ltd,844613,"38,491.06",834846794
+DEFRA,Environment Agency,11-May-10,Building Repair & Maintenance,NE Capital WiP,Lumsden & Carroll Construction Ltd,848184,"58,915.22",177995292
+DEFRA,Environment Agency,04-May-10,Building Repair & Maintenance,SO Regional Facilities,WH Catchpole Ltd,847719,"66,904.50",315976532
+DEFRA,Environment Agency,13-May-10,Building Repair & Maintenance,WA Regional Facilities,Integral UK Ltd,852471,"27,342.25",862309916
+DEFRA,Environment Agency,25-May-10,Business Process Outsourcing Services,National Enforcement Service,Post Office Ltd,855395,"347,974.72",
+DEFRA,Environment Agency,04-May-10,Cleaning,National Facilities Manager,Superclean Services Wothorpe Ltd,847588,"30,739.72",218492943
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,AN Capital WiP,Halcrow Group Ltd,854327,"91,807.03",446106859
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,AN Capital WiP,Halcrow Group Ltd,854339,"77,714.46",446106859
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,AN Capital WiP,Atkins Ltd,853397,"63,962.01",209861253
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,AN Capital WiP,Atkins Ltd,853423,"50,876.58",209861253
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,AN Capital WiP,Halcrow Group Ltd,854366,"32,536.23",446106859
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,AN Capital WiP,Jacobs Engineering UK Ltd,853609,"27,871.80",624298920
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,AN Capital WiP,Halcrow Group Ltd,854252,"27,826.02",446106859
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,AN Eastern-Ops Delivery (Essex),Halcrow Group Ltd,854320,"26,175.16",446106859
+DEFRA,Environment Agency,18-May-10,Construction Service Providers,Compliance & Technical Services,Atkins Ltd,852999,"40,828.90",209861253
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,Flood Risk,Haskoning UK Ltd,849190,"31,372.50",792428892
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,HO Director of Operations,AECOM Ltd,849542,"63,014.87",611853162
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,MI Capital WiP,Black & Veatch Ltd,847222,"187,403.86",849751185
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,MI Capital WiP,Black & Veatch Ltd,847204,"59,700.14",849751185
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,MI Capital WiP,Black & Veatch Ltd,847216,"47,880.06",849751185
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,MI Capital WiP,Black & Veatch Ltd,847207,"45,737.64",849751185
+DEFRA,Environment Agency,18-May-10,Construction Service Providers,MI Capital WiP,Jacobs Engineering UK Ltd,852209,"29,551.78",624298920
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,NE Capital WiP,Jacobs Engineering UK Ltd,854510,"113,047.03",624298920
+DEFRA,Environment Agency,18-May-10,Construction Service Providers,NE Capital WiP,Haskoning UK Ltd,852775,"63,260.91",792428892
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,NE Capital WiP,Jacobs Engineering UK Ltd,854519,"51,249.23",624298920
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NE Capital WiP,Black & Veatch Ltd,849080,"45,097.12",849751185
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NE Capital WiP,Halcrow Group Ltd,849681,"41,135.52",446106859
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NE Capital WiP,Halcrow Group Ltd,849682,"34,014.10",446106859
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NE Capital WiP,Halcrow Group Ltd,849687,"32,900.00",446106859
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NE Capital WiP,Halcrow Group Ltd,849643,"31,614.66",446106859
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NE Capital WiP,Halcrow Group Ltd,849635,"28,460.49",446106859
+DEFRA,Environment Agency,13-May-10,Construction Service Providers,NW Capital WiP,Haskoning UK Ltd,851994,"62,070.53",792428892
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NW Capital WiP,Jacobs Engineering UK Ltd,849832,"57,328.46",624298920
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NW Capital WiP,Halcrow Group Ltd,849625,"53,581.49",446106859
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NW Capital WiP,Halcrow Group Ltd,849575,"39,636.53",446106859
+DEFRA,Environment Agency,13-May-10,Construction Service Providers,NW Capital WiP,Jacobs Engineering UK Ltd,849786,"32,374.12",624298920
+DEFRA,Environment Agency,18-May-10,Construction Service Providers,NW Capital WiP,Jacobs Engineering UK Ltd,852429,"31,939.56",624298920
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NW Capital WiP,Jacobs Engineering UK Ltd,849769,"30,167.43",624298920
+DEFRA,Environment Agency,13-May-10,Construction Service Providers,NW Capital WiP,Ove Arup & Partners Ltd,851499,"28,862.61",524461265
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NW Capital WiP,Jacobs Engineering UK Ltd,849833,"27,811.78",624298920
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,NW Capital WiP,Black & Veatch Ltd,847705,"26,763.14",849751185
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NW Capital WiP,Jacobs Engineering UK Ltd,849783,"25,835.23",624298920
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NW Capital WiP,Jacobs Engineering UK Ltd,849773,"25,742.57",624298920
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,NW Capital WiP,Jacobs Engineering UK Ltd,849767,"25,129.61",624298920
+DEFRA,Environment Agency,06-May-10,Construction Service Providers,SO Capital WiP,Jacobs Engineering UK Ltd,849488,"61,660.04",624298920
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,SO Capital WiP,Halcrow Group Ltd,853688,"51,984.83",446106859
+DEFRA,Environment Agency,06-May-10,Construction Service Providers,SO Capital WiP,Jacobs Engineering UK Ltd,849510,"42,078.47",624298920
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,SO Capital WiP,Jackson Civil Engineering Ltd,846803,"35,250.00",904443249
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,SO Capital WiP,Halcrow Group Ltd,853629,"34,616.68",446106859
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,SO Capital WiP,Halcrow Group Ltd,853672,"32,372.08",446106859
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,SO Capital WiP,Halcrow Group Ltd,853658,"28,425.92",446106859
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,SO Capital WiP,Halcrow Group Ltd,853668,"27,252.84",446106859
+DEFRA,Environment Agency,20-May-10,Construction Service Providers,SO Capital WiP,Halcrow Group Ltd,853692,"25,146.41",446106859
+DEFRA,Environment Agency,06-May-10,Construction Service Providers,SW Capital WiP,Halcrow Group Ltd,848373,"72,358.39",446106859
+DEFRA,Environment Agency,06-May-10,Construction Service Providers,SW Capital WiP,Atkins Ltd,848782,"40,623.15",209861253
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,SW Capital WiP,Haskoning UK Ltd,848087,"28,216.25",792428892
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,TH Capital WiP,Halcrow Group Ltd,847524,"70,156.78",446106859
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,TH Capital WiP,Ove Arup & Partners Ltd,849939,"55,787.08",524461265
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,TH Capital WiP,Black & Veatch Ltd,848155,"50,832.77",849751185
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,TH Capital WiP,Halcrow Group Ltd,847530,"39,980.20",446106859
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,TH Capital WiP,Halcrow Group Ltd,847532,"38,099.45",446106859
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,TH Capital WiP,Black & Veatch Ltd,848105,"33,513.10",849751185
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,TH Capital WiP,Halcrow Group Ltd,847481,"30,099.09",446106859
+DEFRA,Environment Agency,25-May-10,Construction Service Providers,TH Capital WiP,Halcrow Group Ltd,833890,"28,618.71",446106859
+DEFRA,Environment Agency,06-May-10,Construction Service Providers,TH Capital WiP,Atkins Ltd,848617,"26,850.31",209861253
+DEFRA,Environment Agency,04-May-10,Construction Service Providers,TH North East - Flood Risk,Halcrow Group Ltd,847489,"52,166.64",446106859
+DEFRA,Environment Agency,11-May-10,Construction Service Providers,TH West - Flood Risk,Jacobs Engineering UK Ltd,850023,"28,046.65",624298920
+DEFRA,Environment Agency,04-May-10,Construction Supplies,MI Capital WiP,Mabey Bridge Ltd,846919,"35,250.00",945743787
+DEFRA,Environment Agency,06-May-10,Construction Supplies,SO Capital WiP,Brett Ltd,847934,"27,504.87",201138818
+DEFRA,Environment Agency,04-May-10,Construction Supplies,TH Capital WiP,ArcelorMittal Commercial RPS UK Ltd,846351,"63,373.32",238588420
+DEFRA,Environment Agency,04-May-10,Construction Supplies,TH Capital WiP,ArcelorMittal Commercial RPS UK Ltd,846352,"43,622.50",238588420
+DEFRA,Environment Agency,18-May-10,Construction Supplies,TH Capital WiP,ArcelorMittal Commercial RPS UK Ltd,851979,"43,204.38",238588420
+DEFRA,Environment Agency,18-May-10,Electricity,HO Business Finance,British Gas Business,852288,"47,864.61",3078711
+DEFRA,Environment Agency,18-May-10,Electricity,HO Business Finance,British Gas Business,852282,"38,960.39",3078711
+DEFRA,Environment Agency,18-May-10,Electricity,HO Business Finance,British Gas Business,853248,"34,289.79",3078711
+DEFRA,Environment Agency,04-May-10,Electricity,National Facilities Manager,Southern Electric,846045,"32,764.22",
+DEFRA,Environment Agency,11-May-10,Engineering Services,HO Fleet - EA Wales,Fraikin Ltd,850911,"58,042.44",225123701
+DEFRA,Environment Agency,11-May-10,Engineering Services,HO Fleet Operations,Fraikin Ltd,850453,"388,266.25",225123701
+DEFRA,Environment Agency,04-May-10,Engineering Services,MI Capital WiP,Eimco Water Technologies Ltd,840941,"36,107.75",863354415
+DEFRA,Environment Agency,04-May-10,Engineering Services,MI Capital WiP,Eimco Water Technologies Ltd,840929,"33,105.63",863354415
+DEFRA,Environment Agency,04-May-10,Engineering Services,MI Capital WiP,Eimco Water Technologies Ltd,840950,"25,791.25",863354415
+DEFRA,Environment Agency,04-May-10,Environmental Materials,NW Capital WiP,Hydrokit,843976,"51,986.70",396541223
+DEFRA,Environment Agency,18-May-10,Environmental Services,AN Capital WiP,Broadland Environmental Services Ltd,853627,"172,616.44",733746324
+DEFRA,Environment Agency,04-May-10,Environmental Services,E and B Heads of Business,Vertase FLI Ltd,845422,"31,069.41",762420840
+DEFRA,Environment Agency,20-May-10,Environmental Services,HO Flood Warning Systems,MM Teleperformance Ltd,853631,"53,115.78",763098018
+DEFRA,Environment Agency,04-May-10,Environmental Services,Nat Trading and Reg Services,Wardell Armstrong LLP,820218,"69,024.56",279025346
+DEFRA,Environment Agency,04-May-10,Environmental Services,Nat Trading and Reg Services,Wardell Armstrong LLP,840630,"49,646.26",279025346
+DEFRA,Environment Agency,04-May-10,Environmental Services,Nat Trading and Reg Services,Wardell Armstrong LLP,844600,"32,324.02",279025346
+DEFRA,Environment Agency,13-May-10,Environmental Services,National Monitoring,AMEC Nuclear UK Ltd,851022,"82,625.93",163270774
+DEFRA,Environment Agency,20-May-10,Environmental Services,National Monitoring,LGC Ltd,854247,"40,071.03",674056721
+DEFRA,Environment Agency,04-May-10,Environmental Services,National Permitting Service,Wardell Armstrong LLP,820218,"69,024.56",279025346
+DEFRA,Environment Agency,04-May-10,Environmental Services,National Permitting Service,Wardell Armstrong LLP,844600,"32,324.02",279025346
+DEFRA,Environment Agency,04-May-10,Environmental Services,NE Capital WiP,White Young Green,841956,"50,842.86",431032608
+DEFRA,Environment Agency,18-May-10,Environmental Services,NE Capital WiP,HR Wallingford Ltd,853300,"47,000.00",570039752
+DEFRA,Environment Agency,18-May-10,Environmental Services,NW Capital WiP,Aquajet GB Ltd,852812,"34,855.32",745589387
+DEFRA,Environment Agency,25-May-10,Environmental Services,NW Capital WiP,Vinci Construction UK Ltd,854099,"34,209.84",165103003
+DEFRA,Environment Agency,04-May-10,Environmental Services,NW Capital WiP,Vinci Construction UK Ltd,836102,"25,246.58",165103003
+DEFRA,Environment Agency,25-May-10,Environmental Services,SO Capital WiP,Fugro Engineering Services Ltd,855421,"87,648.93",537760816
+DEFRA,Environment Agency,25-May-10,Environmental Services,SO Capital WiP,Fugro Engineering Services Ltd,855424,"51,826.96",537760816
+DEFRA,Environment Agency,06-May-10,Environmental Services,SW Devon & Cornwall Area - Devon Flood Risk,Glanville Environmental,849298,"32,898.83",402260215
+DEFRA,Environment Agency,04-May-10,Environmental Services,TH West - Flood Risk,Forbes Laird Aboricultural Consultancy Ltd,847610,"51,642.12",855776669
+DEFRA,Environment Agency,25-May-10,Environmental Services ,Bristol 2010,Westmark Cabot Ltd,856344,"234,461.91",227179454
+DEFRA,Environment Agency,04-May-10,Fleet Management,Vehicle Incidents,Gallagher Bassett,847748,"82,071.23",577587670
+DEFRA,Environment Agency,20-May-10,Fleet Management,Vehicle Incidents,Gallagher Bassett,850209,"48,860.64",577587670
+DEFRA,Environment Agency,18-May-10,Forensic & Laboratory Services,E and B 9th Region,DHI Water & Environment,852091,"93,516.00",
+DEFRA,Environment Agency,06-May-10,Fuels,HO Fleet - EA Wales,Arval Phh,849536,"31,704.05",224235985
+DEFRA,Environment Agency,04-May-10,Fuels,HO Fleet Operations,Arval Phh,847966,"221,039.24",224235985
+DEFRA,Environment Agency,20-May-10,Grants & Contributions,Portfolio Manager,University of Salford,853868,"25,000.00",712463556
+DEFRA,Environment Agency,25-May-10,Grants & Contributions,SW Capital WiP,East Devon District Council,852908,"25,000.00",142218990
+DEFRA,Environment Agency,18-May-10,Hardware,CIS Capital WiP,IBM,851197,"462,280.25",
+DEFRA,Environment Agency,04-May-10,Industrial,MI Capital WiP,Central Networks,847448,"138,135.22",
+DEFRA,Environment Agency,04-May-10,Industrial,MI Capital WiP,Central Networks,847443,"75,906.97",
+DEFRA,Environment Agency,04-May-10,Industrial,MI Capital WiP,Central Networks,847445,"49,420.93",
+DEFRA,Environment Agency,04-May-10,IT/IS Consultancy,CIS Capital WiP,Scisys UK Ltd,838992,"54,886.26",567554796
+DEFRA,Environment Agency,11-May-10,IT/IS Consultancy,CIS Capital WiP,Scisys UK Ltd,841346,"37,822.90",567554796
+DEFRA,Environment Agency,18-May-10,IT/IS Consultancy,HO 1B1S Service Centre Team,Oracle Corporation UK Ltd,851941,"36,325.96",391313073
+DEFRA,Environment Agency,04-May-10,Leasing,Balance Sheet Codes,Hitachi Capital Vehicle Solutions Ltd,847852,"2,315,083.01",823824822
+DEFRA,Environment Agency,20-May-10,Leasing,Balance Sheet Codes,Hitachi Capital Vehicle Solutions Ltd,853022,"1,326,944.75",823824822
+DEFRA,Environment Agency,20-May-10,Leasing,Balance Sheet Codes,Hitachi Capital Vehicle Solutions Ltd,853007,"51,333.47",823824822
+DEFRA,Environment Agency,20-May-10,Leasing,Balance Sheet Codes,Hitachi Capital Vehicle Solutions Ltd,852990,"35,373.42",823824822
+DEFRA,Environment Agency,04-May-10,Leasing,EA Wales,Hitachi Capital Vehicle Solutions Ltd,847192,"242,767.58",823824822
+DEFRA,Environment Agency,18-May-10,Leasing,EA Wales,Hitachi Capital Vehicle Solutions Ltd,853849,"147,484.04",823824822
+DEFRA,Environment Agency,20-May-10,Leasing,HO Fleet Operations,Hewden Stuart Plc,852221,"289,125.01",762069817
+DEFRA,Environment Agency,13-May-10,Leasing ,HO Geomatics,RVL Survey Ltd,851703,"67,289.51",487705210
+DEFRA,Environment Agency,20-May-10,Legal Services,HO Director of Legal Services,Bond Pearce LLP,853243,"69,801.46",
+DEFRA,Environment Agency,13-May-10,Legal Services,HO EP Policy and Regulation,Denton Wilde Sapte,850965,"105,750.01",
+DEFRA,Environment Agency,20-May-10,Legal Services,HO Legal Services,Bond Pearce LLP,853243,"69,801.46",
+DEFRA,Environment Agency,13-May-10,Legal Services,HO Pensions Investment,Osborne Clarke,851091,"25,650.25",138187353
+DEFRA,Environment Agency,13-May-10,Main Contractors,AN Capital WiP,Jackson Civil Engineering Ltd,851049,"148,436.00",904443249
+DEFRA,Environment Agency,04-May-10,Main Contractors,AN Capital WiP,BAM Nuttall Ltd,843969,"119,739.63",
+DEFRA,Environment Agency,04-May-10,Main Contractors,AN Capital WiP,Team Van Oord,847424,"102,966.08",919207226
+DEFRA,Environment Agency,25-May-10,Main Contractors,AN Capital WiP,Birse Civils Ltd,855100,"49,788.35",789715169
+DEFRA,Environment Agency,25-May-10,Main Contractors,AN Central-Ops Delivery,Jackson Civil Engineering Ltd,855704,"99,845.63",904443249
+DEFRA,Environment Agency,25-May-10,Main Contractors,HO Capital WiP,Morrison Construction Ltd,855522,"71,327.25",223413506
+DEFRA,Environment Agency,13-May-10,Main Contractors,HO Capital WiP,Barhale Construction Plc,851105,"25,055.38",225727952
+DEFRA,Environment Agency,25-May-10,Main Contractors,HO NCPMS National,Morrison Construction Ltd,855520,"77,337.34",223413506
+DEFRA,Environment Agency,25-May-10,Main Contractors,MI Capital WiP,Jackson Civil Engineering Ltd,855084,"334,194.00",904443249
+DEFRA,Environment Agency,25-May-10,Main Contractors,MI Capital WiP,Birse Civils Ltd,855057,"176,960.42",789715169
+DEFRA,Environment Agency,04-May-10,Main Contractors,MI Capital WiP,Morrison Construction Ltd,842314,"164,500.00",223413506
+DEFRA,Environment Agency,20-May-10,Main Contractors,MI Capital WiP,Jackson Civil Engineering Ltd,853521,"149,235.79",904443249
+DEFRA,Environment Agency,18-May-10,Main Contractors,MI Capital WiP,Birse Civils Ltd,853252,"103,186.48",789715169
+DEFRA,Environment Agency,04-May-10,Main Contractors,MI Capital WiP,Amco Engineering,817663,"99,947.81",182519160
+DEFRA,Environment Agency,25-May-10,Main Contractors,MI Capital WiP,Interserve Project Services Ltd,856322,"99,617.18",527218256
+DEFRA,Environment Agency,25-May-10,Main Contractors,MI Capital WiP,Total Flood Solutions,855156,"66,975.00",979557148
+DEFRA,Environment Agency,25-May-10,Main Contractors,MI Capital WiP,Interserve Project Services Ltd,854462,"53,108.59",527218256
+DEFRA,Environment Agency,25-May-10,Main Contractors,MI Capital WiP,Barhale Construction Plc,855733,"29,486.85",225727952
+DEFRA,Environment Agency,25-May-10,Main Contractors,MI Capital WiP,Amco Engineering,855391,"29,307.99",182519160
+DEFRA,Environment Agency,06-May-10,Main Contractors,MI Capital WiP,Avon Navigation Trust,848624,"26,555.00",670317155
+DEFRA,Environment Agency,06-May-10,Main Contractors,MI Capital WiP,Barhale Construction Plc,848400,"26,291.80",225727952
+DEFRA,Environment Agency,04-May-10,Main Contractors,NE Capital WiP,Volkerstevin,843683,"617,789.61",
+DEFRA,Environment Agency,04-May-10,Main Contractors,NE Capital WiP,Interserve Project Services Ltd,847130,"573,791.46",527218256
+DEFRA,Environment Agency,20-May-10,Main Contractors,NE Capital WiP,Qualter Hall & Co Ltd,853772,"501,776.30",656219034
+DEFRA,Environment Agency,04-May-10,Main Contractors,NE Capital WiP,Morrison Construction Ltd,845215,"472,350.00",223413506
+DEFRA,Environment Agency,06-May-10,Main Contractors,NE Capital WiP,Morrison Construction Ltd,848401,"291,426.01",223413506
+DEFRA,Environment Agency,18-May-10,Main Contractors,NE Capital WiP,Birse Civils Ltd,853249,"290,870.97",789715169
+DEFRA,Environment Agency,11-May-10,Main Contractors,NE Capital WiP,Interserve Project Services Ltd,836640,"276,226.10",527218256
+DEFRA,Environment Agency,06-May-10,Main Contractors,NE Capital WiP,Morrison Construction Ltd,848399,"216,145.15",223413506
+DEFRA,Environment Agency,04-May-10,Main Contractors,NE Capital WiP,Lumsden & Carroll Construction Ltd,847078,"211,658.55",177995292
+DEFRA,Environment Agency,20-May-10,Main Contractors,NE Capital WiP,Interserve Project Services Ltd,853942,"191,313.66",527218256
+DEFRA,Environment Agency,11-May-10,Main Contractors,NE Capital WiP,Jackson Civil Engineering Ltd,843841,"179,875.42",904443249
+DEFRA,Environment Agency,06-May-10,Main Contractors,NE Capital WiP,Morrison Construction Ltd,850292,"158,502.81",223413506
+DEFRA,Environment Agency,20-May-10,Main Contractors,NE Capital WiP,Eco Foundations Ltd,850473,"143,060.25",931729123
+DEFRA,Environment Agency,25-May-10,Main Contractors,NE Capital WiP,Jackson Civil Engineering Ltd,855466,"132,045.28",904443249
+DEFRA,Environment Agency,13-May-10,Main Contractors,NE Capital WiP,Lumsden & Carroll Construction Ltd,851250,"123,669.42",177995292
+DEFRA,Environment Agency,25-May-10,Main Contractors,NE Capital WiP,Morrison Construction Ltd,855521,"110,579.80",223413506
+DEFRA,Environment Agency,18-May-10,Main Contractors,NE Capital WiP,Amco Engineering,853115,"92,113.33",182519160
+DEFRA,Environment Agency,25-May-10,Main Contractors,NE Capital WiP,Morrison Construction Ltd,855115,"91,174.42",223413506
+DEFRA,Environment Agency,04-May-10,Main Contractors,NE Capital WiP,Jackson Civil Engineering Ltd,834370,"78,959.46",904443249
+DEFRA,Environment Agency,04-May-10,Main Contractors,NE Capital WiP,Morrison Construction Ltd,834148,"63,216.39",223413506
+DEFRA,Environment Agency,25-May-10,Main Contractors,NE Capital WiP,Amco Engineering,855409,"57,323.63",182519160
+DEFRA,Environment Agency,18-May-10,Main Contractors,NE Capital WiP,Lumsden & Carroll Construction Ltd,853332,"49,358.80",177995292
+DEFRA,Environment Agency,18-May-10,Main Contractors,NE Capital WiP,Salix River & Wetland Services Ltd,852708,"38,375.50",822049061
+DEFRA,Environment Agency,25-May-10,Main Contractors,NE Capital WiP,Amco Engineering,855394,"35,250.00",182519160
+DEFRA,Environment Agency,25-May-10,Main Contractors,NW Capital WiP,Bedford Pumps Ltd,855928,"448,058.89",797106500
+DEFRA,Environment Agency,20-May-10,Main Contractors,NW Capital WiP,Birse Civils Ltd,854675,"353,911.18",789715169
+DEFRA,Environment Agency,25-May-10,Main Contractors,NW Capital WiP,Morrison Construction Ltd,855559,"325,295.98",223413506
+DEFRA,Environment Agency,13-May-10,Main Contractors,NW Capital WiP,Morrison Construction Ltd,851136,"246,673.99",223413506
+DEFRA,Environment Agency,25-May-10,Main Contractors,NW Capital WiP,Volkerstevin,855663,"177,642.43",
+DEFRA,Environment Agency,04-May-10,Main Contractors,NW Capital WiP,Birse Civils Ltd,848781,"134,571.85",789715169
+DEFRA,Environment Agency,25-May-10,Main Contractors,NW Capital WiP,Volkerstevin,855666,"101,795.48",
+DEFRA,Environment Agency,04-May-10,Main Contractors,NW Capital WiP,Barhale Construction Plc,847111,"99,330.39",225727952
+DEFRA,Environment Agency,18-May-10,Main Contractors,NW Capital WiP,Cheetham Hill Construction Ltd,853298,"81,786.67",927393104
+DEFRA,Environment Agency,04-May-10,Main Contractors,NW Capital WiP,Cheetham Hill Construction Ltd,847456,"56,746.77",927393104
+DEFRA,Environment Agency,25-May-10,Main Contractors,NW Capital WiP,Barhale Construction Plc,856240,"46,609.89",225727952
+DEFRA,Environment Agency,13-May-10,Main Contractors,NW Capital WiP,Morrison Construction Ltd,851134,"28,072.84",223413506
+DEFRA,Environment Agency,25-May-10,Main Contractors,NW South-Ops Delivery,Cheetham Hill Construction Ltd,854904,"56,121.40",927393104
+DEFRA,Environment Agency,06-May-10,Main Contractors,NW South-Ops Delivery,Cheetham Hill Construction Ltd,848761,"54,534.58",927393104
+DEFRA,Environment Agency,20-May-10,Main Contractors,SO Capital WiP,Birse Civils Ltd,853712,"1,619,422.76",789715169
+DEFRA,Environment Agency,11-May-10,Main Contractors,SO Capital WiP,Birse Civils Ltd,845551,"444,644.64",789715169
+DEFRA,Environment Agency,25-May-10,Main Contractors,SO Capital WiP,Team Van Oord,855618,"190,051.13",919207226
+DEFRA,Environment Agency,13-May-10,Main Contractors,SO Capital WiP,Dyer & Butler Ltd,842307,"56,031.05",737140740
+DEFRA,Environment Agency,11-May-10,Main Contractors,SO Capital WiP,Team Van Oord,840517,"48,061.40",919207226
+DEFRA,Environment Agency,13-May-10,Main Contractors,SO Capital WiP,Amenity Water Management Ltd,850774,"43,063.75",
+DEFRA,Environment Agency,06-May-10,Main Contractors,SO Capital WiP,Amenity Water Management Ltd,848280,"39,480.00",
+DEFRA,Environment Agency,06-May-10,Main Contractors,SO Capital WiP,AIS Ltd,846018,"35,250.00",730277352
+DEFRA,Environment Agency,18-May-10,Main Contractors,SW Capital WiP,Dawnus Construction Ltd,852247,"79,795.44",740683717
+DEFRA,Environment Agency,20-May-10,Main Contractors,SW Capital WiP,Team Van Oord,854000,"79,340.59",919207226
+DEFRA,Environment Agency,11-May-10,Main Contractors,SW Capital WiP,A & T Services Ltd,838691,"32,922.33",557473118
+DEFRA,Environment Agency,25-May-10,Main Contractors,SW Procurement,United Utilities Industrial Ltd,848071,"195,269.54",
+DEFRA,Environment Agency,20-May-10,Main Contractors,TH Capital WiP,Morrison Construction Ltd,853734,"461,150.90",223413506
+DEFRA,Environment Agency,25-May-10,Main Contractors,TH Capital WiP,Team Van Oord,853301,"443,214.06",919207226
+DEFRA,Environment Agency,13-May-10,Main Contractors,TH Capital WiP,Jackson Civil Engineering Ltd,852001,"432,379.54",904443249
+DEFRA,Environment Agency,20-May-10,Main Contractors,TH Capital WiP,Interserve Project Services Ltd,854459,"421,987.00",527218256
+DEFRA,Environment Agency,20-May-10,Main Contractors,TH Capital WiP,Birse Civils Ltd,853675,"266,492.41",789715169
+DEFRA,Environment Agency,20-May-10,Main Contractors,TH Capital WiP,Team Van Oord,853522,"255,377.88",919207226
+DEFRA,Environment Agency,20-May-10,Main Contractors,TH Capital WiP,Volkerstevin,853778,"146,038.68",
+DEFRA,Environment Agency,25-May-10,Main Contractors,TH Capital WiP,Team Van Oord,856275,"143,352.07",919207226
+DEFRA,Environment Agency,20-May-10,Main Contractors,TH Capital WiP,Jackson Civil Engineering Ltd,854380,"140,877.53",904443249
+DEFRA,Environment Agency,04-May-10,Main Contractors,TH Capital WiP,Birse Civils Ltd,847986,"78,680.04",789715169
+DEFRA,Environment Agency,25-May-10,Main Contractors,TH Capital WiP,Volkerstevin,855660,"66,829.50",
+DEFRA,Environment Agency,25-May-10,Main Contractors,TH Capital WiP,J Breheny Contractors Ltd,855205,"54,768.12",787425388
+DEFRA,Environment Agency,11-May-10,Main Contractors,TH Capital WiP,Jackson Civil Engineering Ltd,843846,"35,377.04",904443249
+DEFRA,Environment Agency,18-May-10,Main Contractors,TH North East-Ops Delivery,Land & Water Services Ltd,852531,"185,951.89",619303355
+DEFRA,Environment Agency,13-May-10,Main Contractors,TH North East-Ops Delivery,East Hertfordshire District Council,851199,"74,284.90",214430802
+DEFRA,Environment Agency,13-May-10,Main Contractors,TH North East-Ops Delivery,Hertsmere Borough Council,851871,"40,810.79",230640406
+DEFRA,Environment Agency,25-May-10,Main Contractors,TH South East-Ops Delivery,J Breheny Contractors Ltd,855244,"47,791.84",787425388
+DEFRA,Environment Agency,04-May-10,Main Contractors,TH Waterways,Watling Hope,843339,"28,893.25",623606948
+DEFRA,Environment Agency,04-May-10,Main Contractors,WA Capital WiP,Dyer & Butler Ltd,848128,"35,180.43",737140740
+DEFRA,Environment Agency,13-May-10,Maintenance & Support,CI ITX Remote Services,Computacenter (UK) Ltd,850139,"30,507.19",490334648
+DEFRA,Environment Agency,20-May-10,Maintenance & Support,CI SD Management MRA,Computacenter (UK) Ltd,853760,"152,238.58",490334648
+DEFRA,Environment Agency,04-May-10,Maintenance & Support,CI SD Management MRA,HP Enterprise Services UK Ltd,847692,"127,512.93",314149679
+DEFRA,Environment Agency,13-May-10,Maintenance & Support,CI SD Management MRA,HP Enterprise Services UK Ltd,850741,"86,005.64",314149679
+DEFRA,Environment Agency,18-May-10,Maintenance & Support,CI SD Management MRA,HP Enterprise Services UK Ltd,852711,"81,560.29",314149679
+DEFRA,Environment Agency,04-May-10,Maintenance & Support,CI SD Management MRA,Computacenter (UK) Ltd,847200,"56,488.68",490334648
+DEFRA,Environment Agency,13-May-10,Maintenance & Support,CI SD Management MRA,SLI Systems Ltd,850768,"27,612.50",868115114
+DEFRA,Environment Agency,25-May-10,Maintenance & Support,CI Solutions Delivery Management,Fujitsu Services Ltd,854087,"203,426.68",576983668
+DEFRA,Environment Agency,06-May-10,"Marine, Coastal & Inland Waterways Services",AN Capital WiP,W S Atkins Consultants,848663,"66,351.50",209861253
+DEFRA,Environment Agency,25-May-10,"Marine, Coastal & Inland Waterways Services",AN Capital WiP,GBM,855512,"54,367.79",780193620
+DEFRA,Environment Agency,04-May-10,"Marine, Coastal & Inland Waterways Services",AN Capital WiP,Entec UK Ltd,848753,"47,066.99",870226437
+DEFRA,Environment Agency,04-May-10,"Marine, Coastal & Inland Waterways Services",AN Capital WiP,Entec UK Ltd,848768,"45,497.18",870226437
+DEFRA,Environment Agency,25-May-10,"Marine, Coastal & Inland Waterways Services",AN Capital WiP,Haskoning UK Ltd,855256,"39,268.50",792428892
+DEFRA,Environment Agency,04-May-10,"Marine, Coastal & Inland Waterways Services",AN Capital WiP,Entec UK Ltd,848642,"34,281.81",870226437
+DEFRA,Environment Agency,06-May-10,"Marine, Coastal & Inland Waterways Services",AN Central-Ops Delivery,BAM Nuttall Ltd,848442,"40,397.02",
+DEFRA,Environment Agency,06-May-10,"Marine, Coastal & Inland Waterways Services",Asset Management Manager,Haskoning UK Ltd,848574,"41,712.50",792428892
+DEFRA,Environment Agency,04-May-10,"Marine, Coastal & Inland Waterways Services",HO Capital WiP,Grontmij,845845,"33,046.56",418064071
+DEFRA,Environment Agency,04-May-10,"Marine, Coastal & Inland Waterways Services",HO NCPMS National,Grontmij,847105,"28,952.72",418064071
+DEFRA,Environment Agency,06-May-10,"Marine, Coastal & Inland Waterways Services",Incident Management Manager,CSE Seprol Ltd,830693,"93,922.68",648280518
+DEFRA,Environment Agency,11-May-10,"Marine, Coastal & Inland Waterways Services",Incident Management Manager,Haskoning UK Ltd,850285,"51,564.40",792428892
+DEFRA,Environment Agency,20-May-10,"Marine, Coastal & Inland Waterways Services",MI Capital WiP,VeMotion Interactive Ltd,853977,"35,250.00",845550223
+DEFRA,Environment Agency,04-May-10,"Marine, Coastal & Inland Waterways Services",NE Regional Flood Programme Manager,Groundwork Sheffield,847592,"32,817.60",865660787
+DEFRA,Environment Agency,04-May-10,"Marine, Coastal & Inland Waterways Services",NW South-Ops Delivery,Cheetham Hill Construction Ltd,847047,"41,942.50",927393104
+DEFRA,Environment Agency,25-May-10,"Marine, Coastal & Inland Waterways Services","Research, Monitoring and Innovation",MU Ventures Ltd,855635,"40,044.93",506006786
+DEFRA,Environment Agency,25-May-10,"Marine, Coastal & Inland Waterways Services",SO KES - AEM Monitoring,CSE Servelec Ltd,855524,"44,392.68",308001316
+DEFRA,Environment Agency,18-May-10,"Marine, Coastal & Inland Waterways Services",SO SSD - Ops Delivery,Knowlton & Newman Portsmouth Ltd,851210,"35,250.00",
+DEFRA,Environment Agency,04-May-10,"Marine, Coastal & Inland Waterways Services",SW Capital WiP,Martin Childs Ltd,845692,"28,294.00",740868708
+DEFRA,Environment Agency,25-May-10,"Marine, Coastal & Inland Waterways Services",SW Devon & Cornwall Field Monitoring-AEM,CSE Servelec Ltd,855517,"34,052.38",308001316
+DEFRA,Environment Agency,06-May-10,Marketing,HO Corp Comms and Media,MM Teleperformance Ltd,849794,"95,869.90",763098018
+DEFRA,Environment Agency,20-May-10,Non Procurement Related,FM Operating Unit - Central and South East,Capita Hartshead Ltd,853821,"47,178.00",
+DEFRA,Environment Agency,20-May-10,Non Procurement Related,HO Business Finance,Capita Hartshead Ltd,854175,"87,881.00",
+DEFRA,Environment Agency,25-May-10,Non Procurement Related,MI Capital WiP,Staffordshire County Council,855646,"35,250.00",280061977
+DEFRA,Environment Agency,04-May-10,Non Procurement Related,MI REP Manager,Leicestershire County Council,845122,"52,875.00",115337102
+DEFRA,Environment Agency,04-May-10,Non Procurement Related,NE Capital WiP,Yorkshire Water Services Ltd,848343,"305,500.00",500555780
+DEFRA,Environment Agency,04-May-10,Pathology,NLS Capital WiP,Hach Lange Ltd,841477,"25,665.29",174557243
+DEFRA,Environment Agency,04-May-10,Pension Services,HO Pensions Investment,Hymans Robertson LLP,836858,"59,466.75",244875043
+DEFRA,Environment Agency,20-May-10,Pension Services,SW Regional HR Mgr,Capita Hartshead Ltd,854136,"299,742.00",
+DEFRA,Environment Agency,25-May-10,print,WA Regional Flood Programme Manager,Graphic Ad Design,856578,"45,152.90",613067664
+DEFRA,Environment Agency,25-May-10,Professional Services Temporary Staff,CI TUPE Group MRA,Rullion Computer Personnel Ltd,855720,"28,162.67",560881233
+DEFRA,Environment Agency,06-May-10,Purchase,AN Capital WiP,LES Engineering Ltd,848672,"44,730.18",129549442
+DEFRA,Environment Agency,13-May-10,Rail,NE Finance and Corporate Services Manager,Redfern Travel Ltd,850133,"27,102.93",708374133
+DEFRA,Environment Agency,20-May-10,Security,TH South East-Tidal Defence Mgr,MITIE Security London Ltd,853537,"70,508.05",880206144
+DEFRA,Environment Agency,20-May-10,Software,CI SD Management MRA,Computacenter (UK) Ltd,853547,"113,962.94",490334648
+DEFRA,Environment Agency,04-May-10,Software,HO Commercial Development,Ordnance Survey,847865,"36,937.50",888821072
+DEFRA,Environment Agency,04-May-10,Specialist Contractors,HO National Training and Development,AXA,846934,"56,306.11",243674160
+DEFRA,Environment Agency,18-May-10,Staff Childcare,HO Employee Performance,Accor Services,853241,"189,339.02",649503520
+DEFRA,Environment Agency,20-May-10,Staff Subscriptions,HO Pensions Investment,Mercer Investment Consulting,854245,"37,849.34",662717522
+DEFRA,Environment Agency,04-May-10,Staff Subscriptions,NE Capital WiP,Qualter Hall & Co Ltd,847169,"395,090.98",656219034
+DEFRA,Environment Agency,11-May-10,Staff Training & Development,TH Regional HR Mgr,NBA Solutions Ltd,848622,"28,162.17",810625854
+DEFRA,Environment Agency,06-May-10,Systems Delivery,CIS Capital WiP,Scisys UK Ltd,837256,"169,609.43",567554796
+DEFRA,Environment Agency,18-May-10,Systems Delivery,CIS Capital WiP,Scisys UK Ltd,843829,"45,510.53",567554796
+DEFRA,Environment Agency,06-May-10,Systems Delivery,CIS Capital WiP,Scisys UK Ltd,837226,"41,543.21",567554796
+DEFRA,Environment Agency,06-May-10,Telecoms,CI Corporate Services,Vodafone Corporate Ltd,848146,"32,485.89",569953277
+DEFRA,Environment Agency,11-May-10,Telecoms,HO Business Finance,British Telecommunications Plc,850695,"101,440.60",245719348
+DEFRA,Environment Agency,06-May-10,Telecoms,HO Business Finance,Vodafone Corporate Ltd,847576,"40,511.45",569953277
+DEFRA,Environment Agency,11-May-10,Telecoms,HO Business Finance,Vodafone Corporate Ltd,848189,"36,562.92",569953277
+DEFRA,Environment Agency,04-May-10,Telecoms,HO FM - Rio,British Telecommunications Plc,848403,"107,155.55",245719348
+DEFRA,Environment Agency,04-May-10,Telecoms,HO FM - Rio,British Telecommunications Plc,841935,"90,049.03",245719348
+DEFRA,Environment Agency,25-May-10,Telecoms,National Facilities Manager,British Telecommunications Plc,855832,"147,660.54",245719348
+DEFRA,Environment Agency,11-May-10,Telecoms,National Facilities Manager,British Telecommunications Plc,850711,"126,514.24",245719348
+DEFRA,Environment Agency,06-May-10,Telecoms,SO Chief Accountant,Vodafone Corporate Ltd,847576,"40,511.45",569953277
+DEFRA,Environment Agency,13-May-10,Telecoms,WA Exchequer Mgr,Vodafone Corporate Ltd,852826,"43,635.80",569953277
+DEFRA,Environment Agency,11-May-10,Vehicles Maintenance,HO Fleet - EA Wales,Hitachi Capital Commercial Vehicle Services,850835,"28,716.16",
+DEFRA,Environment Agency,18-May-10,Vehicles Maintenance,HO Fleet Operations,Hitachi Capital Commercial Vehicle Services,851557,"145,531.11",
+DEFRA,Environment Agency,18-May-10,Vehicles Maintenance,HO Fleet Operations,Hitachi Capital Commercial Vehicle Services,851543,"25,100.00",
+"Spend over Ł25,000 - Publication template",,,,,,,,
+
+Procurement led

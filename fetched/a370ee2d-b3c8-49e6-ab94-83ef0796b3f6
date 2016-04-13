@@ -1,0 +1,7 @@
+Department Family,Entity,Date, Expense Type ,Expense Area,Supplier Name,Transaction Number,Amount,Description
+DEFRA,MMO,18-Jul-11, GPC Card ,Various,Barclaycard Business Issuing,4.72E+21,"48,080.85",Government Procurement Card payment
+DEFRA,MMO,18-Jul-11, Research and Development ,Marine Planning,Roger Tym & Partners part of B,INV85774ACL,"28,238.76",Research into the relationship between marine planning and coastal socio economic development 
+DEFRA,MMO,20-Jul-11,IT Systems Development,Information Technology (IT),IBM United Kingdom Ltd,5806111830,"31,633.20",MMO - Geographical Information System Infrastructure upgrade and productionisation 
+DEFRA,MMO,18-Jul-11, Other Current Payments E ,,Directflight Ltd,242,"104,094.52",AERIAL SURVEILLANCE OPERATIONS - 25/05/2011 to 24/06/2011
+DEFRA,MMO,28-Jul-11,EFF Grant Payments,Business Relations Team,Great Grimsby Seafood Village ,FEF0354200711,"187,354.91",European Fisheries Fund grant payment
+DEFRA,MMO,04-Jul-11,EFF Grant Payments,Business Relations Team,Newhaven Port & Properties Ltd,FEF0350,"236,219.80",European Fisheries Fund grant payment

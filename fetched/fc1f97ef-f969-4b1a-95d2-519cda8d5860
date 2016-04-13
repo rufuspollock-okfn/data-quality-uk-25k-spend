@@ -1,0 +1,5 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Defra,JNCC,23-Sep-10,CONTRACTED OUT CONSERVATION SERVICES                        ,Marine Mapping & Ecosystem Assessment,ABP Marine Environmental Reasearch Ltd,4270,"31,725.00",
+Defra,JNCC,01-Sep-10,OFFICE RENT,Governance & Corporate Services,MJ Mapp LLP,4231,"39,362.50",
+Defra,JNCC,01-Sep-10,SERVICE CHARGE                                              ,Governance & Corporate Services,MJ Mapp LLP,4231,"10,903.28",
+Defra,JNCC,15-Sep-10,CONTRACTED OUT CONSERVATION SERVICES                        ,Surveillance & Monitoring,Natural Environment Research Council,4250,"49,614.22",

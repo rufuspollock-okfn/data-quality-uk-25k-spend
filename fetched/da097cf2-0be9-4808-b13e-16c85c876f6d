@@ -1,0 +1,473 @@
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (ÂŁ)
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD,1164926,"62,794.99"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1164949,"55,103.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1164949,"9,643.03"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,LOGICA UK LTD,1164970,"824,362.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,LOGICA UK LTD,1164970,"144,263.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,516
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"7,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"11,868.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"3,150.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"1,225.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,90.3
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"2,076.90"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,551.25
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,-516
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,-90.3
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,516
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,90.3
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"-7,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"-11,868.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"-3,150.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"7,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"3,150.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"11,868.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"-1,225.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,"-2,076.90"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,-551.25
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,TRIBAL CONSULTING GROUP LTD,1165014,"3,853.15"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,-516
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,516
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165014,-90.3
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,TRIBAL CONSULTING GROUP LTD,1165014,90.3
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,WESTMINSTER FOUNDATION FOR DEMOCRACY,1165020,"164,104.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Maintenance M and E,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"14,362.48"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Minor New Works <10K,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"10,032.44"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Grounds Mainteance,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,516.73
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"30,420.06"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,72.02
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Miscellaneous Expenditure,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"1,092.08"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Waste Disposal,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,653.26
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Reception Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"13,705.12"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Contract Porterage,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"8,559.42"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Stationery - General,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"3,426.28"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Property and Construction Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"32,617.74"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Rematching / Reinstatement,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"7,850.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Contract Fees,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001598,"12,198.15"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165028,605
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165028,"12,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165028,"1,466.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165028,154
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165028,"8,098.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165028,"3,906.60"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165028,0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165028,"-8,098.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165028,"-1,417.22"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165028,"8,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165028,98.4
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165028,"1,417.22"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1165054,"206,802.99"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1165054,"36,190.52"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,02-Jun-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,TJD OTHER DEBTORS,400001086,"25,634.84"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1165147,"142,446.64"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1165147,"24,928.16"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1165147,"-142,446.64"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1165147,"-24,928.16"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1165147,"142,466.64"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1165147,"24,931.66"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,352.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,630.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"15,050.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"19,608.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"13,175.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"12,495.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"12,495.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"6,300.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"6,900.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"6,615.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"6,615.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"3,096.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"3,400.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"2,205.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"1,470.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,735
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,61.6
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,110.34
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"2,633.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"3,431.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"2,305.63"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"2,186.63"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"2,186.63"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"1,102.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"1,207.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"1,157.63"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"1,157.63"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,541.8
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,595
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,385.88
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,257.25
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,128.63
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,-0.04
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,-630.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,-110.34
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,630.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,110.34
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"-13,175.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"13,175.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,-630.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,-110.34
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,630.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,110.34
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"-3,400.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,-595
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,"3,400.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,TRIBAL CONSULTING GROUP LTD,1165202,595
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Jun-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COB EMPLOYEE EXPENSES,3007269,"175,828.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Jun-10,Corporate Strategy Consultancy,DG FINANCE,DTZ CONSULTING AND RESEARCH,1165228,"91,926.80"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DTZ CONSULTING AND RESEARCH,1165228,"16,087.19"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,04-Jun-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,DTZ DEBENHAM TIE LEUNG,1165229,"44,233.26"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,07-Jun-10,Programme and Project Management Consultancy,DG FINANCE,CONCERTO CONSULTING LTD,1165291,"6,375.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,07-Jun-10,Programme and Project Management Consultancy,DG FINANCE,CONCERTO CONSULTING LTD,1165291,"19,125.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,07-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,CONCERTO CONSULTING LTD,1165291,"4,462.51"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,07-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,CONCERTO CONSULTING LTD,1165291,-0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,07-Jun-10,Additional Volunteer Contribution,NON CASH & UNALLOCATED COSTS,SCOTTISH WIDOWS PLC,1165343,"28,542.43"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,07-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,INTERNATIONAL COMMISSION OF JURISTS,300000192,"46,027.56"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,07-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,MERCY CORPS,600000284,"33,688.45"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,COMMUNITY APPRAISAL AND MOTIVATION PROGRAMME (CAMP),15172,"33,707.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,BRITISH COUNCIL,1008355,"44,159.47"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165383,"50,792.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165383,"8,888.60"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165383,"50,792.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165383,"-50,792.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1165435,"37,930.14"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1165435,93.82
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,08-Jun-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1165435,"6,637.77"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GIBS LTD,1002280,"222,699.32"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,"113,130.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,"19,797.87"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,"-113,130.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,"-19,797.87"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,"113,130.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,16.82
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,"19,797.87"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,2.94
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Fco Healthcare Scheme,DG CHANGE & DELIVERY,HEALIX INTERNATIONAL LTD,1165546,0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Specialist Training (Devolved),DG EUROPE AND GLOBALISATION,LSE ENTERPRISE LIMITED,1165561,893.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Specialist Training (Devolved),DG EUROPE AND GLOBALISATION,LSE ENTERPRISE LIMITED,1165561,"17,850.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Specialist Training (Devolved),DG EUROPE AND GLOBALISATION,LSE ENTERPRISE LIMITED,1165561,40.57
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Specialist Training (Devolved),DG EUROPE AND GLOBALISATION,LSE ENTERPRISE LIMITED,1165561,"12,639.80"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Specialist Training (Devolved),DG EUROPE AND GLOBALISATION,LSE ENTERPRISE LIMITED,1165561,"2,561.20"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Specialist Training (Devolved),DG EUROPE AND GLOBALISATION,LSE ENTERPRISE LIMITED,1165561,471.32
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,P.A.Y.E Income Tax (Oracle PAY Control Account),NON CASH & UNALLOCATED COSTS,HM REVENUE & CUSTOMS,4006844,"3,712,064.84"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,National Insurance (NI) (Oracle PAY Control Account),NON CASH & UNALLOCATED COSTS,HM REVENUE & CUSTOMS,4006844,"2,191,777.65"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,09-Jun-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,FISCAL CRIME LIAISON OFFICE,300002566,"112,862.57"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165759,"19,663.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165759,"15,582.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165759,"6,167.88"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165759,"-19,663.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165759,"-15,582.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165759,"18,179.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165759,"17,066.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,11-Jun-10,Rates Taxes Non-Residential,DG CHANGE & DELIVERY,MILTON KEYNES COUNCIL,1165803,"828,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"24,857.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"4,349.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"5,936.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"18,921.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"-24,857.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"-4,349.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165854,"4,349.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"-18,921.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"-5,936.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1165854,"-4,349.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"24,857.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1165854,"4,349.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"52,210.17"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,"7,831.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"-52,210.17"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,"-7,831.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"52,210.17"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"9,136.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,"-7,831.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,"7,831.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,-0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"-52,210.17"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"-9,136.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"20,636.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"31,573.92"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,"9,136.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,-0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"-31,573.92"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"-20,636.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,"-9,136.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"20,636.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,FUJITSU SERVICES LIMITED,1165862,"31,573.92"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,"9,136.78"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,FUJITSU SERVICES LIMITED,1165862,-0.01
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,14-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,WESTMINSTER FOUNDATION FOR DEMOCRACY,1165899,"395,898.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,BBC WORLD SERVICE TRUST,18892,"51,656.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,CONCILIATION RESOURCES,18893,"59,727.39"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,"45,200.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,"1,500.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,900
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,252
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,324
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,500
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,200
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,"11,106.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,"1,943.55"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165915,35
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165915,"8,518.30"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,-252
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165915,-44.1
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,324
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,-324
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,252
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,-500
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,500
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,-324
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,288
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,-288
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,324
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,-252
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,-324
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165915,-56.7
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,224
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,288
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,28
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1165915,36
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ASHRIDGE MANAGEMENT COLLEGE,1165915,56.7
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,940.02
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,939.99
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,624.04
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,525.99
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"3,367.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"18,871.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,540
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"120,213.64"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"2,818.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"2,859.79"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,939.72
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,940.14
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"3,420.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"3,933.89"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,470
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"1,345.99"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,469.84
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,469.84
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,654.78
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"3,144.94"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,940.02
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"19,733.68"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,"4,111.55"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,1165977,216.42
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,JORDAN & BATEMAN ARCHITECTS,1165987,"32,487.55"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1165993,"37,582.82"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1165993,"6,576.99"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,THE TAYLOR CLARKE PARTNERSHIP LTD,1166046,"28,085.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,THE TAYLOR CLARKE PARTNERSHIP LTD,1166046,451.2
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,THE TAYLOR CLARKE PARTNERSHIP LTD,1166046,240
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,Training Course: Fees,DG CHANGE & DELIVERY,THE TAYLOR CLARKE PARTNERSHIP LTD,1166046,"1,511.10"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,15-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,THE TAYLOR CLARKE PARTNERSHIP LTD,1166046,"5,300.28"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1166086,"25,740.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1166086,"4,504.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,Energy Saving Measures,UK TRADE AND INVESTMENT DIRECTORATE,FINANCIAL TIMES LIMITED,1166095,"35,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,Energy Saving Measures,UK TRADE AND INVESTMENT DIRECTORATE,FINANCIAL TIMES LIMITED,1166095,"6,125.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"22,100.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"9,490.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"3,315.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"1,423.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"-22,100.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"-9,490.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"-3,315.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"-1,423.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"22,100.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"9,490.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"3,867.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"1,660.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"-3,315.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"-1,423.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"3,315.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,PA CONSULTING GROUP,1166120,"1,423.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,Aslc Contribution,NON CASH & UNALLOCATED COSTS,CABINET OFFICE,4006869,"3,405,388.83"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,Added Years and Wwpsc,NON CASH & UNALLOCATED COSTS,CABINET OFFICE,4006869,"397,398.09"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,Added Years and Wwpsc,NON CASH & UNALLOCATED COSTS,CABINET OFFICE,4006869,"68,275.52"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,16-Jun-10,Programme Spend (Oracle Projects Control Account),DG DEFENCE AND INTELLIGENCE,CPS - CROWN PROSECUTION SERVICE HQ,4006871,"46,519.39"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Maintenance M and E,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,"2,343.93"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Maintenance B and Ce,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,66.27
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Minor New Works <10K,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,900.71
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Grounds Mainteance,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,78.25
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,"3,258.03"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,186.79
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Miscellaneous Expenditure,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,138.64
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Waste Disposal,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,127.47
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Reception Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,"1,628.76"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Contract Porterage,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,"2,098.89"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Stationery - General,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,407.19
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,280.79
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Property and Construction Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,"4,349.44"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Deferred Staff,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,"12,759.19"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Contract Fees,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,"4,498.30"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,515.67
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,14.58
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,198.16
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,17.22
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,716.77
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,41.1
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,30.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,28.04
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,358.33
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,461.76
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,89.58
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,61.77
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,956.88
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,"2,807.02"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9405,989.63
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Maintenance M and E,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"6,215.43"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Minor New Works <10K,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"1,111.91"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Grounds Mainteance,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,640.48
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"5,422.01"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,417.95
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Miscellaneous Expenditure,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,412.9
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Waste Disposal,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,493.92
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Reception Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"3,324.25"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Contract Porterage,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"4,103.76"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Stationery - General,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,831.06
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,252.26
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Property and Construction Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"10,753.29"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Deferred Staff,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"9,548.42"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Secondments,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"11,604.23"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Contract Fees,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"9,965.20"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"1,243.08"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,222.38
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,128.1
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"1,084.40"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,83.59
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,82.58
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,98.78
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,664.85
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,820.75
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,166.21
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,50.45
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"2,150.65"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"1,909.68"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"2,320.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001628,"1,993.04"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Maintenance M and E,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"2,293.68"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Minor New Works <10K,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,521.29
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Grounds Mainteance,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,375.89
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"2,945.66"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,220.49
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Miscellaneous Expenditure,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,460.16
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Waste Disposal,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,154.14
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Reception Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"4,204.77"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Contract Porterage,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"2,294.66"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Stationery - General,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"1,051.19"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,131.2
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Property and Construction Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"6,658.81"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Rematching / Reinstatement,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"3,117.37"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Contract Fees,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"6,077.61"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,435.8
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,99.04
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,71.42
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,559.67
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,41.89
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,87.43
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,29.28
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,798.9
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,435.99
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,199.72
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,24.93
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"1,265.17"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,592.3
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001629,"1,154.74"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,NATO,1001632,"96,602.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,COFFEY INTERNATIONAL DEVELOPMENT,1166318,"93,127.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,COFFEY INTERNATIONAL DEVELOPMENT,1166318,"-93,127.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,COFFEY INTERNATIONAL DEVELOPMENT,1166318,"93,127.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,COFFEY INTERNATIONAL DEVELOPMENT,1166318,"-93,127.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,18-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,COFFEY INTERNATIONAL DEVELOPMENT,1166318,"93,127.35"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,22-Jun-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,ACTIVE LEARNING CENTRE,1166433,"28,095.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,22-Jun-10,Dsfa Conference and Subscription Fees,DG CHANGE & DELIVERY,DSFA - DIPLOMATIC SERVICE FAMILIES ASSOCIATION,1166485,"72,410.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Maintenance M and E,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,"2,186.90"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Maintenance B and Ce,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,224.88
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Minor New Works <10K,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,786.09
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Grounds Mainteance,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,201.38
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,"8,851.71"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,362.77
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Miscellaneous Expenditure,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,99.96
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Waste Disposal,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,452.27
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Reception Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,"6,013.13"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Contract Porterage,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,"4,711.64"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Stationery - General,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,"1,503.29"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,130.21
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Property and Construction Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,"10,144.99"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Rematching / Reinstatement,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,153.75
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Contract Fees,DG CHANGE & DELIVERY,INTERSERVE FM LTD,9452,"5,306.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Maintenance M and E,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,"2,118.62"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Minor New Works <10K,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,481.5
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Grounds Mainteance,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,347.21
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,"2,720.84"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,203.66
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Miscellaneous Expenditure,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,425.04
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Waste Disposal,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,142.37
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Reception Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,"3,883.85"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Contract Porterage,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,"2,119.52"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Stationery - General,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,970.96
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Corporate Strategy Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,121.18
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Property and Construction Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,"6,150.58"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Rematching / Reinstatement,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,"2,879.44"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Contract Fees,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,"3,768.13"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,402.53
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,91.48
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,65.97
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,516.96
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,38.69
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,80.76
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,27.05
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,737.93
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,402.71
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,184.48
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,23.02
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,"1,168.61"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,547.1
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001653,715.95
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Maintenance M and E,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"14,014.41"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Minor New Works <10K,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"9,789.30"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Grounds Mainteance,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,504.2
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"29,682.82"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Cleaning,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,70.27
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Miscellaneous Expenditure,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"1,065.61"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Waste Disposal,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,637.43
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Reception Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"13,372.97"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Contract Porterage,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"8,351.98"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Stationery - General,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"3,343.24"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Property and Construction Consultancy,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"31,827.24"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Rematching / Reinstatement,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"7,659.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Contract Fees,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1001655,"11,902.53"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Energy Saving Measures,UK TRADE AND INVESTMENT DIRECTORATE,FINANCIAL TIMES LIMITED,1166636,"65,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Energy Saving Measures,UK TRADE AND INVESTMENT DIRECTORATE,FINANCIAL TIMES LIMITED,1166636,"11,375.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,23-Jun-10,Publications,DG CENTRAL GROUP,THE NATIONAL ARCHIVES,4006914,"55,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Jun-10,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,ACCOR SERVICES,1166694,"29,355.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Jun-10,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,ACCOR SERVICES,1166694,"1,467.75"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ACCOR SERVICES,1166694,256.86
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Jun-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,ADEN SERVICE,17155503,"85,616.57"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Jun-10,Rent and Condominium Charges Non-Residential,DG CHANGE & DELIVERY,ECONOMIC & SOCIAL DEVELOPMENT FUND,29143185,"283,122.74"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-Jun-10,Rent and Condominium Charges Non-Residential,DG CHANGE & DELIVERY,COLLIERS MEREDITH & GREW / TECHNOLOGY AGENCY ACCT,2000027282,"40,915.14"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1166821,"1,736,690.23"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1166821,"303,920.79"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-Jun-10,Programme Spend (Oracle Projects Control Account),DG DEFENCE AND INTELLIGENCE,WILTON PARK EXECUTIVE AGENCY,1166855,"35,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,28-Jun-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1166860,"3,000,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1166921,"524,150.88"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1166921,"1,458.63"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1166921,"12,116.33"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BRITISH COUNCIL,1166921,"31,569.59"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,General Information Services,DG CHANGE & DELIVERY,BULLET MARKETING LTD,1166924,"26,572.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,BULLET MARKETING LTD,1166924,"4,650.10"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1166941,"34,466.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,DETICA LTD,1166941,"6,031.55"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1166941,"-34,466.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,DETICA LTD,1166941,"34,466.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1166959,"55,103.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1166959,"9,643.03"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,RTKL-UK LTD,1167016,"140,937.50"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,STERIA LTD,1167030,"1,308,096.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,STERIA LTD,1167030,"228,916.80"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Jun-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,CADASTRAL SURVEYS LIMITED,340,"32,511.71"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GIBS LTD,1002381,"122,868.59"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Jun-10,Specialist Training (Devolved),DG EUROPE AND GLOBALISATION,LSE ENTERPRISE LIMITED,1167097,"31,905.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,LSE ENTERPRISE LIMITED,1167097,"5,583.38"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Jun-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,PROFERO,1167112,"50,000.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,PROFERO,1167112,"8,750.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Jun-10,Corporate Strategy Consultancy,UK TRADE AND INVESTMENT DIRECTORATE,UK TRADE AND INVESTMENT,4006933,"64,625.00"
