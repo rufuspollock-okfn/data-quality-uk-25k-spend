@@ -21,6 +21,7 @@ import sys
 import os
 import period
 
+
 # Settings
 # Files path.
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data'))
@@ -224,7 +225,8 @@ def get_datafile_data(package, resource):
     # Get data of datafile.
     datafile = {}
     datafile['id'] = resource.get('id', '')
-    datafile['data'] = resource.get('url', '').strip(' ')
+    url = resource.get('url', '').strip(' ')
+    datafile['data'] =  re.sub('\/$', '', url)
     datafile['format'] = clean_format(datafile['data'])
 
     datafile['last_modified'] = resource.get('last_modified', '')
@@ -318,7 +320,8 @@ def make_datafiles_csv(csvfile, publishers):
     # Make datafiles csv file.
     fieldnames = ['id', 'publisher_id', 'title', 'data', 'format', 'last_modified', 'period_id', 'schema']
     print('Making ' + csvfile + '...')
-    make_csv(csvfile, fieldnames, resources)
+    unique_resources = {v['data']:v for v in resources}.values()
+    make_csv(csvfile, fieldnames, unique_resources)
     print('Making ' + csvfile + '... Done')
 
 def clean_format(url):
@@ -346,7 +349,7 @@ def clean_format(url):
             file_format = 'html'
     except urllib.error.URLError as e:
         file_format = 'unknown'
-    
+
     return file_format
 
 
