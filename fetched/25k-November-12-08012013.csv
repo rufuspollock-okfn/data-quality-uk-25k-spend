@@ -1,0 +1,950 @@
+Departmental Family,Entity,Date,Expense Type,Expense Area,Supplier,Supplier Type,Supplier Site Postcode,Transaction Number,Amount Ł,Vat Registration Num,PO Line Description,Expenditure Type,Contract Number
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Goverance Operations & Assurance,NHS SHARED BUSINESS SERVICES (SBS),PUBLIC,WF3 1WE,100012842,85476.96,,NHS SBS  High Level Design Specification Work as per 30 March 2012 agreement. Figure given is maximum total. Supplier will be paid monthly. ,Admin,
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Goverance Operations & Assurance,NHS SHARED BUSINESS SERVICES (SBS),PUBLIC,WF3 1WE,100012842,17167.4,,,Admin,
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,NHS Medical,THE CHRISTIE HOSPITAL NHS FOUNDATION TRUST,PUBLIC,M20 4BX,14182,707000,,For the provision of the  North West Cancer Intelligence Service for 2012-13 hosted by the The Christie Hospital NHS FT,Programme,
+Department of Health,Department of Health,01/11/2012,ENDPBs Admin Capital Grant in Aid,Public Health,HUMAN FERTILISATION AND EMBRYOLOGY AUTHORITY (HFEA),PUBLIC,WC1B 3HF,913472,-30000,,HFEA Capital Grant 2012/13 ,Other,
+Department of Health,Department of Health,01/11/2012,ENDPBs Admin Revenue Grant in Aid,Public Health,HUMAN FERTILISATION AND EMBRYOLOGY AUTHORITY (HFEA),PUBLIC,WC1B 3HF,913472,30000,,HFEA Revenue Drawdown 2012/13,Admin,
+Department of Health,Department of Health,01/11/2012,CFH Cash,CENTRAL TECHNICAL,NHS CONNECTING FOR HEALTH,PUBLIC,LS1 4HY,FUNDING NOV 2012,15000000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HEYWOOD MIDDLETON & ROCHDALE PCT,PUBLIC,M24 1AY,HAFS-14268,29000000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HILLINGDON PCT,PUBLIC,TW3 3HR,HAFS-14269,33000000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HOUNSLOW PCT,PUBLIC,UB2 4SA,HAFS-14270,37000000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HULL PCT,PUBLIC,HU1 3HA,HAFS-14271,37200000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,ISLE OF WIGHT NHS PCT,PUBLIC,PO30 5TG,HAFS-14272,18500000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,ISLINGTON PCT,PUBLIC,NW1 2LT,HAFS-14273,37800000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,KENSINGTON AND CHELSEA PCT,PUBLIC,W10 6DZ,HAFS-14274,25000000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,KINGSTON PCT,PUBLIC,KT5 9AL,HAFS-14275,18500000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,KIRKLEES PCT,PUBLIC,WF3 1WE,HAFS-14276,47000000,,,Other,
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,KNOWSLEY PCT,PUBLIC,L33 7XW,HAFS-14277,22478000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LAMBETH PCT,PUBLIC,WF3 1WE,HAFS-14278,51000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LEEDS PCT,PUBLIC,WF3 1WE,HAFS-14279,97486000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LEICESTER CITY PCT,PUBLIC,LE1 6NB,HAFS-14280,38000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LEICESTERSHIRE COUNTY & RUTLAND PCT,PUBLIC,CV13 0LJ,HAFS-14281,52000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LEWISHAM PCT,PUBLIC,SE12 8RN,HAFS-14282,39000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LINCOLNSHIRE PCT,PUBLIC,LN4 2HN,HAFS-14283,92000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LIVERPOOL PCT,PUBLIC,L13 1HN,HAFS-14284,76980000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LONDON SHA,PUBLIC,SW1E 6QT,HAFS-14285,141000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,LUTON TEACHING PCT,PUBLIC,LU1 2PJ,HAFS-14286,24500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,MANCHESTER PCT,PUBLIC,M23 9LH,HAFS-14287,76000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,MEDWAY TEACHING PCT,PUBLIC,ME19 4AX,HAFS-14288,28000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,MID ESSEX PCT,PUBLIC,CM8 2TL,HAFS-14289,39000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,MIDDLESBOROUGH PCT,PUBLIC,TS2 1RH,HAFS-14290,19700000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,MILTON KEYNES PCT,PUBLIC,MK6 5NG,HAFS-14291,25000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NATIONAL INSTITUTE FOR CLINICAL EXCELLENCE (NICE),PUBLIC,SE1 7NT,HAFS-14292,5000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NATIONAL TREATMENT AGENCY FOR SUBSTANCE MISUSE (NTA),PUBLIC,WF3 1WE,HAFS-14293,875000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NEWCASTLE PCT,PUBLIC,NE27 0QJ,HAFS-14294,30100000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NEWHAM PCT,PUBLIC,E1 1RD,HAFS-14295,45000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NHS BUSINESS SERVICES AUTHORITY (NHSBSA),PUBLIC,NE1 6SN,HAFS-14296,44600000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev ND In RAB,CENTRAL TECHNICAL,NHS BUSINESS SERVICES AUTHORITY (NHSBSA),PUBLIC,NE1 6SN,HAFS-14297,1715000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NHS COMMISSIONING BOARD,PUBLIC,LS2 7UE,HAFS-14298,15000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NHS INSTITUTE FOR INNOVATION AND IMPROVEMENT,PUBLIC,CV4 7AL,HAFS-14299,300000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORFOLK PCT,PUBLIC,NR1 3FR,HAFS-14300,92000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH EAST ESSEX PCT,PUBLIC,CO15 4AB,HAFS-14301,38000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH EAST LINCOLNSHIRE CARE TRUST PLUS,PUBLIC,DN33 2BA,HAFS-14302,16300000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH EAST SHA,PUBLIC,NE15 8NY,HAFS-14303,24100000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH LANCASHIRE PCT,PUBLIC,PR4 3AL,HAFS-14304,42692000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH LINCOLNSHIRE PCT,PUBLIC,DN20 8GS,HAFS-14305,17900000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH SOMERSET PCT,PUBLIC,BS2 8EE,HAFS-14306,22800000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH STAFFORDSHIRE PCT,PUBLIC,ST4 4LX,HAFS-14307,27300000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH TYNESIDE PCT,PUBLIC,NE27 0QJ,HAFS-14308,25100000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH WEST SHA,PUBLIC,M1 3BN,HAFS-14309,53300000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTH YORKSHIRE & YORK PCT,PUBLIC,YO17 6QR,HAFS-14310,90700000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTHAMPTONSHIRE PCT,PUBLIC,NN5 6UH,HAFS-14311,80000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NORTHUMBERLAND CARE TRUST,PUBLIC,NE27 0QJ,HAFS-14312,43800000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NOTTINGHAM CITY PCT,PUBLIC,WF3 1WE,HAFS-14313,42000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,NOTTINGHAMSHIRE COUNTY TEACHING PCT,PUBLIC,NG5 7EU,HAFS-14314,79000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,OLDHAM PCT,PUBLIC,OL9 6EE,HAFS-14315,35000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,OXFORDSHIRE PCT,PUBLIC,OX4 4XN,HAFS-14316,65000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,PETERBOROUGH PCT,PUBLIC,PE1 1FA,HAFS-14317,21500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,PLYMOUTH TEACHING PCT,PUBLIC,PL6 5XZ,HAFS-14318,31000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,PORTSMOUTH CITY TEACHING PCT,PUBLIC,PO4 8LD,HAFS-14319,27000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,REDBRIDGE PCT,PUBLIC,WF3 1WE,HAFS-14320,28000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,REDCAR AND CLEVELAND PCT,PUBLIC,TS14 7AA,HAFS-14321,17600000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,RICHMOND AND TWICKENHAM PCT,PUBLIC,KT5 9AL,HAFS-14322,21000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,ROTHERHAM PCT,PUBLIC,S66 1YY,HAFS-14323,30000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SALFORD PCT,PUBLIC,M6 5FW,HAFS-14324,39000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SANDWELL PCT,PUBLIC,B70 9LD,HAFS-14325,41500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SEFTON PCT,PUBLIC,L13 1HN,HAFS-14326,36000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SHEFFIELD PCT,PUBLIC,S10 3TG,HAFS-14327,69000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SHROPSHIRE COUNTY PCT,PUBLIC,SY3 8XL,HAFS-14328,34643000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOLIHULL PCT,PUBLIC,B91 3EF,HAFS-14329,26000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOMERSET PCT,PUBLIC,WF3 1WE,HAFS-14330,65000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH BIRMINGHAM PCT,PUBLIC,B7 4WS,HAFS-14331,48000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH CENTRAL SHA,PUBLIC,WF3 1WE,HAFS-14332,27000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH EAST COAST SHA,PUBLIC,RH6 7DE,HAFS-14333,25700000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH EAST ESSEX PCT,PUBLIC,SS2 6HE,HAFS-14334,54000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH GLOUCESTERSHIRE PCT,PUBLIC,BS1 2NP,HAFS-14335,25500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH STAFFORDSHIRE PCT,PUBLIC,WS15 1UL,HAFS-14336,68710000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH TYNESIDE PCT,PUBLIC,NE33 3DP,HAFS-14337,23000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH WEST ESSEX PCT,PUBLIC,SS14 3HG,HAFS-14338,52000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTH WEST SHA,PUBLIC,WF3 1WE,HAFS-14339,31000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTHAMPTON CITY PCT,PUBLIC,SO30 3JB,HAFS-14340,28000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SOUTHWARK PCT,PUBLIC,SE1 7NT,HAFS-14341,42000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,STOCKPORT PCT,PUBLIC,SK7 5BY,HAFS-14342,40000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,STOCKTON-ON-TEES TEACHING PCT,PUBLIC,TS17 6SF,HAFS-14343,23000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,STOKE ON TRENT PCT,PUBLIC,ST4 4LX,HAFS-14344,38103000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SUFFOLK PCT,PUBLIC,IP3 8LS,HAFS-14345,63000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SUNDERLAND TEACHING PCT,PUBLIC,NE37 1PR,HAFS-14346,40000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SURREY PCT,PUBLIC,KT16 0QA,HAFS-14347,125000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SUTTON AND MERTON PCT,PUBLIC,WF3 1WE,HAFS-14348,46000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,SWINDON PCT,PUBLIC,SN10 5EQ,HAFS-14349,27000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,TAMESIDE AND GLOSSOP PCT,PUBLIC,M34 2GP,HAFS-14350,33000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,TELFORD & WREKIN PCT,PUBLIC,SY3 8XL,HAFS-14351,21522000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,TORBAY PCT,PUBLIC,TQ9 6JE,HAFS-14352,19000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,TOWER HAMLETS PCT,PUBLIC,E1 1RD,HAFS-14353,37000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,TRAFFORD PCT,PUBLIC,M16 0PQ,HAFS-14354,26000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WAKEFIELD DISTRICT PCT,PUBLIC,WF3 1WE,HAFS-14355,50000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WALSALL TEACHING PCT,PUBLIC,WS4 2BX,HAFS-14356,35600000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WALTHAM FOREST PCT,PUBLIC,WF3 1WE,HAFS-14357,32000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WANDSWORTH TEACHING PCT,PUBLIC,WF3 1WE,HAFS-14358,44500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WARRINGTON PCT,PUBLIC,WF3 1WE,HAFS-14359,25400000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WARWICKSHIRE PCT,PUBLIC,CV34 4DE,HAFS-14360,60000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WEST ESSEX PCT,PUBLIC,CM16 6TN,HAFS-14361,24000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WEST KENT PCT,PUBLIC,ME20 7NJ,HAFS-14362,78000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WEST MIDLANDS SHA,PUBLIC,B16 9RG,HAFS-14363,16500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WEST SUSSEX PCT,PUBLIC,WF3 1WE,HAFS-14364,94000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WESTERN CHESHIRE PCT,PUBLIC,CH2 1HU,HAFS-14365,51000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WESTMINSTER PCT,PUBLIC,BS1 2NP,HAFS-14366,40000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WILTSHIRE PCT,PUBLIC,SN10 5EQ,HAFS-14367,49000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WIRRAL PCT,PUBLIC,CH42 0LQ,HAFS-14368,50000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WOLVERHAMPTON CITY PCT,PUBLIC,WV3 0UD,HAFS-14369,31000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,WORCESTERSHIRE PCT,PUBLIC,WR4 9RW,HAFS-14370,55000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,YORKSHIRE & THE HUMBER SHA,PUBLIC,LS1 4PL,HAFS-14371,45000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,"ASHTON, LEIGH & WIGAN PCT",PUBLIC,WN1 1AH,HAFS-14372,43000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BARKING AND DAGENHAM PCT,PUBLIC,IG11 8EY,HAFS-14373,28000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BARNET PCT,PUBLIC,NW9 6QQ,HAFS-14374,49800000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BARNSLEY PCT,PUBLIC,S70 3RD,HAFS-14375,32000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BASSETLAW PCT,PUBLIC,NG21 0ER,HAFS-14376,13000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BATH & NORTH EAST SOMERSET PCT,PUBLIC,BA2 5RP,HAFS-14377,18000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BEDFORDSHIRE PCT,PUBLIC,MK40 2AW,HAFS-14378,47000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BERKSHIRE EAST PCT,PUBLIC,RG30 2BA,HAFS-14379,41000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BERKSHIRE WEST PCT,PUBLIC,RG30 2BA,HAFS-14380,44500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BEXLEY CARE TRUST,PUBLIC,DA5 2BW,HAFS-14381,30000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BIRMINGHAM EAST AND NORTH PCT,PUBLIC,B7 4WE,HAFS-14382,54000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BLACKBURN AND DARWEN TEACHING CARE TRUST PLUS,PUBLIC,BB1 2EE,HAFS-14383,21455000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BLACKPOOL PCT,PUBLIC,PR4 3AL,HAFS-14384,27449000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BOLTON PCT,PUBLIC,B11 1PP,HAFS-14385,36000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BOURNEMOUTH & POOLE PCT,PUBLIC,BH12 5AG,HAFS-14386,40000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BRADFORD AND AIREDALE PCT,PUBLIC,WF3 1WE,HAFS-14387,61500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BRENT TEACHING PCT,PUBLIC,HA0 4UZ,HAFS-14388,40000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BRIGHTON & HOVE CITY TEACHING PCT,PUBLIC,WF3 1WE,HAFS-14389,35000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BRISTOL PCT,PUBLIC,BS2 8EE,HAFS-14390,70000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BROMLEY PCT,PUBLIC,WF3 1WE,HAFS-14391,39500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BUCKINGHAMSHIRE PCT,PUBLIC,HP19 8ET,HAFS-14392,55000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,BURY PCT,PUBLIC,BL9 0EN,HAFS-14393,23500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CALDERDALE PCT,PUBLIC,WF3 1WE,HAFS-14394,27000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CAMBRIDGESHIRE PCT,PUBLIC,PE27 5BB,HAFS-14395,80000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CAMDEN PCT,PUBLIC,NW1 0PE,HAFS-14396,37500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CENTRAL & EASTERN CHESHIRE PCT,PUBLIC,CW5 5QU,HAFS-14397,49000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CENTRAL LANCASHIRE PCT,PUBLIC,PR26 6TR,HAFS-14398,59000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CITY AND HACKNEY TEACHING PCT,PUBLIC,E1 1RD,HAFS-14399,42000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CORNWALL & ISLES OF SCILLY PCT,PUBLIC,PL25 5AS,HAFS-14400,68000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,COUNTY DURHAM PCT,PUBLIC,DL14 6WA,HAFS-14401,72899000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,COVENTRY TEACHING PCT,PUBLIC,CV1 2GQ,HAFS-14402,33000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CROYDON PCT,PUBLIC,CR0 6SR,HAFS-14403,40000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,CUMBRIA PCT,PUBLIC,CA2 7HX,HAFS-14404,72000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,DARLINGTON PCT,PUBLIC,DL14 6WA,HAFS-14405,13673000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,DERBY CITY PCT,PUBLIC,WF3 1WE,HAFS-14406,35000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,DERBYSHIRE COUNTY PCT,PUBLIC,S41 7PF,HAFS-14407,78000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,DEVON PCT,PUBLIC,TQ12 4PH,HAFS-14408,90000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,DONCASTER PCT,PUBLIC,DN4 5DJ,HAFS-14409,38500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,DORSET PCT,PUBLIC,DT2 9TB,HAFS-14410,49000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,DUDLEY PCT,PUBLIC,DY2 8PP,HAFS-14411,36000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,EALING PCT,PUBLIC,UB2 4SA,HAFS-14412,44000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,EAST LANCASHIRE PCT,PUBLIC,BB9 5SZ,HAFS-14413,51000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,EAST MIDLANDS SHA,PUBLIC,WF3 1WE,HAFS-14414,36000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,EAST OF ENGLAND SHA,PUBLIC,CB1 5XB,HAFS-14415,52000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,EAST RIDING OF YORKSHIRE PCT,PUBLIC,HU10 6DT,HAFS-14416,36500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,EAST SUSSEX DOWNS & WEALD PCT,PUBLIC,BN21 3UN,HAFS-14417,39000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,EASTERN & COASTAL KENT PCT,PUBLIC,CT1 3NG,HAFS-14418,100000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,ENFIELD PCT,PUBLIC,EN1 1NJ,HAFS-14419,30000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,GATESHEAD PCT,PUBLIC,NE11 0NB,HAFS-14420,29200000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,GLOUCESTERSHIRE PCT,PUBLIC,GL2 8DN,HAFS-14421,70000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,GREAT YARMOUTH AND WAVENY PCT,PUBLIC,NR31 0LT,HAFS-14422,28000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,GREENWICH TEACHING PCT,PUBLIC,SE10 8EX,HAFS-14423,39000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HALTON & ST HELENS PCT,PUBLIC,WA10 2AP,HAFS-14424,41000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HAMMERSMITH AND FULHAM PCT,PUBLIC,WF3 1WE,HAFS-14425,26000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HAMPSHIRE PCT,PUBLIC,WF3 1WE,HAFS-14426,152800000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HARINGEY TEACHING PCT,PUBLIC,N15 3TH,HAFS-14427,34000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HARROW PCT,PUBLIC,HA1 3EX,HAFS-14428,28000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HARTLEPOOL PCT,PUBLIC,TS7 0NJ,HAFS-14429,12100000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HASTINGS & ROTHER PCT,PUBLIC,TN40 2DZ,HAFS-14430,27000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HAVERING PCT COMMISSIONING,PUBLIC,RM12 6RS,HAFS-14431,31500000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HEART OF BIRMINGHAM TEACHING PCT,PUBLIC,B7 4WH,HAFS-14434,43000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HEREFORDSHIRE PCT,PUBLIC,HR2 9RP,HAFS-14435,20000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HERTFORDSHIRE PCT,PUBLIC,AL8 6JL,HAFS-14436,118000000,,,Other
+Department of Health,Department of Health,01/11/2012,ENDPBs Admin Revenue Grant in Aid,Public Health,HEALTH PROTECTION AGENCY (HPA),PUBLIC,SP4 0JG,HPAFUNDINGOCT12,6470000,,Health Protection Agency (HPA) Grant in Aid (GIA) Admin Revenue Drawdown costs for 2012/13.,Admin
+Department of Health,Department of Health,01/11/2012,ENDPBs Programme Revenue Grant in Aid,Public Health,HEALTH PROTECTION AGENCY (HPA),PUBLIC,SP4 0JG,HPAFUNDINGOCT12,5083000,,Health Protection Agency (HPA) Grant in Aid (GIA) Programme Revenue Drawdown costs for 2012/13.,Other
+Department of Health,Department of Health,01/11/2012,External Consultancy Fees,INFORMATICS,NHS INFORMATION CENTRE,,,15622280,70000,,,
+Department of Health,Department of Health,01/11/2012,Payroll Ded'ns N/S Curr,INFORMATICS,NHS BUSINESS SERVICES AUTHORITY,,,15664220,97987.72,,,
+Department of Health,Department of Health,01/11/2012,Publicity & advertising,External Relations,EMERY MCLAVEN ORR LTD,LARGE,BS8 1PD,121045847,143832,,EMO fees Q2,Programme
+Department of Health,Department of Health,01/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,58191.24,,,Other
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201306196,26193.96,,Managed Print Click Charges from 1 April - 30 September 2012,Admin
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201306562,-18367.58,,IMS2.1 deployment pre IMS3 - Other ALBs,Admin
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201306562,5026.98,,Maple Street Phase 2,Admin
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201306562,13340.6,,Quarry House - Phases 2 & 3,Admin
+Department of Health,Department of Health,01/11/2012,Printing,External Relations,WILLIAMS LEA LTD,LARGE,W2 6LG,DH12090006,89618.4,,Printing of Stoptober prep packs,Programme
+Department of Health,Department of Health,01/11/2012,Publicity & advertising,External Relations,WILLIAMS LEA LTD,LARGE,W2 6LG,DH12090006,293752.29,,Print and distribution of prep packs,Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Public Health,INSTITUTE OF FOOD RESEARCH LTD,SME,NR4 7UA,INV0003133,65103.5,,Programme of nutrient analysis surveys and associated work - FS136004 (C019 - main contract),Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008450,2693186.53,,CPA for DH ESR Contract - ESR Monthly Service Charge,Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008450,101802.21,,CPA for DH ESR Contract - nLMS Monthly Service Charges FY12-13,Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008450,123723.91,,CPA for DH ESR Contract - RPP Monthly Service Charges FY12-13,Programme
+Department of Health,Department of Health,01/11/2012,School Fruit and Veg Scheme,Public Health,GW Price Ltd,,,864438,53087.71,,,
+Department of Health,Department of Health,01/11/2012,School Fruit and Veg Scheme,Public Health,GW Price Ltd,,,864446,35489.76,,,
+Department of Health,Department of Health,01/11/2012,School Fruit and Veg Scheme,Public Health,GW Price Ltd,,,864444,26576.77,,,
+Department of Health,Department of Health,01/11/2012,School Fruit and Veg Scheme,Public Health,GW Price Ltd,,,864443,64142.3,,,
+Department of Health,Department of Health,01/11/2012,School Fruit and Veg Scheme,Public Health,GW Price Ltd,,,864442,41164.9,,,
+Department of Health,Department of Health,01/11/2012,School Fruit and Veg Scheme,Public Health,GW Price Ltd,,,864436,28512.62,,,
+Department of Health,Department of Health,01/11/2012,School Fruit and Veg Scheme,Public Health,GW Price Ltd,,,864450,41470.88,,,
+Department of Health,Department of Health,01/11/2012,Contr Other External,INFORMATICS,CABLE & WIRELESS UK,,,15707622,831648.77,,,
+Department of Health,Department of Health,01/11/2012,Contr Other External,INFORMATICS,CABLE & WIRELESS UK,,,15720951,769763.54,,,
+Department of Health,Department of Health,01/11/2012,Contr Other External,INFORMATICS,CABLE & WIRELESS UK,,,15720952,-769763.54,,,
+Department of Health,Department of Health,01/11/2012,Computer Hardware Purch,INFORMATICS,COMPUTACENTER UK LTD,,,15686141,24990,,,
+Department of Health,Department of Health,01/11/2012,Computer Software/License,INFORMATICS,COMPUTACENTER UK LTD,,,15686141,4410,,,
+Department of Health,Department of Health,01/11/2012,Research & development,Research & Development,NATURAL ENVIRONMENT RESEARCH COUNCIL (NERC),PUBLIC,SN2 1EU,51730,-162500,,Other PRP Research,Programme
+Department of Health,Department of Health,01/11/2012,Research & development,Research & Development,NATURAL ENVIRONMENT RESEARCH COUNCIL (NERC),PUBLIC,SN2 1EU,51730,162500,,Other PRP Research,Programme
+Department of Health,Department of Health,01/11/2012,Policy Payments,Public Health,MINISTRY OF DEFENCE (MOD),PUBLIC,L2 3YL,7283493,296034.7,,Ministry of Defence UK Personell Teritiary Care provided by Germany Health care costs,Programme
+Department of Health,Department of Health,01/11/2012,Revenue Grants to Other Bodies,Public Health,MINISTRY OF DEFENCE (MOD),PUBLIC,L2 3YL,7283493,-296034.7,,Ministry of Defence UK Personell Teritiary Care provided by Germany Health care costs,Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,90170123,-0.01,,Research Capability Programme,Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,90170123,332551.65,,NIHR Systems,Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,90170123,1995309.94,,NIHR Systems,Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,90170123,-2068387.6,,Research Capability Programme,Programme
+Department of Health,Department of Health,01/11/2012,Outsourcing Contract,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,90170123,-259473.98,,NIHR Systems,Programme
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HEALTH AND SOCIAL CARE INFORMATION CENTRE,PUBLIC,WF3 1WE,HAFS-14432,4000000,,,Other
+Department of Health,Department of Health,01/11/2012,CASH FUNDING Rev Inside RAB,CENTRAL TECHNICAL,HEALTH RESEARCH AUTHORITY,PUBLIC,SE1 6LH,HAFS-14433,1300000,,,Other
+Department of Health,Department of Health,01/11/2012,Grants to non profit institutions (CUR),Social Care,MIND,VCS,E15 4BQ,ERS-475437-65521,1000000,,2012/13 MIND - project Time to change (year 2) policy grant,Programme
+Department of Health,Department of Health,02/11/2012,Training non pay costs,Public Health,NHS Centre for Smoking Cessation and Training,PUBLIC,DT11 1RD,23,70000,,Provision of smoking cesastion and training services,Programme
+Department of Health,Department of Health,02/11/2012,Outsourcing Contract,Strategy Finance & NHS,RAMSAY HEALTH CARE UK OPERATIONS LTD TA EUXTON HALL HOSPITAL,LARGE,PR7 6DY,73,2761739.48,,Clinical services under E05 Cumbria and Lancs contract,Programme
+Department of Health,Department of Health,02/11/2012,Professional fees,NHS Finance Operations & Performance,DELOITTE LLP,LARGE,MK9 1FD,1110838146,51618,,Oxford University Hospital NHS Trust.  NHSFT Financial Assessment,Programme
+Department of Health,Department of Health,02/11/2012,Outsourcing Contract,Strategy Finance & NHS,CARE UK CLINICAL SERVICES LTD,LARGE,CO4 9QB,120000934,2073804.65,,Clinical services under E09 HIoW Hampshire Isle of Wight contract,Programme
+Department of Health,Department of Health,02/11/2012,Outsourcing Contract,Strategy Finance & NHS,CARE UK CLINICAL SERVICES LTD,LARGE,CO4 9QB,120001026,1962028.2,,Clinical services under E09 HIoW Hampshire Isle of Wight contract,Programme
+Department of Health,Department of Health,02/11/2012,Publicity & advertising,External Relations,IDS UK LTD,SME,SO32 2EJ,24035,48000,,Leaflets and posters to doctors surgeries,Programme
+Department of Health,Department of Health,02/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,2434.54,,,Other
+Department of Health,Department of Health,02/11/2012,IT minor costs non capital,External Relations,IMC (UK) LEARNING LTD,SME,TN13 1BL,IUK2012-62,34597.5,,"e-lfh, Clix 12 upgrade, balance amount",Programme
+Department of Health,Department of Health,02/11/2012,Outsourcing Contract,Strategy Finance & NHS,ALLIANCE MEDICAL LTD,LARGE,CV34 6DA,PET0146,972464.21,,Clinical services under D8N PET/CT North contract,Programme
+Department of Health,Department of Health,02/11/2012,Outsourcing Contract,Strategy Finance & NHS,UKSH SOUTH WEST LTD,LARGE,BS32 4TD,UKSHSW/239,2939376.23,,Clinical services under E01 AGW contract,Programme
+Department of Health,Department of Health,02/11/2012,External Consultancy Fees,INFORMATICS,DELOITTE LLP,,,15635755,66337,,,
+Department of Health,Department of Health,05/11/2012,Policy Payments,Public Health,NHS INSTITUTE FOR INNOVATION AND IMPROVEMENT,PUBLIC,CV4 7AL,1000002979,50000,,Payment for work undertaken by NHS Institute in line with Ministerial commitment 6th Jan 2012 for package of measures for freeing up nursing time and to improve the quality of care,Admin
+Department of Health,Department of Health,05/11/2012,ENDPBs Admin Revenue Grant in Aid,External Relations,COUNCIL FOR HEALTHCARE REGULATORY EXCELLENCE (CHRE),PUBLIC,WC2N 5HR,DH032,50000,,CHRE Voluntary Register Scheme Drawdown 2012/13,Admin
+Department of Health,Department of Health,05/11/2012,ENDPBs Admin Capital Grant in Aid,External Relations,COUNCIL FOR HEALTHCARE REGULATORY EXCELLENCE (CHRE),PUBLIC,WC2N 5HR,DH033,150000,,CHRE Capital Budget 2012/13,Other
+Department of Health,Department of Health,05/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,HAMPSHIRE HOSPITALS NHS FOUNDATION TRUST,PUBLIC,RG24 9NA,HAFS-14447,7000000,,,Other
+Department of Health,Department of Health,05/11/2012,Additions-PDC temporary,CENTRAL TECHNICAL,SOUTH LONDON HEALTHCARE NHS TRUST,PUBLIC,DA14 6LT,HAFS-14448,1950000,,,Other
+Department of Health,Department of Health,05/11/2012,Outsourcing Contract,Public Health,SAPIENT LTD,LARGE,E1 6DU,26172,68850,,EESSI software design and related services Sapient costs,Programme
+Department of Health,Department of Health,05/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,5295.6,,,Other
+Department of Health,Department of Health,05/11/2012,Staff Consultancy & Suppt,INFORMATICS,EXPERIS LTD,,,15732968,20861.76,,,
+Department of Health,Department of Health,05/11/2012,Grants to non profit institutions (CUR),Social Care,THE MOVEMENT FOR NON MOBILE CHILDREN WHIZZ KIDZ,VCS,SW1E 5EH,ERS-475613-65582,50560,,2011/028 The Movement for non-mobile children (Whizz-kidz)- Project: Improving wheelchair services - NHS Partnerships Manager,Programme
+Department of Health,Department of Health,05/11/2012,Grants to non profit institutions (CUR),Social Care,PLATFORM 51,VCS,OX1 3EJ,ERS-475615-65583,39928.57,,2010/063-  YWCA - Project: Ante natal and post natal depression early intervention project,Programme
+Department of Health,Department of Health,06/11/2012,Telephone costs,Improvement & Efficency,CABLE AND WIRELESS COMMUNICATION,LARGE,RG12 1RW,11438369,40429.08,,NHS111 special charges and installations 15/08/2012 - 19/09/2012.,Programme
+Department of Health,Department of Health,06/11/2012,Contractor/Staff Substitution,External Relations,PRICEWATERHOUSECOOPERS LLP,LARGE,E14 9SQ,1353868685,28535,,PSBC 1577 : ESR integration workstream - Pensions System Expert,Programme
+Department of Health,Department of Health,06/11/2012,Research & development,Public Health,ARISTA LABORATORIES EUROPE,SME,KT2 6HL,2911,22973.18,,Tobacco surveillance - contract variation between Department of Health  and Arista Laboratories. Second and final year of contract - 31 December 2012,Programme
+Department of Health,Department of Health,06/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,5007.41,,,Other
+Department of Health,Department of Health,06/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201306588,620951.23,,Capital: CSC FY 2012/13 Capital Budget Requirements,Programme
+Department of Health,Department of Health,06/11/2012,Addition Clearing - SW LIC,INFORMATICS,I SOFT PLC,LARGE,OX16 3JT,5272000564,579896.58,,Capital: iSoft FY 2012/13 Capital Budget Requirements,Programme
+Department of Health,Department of Health,06/11/2012,Outsourcing Contract,Public Health,2E2 UK LTD,LARGE,Berkshire,PRI052178,284500.58,,ImmForm Managed Service,Programme
+Department of Health,Department of Health,06/11/2012,Research & development,Research & Development,ECONOMIC AND SOCIAL RESEARCH COUNCIL (ESRC),PUBLIC,SN2 1UJ,ERS-475744-65641,236080,,NA,Programme
+Department of Health,Department of Health,06/11/2012,Other programme expenditure,Public Health,SKIPTON FUND LTD,VCS,SW1H 0QS,03/12/2013,1314713.5,,"Payment to Skipton Fund Ltd for the New Ex-gratia Payments available to individuals infected with Hepatitis C by NHS supplied Blood transfusion or Blood products, and their Dependants - over the Spending Review Period (2015). ",Programme
+Department of Health,Department of Health,06/11/2012,Outsourcing Contract,Improvement & Efficency,CARERS FEDERATION LTD,VCS,NG7 7LJ,1795,330416.67,,The extension of the current ICAS contract for the provision of independent advocacy by The Carers Federation,Programme
+Department of Health,Department of Health,06/11/2012,Grants to non profit institutions (CUR),Social Care,T B ALERT,VCS,NW10 3HL,ERS-475760-65662,96173.5,,"2011/045 TB Alert - Building partnership between the public sector, third sector and service users to increase awareness of tuberculosis and improve TB services project",Programme
+Department of Health,Department of Health,07/11/2012,Outsourcing Contract,External Relations,APPOINTMENTS COMMISSION,PUBLIC,M14 7LU,1220002262,36135.25,,LETB RECRUITMENT  INCURRED COSTS ,Admin
+Department of Health,Department of Health,07/11/2012,ENDPBs Admin Capital Grant in Aid,Strategy Finance & NHS,CARE QUALITY COMMISSION (CQC),PUBLIC,NE1 4PA,CQCCASHDRAWDOWNNOVEMBER12,500000,,CQC Capital payments 2012/13,Programme
+Department of Health,Department of Health,07/11/2012,ENDPBs Admin Revenue Grant in Aid,Strategy Finance & NHS,CARE QUALITY COMMISSION (CQC),PUBLIC,NE1 4PA,CQCCASHDRAWDOWNNOVEMBER12,7000000,,CQC revenue payments 2012/13,Admin
+Department of Health,Department of Health,07/11/2012,Professional fees,External Relations,UNIVERSITY HOSPITALS BRISTOL NHS FOUNDATION TRUST,PUBLIC,BS1 3NU,S0000170,416666.67,,Skills for Health-DH 12/13 contract,Programme
+Department of Health,Department of Health,07/11/2012,Secondees in invoiced costs,NHS Finance Operations & Performance,WEST ESSEX PCT,PUBLIC,CM16 6TN,WE000004557,35807.24,,Grade 7 2012-13 recharges,Admin
+Department of Health,Department of Health,07/11/2012,Secondees in invoiced costs,NHS Finance Operations & Performance,WEST ESSEX PCT,PUBLIC,CM16 6TN,WE000004620,25783.74,,Grade 7 2012-13 recharges,Admin
+Department of Health,Department of Health,07/11/2012,Research & development,Research & Development,RAINBOW MEDICAL ENGINEERING LTD,SME,SG6 1RR,174,44072.31,,Invention for Innovation,Programme
+Department of Health,Department of Health,07/11/2012,Publicity & advertising,External Relations,SIMPLY BECAUSE LTD,LARGE,SL5 9FE,1495,28607.77,,Health Visitor recruitment for Q3,Programme
+Department of Health,Department of Health,07/11/2012,Research & development,Research & Development,INFRARED INTEGRATED SYSTEMS LTD,SME,NN4 9BG,15951,102516.79,,Invention for Innovation,Programme
+Department of Health,Department of Health,07/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,4361.93,,,Other
+Department of Health,Department of Health,07/11/2012,Publicity & advertising,External Relations,PARTNERS ANDREWS ALDRIDGE LTD,SME,W1W 7RT,2956,44430,,Youth Resilience Product,Programme
+Department of Health,Department of Health,07/11/2012,Telephone costs,Improvement & Efficency,CABLE AND WIRELESS COMMUNICATION,LARGE,RG12 1RW,432108,298928.4,,NHS111 Database update. Bill reference 432108.,Programme
+Department of Health,Department of Health,07/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201307159,473805.34,,Managed Telecom Service Charge from 1 October 2012 - 31 March 2013,Admin
+Department of Health,Department of Health,07/11/2012,Professional fees,NHS Finance Operations & Performance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703822,32145,,Lincolnshire Community Healthcare Services NHS Trust.  NHSFT Financial Assessments,Programme
+Department of Health,Department of Health,07/11/2012,Professional fees,NHS Finance Operations & Performance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703824,24864,,Lincolnshire Community Healthcare Services NHS Trust.  NHSFT Financial Assessments,Programme
+Department of Health,Department of Health,07/11/2012,Professional fees,NHS Finance Operations & Performance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703826,28451,,Shrewbury and Telford Hospital NHS Trust.  NHSFT Financial Assessments,Programme
+Department of Health,Department of Health,07/11/2012,Professional fees,NHS Finance Operations & Performance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703827,26085,,Leeds Community Healthcare NHS Trust. NHSFT Financial Assessments,Programme
+Department of Health,Department of Health,07/11/2012,Professional fees,NHS Finance Operations & Performance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703828,26085,,Sussex Community NHS.  NHSFT Financial Assessments,Programme
+Department of Health,Department of Health,07/11/2012,Professional fees,NHS Finance Operations & Performance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703829,35704.8,,Isle of Wight NHS Trust. NHSFT Financial Assessments,Programme
+Department of Health,Department of Health,07/11/2012,Publicity & advertising,Social Care,SHOUT COMMUNICATIONS LTD,SME,WC2E 7BD,9064,25639.2,,Shout Communications. Production of Videos,Programme
+Department of Health,Department of Health,07/11/2012,Professional fees,NHS Finance Operations & Performance,SERCO LISTENING LTD,LARGE,RG27 9UY,90771603,33472,,"Bradford District Care Trust.  Stage 1, 2 and 3.",Programme
+Department of Health,Department of Health,07/11/2012,External Consultancy Fees,INFORMATICS,PRICEWATERHOUSECOOPERS LLP,,,15707244,99500,,,
+Department of Health,Department of Health,07/11/2012,Provisions cash payment,Public Health,PGO FOREIGN CURRENCY PAYMENTS,PUBLIC,RH10 1UH,1042523120INE117,286713.13,,,Programme
+Department of Health,Department of Health,07/11/2012,Other programme expenditure,Public Health,PGO FOREIGN CURRENCY PAYMENTS,PUBLIC,RH10 1UH,1042523120INE136,34210.81,,,Programme
+Department of Health,Department of Health,07/11/2012,Grants to non profit institutions (CUR),Public Health,LOUGHBOROUGH UNIVERSITY,PUBLIC,LE11 3TU,ERS-475898-65721,2700000,,2012/030 Loughborough University - project: National Centre for Sport and Exercise Medicine - policy grant,Programme
+Department of Health,Department of Health,07/11/2012,Outsourcing Contract,Public Health,THE TERRENCE HIGGINS TRUST,VCS,WC1X 8DP,29000098,245000,,Targeted HIV Prevention work - New Contract from 2012 onwards.,Programme
+Department of Health,Department of Health,07/11/2012,Grants to non profit institutions (CUR),Social Care,CHILD MIGRANT TRUST,VCS,NG2 7PL,ERS-475880-65701,228910,,2010/064  Child Migrant Trust - project: 2010/064 Child Migrant Trust - Project: Service and Infrastructure development grant,Programme,
+Department of Health,Department of Health,07/11/2012,Capital Grants to Other Bodies,Public Health,THE UNIVERSITY COLLEGE LONDON HOSPITALS CHARITABLE FOUNDATION,VCS,NW1 2PG,ERS-475900-65722,10000000,,2012/029 University College London Hospital - project: The national centre for sport and exercise Medicine - policy grant,Programme,
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITALS BRISTOL NHS FOUNDATION TRUST,PUBLIC,BS99 1YF,ERS-476022-65781,51440,,Applied Research Programme,Programme,
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,ALDER HEY CHILDRENS NHS FOUNDATION TRUST,PUBLIC,L12 2AP,ERS-476039-65783,49944.18,,Health Tech Assessment,Programme,
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,BRIGHTON & SUSSEX UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,BN2 3EW,ERS-476049-65789,51294,,Research for patients benefit programme,Programme,
+Department of Health,Department of Health,08/11/2012,Publicity & advertising,External Relations,M AND C SAATCHI UK LTD,LARGE,W1F 9EE,101579,242879.75,,Bladder/kidney cancer advertising production,Programme,
+Department of Health,Department of Health,08/11/2012,Publicity & advertising,External Relations,M AND C SAATCHI UK LTD,LARGE,W1F 9EE,101580,121369.68,,Breast cancer advertising production,Programme,
+Department of Health,Department of Health,08/11/2012,Outsourcing Contract,Strategy Finance & NHS,INHEALTH LTD,LARGE,HP11 1JL,119,2098536.28,,Clinical services under D01 London contract,Programme,
+Department of Health,Department of Health,08/11/2012,Outsourcing Contract,Public Health,MULTI RESOURCE MARKETING LTD,SME,LE16 9NR,124352,70041.66,,MRM - For the services provided on the Healthy Start Reimbursement Unit - October 2012 estimate,Admin,
+Department of Health,Department of Health,08/11/2012,Contractor/Staff Substitution,External Relations,DELOITTE LLP,LARGE,MK9 1FD,2410058900,98400,,Authorisation and Accountability System for Health Education England,Admin,
+Department of Health,Department of Health,08/11/2012,Outsourcing Contract,External Relations,DELOITTE LLP,LARGE,MK9 1FD,2410058900,5533.38,,DWP CIPHER - Expenses - ADD PO498218 - Authorisation and Accountability System for Health Education England,Admin,
+Department of Health,Department of Health,08/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,5649.99,,,Other,
+Department of Health,Department of Health,08/11/2012,Other Admin expenditure,Strategy Finance & NHS,ESSEX PENSION FUND,SME,CM1 1JZ,3000026379,27348.87,,GSCC 17 - pension costs,Admin,
+Department of Health,Department of Health,08/11/2012,Research & development,Public Health,ITSA LTD,SME,SS15 6TH,73941,26132.04,,"Agreement to procure national support for tobacco regulation for the remainder of 2012/13, the transition year to the new public health system",Programme,13630
+Department of Health,Department of Health,08/11/2012,Outsourcing Contract,Social Care,CORC LTD,SME,NW3 5SD,CORC/ChildIATP2012/2,33944,,Children & Young People IAPT Project Data Analysis Limited tender,Programme,
+Department of Health,Department of Health,08/11/2012,Outsourcing Contract,Social Care,CORC LTD,SME,NW3 5SD,CORC/ChildIATP2012/2,22556,,Children & Young People IAPT Project Data & Analysis. Limited tender,Programme,
+Department of Health,Department of Health,08/11/2012,Printing,Improvement & Efficency,WILLIAMS LEA LTD,LARGE,W2 6LG,DH12100010,29276.71,,Print services for the NHS 111 marketing campaign.,Programme
+Department of Health,Department of Health,08/11/2012,Grants to non profit institutions (CUR),Social Care,ST MUNGOS,VCS,W6 8BS,ERS-476019-65761,32810.56,,2010/047 St Mungos -  project - IAAS project,Programme
+Department of Health,Department of Health,08/11/2012,Outsourcing Contract,External Relations,BROADCASTING SUPPORT SERVICES,LARGE,M1 3HU,S-1300307,35022.33,,Carers Direct contact centre provision - specialist advice to support carers in the UK.,Programme
+Department of Health,Department of Health,08/11/2012,Other Admin expenditure,Strategy Finance & NHS,NATIONAL AUDIT OFFICE (NAO),PUBLIC,SW1W 9SP,4234,37000,,GSCC 20 Audit fees,Admin
+Department of Health,Department of Health,08/11/2012,Other Admin expenditure,Strategy Finance & NHS,NATIONAL AUDIT OFFICE (NAO),PUBLIC,SW1W 9SP,4268,46000,,NPSA 53 Audit fees 11/12,Admin
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE LONDON,PUBLIC,SW7 2AZ,ERS-476026-65794,48132,,Career Development Fellowship,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,TECHNOLOGY STRATEGY BOARD (TSB),PUBLIC,SN2 1FF,ERS-476027-65790,13158,,Invention for Innovation,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,TECHNOLOGY STRATEGY BOARD (TSB),PUBLIC,SN2 1FF,ERS-476027-65790,236842,,000681 - CRD 008,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,TECHNOLOGY STRATEGY BOARD (TSB),PUBLIC,SN2 1FF,ERS-476027-65790,50000,,Invention for Innovation,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-476029-65804,174554,,Invention for Innovation,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,MEDICAL RESEARCH COUNCIL MRC,PUBLIC,SN2 1FF,ERS-476032-65803,25891,,NIHR Public Health Research NETSCC,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,WARWICK UNIVERSITY OF,PUBLIC,CV4 7AL,ERS-476033-65807,29757.59,,Clinician Scientist Awards,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-476034-65792,322958,,Horizon Scanning,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,MANCHESTER UNIVERSITY OF,PUBLIC,M13 9PL,ERS-476038-65800,28584.15,,Health Tech Assessment,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,CITY UNIVERSITY,PUBLIC,EC1V 0HB,ERS-476045-65793,169557,,Other PRP Research,Programme
+Department of Health,Department of Health,08/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON UCL,PUBLIC,WC1E 6BT,ERS-476046-65797,114333,,Other PRP Research,Programme
+Department of Health,Department of Health,08/11/2012,Outsourcing Contract,Commissioning,PRIMARY CARE COMMISSIONING CIC,VCS,LS11 9AH,1793,300000,,Provision of services to support the implementation of Clinical Commissioning - CCC,Admin
+Department of Health,Department of Health,08/11/2012,Grants to non profit institutions (CUR),Social Care,THE PLACE2BE,VCS,E1 8LQ,ERS-475976-65742,39531.5,,2012-13 - ref 1765122 The Place2BE- Project: Improving outcomes for families with multiple problems by building capacity and capability to deliver early intervention non-stigmatising mental health services for children and their parents,Programme
+Department of Health,Department of Health,08/11/2012,Outsourcing Contract,Improvement & Efficency,South of England Advocacy Projects,VCS,TN34 1HL,SIN002461,291111.5,,The extension of the current ICAS contract for the provision of independent advocacy by SEAP,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,BRADFORD TEACHING HOSPITALS NHS FOUNDATION TRUST,PUBLIC,WF3 1WE,ERS-476121-65845,78137,,UKCRC Stroke Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITALS OF LEICESTER NHS TRUST,PUBLIC,LE5 4QF,ERS-476122-65862,114321,,UKCRC Stroke Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,PUBLIC,NW1 2BX,ERS-476123-65857,54396,,UKCRC Stroke Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,ST GEORGE'S HEALTHCARE NHS TRUST,PUBLIC,SW17 0QT,ERS-476124-65850,109248,,UKCRC Stroke Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,CITY HOSPITALS SUNDERLAND NHS FOUNDATION TRUST,PUBLIC,SR3 4AD,ERS-476125-65851,117880,,UKCRC Stroke Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,WESTERN SUSSEX HOSPITALS NHS TRUST,PUBLIC,PO19 6SE,ERS-476126-65871,50590,,UKCRC Primary Care Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,HALTON & ST HELENS PCT,PUBLIC,WA10 2AP,ERS-476127-65841,23750,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,HALTON & ST HELENS PCT,PUBLIC,WA10 2AP,ERS-476127-65841,39423,,UKCRC Primary Care Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,CAMBRIDGESHIRE AND PETERBOROUGH NHS FOUNDATION TRUST,PUBLIC,CB1 5EE,ERS-476128-65858,64734,,UKCRC Mental Health Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,CAMBRIDGESHIRE AND PETERBOROUGH NHS FOUNDATION TRUST,PUBLIC,CB1 5EE,ERS-476128-65858,20569,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,NG7 2UK,ERS-476129-65864,145001,,UKCRC Medicines for Childrens Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,AVON & WILTSHIRE MENTAL HEALTH PARTNERSHIP NHS TRUST,PUBLIC,BA1 3QE,ERS-476132-65860,110247,,UKCRC Alzheimers Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,SOUTHERN HEALTH NHS FOUNDATION TRUST,PUBLIC,SO40 2RZ,ERS-476134-65861,12134,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,SOUTHERN HEALTH NHS FOUNDATION TRUST,PUBLIC,SO40 2RZ,ERS-476134-65861,87892,,UKCRC Alzheimers Projects,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,LEEDS TEACHING HOSPITAL NHS TRUST,PUBLIC,LS9 7TF,ERS-476135-65855,392994,,CANCER RESEARCH NETWORKS,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE HEALTHCARE NHS TRUST,PUBLIC,W12 0HS,ERS-476136-65867,112498,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE HEALTHCARE NHS TRUST,PUBLIC,W12 0HS,ERS-476136-65867,510471,,CANCER RESEARCH NETWORKS,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,PUBLIC,S5 7AU,ERS-476137-65848,25004,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,PUBLIC,S5 7AU,ERS-476137-65848,154366,,CANCER RESEARCH NETWORKS,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,NG7 2UK,ERS-476138-65865,18570,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,NG7 2UK,ERS-476138-65865,149095,,CANCER RESEARCH NETWORKS,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NORFOLK & NORWICH UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,PUBLIC,NR4 7UY,ERS-476139-65852,98676,,CANCER RESEARCH NETWORKS,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITALS BRISTOL NHS FOUNDATION TRUST,PUBLIC,BS99 1YF,ERS-476140-65844,4524958,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITALS BRISTOL NHS FOUNDATION TRUST,PUBLIC,BS99 1YF,ERS-476140-65844,90346,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NORTH STAFFORDSHIRE PCT,PUBLIC,ST13 6HQ,ERS-476142-65842,47746,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,PUBLIC,CB2 2QQ,ERS-476143-65847,61792,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,PUBLIC,CB2 2QQ,ERS-476143-65847,1637495,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,NG7 2UK,ERS-476144-65866,46637,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,NG7 2UK,ERS-476144-65866,979882,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,PUBLIC,S5 7AU,ERS-476145-65849,39079,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,PUBLIC,S5 7AU,ERS-476145-65849,1331256,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,YORK TEACHING HOSPITAL NHS FOUNDATION TRUST,PUBLIC,YO30 4RY,ERS-476146-65846,1437895,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NORFOLK & NORWICH UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,PUBLIC,NR4 7UY,ERS-476147-65853,34738,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NORFOLK & NORWICH UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,PUBLIC,NR4 7UY,ERS-476147-65853,1293522,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITALS OF LEICESTER NHS TRUST,PUBLIC,LE5 4QF,ERS-476148-65863,37211,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITALS OF LEICESTER NHS TRUST,PUBLIC,LE5 4QF,ERS-476148-65863,1459227,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST,PUBLIC,M23 9LT,ERS-476149-65854,3446769,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST,PUBLIC,M23 9LT,ERS-476149-65854,36390,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NORTH EAST ESSEX PCT,PUBLIC,CO15 4AB,ERS-476150-65843,48732,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,NORTH EAST ESSEX PCT,PUBLIC,CO15 4AB,ERS-476150-65843,786380,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,SOUTH TEES HOSPITALS NHS FOUNDATION TRUST,PUBLIC,TS4 3BW,ERS-476151-65859,24867,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,SOUTH TEES HOSPITALS NHS FOUNDATION TRUST,PUBLIC,TS4 3BW,ERS-476151-65859,1034422,,Comprehensive Networks,Programme
+Department of Health,Department of Health,09/11/2012,Outsourcing Contract,Strategy Finance & NHS,FRESENIUS MEDICAL CARE RENAL SERVICES LTD,LARGE,NG17 2HU,1060021620,1053703.51,,Clinical services under E16 Renal contract,Programme
+Department of Health,Department of Health,09/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,5556.26,,,Other
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,840806,199174.36,,Radio Advertising Stoptober,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,841583,49605.56,,Advertising for Stoptober campaign - Search,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,843348,44404.36,,Bowel cancer campaign  regional TV.,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,843350,452658.02,,ATL Campaign September and October - Stoptober,Programme
+Department of Health,Department of Health,09/11/2012,Printing,External Relations,WILLIAMS LEA LTD,LARGE,W2 6LG,DH12100013,139256.93,,Stoptober printing of local support collateral,Programme
+Department of Health,Department of Health,09/11/2012,Printing,External Relations,WILLIAMS LEA LTD,LARGE,W2 6LG,DH12100019,48039.69,,"24 page A5 re print, fold, gather, stitch and trim to size of Off to the Best Start, one million examples off",Programme
+Department of Health,Department of Health,09/11/2012,Grants to non profit institutions (CUR),Social Care,ENGLISH COMMUNITY CARE ASSOCIATION,SME,E1 7LS,ERS-476093-65821,104500,,Dementia Pledge Stage 2,Programme
+Department of Health,Department of Health,09/11/2012,Grants to non profit institutions (CUR),Social Care,ENGLISH COMMUNITY CARE ASSOCIATION,SME,E1 7LS,ERS-476096-65822,53950,,Compact Stage 2,Programme
+Department of Health,Department of Health,09/11/2012,Service charge,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008397,501360.84,,CCN 703 - ESR Merge/Demerge requirements for TCS,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11686,10583.4,,Freud retainer fee for July - September Q2 2012 ,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11686,31750.19,,Freud Agency Fees,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11686,31750.2,,Freud retainer agency fees,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11686,31750.2,,Freud retainer agency fees,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11687,11250,,Freud retainer charges October to December ,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11687,11250,,Freud retainer charges October to December,Programme
+Department of Health,Department of Health,09/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11687,11250,,Freud retainer charges October to December ,Programme
+Department of Health,Department of Health,09/11/2012,Outsourcing Contract,Strategy Finance & NHS,THE SOCIAL INVESTMENT BUSINESS,LARGE,WC1H 8AG,TSIB074,195147.6,,FUTURE BUILDERS ENGLAND - Contract Extension Year 1 June 2012 to 31 May 2013- Management Fee Costs,Programme
+Department of Health,Department of Health,09/11/2012,Storage costs,Strategy Finance & NHS,BRISTOL LABORATORIES LTD,SME,,9005599,217359.08
+Department of Health,Department of Health,09/11/2012,Storage costs,Strategy Finance & NHS,BRISTOL LABORATORIES LTD,SME,,9005599,0.01
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002056,25682.4
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002058,28087.93
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002059,25348.81
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002064,89878.55
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002065,26746.54
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002067,27514.19
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002074,35397.65
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002076,50413.216
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002078,38048.13
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002081,60641.52
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002089,39554.332
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002091,50458.61
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002095,86087.81
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002096,42293.614
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002097,54216.28,,,
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002098,52236.82,,,
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002099,45048.35,,,
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002100,47535.006,,,
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002101,70982.437,,,
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002103,95034.19,,,
+Department of Health,Department of Health,09/11/2012,School Fruit and Veg Scheme,Public Health,"Minor, Weir & Willis Ltd",,,SFVS002105,30219.76,,,
+Department of Health,Department of Health,09/11/2012,External Consultancy Fees,INFORMATICS,ERNST & YOUNG LLP,,,15622286,214090.47,,,
+Department of Health,Department of Health,09/11/2012,External Consultancy Fees,INFORMATICS,ERNST & YOUNG LLP,,,15692643,96103.4,,,
+Department of Health,Department of Health,09/11/2012,Utilities,Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,2902699,37526.37,,"Quarry House Leeds - Accomm. Costs April 2012 - March 2013 Utilities Charge@Ł42,990.05 mthly.",Admin
+Department of Health,Department of Health,09/11/2012,Rates,Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,5025490,122621.26,,"Quarry House Leeds - Accomm. Costs April 2012 - January 2013 Business Rates@Ł119,304.32 mthly.",Admin
+Department of Health,Department of Health,09/11/2012,Rent of Land & Buildings (non-PFI operating lease),Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,5025490,522252.4,,"Quarry House Leeds - Accomm. Costs April 2012 - March 2013 Facilty Price Rent@Ł514,167.05 mthly.",Admin
+Department of Health,Department of Health,09/11/2012,Utilities,Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,5025490,2677.17,,"Quarry House Leeds - Accomm. Costs April 2012 - March 2013 Utilities Charge@Ł42,990.05 mthly.",Admin
+Department of Health,Department of Health,09/11/2012,Outsourcing Contract,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,90172941,1772690.07,,NIHR Systems,Programme
+Department of Health,Department of Health,09/11/2012,Outsourcing Contract,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,90172941,-0.01,,NIHR Systems,Programme
+Department of Health,Department of Health,09/11/2012,Outsourcing Contract,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,90172942,550165.02,,NIHR Systems,Programme
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-476152-65870,81570,,APPLIED CLINICAL DRF's,Programme,
+Department of Health,Department of Health,09/11/2012,Research & development,Research & Development,BRISTOL UNIVERSITY OF,PUBLIC,BS8 1TH,ERS-476153-65869,32425.83,,Health Tech Assessment,Programme,
+Department of Health,Department of Health,09/11/2012,Secondees in invoiced costs,Strategy Finance & NHS,MINISTRY OF JUSTICE (MOJ),PUBLIC,SW1H 9AJ,IND190HQ/7985,29159.4,,Qtr 1 2011 costs (loan in from Ministry of Justice),Admin,
+Department of Health,Department of Health,09/11/2012,Outsourcing Contract,Social Care,WORCESTER UNIVERSITY OF,PUBLIC,WR2 6AJ,INV138220,31791,,EU ALCOVE PROJECT - Quarterly installment Jul-Sept-12 (25050 BB2608),Programme,13384
+Department of Health,Department of Health,09/11/2012,Grants to non profit institutions (CUR),Social Care,SOCIAL CARE INSTITUTE FOR EXCELLENCE SCIE,VCS,SW1Y 5BH,ERS-476191-65882,625000,,2012/015 Social Care Institute for Excellence (SCIE)- Project: SCIE Core Grant-,Admin,
+Department of Health,Department of Health,10/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,195.42,,,Other,
+Department of Health,Department of Health,11/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,83.12,,,Other,
+Department of Health,Department of Health,12/11/2012,Professional fees,External Relations,NHS BUSINESS SERVICES AUTHORITY (NHSBSA),PUBLIC,NE1 6SN,5439,108796.8,,CPA 474211 Inv 5439 dated 221012 Recharge for the Valuation project September 12,Programme,
+Department of Health,Department of Health,12/11/2012,Professional fees,External Relations,NHS BUSINESS SERVICES AUTHORITY (NHSBSA),PUBLIC,NE1 6SN,5440,78487.2,,CPA 474211 Inv 5440 dated 221012 Recharge for the TRS project September 12,Programme,
+Department of Health,Department of Health,12/11/2012,Professional fees,External Relations,NHS BUSINESS SERVICES AUTHORITY (NHSBSA),PUBLIC,NE1 6SN,5442,44088,,CPA 474211  Inv 5442 dated 221012 Recharge for Hutton project Sept 2012,Admin,
+Department of Health,Department of Health,12/11/2012,ENDPBs Admin Revenue Grant in Aid,Improvement & Efficency,NHS INSTITUTE FOR INNOVATION AND IMPROVEMENT,PUBLIC,CV4 7AL,1000002983,230766.32,,Patient Feedback Challenge - programme funding for sucessful projects,Admin,
+Department of Health,Department of Health,12/11/2012,Research & development,Research & Development,LEEDS TEACHING HOSPITAL NHS TRUST,PUBLIC,LS9 7TF,389897,171407,,NCCRCD Management,Programme,
+Department of Health,Department of Health,12/11/2012,ENDPBs Admin Revenue Grant in Aid,Public Health,NHS BLOOD AND TRANSPLANT (NHSBT),PUBLIC,LS15 7TW,948362,5210000,,NHSBT - GIA allocation for 12/13,Programme,
+Department of Health,Department of Health,12/11/2012,ENDPBs Admin Revenue Grant in Aid,External Relations,COUNCIL FOR HEALTHCARE REGULATORY EXCELLENCE (CHRE),PUBLIC,WC2N 5HR,DH034,250000,,CHRE Transition Funding Drawdown 2012/13,Admin,
+Department of Health,Department of Health,12/11/2012,ENDPBs Admin Revenue Grant in Aid,External Relations,COUNCIL FOR HEALTHCARE REGULATORY EXCELLENCE (CHRE),PUBLIC,WC2N 5HR,DH035,50000,,CHRE Voluntary Register Scheme Drawdown 2012/13,Admin,
+Department of Health,Department of Health,12/11/2012,Additions FT Financing Facility Loans,CENTRAL TECHNICAL,TAUNTON AND SOMERSET NHS FOUNDATION TRUST,PUBLIC,TA1 5DA,HAFS-14449,5500000,,,Other,
+Department of Health,Department of Health,12/11/2012,Additions FT Financing Facility Loans,CENTRAL TECHNICAL,THE WALTON CENTRE NHS FOUNDATION TRUST,PUBLIC,L9 7LJ,HAFS-14450,3000000,,,Other,
+Department of Health,Department of Health,12/11/2012,Computer Software/License,INFORMATICS,INSIGHT DIRECT (UK) LTD,,,15769308,51967.82,,,,
+Department of Health,Department of Health,12/11/2012,IT minor costs non capital,External Relations,DELOITTE LLP,LARGE,MK9 1FD,2410061616,34957.78,,Reprocurement of FPAS (Foundation Programme Application System),Programme,13660
+Department of Health,Department of Health,12/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,6062.2,,,Other,
+Department of Health,Department of Health,12/11/2012,Research & development,Research & Development,LUXFER GAS CYLINDERS LTD,LARGE,NG4 2BH,3RS,26153,,Invention for Innovation,Programme,
+Department of Health,Department of Health,12/11/2012,Research & development,Research & Development,PHILIPS ELECTRONICS UK LTD,LARGE,GU2  8XH,6345007119,30101,,Invention for Innovation,Programme,
+Department of Health,Department of Health,12/11/2012,Contractor/Staff Substitution,Goverance Operations & Assurance,CAPITA BUSINESS SERVICES LTD,LARGE,SW1H 0XA,92694075,41063,,Publications programme 2012/13,Programme,
+Department of Health,Department of Health,12/11/2012,Outsourcing Contract,Public Health,LIVERPOOL JOHN MOORES UNIVERSITY,PUBLIC,L3 2AJ,503232,150000,,NWPHO core funding 1 October 2012 to 31 March 2013,Admin,
+Department of Health,Department of Health,12/11/2012,Outsourcing Contract,Public Health,LIVERPOOL JOHN MOORES UNIVERSITY,PUBLIC,L3 2AJ,503232,17500,,NWPHO non-core funding - Alcohol Intelligence - 1 October 2012 to 31 March 2013,Admin,
+Department of Health,Department of Health,12/11/2012,Conferences & seminars,Public Health,THE ROYAL COLLEGE OF NURSING OF THE UK,PUBLIC,W1G 0RN,AREX/00001338,48000,,RCN to set up and run 10 to 15 professional careers events to be completed between September 2012 to January 2013,Programme,
+Department of Health,Department of Health,13/11/2012,Outsourcing Contract,Improvement & Efficency,NHS INSTITUTE FOR INNOVATION AND IMPROVEMENT,PUBLIC,CV4 7AL,1000002989,34968,,Patient Feedback Challange Phase 3,Admin,
+Department of Health,Department of Health,13/11/2012,Outsourcing Contract,Improvement & Efficency,NHS INSTITUTE FOR INNOVATION AND IMPROVEMENT,PUBLIC,CV4 7AL,1000002989,115496,,Patient Feedback Challenge Phase 1,Admin,
+Department of Health,Department of Health,13/11/2012,Outsourcing Contract,Improvement & Efficency,NHS INSTITUTE FOR INNOVATION AND IMPROVEMENT,PUBLIC,CV4 7AL,1000002989,0,,Patient Feedback Challenge Phase 4,Admin,
+Department of Health,Department of Health,13/11/2012,Other programme expenditure,Public Health,NHS DIRECT NHS TRUST,PUBLIC,MK14 6DY,701427,307018.79,,NHS Direct recharge in 2012/13 for British Telecom NPFS dormancy and contract management costs (existing 5 yr contract),Programme,
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,LEEDS TEACHING HOSPITAL NHS TRUST,PUBLIC,LS9 7TF,ERS-476385-65908,321519,,Biomedical Units,Programme,
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,OX3 9DX,ERS-476394-65914,20294,,Translational Research Partnerships,Programme,
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,OX3 9DX,ERS-476394-65914,20294,,Translational Research Partnerships,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,PUBLIC,NW1 2BX,ERS-476402-65910,10806,,HTA commissioned workstream,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,PUBLIC,NW1 2BX,ERS-476402-65910,20294,,Translational Research Partnerships,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,PUBLIC,NW1 2BX,ERS-476402-65910,20294,,Translational Research Partnerships,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476456-65972,19919,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476456-65972,124303,,UKCRC Diabetes Projects,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476458-65973,68000,,Support for HITF/HTCS,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,138746,,CANCER RESEARCH NETWORKS,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,27721,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,354719,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,327869,,Biomedical Units,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,61158,,Invention for Innovation,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,104770,,Applied Research Programme,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,4712601,,Comprehensive Networks,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,150636,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,32061,,Research for patients benefit programme,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,19886,,Applied Research Programme,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,18304,,Research for patients benefit programme,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,79867,,Applied Research Programme,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,20294,,Translational Research Partnerships,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,50000,,Experimental Cancer Medical Centres,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-476460-65974,68000,,Support for HITF/HTCS,Programme
+Department of Health,Department of Health,13/11/2012,Policy Payments,NHS Medical,POOLE HOSPITAL NHS FOUNDATION TRUST,PUBLIC,BH15 2JB,PO132447,103038,,2012/13 lead organisation funding for palliative care pilot site in accordance with the MOU signed on 23/8/12,Programme
+Department of Health,Department of Health,13/11/2012,Mobile Phones,INFORMATICS,VODAFONE CORPORATE LTD,,,15738799,34168.37,,,
+Department of Health,Department of Health,13/11/2012,Legal / Prof Fees,INFORMATICS,MILBANK TWEED HADLEY & MCCLOY LLP,,,15772274,49747.5,,,
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,External Relations,PROFERO LONDON LTD,SME,NW1 0DU,1101000895,26038,,"Start4Life May ad campaign - Design, build and supply 4x4 online banner displays.",Programme
+Department of Health,Department of Health,13/11/2012,Contractor/Staff Substitution,Strategy Finance & NHS,DELOITTE LLP,LARGE,MK9 1FD,1110859936,29070,,Finance Imporovement Programme Support Call-off Contract,Admin
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,External Relations,IPSOS MORI UK LTD,LARGE,HA1 1PT,12001962,44200,,Public pre and post tracking to evaluate the Dementia phase 2 campaign,Programme
+Department of Health,Department of Health,13/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,9823.99,,,Other
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,Improvement & Efficency,JIGSAW RESEARCH LTD,SME,W1T 3LA,4791,39345,,Marketing campaign evaluation research to be conducted in the live NHS 111 areas.,Programme
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,842616,267318.7,,Advertising for Stoptober campaign - national press,Programme
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,845559,21279.57,,NHS 111 Hertfordshire OOH Oct/Nov 2012,Programme
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,845559,0.8,,NHS 111 Hertfordshire OOH Oct/Nov 2012,Programme
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,845570,105721.22,,Dementia magazine spend,Programme
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,845573,84570.61,,Regional bowel cancer campaign - press advertising,Programme
+Department of Health,Department of Health,13/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,845595,219811.12,,C4L alcohol - media partnership,Programme
+Department of Health,Department of Health,13/11/2012,Professional fees,NHS Finance Operations & Performance,ERNST AND YOUNG LLP,LARGE,SE1 2AF,GB10300008145,44530,,Mersey Care NHS Trust.  FT Financial Assessments,Programme
+Department of Health,Department of Health,13/11/2012,Outsourcing Contract,Public Health,HERTFORDSHIRE UNIVERSITY OF,PUBLIC,AL10 9AB,45930,29219.6,,The WHO Health Behaviour in School Aged Children (HBSC) Study is an international study that focuses on the health behaviour and social context of young people,Programme
+Department of Health,Department of Health,13/11/2012,Raw materials & consumables,Social Care,KINGSTON UPON THAMES COUNCIL ROYAL BOROUGH OF,PUBLIC,KT5 9AL,33136620,34577,,"Royal Borough of Kingston Upon Thames - Invoice No: 04036788, Provision of Veterans Prosthectic Project Management",Programme
+Department of Health,Department of Health,13/11/2012,Raw materials & consumables,Social Care,KINGSTON UPON THAMES COUNCIL ROYAL BOROUGH OF,PUBLIC,KT5 9AL,33136639,500000,,Royal Borough of Kingston Upon Thames - Invoice No 33136639 Provision of Prosthetics Limbs and Equipment,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,ABERDEEN UNIVERSITY OF,PUBLIC,AB24 3FX,ERS-476371-65920,5916,,Health Tech Assessment,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,ABERDEEN UNIVERSITY OF,PUBLIC,AB24 3FX,ERS-476371-65920,33456,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-476373-65922,13546,,Health Tech Assessment,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-476373-65922,11250,,Health Tech Assessment,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-476373-65922,9691,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-476373-65922,20310,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-476373-65922,2642,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BRISTOL UNIVERSITY OF,PUBLIC,BS8 1TH,ERS-476374-65923,12447,,Large Scale Clinical Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,BRISTOL UNIVERSITY OF,PUBLIC,BS8 1TH,ERS-476374-65923,64142,,Prostrate Cancer,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY OF,PUBLIC,CB2 1TN,ERS-476376-65924,52725,,Prostrate Cancer,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY OF,PUBLIC,CB2 1TN,ERS-476376-65924,24612,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY OF,PUBLIC,CB2 1TN,ERS-476376-65924,35057,,HTA commissioned workstream,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,DUNDEE UNIVERSITY OF,PUBLIC,DD1 4HN,ERS-476378-65925,34308,,HTA - Public Health (Disease Prevention),Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE LONDON,PUBLIC,SW7 2AZ,ERS-476383-65928,3328,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE LONDON,PUBLIC,SW7 2AZ,ERS-476383-65928,26283,,HTA Topic Areas & Genetics Technology,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE LONDON,PUBLIC,SW7 2AZ,ERS-476383-65928,4971.72,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE LONDON,PUBLIC,SW7 2AZ,ERS-476383-65928,508100,,EME NETSCC,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,ERS-476386-65929,159599,,Consumers Infrastructure,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,ERS-476386-65929,36623,,HTA commissioned workstream,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,ERS-476386-65929,5357,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-476393-65933,18191,,Health Tech Assessment,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-476393-65933,21926,,Health Tech Assessment,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-476393-65933,68207,,Prostrate Cancer,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-476393-65933,14126,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,QUEEN MARY AND WESTFIELD COLLEGE,PUBLIC,E1 2AX,ERS-476395-65934,24327,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,QUEEN MARY AND WESTFIELD COLLEGE,PUBLIC,E1 2AX,ERS-476395-65934,20976,,HTA Topic Areas & Genetics Technology,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON UCL,PUBLIC,WC1E 6BT,ERS-476403-65930,32665,,HTA - Public Health (Disease Prevention),Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,WARWICK UNIVERSITY OF,PUBLIC,CV4 7AL,ERS-476412-65938,38407,,HTA Topic Areas & Genetics Technology,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,WARWICK UNIVERSITY OF,PUBLIC,CV4 7AL,ERS-476412-65938,26028,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,YORK UNIVERSITY OF,PUBLIC,YO10 5DD,ERS-476414-65939,27032,,HTA - Medical Device Assessment,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,YORK UNIVERSITY OF,PUBLIC,YO10 5DD,ERS-476414-65939,1650.3,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,EDINBURGH UNIVERSITY OF,PUBLIC,EH1 1HT,ERS-476463-65965,7500,,vCJD research,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,EDINBURGH UNIVERSITY OF,PUBLIC,EH1 1HT,ERS-476463-65965,559500,,vCJD research,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,MEDICAL RESEARCH COUNCIL MRC,PUBLIC,SN2 1FF,ERS-476467-65968,105536,,UKCRC Translational Infection Research Initiavtive,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,MEDICAL RESEARCH COUNCIL MRC,PUBLIC,SN2 1FF,ERS-476467-65968,87387,,UKCRC Translational Infection Research Initiavtive,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON UCL,PUBLIC,WC1E 6BT,ERS-476470-65966,219251.58,,vCJD research,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON UCL,PUBLIC,WC1E 6BT,ERS-476471-65967,98972.19,,vCJD research,Programme
+Department of Health,Department of Health,13/11/2012,Outsourcing Contract,Public Health,FAMILY PLANNING ASSOCIATION,VCS,EC1Y 8QU,584940,84483.6,,Specialist sexual health information services - New contract from 2012/13,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,ICNARC VOLUNTARY ORGANISATION,VCS,WC1V 6AZ,ERS-476381-65927,30663,,Health Tech Assessment,Programme
+Department of Health,Department of Health,13/11/2012,Grants to non profit institutions (CUR),Social Care,BRITISH INSTITUTE OF HUMAN RIGHTS,VCS,WC2B 4LL,ERS-476446-65941,25167.18,,2010/017 The British Institute of Human Rights - project: Human rights and third sector health and social care,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,CANCER RESEARCH UK,VCS,WC2A 3PX,ERS-476465-65970,72838.5,,NHS Cancer Research,Programme
+Department of Health,Department of Health,13/11/2012,Research & development,Research & Development,CANCER RESEARCH UK,VCS,WC2A 3PX,ERS-476466-65971,60000,,NHS Cancer Research,Programme
+Department of Health,Department of Health,13/11/2012,Outsourcing Contract,External Relations,BROOK ADVISORY CENTRES,VCS,EC1Y 8QU,SI10233,57000,,Brook contact centre provision - specialist sexual health advice.,Programme
+Department of Health,Department of Health,14/11/2012,Outsourcing Contract,External Relations,NHS EMPLOYERS LTD,SME,SW1E 5DD,10435,760827,,NHS Employers Core contract,Programme
+Department of Health,Department of Health,14/11/2012,Outsourcing Contract,External Relations,NHS EMPLOYERS LTD,SME,SW1E 5DD,10435,0,,QIPP - Reducing Sickness  in the NHS - CV18,Programme
+Department of Health,Department of Health,14/11/2012,Outsourcing Contract,External Relations,NHS EMPLOYERS LTD,SME,SW1E 5DD,10436,236000,,QIPP - NHSE work on Agency Reduction,Programme
+Department of Health,Department of Health,14/11/2012,Outsourcing Contract,External Relations,NHS EMPLOYERS LTD,SME,SW1E 5DD,10437,427130,,QIPP - Reducing Sickness  in the NHS - CV18,Programme
+Department of Health,Department of Health,14/11/2012,Outsourcing Contract,External Relations,NHS EMPLOYERS LTD,SME,SW1E 5DD,10437,0,,NHS Employers Core contract,Programme
+Department of Health,Department of Health,14/11/2012,Professional fees,NHS Finance Operations & Performance,DELOITTE LLP,LARGE,MK9 1FD,1110860299,31264,,"West Midlands Ambulance Service NHS Trust.  HDD / WCR Stage 1, 2, & 3.",Programme
+Department of Health,Department of Health,14/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,13304.12,,,Other
+Department of Health,Department of Health,14/11/2012,Printing,External Relations,PROMOTIONAL LOGISTICS LTD,SME,CO10 1RE,IN316760,136356.81,,Estimated monthly call off charges for storage and distribution for October 2012,Admin
+Department of Health,Department of Health,14/11/2012,Raw materials & consumables,Strategy Finance & NHS,RANBAXY UK LTD,LARGE,,37400079,187418.88,,,
+Department of Health,Department of Health,14/11/2012,Raw materials & consumables,Strategy Finance & NHS,RANBAXY UK LTD,LARGE,,37409761,39012.92,,,
+Department of Health,Department of Health,14/11/2012,Raw materials & consumables,Strategy Finance & NHS,RANBAXY UK LTD,LARGE,,37412858,62399.52,,,
+Department of Health,Department of Health,14/11/2012,Raw materials & consumables,Strategy Finance & NHS,RANBAXY UK LTD,LARGE,,37413078,56181.6,,,
+Department of Health,Department of Health,14/11/2012,Raw materials & consumables,Strategy Finance & NHS,RANBAXY UK LTD,LARGE,,37414984,133607.76,,,
+Department of Health,Department of Health,14/11/2012,Raw materials & consumables,Strategy Finance & NHS,RANBAXY UK LTD,LARGE,,37415058,131592.24,,,
+Department of Health,Department of Health,14/11/2012,Publicity & advertising,External Relations,CREATIVE CHOICE CIC,VCS,SW1H 0DJ,282,39008.88,,Radio Production - Stoptober,Programme
+Department of Health,Department of Health,14/11/2012,Publicity & advertising,External Relations,CREATIVE CHOICE CIC,VCS,SW1H 0DJ,282,22695.84,,Press Production - Stoptober,Programme
+Department of Health,Department of Health,14/11/2012,Publicity & advertising,External Relations,CREATIVE CHOICE CIC,VCS,SW1H 0DJ,282,76717.2,,Dare Fees,Programme
+Department of Health,Department of Health,15/11/2012,Legal / Prof Fees,INFORMATICS,NHS BUSINESS SERVICES AUTHORITY,,,15680054,155456,,,
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,ALDER HEY CHILDRENS NHS FOUNDATION TRUST,PUBLIC,L12 2AP,ERS-476580-65981,84848,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,BRIGHTON & SUSSEX UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,BN2 3EW,ERS-476582-65998,127273,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,PUBLIC,CB2 2QQ,ERS-476583-65983,460262,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,PUBLIC,M13 0JR,ERS-476584-65997,233333,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,GUYS AND ST THOMAS NHS FOUNDATION TRUST,PUBLIC,SE1 9RT,ERS-476585-65987,239410,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE HEALTHCARE NHS TRUST,PUBLIC,W12 0HS,ERS-476586-65999,461829,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,MOORFIELDS EYE HOSPITAL NHS FOUNDATION TRUST,PUBLIC,EC1V 2PD,ERS-476588-65989,225516,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,OX3 9DX,ERS-476589-65995,158594,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,ROYAL DEVON AND EXETER NHS FOUNDATION TRUST,PUBLIC,EX2 5DW,ERS-476590-65984,243443,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,PUBLIC,S5 7AU,ERS-476592-65986,117639,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,SOUTH LONDON AND MAUDSLEY NHS FOUNDATION TRUST,PUBLIC,BR3 3BX,ERS-476593-65996,201019,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,THE CHRISTIE HOSPITAL NHS FOUNDATION TRUST,PUBLIC,M20 4BX,ERS-476594-65982,190909,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,THE NEWCASTLE UPON TYNE NHS FOUNDATION TRUST,PUBLIC,NE7 7DN,ERS-476596-65994,169697,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,THE ROYAL MARSDEN NHS FOUNDATION TRUST,PUBLIC,SM2  5PT,ERS-476597-65990,119302,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,PUBLIC,NW1 2BX,ERS-476598-65993,233333,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITAL BIRMINGHAM NHS FOUNDATION TRUST,PUBLIC,B15 2PR,ERS-476599-65992,524825,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST,PUBLIC,M23 9LT,ERS-476600-65988,106061,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITAL SOUTHAMPTON NHS FOUNDATION TRUST,PUBLIC,SO52 9AB,ERS-476601-65985,392177,,CRF's CRII,Programme
+Department of Health,Department of Health,15/11/2012,ENDPBs Admin Revenue Grant in Aid,Strategy Finance & NHS,MONITOR INDEPENDENT REGULATOR OF NHS FOUNDATION TRUSTS,PUBLIC,SW1Y 4RB,MONITOR FUNDING FOR NOVEMBER2012,2258000,,Monitor Transition funding for 2012-2013,Programme
+Department of Health,Department of Health,15/11/2012,ENDPBs Admin Revenue Grant in Aid,Strategy Finance & NHS,MONITOR INDEPENDENT REGULATOR OF NHS FOUNDATION TRUSTS,PUBLIC,SW1Y 4RB,MONITOR FUNDING FOR NOVEMBER2012,2618000,,Monitor BAU funding for 2012-2013.,Admin
+Department of Health,Department of Health,15/11/2012,Research & development,Research & Development,ASHRIDGE CONSULTING LTD,SME,HP4 1NS,14596,123590.28,,NIHR Faculty Management,Programme
+Department of Health,Department of Health,15/11/2012,Outsourcing Contract,External Relations,TNS UK LTD,LARGE,W5 1UA,260112767,83420,,Bowel cancer tracking research phase 2,Programme
+Department of Health,Department of Health,15/11/2012,Expense clearing GPC (ST),CENTRAL TECHNICAL,BARCLAYCARD BUSINESS,SME,TS17 6YG,2939001-19-NOV-12,3634.48,,,Other
+Department of Health,Department of Health,15/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11735,21787,,C4L alcohol - PR activity for Feb 13,Programme
+Department of Health,Department of Health,15/11/2012,Outsourcing Contract,External Relations,CARDIFF UNIVERSITY,PUBLIC,CF24 0DE,1043436,62250,,Provision of services to meet the MoU to deliver the activity of the UKFPO.,Programme
+Department of Health,Department of Health,15/11/2012,Outsourcing Contract,Strategy Finance & NHS,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,CURTHP0/20091063,29167,,Funding for 12/13 for the Centre for Health Economics,Programme
+Department of Health,Department of Health,16/11/2012,Policy Payments,NHS Medical,UNIVERSITY HOSPITAL SOUTHAMPTON NHS FOUNDATION TRUST,PUBLIC,WF3 1we,7213966,99995,,2012/13 lead organisation funding for palliative care pilot site in accordance with the MOU signed on 23/8/12,Programme
+Department of Health,Department of Health,16/11/2012,Research & development,Research & Development,LGC LTD,LARGE,TW11 0LY,50191345,760519,,Central Commissioning Function,Programme
+Department of Health,Department of Health,16/11/2012,Contractor/Staff Substitution,Goverance Operations & Assurance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703255,28739.56,,DH Internal Audit review work,Admin
+Department of Health,Department of Health,16/11/2012,Contractor/Staff Substitution,Goverance Operations & Assurance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703255,22868.3,,DH ALBs Audit Review work,Admin
+Department of Health,Department of Health,16/11/2012,Contractor/Staff Substitution,Goverance Operations & Assurance,GRANT THORNTON LTD,LARGE,NW1 2EP,6703255,2589.64,,DH Internal Audit review work,Admin
+Department of Health,Department of Health,16/11/2012,Printing Costs,INFORMATICS,DST OUTPUT (NOTTINGHAM) LTD,,,15746346,67859.21,,,
+Department of Health,Department of Health,16/11/2012,Grants to non profit institutions (CUR),Social Care,NEUROLOGICAL COMMISSIONING SUPPORT LTD,VCS,NW2 6ND,ERS-476703-66001,49500,,2011-12 IESD Payment - Providing Better Value Project - 3 Year,Programme
+Department of Health,Department of Health,19/11/2012,ENDPBs Admin Revenue Grant in Aid,Public Health,MEDICINES AND HEALTHCARE PRODUCTS REGULATORY AGENCY (MHRA),PUBLIC,SW8 5NQ,1417187,900000,,MHRA 2012/13 revenue allocation,Other
+Department of Health,Department of Health,19/11/2012,Other programme expenditure,Public Health,NHS DIRECT NHS TRUST,PUBLIC,MK14 6DY,701405,1842112.74,,NHS Direct recharge in 2012/13 for British Telecom NPFS dormancy and contract management costs (existing 5 yr contract),Programme
+Department of Health,Department of Health,19/11/2012,Other programme expenditure,Public Health,NHS DIRECT NHS TRUST,PUBLIC,MK14 6DY,701406,307018.79,,NHS Direct recharge in 2012/13 for British Telecom NPFS dormancy and contract management costs (existing 5 yr contract),Programme
+Department of Health,Department of Health,19/11/2012,Additions FT Financing Facility Loans,CENTRAL TECHNICAL,OXFORD HEALTH NHS FOUNDATION TRUST,PUBLIC,OX4 4XN,HAFS-14451,5000000,,,Other
+Department of Health,Department of Health,19/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,CROYDON HEALTH SERVICES NHS TRUST,PUBLIC,CR7 7YE,HAFS-14452,408000,,,Other
+Department of Health,Department of Health,19/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,MID CHESHIRE HOSPITALS NHS FOUNDATION TRUST,PUBLIC,CW1 4QJ,HAFS-14453,1000000,,,Other
+Department of Health,Department of Health,19/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,NORTH WEST LONDON HOSPITALS NHS TRUST,PUBLIC,HA1 3UJ,HAFS-14454,5000000,,,Other
+Department of Health,Department of Health,19/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST,PUBLIC,UB8 3NN,HAFS-14455,551000,,,Other
+Department of Health,Department of Health,19/11/2012,Addition Clearing - SW LIC,INFORMATICS,MICROTEST LTD,SME,PL31 1EX,78466,248388.26,,Capital: Microtest FY 2012/13 Capital Budget Requirements,Programme
+Department of Health,Department of Health,19/11/2012,Utilities,Goverance Operations & Assurance,EDF ENERGY PLC,LARGE,PL3 5XQ,0007/01/11/2012,25051.8,,Wellington House - EDF Electricity Charges for 2012  2013,Admin
+Department of Health,Department of Health,19/11/2012,Utilities,Goverance Operations & Assurance,EDF ENERGY PLC,LARGE,PL3 5XQ,0007SKH-01NOV12,35568.65,,Skipton House - EDF Electricity Charges for 2012 - 2013,Admin
+Department of Health,Department of Health,19/11/2012,Publicity & advertising,External Relations,M AND C SAATCHI UK LTD,LARGE,W1F 9EE,101831,41336,,Games4Life - Design/Artwork,Programme
+Department of Health,Department of Health,19/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,308254,465223.95,,Revenue: Spine FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,19/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201308740,28300.77,,Managed Print Click charges from 1 October 2012 - 31 March 2013,Admin
+Department of Health,Department of Health,19/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201308741,28300.77,,Managed Print Click charges from 1 October 2012 - 31 March 2013,Admin
+Department of Health,Department of Health,19/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201308742,0,,Managed Print Click charges from 1 October 2012 - 31 March 2013,Admin
+Department of Health,Department of Health,19/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201308742,22115.93,,Quarter 2 True Up Charge Jul - Sep 2012 remaining balance.,Admin
+Department of Health,Department of Health,19/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201308754,26038.89,,IMS2.1 deployment pre IMS3 - Other ALBs,Admin
+Department of Health,Department of Health,19/11/2012,Professional fees,NHS Finance Operations & Performance,KPMG LLP,LARGE,WD17 1DE,5500608700,47760,,"East of England Ambulance Service NHS Trust.  HDD / WCR stage 1, 2 & 3.",Programme
+Department of Health,Department of Health,19/11/2012,Hotels Accomodation (UK),Goverance Operations & Assurance,EXPOTEL HOTEL RESERVATIONS LTD,LARGE,SK4 2RZ,833988,69459.79,,DH - Bulk Conference / Seminar Bookings for period 01/04/2012 to 31/03/13,Admin
+Department of Health,Department of Health,19/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,851200,85740.96,,Channel Flip media partnership,Programme
+Department of Health,Department of Health,19/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,851200,1.87,,Channel Flip media partnership,Programme
+Department of Health,Department of Health,19/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,851237,60131.27,,Dementia press spend,Programme
+Department of Health,Department of Health,19/11/2012,Printing,Goverance Operations & Assurance,XEROX BUSINESS SERVICES,LARGE,UB8 1HS,900096877,29171.89,,Xerox - Reprographics - Copy Charges Fee 2012 - 2013,Admin
+Department of Health,Department of Health,19/11/2012,Professional fees,Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,2903646,459957.24,,Block buy agreement with DWP for legal services 2012/13,Admin
+Department of Health,Department of Health,19/11/2012,Professional fees,Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,2903646,0,,Law charges payable for  to DWP for external legal Counsel 2012/13,Admin
+Department of Health,Department of Health,19/11/2012,Professional fees,Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,2903646,178251.8,,Legal services for transition activity 2012/13,Admin
+Department of Health,Department of Health,19/11/2012,Capital Grants to Other Bodies,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/018,13413.42,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HCPC (Capital),Programme
+Department of Health,Department of Health,19/11/2012,Policy Payments,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/018,17941.92,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HPC.,Programme
+Department of Health,Department of Health,19/11/2012,Policy Payments,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/018,182166.33,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HCPC (Revenue),Admin
+Department of Health,Department of Health,19/11/2012,Policy Payments,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/020,34031.95,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HCPC (Revenue),Admin
+Department of Health,Department of Health,19/11/2012,Policy Payments,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/021,42777.11,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HCPC (Revenue),Admin
+Department of Health,Department of Health,19/11/2012,Policy Payments,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/023,42186.98,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HCPC (Revenue),Admin
+Department of Health,Department of Health,19/11/2012,Policy Payments,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/024,59122.82,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HCPC (Revenue),Admin
+Department of Health,Department of Health,19/11/2012,Policy Payments,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/025,77531.4,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HCPC (Revenue),Admin
+Department of Health,Department of Health,19/11/2012,Policy Payments,External Relations,THE HEALTH AND CARE PROFESSIONS COUNCIL,PUBLIC,SE11 4BU,HPC/026,31116.5,,Reimbursement for expenses incurred through facilitating the transfer of the regulatory function of the GSCC to the HCPC (Revenue),Admin
+Department of Health,Department of Health,19/11/2012,Grants to non profit institutions (CUR),Social Care,CRISIS DEPOSIT ACCOUNT,VCS,E1 6LT,ERS-476822-66021,50200.5,,"IESD award ref 2010/024 Crisis project ""Improving Access to Mental Health Provision for Single Homeless People""",Programme
+Department of Health,Department of Health,19/11/2012,Grants to non profit institutions (CUR),Social Care,THE TERRENCE HIGGINS TRUST,VCS,WC1X 8DP,ERS-476838-66041,37500,,2010/049 Terrence Higgins Trust - Project - National HIV long term condition management programme,Programme
+Department of Health,Department of Health,20/11/2012,Policy Payments,NHS Medical,ROYAL FREE LONDON NHS FOUNDATION TRUST,PUBLIC,NW3 2QG,1317207,150000,,CSO funding for the IQIPS Accreditation Programme 12-13. RFH-MRC,Programme
+Department of Health,Department of Health,20/11/2012,Outsourcing Contract,Public Health,BIRMINGHAM WOMENS NHS FOUNDATION TRUST,PUBLIC,B29 6JS,OP/I122340,405000,,WMPHO Core Funding - 1 April 2012 to 31 March 2013,Admin
+Department of Health,Department of Health,20/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259125RI,35372.83,,"CQC Buildings - Fixed Costs from Apr 2012 - Mar 2013 - Building Maintenance @Ł31,875.08 mthly",Admin
+Department of Health,Department of Health,20/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259127RI,45752.5,,"Maple Street - Fixed Building Maintenance Costs from 01/04/12 - 31/03/2013 @13,107.33 mthly",Admin
+Department of Health,Department of Health,20/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259128RI,94450.37,,"Skipton House - Fixed Costs from Apr 2012 - Mar 2013 - Building Maintenance @Ł36,259.76mthly",Admin
+Department of Health,Department of Health,20/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259129RI,125992.01,,"Richmond House - Fixed Costs from Apr 2012 - Mar 2013 - Building Maintenance@Ł35,756.01 mthly",Admin
+Department of Health,Department of Health,20/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259130RI,75518.02,,"Wellington House - Fixed Costs from Apr 2012 - Mar 2013 - Building Maintenance@Ł26,814.04 mthly.",Admin
+Department of Health,Department of Health,20/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259132RI,28508.25,,"Accommodation Central - Fixed Costs from Apr 2012 - Mar 2013 - Building Maintenance @Ł50,048.95 mthly",Admin
+Department of Health,Department of Health,20/11/2012,Facilities management: contract,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259132RI,26925.89,,"Accommodation Central - FM Fixed Costs from Apr 2012 - Mar 2013 @Ł5,385.19 mthly",Admin
+Department of Health,Department of Health,20/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259209RI,64355.91,,DH - FM Variable Operational Works 2012 - 2013,Admin
+Department of Health,Department of Health,20/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,EMCOR FACILITIES SERVICES LTD,LARGE,SO53 3YE,00259210RI,22695,,CQC Buildings - FM Variable Operational Works 2012  2013 (Re:DH - PO.494329),Admin
+Department of Health,Department of Health,20/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201306538,90378.37,,Prisons -  Core Contract costs for Offender Health. April 2012 to March 2013  ,Programme
+Department of Health,Department of Health,20/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201307135,28267.79,,Revenue: PACS NWWM cluster store increment charges to be paid for between April 2012 and March 2013,Programme
+Department of Health,Department of Health,20/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,851678,54268.48,,C4L Alcohol Search and Display,Programme
+Department of Health,Department of Health,20/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,851679,59036.29,,ATL Campaign September and October - Stoptober,Programme
+Department of Health,Department of Health,20/11/2012,Publicity & advertising,External Relations,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11760,33953,,Youth campaign key messaging,Programme
+Department of Health,Department of Health,20/11/2012,Grants to non profit institutions (CUR),Social Care,UNIVERSITY COLLEGE LONDON UCL,PUBLIC,WC1E 6BT,ERS-476918-66081,340000,,2012/056 University College LONDON UCL - project - DH Social determinants programme - policy grant,Programme
+Department of Health,Department of Health,21/11/2012,Policy Payments,NHS Medical,GREAT ORMOND STREET HOSPITAL FOR CHILDREN NHS FOUNDATION TRUST,PUBLIC,WC1N 3JH,X0094557,50000,,2012/13 lead organisation funding for palliative care pilot site in accordance with the MOU signed on 29/8/12,Programme
+Department of Health,Department of Health,21/11/2012,SYS VAT Non Recoverable,INFORMATICS,MCKESSON INFORMATION SOLUTIONS UK LTD,,,15819075,-0.01,,,
+Department of Health,Department of Health,21/11/2012,Contr Other External,INFORMATICS,MCKESSON INFORMATION SOLUTIONS UK LTD,,,15819075,515364.35,,,
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,BT PLC,LARGE,B3 1JX,2911140547,24840.68,,BT services - inbound calls to the current contact centre real estate PP 5.14 ,Programme
+Department of Health,Department of Health,21/11/2012,Publicity & advertising,External Relations,EMERY MCLAVEN ORR LTD,LARGE,BS8 1PD,121046351,100000,,EMO Q3 regional marketing fees,Programme
+Department of Health,Department of Health,21/11/2012,Other Admin expenditure,Strategy Finance & NHS,TSUNAMI AXIS LTD,SME,WC1E 7HJ,13602,32240.68,,GSCC 48-9 removals,Admin
+Department of Health,Department of Health,21/11/2012,Publicity & advertising,External Relations,IDS UK LTD,SME,SO32 2EJ,24060,52400,,Distribution of S4L Healthy Habits leaflet and poster to GP surgeries over 6 months. Contact: Paul Pitman. ERG: M00368,Programme
+Department of Health,Department of Health,21/11/2012,Contractor/Staff Substitution,Strategy Finance & NHS,NORTHGATE UK LTD,LARGE,HP2 4NW,91236445,135076.55,,Proms Lot1 - Data collection for Proms - CCN / Add to PO for 2012/13 ,Programme
+Department of Health,Department of Health,21/11/2012,Addition Clearing - IT,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008539,248358.28,,CPA for ESR Contract - FY12/13 Hardware Drawdown Requests  See DH/McKesson HR and Payroll Contract 2222 Deed of mendment 2005 Schedule G1.4A,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008539,10820.72,,CPA for ESR Contract - FY12/13 Hardware Drawdown Requests  See DH/McKesson HR and Payroll Contract 2222 Deed of mendment 2005 Schedule G1.4A,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008540,66587.96,,"CPA for DH ESR Contract - CCN 126 NHS Payslip Production, Printing and Courier Charges FY12-13",Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008541,2705224.51,,CPA for DH ESR Contract - ESR Monthly Service Charge,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008541,101802.21,,CPA for DH ESR Contract - nLMS Monthly Service Charges FY12-13,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008541,123723.91,,CPA for DH ESR Contract - RPP Monthly Service Charges FY12-13,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008563,2705296.6,,CPA for DH ESR Contract - ESR Monthly Service Charge,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008563,101802.21,,CPA for DH ESR Contract - nLMS Monthly Service Charges FY12-13,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008563,123723.91,,CPA for DH ESR Contract - RPP Monthly Service Charges FY12-13,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008747,23435.1,,CPA for ESR Contract - Smart T&A Executable Option (Pass Through costs) FY12-13,Programme
+Department of Health,Department of Health,21/11/2012,Addition Clearing - IT,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008749,79912.3,,CPA for ESR Contract - FY12/13 Hardware Drawdown Requests  See DH/McKesson HR and Payroll Contract 2222 Deed of mendment 2005 Schedule G1.4A,Programme
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008749,3481.7,,CPA for ESR Contract - FY12/13 Hardware Drawdown Requests  See DH/McKesson HR and Payroll Contract 2222 Deed of mendment 2005 Schedule G1.4A,Programme,
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008750,68896.78,,"CPA for DH ESR Contract - CCN 126 NHS Payslip Production, Printing and Courier Charges FY12-13",Programme,
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008751,2705296.6,,CPA for DH ESR Contract - ESR Monthly Service Charge,Programme,
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008751,101802.21,,CPA for DH ESR Contract - nLMS Monthly Service Charges FY12-13,Programme,
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,External Relations,MCKESSON INFORMATION SOLUTIONS UK LTD,LARGE,CV34 6NZ,INV008751,123723.91,,CPA for DH ESR Contract - RPP Monthly Service Charges FY12-13,Programme,
+Department of Health,Department of Health,21/11/2012,Outsourcing Contract,Social Care,ECORYS UK LTD,SME,B1 2RA,INV10879,11417.9,,Fund Management of the Health & Social Care Volunteering Fund,Programme,
+Department of Health,Department of Health,21/11/2012,Professional fees,Social Care,ECORYS UK LTD,SME,B1 2RA,INV10879,81372.1,,Fund to support volunteering in health and social care procurement of 'Health and Social Care Volunteering Fund Manager',Programme,11711
+Department of Health,Department of Health,21/11/2012,Professional fees,External Relations,GOVERNMENT ACTUARYS DEPARTMENT (GAD),PUBLIC,EC4A 1AB,SINV/00017951,109506.9,,GAD Payments CPA 472305 Inv 17951 Actuarial services for DH Pensions team for period ending 31st October 2012,Admin,
+Department of Health,Department of Health,21/11/2012,Grants to non profit institutions (CUR),Social Care,BROOK ADVISORY CENTRES,VCS,EC1Y 8QU,ERS-477072-66101,31379,,2011/049 Brook - Virtual Sexual Health Project,Programme,
+Department of Health,Department of Health,22/11/2012,Other Admin expenditure,Strategy Finance & NHS,NHS PENSIONS,PUBLIC,FY7 8LG,1208881,110459.32,,AC 3 Pension payment,Admin,
+Department of Health,Department of Health,22/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,201305977,13282.14,,Revenue: PACS NWWM Cluster Store Service Charges to be paid for between April 2012 and March 2013,Programme,
+Department of Health,Department of Health,22/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,201305977,39901.96,,Revenue: PACS NWWM central store service charges to cover the period between November 2012 and March 2013,Programme,
+Department of Health,Department of Health,22/11/2012,Service charge,INFORMATICS,THE ACCENTURE GROUP,LARGE,EC4N 4TW,3003195219,1346115.39,,Revenue: PACS East Cluster Store Charges to be paid for between April 2012 and March 2013,Programme,
+Department of Health,Department of Health,22/11/2012,Service charge,INFORMATICS,THE ACCENTURE GROUP,LARGE,EC4N 4TW,3003195219,1586863.61,,Revenue: PACS NE Cluster Store Services Charges to be paid for between April 2012 and March 2013,Programme,
+Department of Health,Department of Health,22/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,310533,8678348.42,,Revenue: N3 Services Core Contract to cover spend for services to be paid for between April 2012 and March 2013,Programme,
+Department of Health,Department of Health,22/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201305291,797766.41,,Revenue: PACS NWWM Cluster Store Service Charges to be paid for between April 2012 and March 2013,Programme,
+Department of Health,Department of Health,22/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201305978,400331.74,,Revenue: PACS South Cluster Store Service Charges to be paid for between April 2012 and March 2013,Programme
+Department of Health,Department of Health,22/11/2012,Outsourcing Contract,External Relations,ETHNIC DIMENSION,LARGE,SL4 2JY,80/DOH/CANCER&DEMENTIACAMP22.11.12,22200,,Ethnic Minority creative development research for cancer and dementia campaigns,Programme
+Department of Health,Department of Health,22/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,854959,28415.64,,Bowel cancer campaign - regional TV,Programme
+Department of Health,Department of Health,22/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,854959,3.15,,Bowel cancer campaign regional TV,Programme
+Department of Health,Department of Health,22/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,854960,114564.12,,Dementia TV spend Nov- Dec,Programme
+Department of Health,Department of Health,22/11/2012,Outsourcing Contract,Public Health,SERCO PUBLIC SERVICES LTD,LARGE,L34 1PJ,90777752,313655.27,,Serco Ltd - For services provided on  Healthy Start Issuing Unit - Cycle 123  - 24th  September to 21st October 2012,Admin
+Department of Health,Department of Health,22/11/2012,Professional fees,NHS Finance Operations & Performance,ERNST AND YOUNG LLP,LARGE,SE1 2AF,GB10300007494,89371,,Royal Free Hampstead NHS Trust.  NHSFT Financial Assessments.,Programme
+Department of Health,Department of Health,22/11/2012,Legal / Prof Fees,INFORMATICS,DLA PIPER UK LLP,,,15824959,48941.3,,,
+Department of Health,Department of Health,22/11/2012,Grants to non profit institutions (CUR),Social Care,NOAH S ARK THE CHILDREN S HOSPICE,VCS,EN5 5TZ,ERS-477281-66141,121181,,2012-13 Noah's Ark children hospice - project: children hospice and hospice at home grant New grant - policy grant,Programme
+Department of Health,Department of Health,22/11/2012,Grants to non profit institutions (CUR),Social Care,THE FORGET ME NOT CHILDREN'S HOSPICE,VCS,HD9 1JG,ERS-477285-66161,121181,,2012-13 Organisation: Forget me not - children hospice grant - policy grant,Programme
+Department of Health,Department of Health,22/11/2012,Grants to non profit institutions (CUR),Social Care,THE J'S HOSPICE,VCS,CM2 7HY,ERS-477287-66162,51732,,2012-13 The J's children hospice - project: Children's hospice and hospice at home grant New grant - policy grant,Programme
+Department of Health,Department of Health,22/11/2012,Grants to non profit institutions (CUR),Social Care,CHILDRENS HOSPICE SOUTH WEST,VCS,EX31 2PZ,ERS-477288-66163,121181,,2012-13 Childrens hospice South West - PROJECT - Children hospice and hospice at home grant New grant - policy grant,Programme
+Department of Health,Department of Health,23/11/2012,Policy Payments,NHS Medical,ROYAL FREE LONDON NHS FOUNDATION TRUST,PUBLIC,NW3 2QG,1317338,500000,,CSO funding for the Cross Cutting Diagnostics Programme 12-13. RFH-MRC,Programme
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,BRISTOL PCT,PUBLIC,BS2 8EE,ERS-477329-66182,46354,,Applied Research Programme,Programme
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,BRISTOL PCT,PUBLIC,BS2 8EE,ERS-477330-66183,65627,,Applied Research Programme,Programme
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,HULL AND EAST YORKSHIRE HOSPITALS NHS TRUST,PUBLIC,HU16 5JQ,ERS-477331-66188,75388,,Applied Research Programme,Programme
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,BRISTOL PCT,PUBLIC,BS2 8EE,ERS-477332-66184,58716,,Applied Research Programme,Programme
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-477333-66198,73877,,Applied Research Programme,Programme
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,NORTH BRISTOL NHS TRUST,PUBLIC,BS1 2NP,ERS-477337-66187,46921,,Applied Research Programme,Programme
+Department of Health,Department of Health,23/11/2012,Data Lines,INFORMATICS,PROBRAND LTD,,,15771310,80812.8,,,
+Department of Health,Department of Health,23/11/2012,Computer Maintenance,INFORMATICS,PROBRAND LTD,,,15811617,95617.96,,,
+Department of Health,Department of Health,23/11/2012,Computer Maintenance,INFORMATICS,PROBRAND LTD,,,15811616,25309.8,,,
+Department of Health,Department of Health,23/11/2012,Computer Maintenance,INFORMATICS,PROBRAND LTD,,,15751256,44692.03,,,
+Department of Health,Department of Health,23/11/2012,Publicity & advertising,External Relations,SIMPLY BECAUSE LTD,LARGE,SL5 9FE,1519,42814.28,,Health Visitor recruitment for Q3,Programme
+Department of Health,Department of Health,23/11/2012,Telephone costs,Improvement & Efficency,CABLE AND WIRELESS COMMUNICATION,LARGE,RG12 1RW,11581034,49061.4,,NHS 111 site and installation charges October - 19th November 2012. Invoice number 11581034.,Programme
+Department of Health,Department of Health,23/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,845572,334611.76,,National press advertising - Stoptober,Programme
+Department of Health,Department of Health,23/11/2012,Publicity & advertising,External Relations,GROUPM UK LTD,LARGE,WC7X 8RX,845604,230436.58,,Advertising campaign for Stoptober - Radio,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,234037.73,,Capital: LSP NWWM. FY 2012/13 September 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,14813.25,,Capital: LSP NWWM. FY 2012/13 October 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,25923.21,,Capital: LSP NWWM. FY 2012/13 May 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,37033.15,,Capital: LSP NWWM. FY 2012/13 June 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,705166.6,,Capital: LSP NWWM. FY 2012/13 July 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,553977.97,,Capital: LSP NWWM. FY 2012/13 August 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,25923.21,,Capital: LSP NWWM. FY 2012/13 April 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,596504.62,,Capital: LSP NE. FY 2012/13 September 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,25664.5,,Capital: LSP NE. FY 2012/13 October 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,78276.71,,Capital: LSP NE. FY 2012/13 May 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,147570.85,,Capital: LSP NE. FY 2012/13 June 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,263061.08,,Capital: LSP NE. FY 2012/13 July 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1456445.97,,Capital: LSP NE. FY 2012/13 August 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,25664.5,,Capital: LSP NE. FY 2012/13 April 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,976978.27,,Capital: LSP East FY 2012/13 September 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Addition Clearing - SW LIC,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,283049.81,,Capital: LSP East FY 2012/13 October 2012 Deployment Capital Cash Requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1211993.82,,Revenue: LSP NWWM. FY 2012/13 September Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1232124.27,,Revenue: LSP NWWM. FY 2012/13 October Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1427817.6,,Revenue: LSP NWWM. FY 2012/13 July Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1434139.41,,Revenue: LSP NWWM. FY 2012/13 August Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1756358.88,,Revenue: LSP NE. FY 2012/13 July Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1794009.67,,Revenue: LSP NE. FY 2012/13 August Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1684790.7,,Revenue: LSP NE FY 2012/13 September Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,1579101.87,,Revenue: LSP NE FY 2012/13 October Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,2599807.04,,Revenue: LSP East FY 2012/13 September Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,2588569.35,,Revenue: LSP East FY 2012/13 October Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,2809581.24,,Revenue: LSP East FY 2012/13 July Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Service charge,INFORMATICS,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,CHAPS23/11/12,2809056.85,,Revenue: LSP East FY 2012/13 August Service charge revenue requirements,Programme
+Department of Health,Department of Health,23/11/2012,Grants to non profit institutions (CUR),Social Care,WOMENS THERAPY CENTRE,VCS,N7 6JS,ERS-477396-66201,28699.5,,2011/006 - Grant to the Women's Therapy Centre under the 2011-12 IESD Scheme - AIMS Ref 1131240,Programme
+Department of Health,Department of Health,23/11/2012,Outsourcing Contract,External Relations,BT PLC,LARGE,B3 1JX,SW16160043Q002,35370.2,,BT services - inbound calls to the current contact centre real estate PP 5.14,Programme
+Department of Health,Department of Health,23/11/2012,Legal / Prof Fees,INFORMATICS,DLA PIPER UK LLP,,,15824925,698045,,,
+Department of Health,Department of Health,23/11/2012,Legal / Prof Fees,INFORMATICS,DLA PIPER UK LLP,,,15824927,171090,,,
+Department of Health,Department of Health,23/11/2012,Legal / Prof Fees,INFORMATICS,DLA PIPER UK LLP,,,15824928,386239.87,,,
+Department of Health,Department of Health,23/11/2012,Staff Consultancy & Suppt,INFORMATICS,ROYAL COLLEGE OF GENERAL PRACTITIONERS,,,15824909,59745,,,
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,EDINBURGH UNIVERSITY OF,PUBLIC,EH1 1HT,ERS-477335-66190,28562,,Methodology Programme,Programme
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON UCL,PUBLIC,WC1E 6BT,ERS-477336-66194,141676.05,,EME NETSCC,Programme
+Department of Health,Department of Health,23/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON UCL,PUBLIC,WC1E 6BT,ERS-477338-66195,27597.66,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,23/11/2012,Grants to non profit institutions (CUR),Social Care,LGBT CONSORTIUM,VCS,SE16 4DG,ERS-477410-66204,32339,,2010/023 Consortium of LGBT - Project- Personalisation and dignity for LGBT individuals through choice and control,Programme
+Department of Health,Department of Health,23/11/2012,Grants to non profit institutions (CUR),Social Care,DOCTORS OF THE WORLD UK,VCS,E14 4JB,ERS-477421-66221,25000,,2011 044 Doctors of the World UK - PROJECT - Ensring access to care: delivering better and more cost effective outcomes for vulnerable people,Programme
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,BOLTON NHS FOUNDATION TRUST,PUBLIC,BL4 0JR,HAFS-14456,4000000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,HEATHERWOOD AND WEXHAM PARK HOSPITALS NHS FOUNDATION TRUST,PUBLIC,SL2 4HL,HAFS-14457,2300000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,MID STAFFORDSHIRE NHS FOUNDATION TRUST,PUBLIC,ST16 3SA,HAFS-14458,2150000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,MID YORKSHIRE HOSPITALS NHS TRUST,PUBLIC,WF1 4TU,HAFS-14459,10500000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,NORTH CUMBRIA UNIVERSITY HOSPITALS NHS TRUST,PUBLIC,CA2 7HX,HAFS-14460,1350000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,NORTH WEST LONDON HOSPITALS NHS TRUST,PUBLIC,HA1 3UJ,HAFS-14461,3000000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,ROYAL FREE LONDON NHS FOUNDATION TRUST,PUBLIC,NW3 2QG,HAFS-14462,2100000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC temporary,CENTRAL TECHNICAL,SOUTH LONDON HEALTHCARE NHS TRUST,PUBLIC,DA14 6LT,HAFS-14463,3450000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,SUSSEX COMMUNITY NHS TRUST,PUBLIC,BN2 3EW,HAFS-14464,1000000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions-PDC permanent,CENTRAL TECHNICAL,THE IPSWICH HOSPITAL NHS TRUST,PUBLIC,IP4 5PD,HAFS-14465,1344000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions FT Financing Facility Loans,CENTRAL TECHNICAL,HUMBER NHS FOUNDATION TRUST,PUBLIC,HU10 6ED,HAFS-14466,400000,,,Other
+Department of Health,Department of Health,26/11/2012,Additions FT Financing Facility Loans,CENTRAL TECHNICAL,QUEEN VICTORIA HOSPITAL NHS FOUNDATION TRUST,PUBLIC,RH19 3DZ,HAFS-14467,650000,,,Other
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,272.82,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,8734.17,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,538.06
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,4915.74
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,956.4
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1570.2
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,2089.95
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1808.21
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,199.19
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,4029.8
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,582.66
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,3724.58
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,298.88
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,2008.72
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,956.9
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,378.06
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,365.54
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,2819.66
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,769.64,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,138.29,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,619.65,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,3074,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,343.02,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1352.1,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,937.87,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,7527.89,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,404.38,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,2246.28,,,
+Department of Health,Department of Health,26/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,310085,325768.5,,Revenue: Spine FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,26/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,310822,3378079.41,,Revenue: Spine FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,26/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,310824,1405454.07,,Revenue: Spine FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,26/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,310902,65006.46,,Revenue: Spine FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310219,692255.6,,CSC Baseline Charges from 1 October 2012 - 31 March 2013,Admin
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310310,82167.75,,IBM Lotus CEO Business Collobaration Annual Subscription Renewal - Volume 450,Admin
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310310,7303.8,,Renewal from 01/11/2012-30/06/2013 - SMPT-0001000776 - IBM Lotus QuickR for Domino Extranet PVU Annual Subscription Renewal - Volume 400,Admin
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,External Relations,MOUCHEL MANAGEMENT CONSULTING LTD,LARGE,SW1H 9NP,90118243,5310.96,,OC/2012/7 - Other Overheads and Profits,Programme
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,External Relations,MOUCHEL MANAGEMENT CONSULTING LTD,LARGE,SW1H 9NP,90118243,40665.6,,OC/2012/8 - Premises,Programme
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,External Relations,MOUCHEL MANAGEMENT CONSULTING LTD,LARGE,SW1H 9NP,90118243,1321.98,,OC/2012/9 - Business Support,Programme
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,External Relations,MOUCHEL MANAGEMENT CONSULTING LTD,LARGE,SW1H 9NP,90118271,215717.28,,OC/2012/01 - Non Transferring Staff OC/2012/4 - Transferring Staff OC/2012/5 - OPC Adjustment Charge,Programme
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,Improvement & Efficency,CAPITA BUSINESS SERVICES LTD,LARGE,SW1H 0XA,92688230,31250,,Delivery of scheme operation of The Information Standard,Programme
+Department of Health,Department of Health,26/11/2012,CIP Addition Clearing - IT_IDS,External Relations,IMC (UK) LEARNING LTD,SME,TN13 1BL,IUK2012-176,116303.76,,Contract for the provision of an lms for E-lfh -Delivery of IMC services,Programme
+Department of Health,Department of Health,26/11/2012,Publicity & advertising,Public Health,FREUD COMMUNICATIONS LTD,SME,W1T 3EB,SI11785,75000,,Whooping Cough PR,Programme
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,3186.77,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,4166.86,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,145.45,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,153.19,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1855.26,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,3162.75,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1443.19,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,62.36,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,3113.58
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1150.9
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,744.25
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,473.06
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,792.85
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,177.19
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,226.19
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,788.22
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,3834.06
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,691.3
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,117.18
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,2324.65
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,427.5
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,800.98
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,107.19
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,2308.08
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,527.64
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,799.37
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1881.53
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1939.6
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,155.58
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,461.95
+Department of Health,Department of Health,26/11/2012,External Consultancy Fees,INFORMATICS,DLA PIPER UK LLP,,,15837775,41815.46
+Department of Health,Department of Health,26/11/2012,Legal / Prof Fees,INFORMATICS,DLA PIPER UK LLP,,,15824921,325178.52
+Department of Health,Department of Health,26/11/2012,Legal / Prof Fees,INFORMATICS,DLA PIPER UK LLP,,,15840472,45250
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,579.57
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,447.03
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1597.49
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,585.25
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,395.88
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1919.45
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,232.19
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,8946.93,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,761.94,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,834.82,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,505.43,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,268.36,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1668.88,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,8187.76,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,140.45,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1047.21,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,44.39,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,1887.02,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,3172.46,,,
+Department of Health,Department of Health,26/11/2012,Travel & Subsistence,INFORMATICS,EXPOTEL HOTEL RESERVATIONS LTD,,,15796814,730.14,,,
+Department of Health,Department of Health,26/11/2012,Outsourcing Contract,Social Care,OXFORD UNIVERSITY,PUBLIC,OX1 2JD,12084287,145834,,Multicentre monitoring of self-harm presentations to general hospital emergency departments,Programme
+Department of Health,Department of Health,26/11/2012,Grants to non profit institutions (CUR),Social Care,ADDACTION,VCS,EC1M 6PU,ERS-477495-66241,28665,,2011/042 - Addaction - Blood-borne Virus Peer Education Project,Programme
+Department of Health,Department of Health,26/11/2012,Grants to non profit institutions (CUR),Social Care,DARLINGTON ASSOCIATION ON DISABILITY,VCS,DL1 5PT,ERS-477513-66281,49865,,"IESD award 2012/13 for Darlington Association on Disability's ""Stronger Voices...strong support"" project",Programme
+Department of Health,Department of Health,26/11/2012,Grants to non profit institutions (CUR),Social Care,AGE UK,VCS,SW16 4ER,ERS-477516-66282,89200,,2010/010 AGE UK - Project - The Acorn End of life care,Programme
+Department of Health,Department of Health,26/11/2012,Grants to non profit institutions (CUR),Social Care,CHILD BRAIN INJURY TRUST,VCS,OX27 7SG,ERS-477553-66301,29300,,2011/038 Child Brain Injury Trust - project: Helpline and Information Project (HIP),Programme
+Department of Health,Department of Health,27/11/2012,Outsourcing Contract,Goverance Operations & Assurance,NHS SHARED BUSINESS SERVICES (SBS),PUBLIC,WF3 1WE,100013485,90280.75,,NHS SBS  charges for BMS Support and Development Service from 1 April 2012 to 31 March 2013,Admin
+Department of Health,Department of Health,27/11/2012,Outsourcing Contract,Goverance Operations & Assurance,NHS SHARED BUSINESS SERVICES (SBS),PUBLIC,WF3 1WE,100013486,90280.75,,NHS SBS  charges for BMS Support and Development Service from 1 April 2012 to 31 March 2013,Admin
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,CAMDEN AND ISLINGTON NHS FOUNDATION TRUST,PUBLIC,NW1 0PE,ERS-477645-66394,40280,,Applied Research Programme,Programme
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,GUYS AND ST THOMAS NHS FOUNDATION TRUST,PUBLIC,SE1 9RT,ERS-477647-66389,32887,,Applied Research Programme,Programme
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-477648-66396,53069,,Applied Research Programme,Programme
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,BARTS HEALTH NHS TRUST,PUBLIC,E1 8PR,ERS-477650-66397,52453,,Applied Research Programme,Programme
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,THE LEEDS COMMUNITY HEALTHCARE NHS TRUST,PUBLIC,LS6 1PF,ERS-477651-66395,56581,,Applied Research Programme,Programme
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,MANCHESTER MENTAL HEALTH & SOCIAL CARE TRUST,PUBLIC,M21 9UN,ERS-477656-66393,197176,,Flexibility & Sustainability Funding,Programme
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,PUBLIC,NW1 2BX,ERS-477664-66390,4980153,,Bio-Medical Centres,Programme
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,PUBLIC,NW1 2BX,ERS-477664-66390,125000,,Biomedical Units,Programme
+Department of Health,Department of Health,27/11/2012,IT minor costs non capital,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310333,37583.33,,P 4001 3 relocations to be carried out on London Estates during October,Admin
+Department of Health,Department of Health,27/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310336,15586.5,,IMS2.1 deployment pre IMS3 - Other ALBs,Admin
+Department of Health,Department of Health,27/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310336,6889.13,,Maple Street Phase 2,Admin
+Department of Health,Department of Health,27/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310336,1105.42,,Quarry House - Phases 2 & 3,Admin
+Department of Health,Department of Health,27/11/2012,Building repairs & maintenance,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310345,41234,,P4000 Move SCLGCP  staff left over in WH Move SCLGCP  staff to RH ,Admin
+Department of Health,Department of Health,27/11/2012,Outsourcing Contract,Goverance Operations & Assurance,CSC COMPUTER SCIENCES LTD,LARGE,PR1 8UQ,5201310346,200668.63,,IMS2 Exit - Extended Exit Mobilisation,Admin
+Department of Health,Department of Health,27/11/2012,Contr Other External,INFORMATICS,CABLE & WIRELESS UK,,,15831578,28129.87,,,
+Department of Health,Department of Health,27/11/2012,Contr Other External,INFORMATICS,CABLE & WIRELESS UK,,,15831579,161808,,,
+Department of Health,Department of Health,27/11/2012,Consultancy/Professional Advice,Social Care,PGO FOREIGN CURRENCY PAYMENTS,PUBLIC,RH10 1UH,1042523280IT872M,36262.19,,,Programme
+Department of Health,Department of Health,27/11/2012,Policy Payments,Commissioning,HEALTH AND SOCIAL CARE INFORMATION CENTRE,PUBLIC,,12594123,53558.64,,DECS Child Dental Health Survey to improve children's oral health 2012-2015,Programme
+Department of Health,Department of Health,27/11/2012,Research & development,Research & Development,NEWCASTLE UNIVERSITY,PUBLIC,NE1 7RU,ERS-477663-66391,33215.88,,Other PRP Research,Programme
+Department of Health,Department of Health,27/11/2012,Grants to non profit institutions (CUR),Social Care,NATIONAL SOCIETY FOR THE PREVENTION OF CRUELTY TO CHILDREN,VCS,EC2A 3NH,ERS-477576-66321,27570,,"2011-12 IESD Payment - Domestic Abuse, Recovering Together Project - Three Year",Programme
+Department of Health,Department of Health,27/11/2012,Grants to non profit institutions (CUR),Social Care,CSV,VCS,N1 9NJ,ERS-477653-66361,28735,,2011/055 Community Service Volunteers - Volunteering Solutions for Healthy Ageing,Programme
+Department of Health,Department of Health,27/11/2012,Grants to non profit institutions (CUR),Social Care,HEALTHY LIVING PROJECTS,VCS,IG1 IQP,ERS-477667-66398,31030,,2011/035 Healthy Living Projects-Unwind,Programme
+Department of Health,Department of Health,27/11/2012,Grants to non profit institutions (CUR),Social Care,SHARED LIVES PLUS,VCS,L3 9JR,ERS-477763-66481,27915.1,,2011/034 NAAPS UK LTD - project: A million micro-enterprises,Programme
+Department of Health,Department of Health,27/11/2012,Grants to non profit institutions (CUR),Social Care,NATIONAL DEVELOPMENT TEAM FOR INCLUSION NDTI,VCS,BL9 5BT,ERS-477769-66501,42661.5,,2011/037 Circles of support for people with dementia,Programme
+Department of Health,Department of Health,28/11/2012,Professional fees,External Relations,NHS BUSINESS SERVICES AUTHORITY (NHSBSA),PUBLIC,NE1 6SN,5649,25807.78,,BSA inv 5649 Recharge for the TRS project Oct 12,Programme
+Department of Health,Department of Health,28/11/2012,Policy Payments,NHS Medical,PETERBOROUGH PCT,PUBLIC,PE29 6FH,3000010097,49650,,MSC funding for clusters workshops 12-13 to NHSPCC,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,LEEDS TEACHING HOSPITAL NHS TRUST,PUBLIC,LS9 7TF,392076,116242,,NCCRCD Management,Programme
+Department of Health,Department of Health,28/11/2012,Outsourcing Contract,Strategy Finance & NHS,NORTH EAST SHA,PUBLIC,NE15 8NY,504590,50000,,Shape - Additional work under existing MOU,Admin
+Department of Health,Department of Health,28/11/2012,Grants to non profit institutions (CUR),External Relations,NHS INJURY BENEFITS SCHEME,PUBLIC,FY7 8LG,ERS-477811-66541,4252805.45,,Injury Allowance Recharging - Nov 2012,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,UNIVERSITY HOSPITALS BRISTOL NHS FOUNDATION TRUST,PUBLIC,BS99 1YF,ERS-477879-66581,27297,,Health Tech Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,PUBLIC,CB2 2QQ,ERS-477885-66582,30401,,Applied Research Programme,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,LEEDS TEACHING HOSPITAL NHS TRUST,PUBLIC,LS9 7TF,ERS-477886-66583,43376,,Applied Research Programme,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,AVON & WILTSHIRE MENTAL HEALTH PARTNERSHIP NHS TRUST,PUBLIC,BA1 3QE,ERS-477887-66587,25306.5,,Applied Research Programme,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,LEEDS TEACHING HOSPITAL NHS TRUST,PUBLIC,LS9 7TF,ERS-477888-66584,25375,,Applied Research Programme,Programme
+Department of Health,Department of Health,28/11/2012,SYS VAT Non Recoverable,INFORMATICS,PROBRAND LTD,,,15769275,0.01,,,
+Department of Health,Department of Health,28/11/2012,Computer Hardware Purch,INFORMATICS,PROBRAND LTD,,,15811618,46534.8,,,
+Department of Health,Department of Health,28/11/2012,Computer Hardware Purch,INFORMATICS,PROBRAND LTD,,,15769275,145534.56,,,
+Department of Health,Department of Health,28/11/2012,Building repairs & maintenance,Strategy Finance & NHS,WROBLEWSKI M J,SME,LN1 2RD,001/DELAP,33854.58,,"SO0009  - Unit A, The Point, Lincoln - M J Wroblewski - dilapidations",Programme
+Department of Health,Department of Health,28/11/2012,Outsourcing Contract,Social Care,BIG WHITE WALL LTD,SME,N16 0HX,978,39300,,Big White Wall provision of emotional support service for veterans and their families,Programme
+Department of Health,Department of Health,28/11/2012,Professional fees,NHS Finance Operations & Performance,DELOITTE LLP,LARGE,MK9 1FD,1110864590,44384,,Oxford University Hospital NHS Trust.  NHSFT Financial Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Outsourcing Contract,External Relations,IPSOS MORI UK LTD,LARGE,HA1 1PT,12002047,25250,,Quantitative research survey with public - December 2012 wave,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,RAND EUROPE CIC,SME,CB4 1YG,13023/10073-31,48764.44,,Other PRP Research,Programme
+Department of Health,Department of Health,28/11/2012,Addition Clearing - OLB,Goverance Operations & Assurance,TSUNAMI AXIS LTD,SME,WC1E 7HJ,13850,69137.64,,Delivery & Installation for Tsunami Access proposal,Admin
+Department of Health,Department of Health,28/11/2012,Professional fees,NHS Finance Operations & Performance,KPMG LLP,LARGE,E14 5AG,5500577711,33143,,Kent and Medway NHS and Social Care Partnership Trust. NHSFT Financial Assessments.,Programme
+Department of Health,Department of Health,28/11/2012,Service charge,INFORMATICS,ATOS IT SOLUTIONS AND SERVICES LTD,LARGE,WS11 0JA,5584117806,1344338.38,,Revenue: Choose & Book Core Contract to cover spend for services to be paid between April 2012 and March 2013,Programme
+Department of Health,Department of Health,28/11/2012,Service charge,INFORMATICS,ATOS IT SOLUTIONS AND SERVICES LTD,LARGE,WS11 0JA,5584117808,72447.01,,Revenue: Choose & Book Core Contract to cover spend for services to be paid between April 2012 and March 2013,Programme
+Department of Health,Department of Health,28/11/2012,Service charge,INFORMATICS,ATOS IT SOLUTIONS AND SERVICES LTD,LARGE,WS11 0JA,5584117810,97236.76,,Revenue: Choose & Book Core Contract to cover spend for services to be paid between April 2012 and March 2013,Programme
+Department of Health,Department of Health,28/11/2012,Service charge,INFORMATICS,ATOS IT SOLUTIONS AND SERVICES LTD,LARGE,WS11 0JA,5584117813,197647.61,,Revenue: Choose & Book Core Contract to cover spend for services to be paid between April 2012 and March 2013,Programme
+Department of Health,Department of Health,28/11/2012,Addition Clearing - SW LIC,INFORMATICS,ATOS IT SOLUTIONS AND SERVICES LTD,LARGE,WS11 0JA,5584118508,726480,,Capital: Choose & Book Core Contract to cover spend for services to be paid between April 2012 and March 2013,Programme
+Department of Health,Department of Health,28/11/2012,Professional fees,NHS Finance Operations & Performance,SERCO LISTENING LTD,LARGE,RG27 9UY,90728762,33472,,"Coventry and Warwickshire Partnership NHS Trust.  Stage 1, 2, & 3.",Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,QUANTUMDX GROUP LTD,SME,CR8 4EJ,DH04/LS-1010-10014,103104,,Invention for Innovation,Programme
+Department of Health,Department of Health,28/11/2012,Grants to non profit institutions (CUR),Social Care,BRANDON CENTRE FOR COUNSELLING AND PSYCHOTHERAPY FOR YOUNG PEOPLE,VCS,NW5 3LG,ERS-477918-66661,36500,,2011/005 - The Brandon Centre - MST CM for Persistent Young Substance Misusers - Project under 2011-12 IESD Fund,Programme
+Department of Health,Department of Health,28/11/2012,Rent of Land & Buildings (non-PFI operating lease),Strategy Finance & NHS,ABPGP S1 LTD & ABPGP S2 LTD,LARGE,RG7  4SA,SIAS1Q1655,49747.36,,"SO5400 - 4630 Kingsgate, Oxford Business Park  - ABPGP Ltd- rent",Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,OFFICE OF HEALTH ECONOMICS (OHE),LARGE,SW1E 6QT,SIN022835,137416,,Other PRP Research,Programme
+Department of Health,Department of Health,28/11/2012,Storage costs,Strategy Finance & NHS,WOCKHARDT UK LTD,LARGE,,2300000027,30317.32,,,
+Department of Health,Department of Health,28/11/2012,External Consultancy Fees,INFORMATICS,ROYAL COLLEGE OF PHYSICIANS,,,15848663,25000,,,
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,PGO FOREIGN CURRENCY PAYMENTS,PUBLIC,RH10 1UH,1042523330IUW1WV,31733.1,,HTA - Public Health (Disease Prevention),Programme
+Department of Health,Department of Health,28/11/2012,Policy Payments,Social Care,DEPARTMENT FOR COMMUNITIES AND LOCAL GOVERNMENT (DCLG),PUBLIC,HP2 4XN,1800017941,15000000,,Troubled Families - 2012-2013 Funding from Department of Health,Programme
+Department of Health,Department of Health,28/11/2012,Outsourcing Contract,Social Care,YORK UNIVERSITY OF,PUBLIC,YO10 5DD,63691,247500,,"The University of York, ChiMat - Funding for 2012 to 2013",Admin
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,ABERDEEN UNIVERSITY OF,PUBLIC,AB24 3FX,ERS-477843-66589,33456,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,ABERDEEN UNIVERSITY OF,PUBLIC,AB24 3FX,ERS-477843-66589,5916,,Health Tech Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-477846-66591,13546,,Health Tech Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-477846-66591,11250,,Health Tech Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-477846-66591,9691,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,BIRMINGHAM UNIVERSITY OF,PUBLIC,B15 2TT,ERS-477846-66591,20310,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,BRISTOL UNIVERSITY OF,PUBLIC,BS8 1TH,ERS-477847-66592,64142,,Prostrate Cancer,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,BRISTOL UNIVERSITY OF,PUBLIC,BS8 1TH,ERS-477847-66592,12447,,Large Scale Clinical Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY OF,PUBLIC,CB2 1TN,ERS-477850-66593,35057,,HTA commissioned workstream,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY OF,PUBLIC,CB2 1TN,ERS-477850-66593,24612,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,CAMBRIDGE UNIVERSITY OF,PUBLIC,CB2 1TN,ERS-477850-66593,52725,,Prostrate Cancer,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,DUNDEE UNIVERSITY OF,PUBLIC,DD1 4HN,ERS-477851-66594,34308,,HTA - Public Health (Disease Prevention),Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE LONDON,PUBLIC,SW7 2AZ,ERS-477854-66596,3328,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE LONDON,PUBLIC,SW7 2AZ,ERS-477854-66596,26283,,HTA Topic Areas & Genetics Technology,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,IMPERIAL COLLEGE LONDON,PUBLIC,SW7 2AZ,ERS-477854-66596,4971.72,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,ERS-477856-66597,5357,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,LEEDS UNIVERSITY OF,PUBLIC,LS2 9JT,ERS-477856-66597,36623,,HTA commissioned workstream,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-477865-66601,18191,,Health Tech Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-477865-66601,21936.7,,Health Tech Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-477865-66601,68207,,Prostrate Cancer,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,OXFORD UNIVERSITY,PUBLIC,OX1 2XN,ERS-477865-66601,14126,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,QUEEN MARY AND WESTFIELD COLLEGE,PUBLIC,E1 2AX,ERS-477866-66602,283868,,EME NETSCC,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,QUEEN MARY AND WESTFIELD COLLEGE,PUBLIC,E1 2AX,ERS-477866-66602,20976,,HTA Topic Areas & Genetics Technology,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,QUEEN MARY AND WESTFIELD COLLEGE,PUBLIC,E1 2AX,ERS-477866-66602,24336,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,UNIVERSITY COLLEGE LONDON UCL,PUBLIC,WC1E 6BT,ERS-477877-66598,32679.2,,HTA - Public Health (Disease Prevention),Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,WARWICK UNIVERSITY OF,PUBLIC,CV4 7AL,ERS-477880-66606,11052.77,,HTA Pragmatic Trials,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,WARWICK UNIVERSITY OF,PUBLIC,CV4 7AL,ERS-477880-66606,38407,,HTA Topic Areas & Genetics Technology,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,YORK UNIVERSITY OF,PUBLIC,YO10 5DD,ERS-477881-66607,27032,,HTA - Medical Device Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Research & development,Research & Development,ICNARC VOLUNTARY ORGANISATION,VCS,WC1V 6AZ,ERS-477853-66595,30663,,Health Tech Assessment,Programme
+Department of Health,Department of Health,28/11/2012,Grants to non profit institutions (CUR),Social Care,RAPE CRISIS (ENGLAND AND WALES),VCS,WC1N 3XX,ERS-477871-66561,31058.5,,2011-12 IESD Award - Rape Crisis - Regional Development Work Programme Project,Programme
+Department of Health,Department of Health,28/11/2012,Grants to non profit institutions (CUR),Social Care,RETHINK SEVERE MENTAL ILLNESS LTD,VCS,DY4 7UF,ERS-477890-66621,30869,,2010/045- Rethink - project: 10 years younger no more,Programme
+Department of Health,Department of Health,28/11/2012,Grants to non profit institutions (CUR),Social Care,THE HEPATITIS C TRUST,VCS,SE1 3YD,ERS-477936-66681,29100,,2001/043 Hepatitis C Trust-Mobile Outreach project,Programme
+Department of Health,Department of Health,28/11/2012,Grants to non profit institutions (CUR),Public Health,NATIONAL HEART FORUM,VCS,WC1B 4AD,ERS-477940-66701,175000,,2012/059 National Heart Forum - project: Chronic Disease Information Services - policy grant,Programme
+Department of Health,Department of Health,28/11/2012,Outsourcing Contract,Strategy Finance & NHS,HEALTHCARE QUALITY IMPROVEMENT PARTNERSHIP HQIP,VCS,EC3V 5AW,S01359,59646,,NJR pricing information pilot project - phase 1,Programme
+Department of Health,Department of Health,28/11/2012,Outsourcing Contract,Strategy Finance & NHS,HEALTHCARE QUALITY IMPROVEMENT PARTNERSHIP HQIP,VCS,EC3V 5AW,S01359,30058.8,,NJR pricing information pilot project - phase 2,Programme
+Department of Health,Department of Health,29/11/2012,Professional fees,External Relations,NHS BUSINESS SERVICES AUTHORITY (NHSBSA),PUBLIC,NE1 6SN,5652,41764.52,,BSA inv 5652 Hutton. Dated 201112 CPA 474211 Recharge for the Hutton project Oct 2012,Admin
+Department of Health,Department of Health,29/11/2012,ENDPBs Admin Capital Grant in Aid,Public Health,HEALTH PROTECTION AGENCY (HPA),PUBLIC,SP4 0JG,HPA FUNDINGNOV2012,18300000,,Health Protection Agency (HPA) Grant in Aid (GIA) Capital costs Drawdown for 2012/13.,Other
+Department of Health,Department of Health,29/11/2012,ENDPBs Programme Revenue Grant in Aid,Public Health,HEALTH PROTECTION AGENCY (HPA),PUBLIC,SP4 0JG,HPA/FUNDINGNOV2012,5083000,,Health Protection Agency (HPA) Grant in Aid (GIA) Programme Revenue Drawdown costs for 2012/13.,Other
+Department of Health,Department of Health,29/11/2012,ENDPBs Admin Revenue Grant in Aid,Public Health,HEALTH PROTECTION AGENCY (HPA),PUBLIC,SP4 0JG,HPAFUNDINGNOV2012,6470000,,Health Protection Agency (HPA) Grant in Aid (GIA) Admin Revenue Drawdown costs for 2012/13.,Admin
+Department of Health,Department of Health,29/11/2012,Outsourcing Contract,External Relations,SERCO LISTENING LTD,LARGE,PO1 2RX,90777488,265529,,Contact centre procurement leading to the appointment and funding of a new contractor from June 2012,Programme
+Department of Health,Department of Health,29/11/2012,Outsourcing Contract,External Relations,SERCO LISTENING LTD,LARGE,PO1 2RX,90777583,243327,,Contact centre procurement leading to the appointment and funding of a new contractor from June 2012,Programme
+Department of Health,Department of Health,29/11/2012,Outsourcing Contract,External Relations,SERCO LISTENING LTD,LARGE,PO1 2RX,90777584,35680,,ECRM programme C4L alcohol campaign,Programme
+Department of Health,Department of Health,29/11/2012,Outsourcing Contract,External Relations,SERCO LISTENING LTD,LARGE,PO1 2RX,90777585,21024.75,,ECRM programme C4L alcohol campaign,Programme
+Department of Health,Department of Health,29/11/2012,Utilities,Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,2904242,34182.85,,"Quarry House Leeds - Accomm. Costs April 2012 - March 2013 Utilities Charge@Ł42,990.05 mthly.",Admin
+Department of Health,Department of Health,29/11/2012,Utilities,Goverance Operations & Assurance,DEPARTMENT FOR WORK AND PENSIONS (DWP),PUBLIC,FY5 3TA,2904257,31541.48,,"Quarry House Leeds - Accomm. Costs April 2012 - March 2013 Utilities Charge@Ł42,990.05 mthly.",Admin
+Department of Health,Department of Health,30/11/2012,Outsourcing Contract,Commissioning,IPSOS MORI UK LTD,LARGE,HA1 1PT,12002039,24747.5,,GP Patient Survey 2012/13,Programme
+Department of Health,Department of Health,30/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,310831,103794.98,,Revenue: QMAS contract April 2012 to March 2013,Programme
+Department of Health,Department of Health,30/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,311427PART PAYT,3554155.07,,Revenue: LSP London FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,30/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,311460PART PAYT,1157676.11,,Revenue: LSP London FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,30/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,311462,51088.96,,Revenue: LSP London FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,30/11/2012,Service charge,INFORMATICS,BT GROUP PLC,LARGE,NW9 6LB,311464,25955.14,,Revenue: LSP London FY 2012/13 Revenue Cash Requirements,Programme
+Department of Health,Department of Health,30/11/2012,Addition Clearing - SW LIC,INFORMATICS,IN PRACTICE SYSTEMS LTD,LARGE,SW8 3QJ,387770,2098540.8,,Capital: FY 2012/13 Capital Budget Requirements,Programme
+Department of Health,Department of Health,30/11/2012,Service charge,INFORMATICS,IN PRACTICE SYSTEMS LTD,LARGE,SW8 3QJ,387770,570828.01,,Revenue: FY 2012/13 Revenue Budget Requirements,Programme
+Department of Health,Department of Health,30/11/2012,Outsourcing Contract,NHS Medical,OFFICE FOR NATIONAL STATISTICS ONS,PUBLIC,NP10 8XG,1025688,208197.7,,Annual processing of national statistics for Cancer Registration 2012 - 2013,Programme
+Department of Health,Department of Health,30/11/2012,Service charge,Public Health,HOMES AND COMMUNITIES AGENCY (HCA),PUBLIC,NE11 0NA,S0009604,33363.86,,"Service charge & rent for DH East Midlands accommodation at Cumberland Place, Nottingham from 1/4/12 - 31/3/13",Admin

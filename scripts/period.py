@@ -2,7 +2,10 @@
 """This module provides functions to find the period id of a source.
 
 """
-
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 import csv
 import re
 import calendar
@@ -265,8 +268,8 @@ def get_period(title, url):
     """Return period id from title and url. """
 
     period = ''
-    name = title.split(' / ')
-    
+    name = title.split('/')
+
     period = name_error(title, url)
     if not period:
         if name[1]:

@@ -1,0 +1,63 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Additional Narrative
+HM Treasury,HM Treasury,04-Jan-11,IT profssnl svcs contractd out,Corporate Services,FUJITSU SERVICES LIMITED,89532,159947.68,IT services 
+HM Treasury,HM Treasury,04-Jan-11,UKFI Management Fee,International Finance,UK FINANCIAL INVESTMENTS LTD,89825,256541.67,Payment to UKFI for the Management services provided to HM Treasury for the period to Jan 2011
+HM Treasury,HM Treasury,06-Jan-11,Membership of Professional Bodies,Corporate Services,GARTNER GROUP UK LTD,89847,32077.5, IT executive support service for Chief Information Officer and senior management team
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS ,87908,51495.33,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS,87906,96371.36,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS ,87879,113278.17,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS ,87911,117934.68,Asset Protection Scheme Advice
+HM Treasury,HM Treasury,06-Jan-11,Software Maintenance,Corporate Services,TRUSTMARQUE SOLUTIONS,89848,129040.7,Open text integration is support and maintenance and the licence for our Electronic Records and Data Management System 
+HM Treasury,APA,06-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,87907,275922.9,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,87912,355074.72,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,87880,487274.77,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,85727,422737.17,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,APA Finance,PRICEWATERHOUSECOOPERS ,85727,5562.33,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS ,85727,78617.73,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,85726,467665.41,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,APA Finance,PRICEWATERHOUSECOOPERS ,85726,4963.04,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS ,85726,95535.96,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,85728,441007.2,Asset Protection Scheme Advice
+HM Treasury,APA,06-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS ,85728,184113.62,Asset Protection Scheme Advice
+HM Treasury,HM Treasury,10-Jan-11,Consultants - Financial - Advisory only,International Finance,BDO STOY HAYWARD LLP,89946,38569.19,Northern Rock Compensation Scheme Valuations - May 10
+HM Treasury,HM Treasury,10-Jan-11,Electricity,Corporate Services,EDF ENERGY,89930,44051.18,Electricity charges December 2010 
+HM Treasury,HM Treasury,10-Jan-11,Consultants - Financial - Advisory only,International Finance,BDO STOY HAYWARD LLP,89945,51810.45,Northern Rock Compensation Scheme Valuations 
+HM Treasury,HM Treasury,10-Jan-11,Consultants - Financial - Advisory only,International Finance,BDO STOY HAYWARD LLP,89948,66088.3,Northern Rock Compensation Scheme Valuations 
+HM Treasury,HM Treasury,12-Jan-11,Service Charges,Corporate Services,EXCHEQUER PARTNERSHIP PLC,89904,32024.27,"Estates 1 Horse guards Road - Post,goods,porterage services & management fee December 2010"
+HM Treasury,HM Treasury,12-Jan-11,Maintenance,Corporate Services,MITIE MANAGED SERVICES LTD,90036,30000,Estates Norwich - Roof Works 
+HM Treasury,DMO,12-Jan-11,MARKET DATA SERVICES,Business Delivery,REUTERS LIMITED,89972,108625.73,IT services
+HM Treasury,DMO,12-Jan-11,Stock Exchange Listing,Risk Management Unit,LONDON STOCK EXCHANGE,90031,146875,UK Gilts Admission 
+HM Treasury,HM Treasury,12-Jan-11,Service Charges on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,89901,360935.06,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,12-Jan-11,Interest on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,89901,807030.67,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,12-Jan-11,Capital on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,89901,132565.02,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,12-Jan-11,Service Charges,Corporate Services,EXCHEQUER PARTNERSHIP PLC,89901,5139.58,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,12-Jan-11,Service Charges on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,89901,309278.52,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,12-Jan-11,AME Mint Stock Metal Costs,Macro & Fiscal Policy,ROYAL MINT,89900,4221742.44,Coinage  - Metal costs
+HM Treasury,HM Treasury,12-Jan-11,DEL Mint Stock Manufacturing Costs,Macro & Fiscal Policy,ROYAL MINT,89900,2002972.46,Coinage - Manufacturing costs
+HM Treasury,HM Treasury,19-Jan-11,Service Charges,Corporate Services,MITIE MANAGED SERVICES LTD,90117,39082.65,Estates Norwich - Fixed Facilities November 2010 
+HM Treasury,HM Treasury,19-Jan-11,Service Charges,Corporate Services,MITIE MANAGED SERVICES LTD,90118,39082.65,Estates Norwich - Fixed Facilities December 2010 
+HM Treasury,HM Treasury,21-Jan-11,Travel Costs,Corporate Services,RBS LODGE,90268,41290.79,various travel costs January 2011
+HM Treasury,HM Treasury,21-Jan-11,Consultants - Financial - Advisory only,International Finance,BANK OF ENGLAND,90203,42540,"Banking services as Facility Agent for the Northern Rock, Bradford & Bingley and FSCS Loans - Q2"
+HM Treasury,HM Treasury,21-Jan-11,Consultants - Financial - Advisory only,International Finance,BANK OF ENGLAND,90202,42890,"Banking services as Facility Agent for the Northern Rock, Bradford & Bingley and FSCS Loans - Q3"
+HM Treasury,HM Treasury,21-Jan-11,Equitable Life Enquiry ,"Budget, Tax & Welfare",TOWERS WATSON,89683,260648.14,Actuarial advice to the Equitable Life Enquiry 
+HM Treasury,HM Treasury,21-Jan-11,Consultancy - Legal -  Contracted out services,Corporate Services,THE TREASURY SOLICITOR,90181,268353,Treasury Legal Advisors - salary costs recharged from TSOL 
+HM Treasury,DMO,25-Jan-11,DMO - Banking Costs,Settlements,BANK OF ENGLAND,90325,34168.2,Banking Services to the DMO 
+HM Treasury,HM Treasury,25-Jan-11,Welfare,Corporate Services,EDENRED (FORMERLY ACCOR SERVICES),90294,59405.92,Pay and Benefits - childcare vouchers
+HM Treasury,DMO,25-Jan-11,DMO - Banking Costs,Settlements,BANK OF ENGLAND,90321,65383.92,Banking Services to the DMO 
+HM Treasury,HM Treasury,25-Jan-11,DEL Mint Stock Manufacturing Costs,Macro & Fiscal Policy,ROYAL MINT,90251,84000,Recurring services (eg. Design work)
+HM Treasury,HM Treasury,25-Jan-11,Procurement Card,Corporate Services,NATWEST BANK PLC,90297,100818.08,Settlement of the Government Procurement Card  January 2011
+HM Treasury,DMO,25-Jan-11,Rent,Business Delivery,SUNGARD PUBLIC SECTOR LIMITED,90279,145990.8,IT services
+HM Treasury,DMO,26-Jan-11,IT profssnl svcs contractd out,Business Delivery,SS&C TECHNOLOGIES,90319,30491.4,Investment Management Software - Management Support for November 2010 
+HM Treasury,HM Treasury,27-Jan-11,Consultants - Financial - Advisory only,Public Services & Growth,GOVERNMENT ACTUARY'S DEPT,90285,27074.45,"actuarial services to the Workforce, Pay and Pensions team for the period ended 30 November 2010 "
+HM Treasury,APA,27-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS,90119,43148.87,Asset Protection Scheme Advice
+HM Treasury,APA,27-Jan-11,Consultants - Mgt - Non Advisory,Data Management,PRICEWATERHOUSECOOPERS,90124,43594.97,Asset Protection Scheme Advice
+HM Treasury,HM Treasury,27-Jan-11,IT support and maintenance recoverable,Corporate Services,NTL TELEWEST,90345,99075.71,NTL Telewest is line rental changes for our network links for year to 21 November 2011.
+HM Treasury,APA,27-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,90129,172619.12,Asset Protection Scheme Advice
+HM Treasury,APA,27-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,90126,502523.07,Asset Protection Scheme Advice
+HM Treasury,APA,27-Jan-11,Consultants - Financial - Non-,Scheme Ledger,PRICEWATERHOUSECOOPERS ,90121,547535.24,Asset Protection Scheme Advice
+HM Treasury,DMO,31-Jan-11,Software Licences,Consolidated Projects,CRMWORKS LIMITED,89211,1692," Helpdesk, IT Service Management, Customer Relationship Management and Customer Service solution"
+HM Treasury,DMO,31-Jan-11,Software Maintenance,Consolidated Projects,CRMWORKS LIMITED,89211,10645.43," Helpdesk, IT Service Management, Customer Relationship Management and Customer Service solution"
+HM Treasury,DMO,31-Jan-11,Training Course Fees,Consolidated Projects,CRMWORKS LIMITED,89211,4700," Helpdesk, IT Service Management, Customer Relationship Management and Customer Service solution"
+HM Treasury,HM Treasury,31-Jan-11,Telephone Rental,Corporate Services,VODAFONE CORPORATE LTD,90381,33402.56,Vodafone charges QTR 3 2010/11
+HM Treasury,DMO,31-Jan-11,IT support and maintenance recoverable,Business Delivery,COMPUTACENTER (UK) LTD,90338,175721.78,IT services
+,,,,,,,,
+,,,,,,,,

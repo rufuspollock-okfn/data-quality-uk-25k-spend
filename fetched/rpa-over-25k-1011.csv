@@ -1,0 +1,25 @@
+Department Family,Entity,Date,Expense Type,Expense Type,Expense Area,Supplier,Invoice No.,net,Gross 
+DEFRA,RPA,08-Nov-10,,Travel,HR - Business Support,DEFRA~105038940,193327,"25,090.00",26155.5
+DEFRA,RPA,22-Nov-10,,Basic Pay - secondment ,CEO,CEFAS~112797055,8000534,"27,216.48",30298.75
+DEFRA,RPA,15-Nov-10,,Various,Various,Barclaycard Business~105048156,4257571009932239/01/11/10,"31,371.89",30613.45
+DEFRA,RPA,05-Nov-10,,Contractors,Operational Performance Team,METHODS CONSULTING~105029039,100012304,"31,584.00",26254.94
+DEFRA,RPA,02-Nov-10,,RPA Vehicle Costs,RPA Vehicle Costs,ARVAL,995477,"33,629.23",31978.27
+DEFRA,RPA,02-Nov-10,,Telecommunications,Various,Barclaycard Business~105048156,4715320649085800/01/11/10,"37,225.94",28271.93
+DEFRA,RPA,29-Nov-10,,Agents Services (SEERAD),Inspectorate - Delivery A,SCOTTISH GOVERNMENT~105046176,1008035,"37,792.27",34440.72
+DEFRA,RPA,15-Nov-10,,IT Outsourced Services,Prog & Proj - Tech Infrastructure ,IBM UK LTD~105002620,5811100521,"43,561.79",34931.8
+DEFRA,RPA,05-Nov-10,,Contractors,Prog & Proj - other,SOFTWARE AG (UK) LIMITED~111720391,3090012414,"45,650.00",31188.96
+DEFRA,RPA,15-Nov-10,,Printing,Managed Document Service,Adare Limited~114358310,IS1176485,"45,840.88",44497.78
+DEFRA,RPA,15-Nov-10,,IT Outsourced Services,Prog & Proj - Tech Infrastructure ,IBM UK LTD~105002620,5811100523,"46,199.10",38340.67
+DEFRA,RPA,18-Nov-10,,Contractors,Finance - Finance Director,Deloitte and Touche LLP~114191649,1110606781,"48,517.00",51602.67
+DEFRA,RPA,15-Nov-10,,Printing,Managed Document Service,Adare Limited~114358310,IS1176757,"49,380.51",57602.55
+DEFRA,RPA,03-Nov-10,,IT Outsourced Services,CIO Service Management,Steria Limited~105040261,100011435,"50,582.97",66685.17
+DEFRA,RPA,22-Nov-10,,IT Outsourced Services,Prog & Proj - Tech Infrastructure ,IBM UK LTD~105002620,5811100960,"59,308.34",81004.5
+DEFRA,RPA,17-Nov-10,,IT Licences,CIO - Service Management,AXIOS SYSTEMS CONSULTANTS~105007647,9216,"67,550.00",88349.54
+DEFRA,RPA,11-Nov-10,,Contractors,Finance - Finance Director,Deloitte and Touche LLP~114191649,1110605590,"97,034.00",89202.18
+DEFRA,RPA,18-Nov-10,,IT Outsourced Services,CIO - PPD Corporate Services,ORACLE CORPORATION UK LTD,1310652,"106,218.77",108173.44
+DEFRA,RPA,05-Nov-10,,Telecommunications,CIO - Service Management,CABLE & WIRELESS~105012381,UK13070379/UK10/112010/2928,"108,020.12",129007.48
+DEFRA,RPA,15-Nov-10,,IT Outsourced Services,CIO - Service Management,IBM UK LTD~105002620,5811100412,"591,169.85",276181.82
+DEFRA,RPA,22-Nov-10,,IT Outsourced Services,CIO Service Management,IBM UK LTD~105002620,5811101062,"591,734.74",598862
+DEFRA,RPA,22-Nov-10,,Non RPA Admin - UK Co-ordinating Body,Certificate of EAGGF Accounts,NATIONAL AUDIT OFFICE.,3495,"1,183,000.00",693979.65
+,,,,,,,,,
+,,,,,,,,"3,357,677.88",

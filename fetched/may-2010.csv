@@ -1,0 +1,520 @@
+Department Family,Entity,Transaction Date,Expense Type,Expense Area,Supplier Name,Transaction Number,Amount,VAT Registration Number
+DFID,DFID,12/05/2010,Technical & Advisory services,East and Central Africa,KPMG EAST AFRICA LTD,400098103,550000,
+DFID,DFID,12/05/2010,Technical & Advisory services,East and Central Africa,KPMG EAST AFRICA LTD,400098136,127372,
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,SA INSTITUTE OF INTERNATIONAL AFFAIRS,400097899,51818.91,
+DFID,DFID,12/05/2010,Technical & Advisory services,Asia Division,TRIBAL HELM CORPORATION LTD,400098070,210939.26,
+DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,8458.39,
+DFID,DFID,12/05/2010,Accomodation costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,44.64,
+DFID,DFID,12/05/2010,Accomodation costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,63.24,
+DFID,DFID,12/05/2010,Shared Services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,16.69,
+DFID,DFID,12/05/2010,Accomodation costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,7049.71,
+DFID,DFID,12/05/2010,Accomodation costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,7506.45,
+DFID,DFID,12/05/2010,Energy Costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,733.02,
+DFID,DFID,12/05/2010,Energy Costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,220.87,
+DFID,DFID,12/05/2010,"Property Repairs, Maintenance & Alterations","Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,6.51,
+DFID,DFID,12/05/2010,Office Equipment,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,177.07,
+DFID,DFID,12/05/2010,Communications,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,13.69,
+DFID,DFID,12/05/2010,Communications,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,11.25
+DFID,DFID,12/05/2010,Communications,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,395.3
+DFID,DFID,12/05/2010,"Printing, Stationary & Postage","Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,137.07
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,106.97
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,259.96
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,253.61
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,345.28
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,105.66
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,255.96
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,255.96
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,204.6
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,203.42
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,217.13
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,204.6
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,75.44
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,547.74
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,85.56
+DFID,DFID,12/05/2010,Other Admin Costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,10.16
+DFID,DFID,12/05/2010,Other Admin Costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,50.34
+DFID,DFID,12/05/2010,Technical & Advisory services,Asia Division,MOTT MACDONALD INTERNATIONAL,400098066,50963.92
+DFID,DFID,12/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400098210,941985.75
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,INTERNATIONAL INSTITUTE FOR ENVIRO,400098201,28430.79
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",SEARCH FOR COMMON GROUND,400097831,195000
+DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,3094.79
+DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,99.15
+DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,118.51
+DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,37.54
+DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,60.23
+DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,68.22
+DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,41.98
+DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,2210.99
+DFID,DFID,12/05/2010,Accomodation costs,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,14559.67
+DFID,DFID,12/05/2010,Other Admin Costs,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,309.78
+DFID,DFID,12/05/2010,Other Admin Costs,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,76.9
+DFID,DFID,12/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,131.14
+DFID,DFID,12/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,52488.11
+DFID,DFID,12/05/2010,Aid to international organisations,West and Southern Africa,UNOPS (ACCESS SUPPORT TEAM PROJECT),400097935,1090165
+DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,738.33
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,School for Life,400097739,75565.25
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,GUTTMACHER  INSTITUTE,400097960,478049.02
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,GUTTMACHER  INSTITUTE,400097960,-239024.51
+DFID,DFID,12/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400098190,34107.85
+DFID,DFID,12/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400098190,4804.59
+DFID,DFID,12/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400098190,503.1
+DFID,DFID,12/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400098190,1063.1
+DFID,DFID,12/05/2010,Communications,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,61.3
+DFID,DFID,12/05/2010,Medical & Health Supplies/Services,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,44.64
+DFID,DFID,12/05/2010,Medical & Health Supplies/Services,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,74.4
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,757.31
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,314.16
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,345.53
+DFID,DFID,12/05/2010,Other Admin Costs,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,168.13
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",SAVE THE CHILDREN,400097779,44053
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",WORLD VISION UNITED KINGDOM,400097846,162921
+DFID,DFID,12/05/2010,Communications,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400097923,454.22
+DFID,DFID,12/05/2010,Technical & Advisory services,International Relations Division,TRIBAL HELM CORPORATION LTD,400098196,128439.43
+DFID,DFID,12/05/2010,Technical & Advisory services,International Relations Division,TRIBAL HELM CORPORATION LTD,400098196,14682.11
+DFID,DFID,12/05/2010,Technical & Advisory services,International Relations Division,OXFORD POLICY MANAGEMENT,400098101,156414
+DFID,DFID,12/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400098127,420935
+DFID,DFID,12/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400098127,255856.96
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Communications Division,THE CROWN AGENTS,400097785,27829.82
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Western Asia and Stabilisation Division,PIDE-PSDE,400097919,38781.25
+DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,357.45
+DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,1102.12
+DFID,DFID,12/05/2010,Technical & Advisory services,West and Southern Africa,PKF (UK) LLP,400098126,114027.3
+DFID,DFID,12/05/2010,Technical & Advisory services,West and Southern Africa,HLSP LTD,400098324,1070492.77
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,ALAFA,400097958,233027
+DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Asia Division,CARITAS SWITZERLAND,400097868,39890.14
+DFID,DFID,12/05/2010,Accomodation costs,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098208,87457.71
+DFID,DFID,12/05/2010,Accomodation costs,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098208,111614.6
+DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,193.42
+DFID,DFID,12/05/2010,Aid to international organisations,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",IBRD HSBC T,400097913,1564000
+DFID,DFID,13/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,AATF,400098146,195325.89
+DFID,DFID,13/05/2010,Aid to civil society organisations / NGOs,Asia Division,INTERNATIONAL INSTITUTE FOR ENVIRO,400098092,55469
+DFID,DFID,13/05/2010,Aid to other bilateral donors,Asia Division,IBRD HSBC T,400098062,2300000
+DFID,DFID,13/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",INTERNATIONAL HIV/AIDS ALLIANCE,400098320,118905
+DFID,DFID,13/05/2010,Technical & Advisory services,Asia Division,MOTT MACDONALD INTERNATIONAL,400098455,-25126.2
+DFID,DFID,13/05/2010,Aid to civil society organisations / NGOs,Asia Division,The Carter Center,400098179,115601.8
+DFID,DFID,13/05/2010,Research & Development,Policy and Research Directorate,LONDON SCHOOL OF HYGIENE AND TR,400098334,160838.76
+DFID,DFID,13/05/2010,Technical & Advisory services,East and Central Africa,LIVERPOOL ASSOCIATES IN TROP. HEALTH,400098318,147819.33
+DFID,DFID,13/05/2010,Aid to partner government,West and Southern Africa,THE CROWN AGENTS,400098406,1800000
+DFID,DFID,13/05/2010,Aid to other bilateral donors,Western Asia and Stabilisation Division,UNDP CONTRIBUTIONS ACCOUNT,400098162,692968
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,ONE WORLD,400098194,30008
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,ONE WORLD,400098198,31911
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,ONE WORLD,400098200,41188
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,ONE WORLD,400098388,41856
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,RE-ACTION,400099310,101298.4
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,TRIBAL HELM CORPORATION LTD,400098316,36206.31
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,GRM INTERNATIONAL LTD,400098329,114128.75
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,LIVERPOOL ASSOCIATES IN TROP. HEALTH,400098331,30710.58
+DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400098317,51113.19
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Asia Division,INTERNATIONAL RESCUE COMMITTEE UK,400098384,262996
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Asia Division,INTERNATIONAL RESCUE COMMITTEE UK,400098384,-131498
+DFID,DFID,14/05/2010,Research & Development,Policy and Research Directorate,Natural Environment Research Council,400098905,64600
+DFID,DFID,14/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098511,4800
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",CONCILIATION RESOURCES (IWPR),400098378,177988
+DFID,DFID,14/05/2010,Technical & Advisory services,West and Southern Africa,EFFECTIVE DEVELOPMENT GROUP (EDG),400098582,98854.86
+DFID,DFID,14/05/2010,Technical & Advisory services,East and Central Africa,THE CROWN AGENTS,400098848,28381.02
+DFID,DFID,14/05/2010,Technical & Advisory services,East and Central Africa,THE CROWN AGENTS,400098851,30531.4
+DFID,DFID,14/05/2010,Technical & Advisory services,West and Southern Africa,HLSP LIMITED,400098630,66790.53
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,OXFAM,400098274,78368
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,KPMG DEVELOPMENT SERVICE,400098254,933853.23
+DFID,DFID,14/05/2010,Research & Development,Policy and Research Directorate,BRITISH COUNCIL,400099397,152980
+DFID,DFID,14/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098511,54000
+DFID,DFID,14/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098532,37202.67
+DFID,DFID,14/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098532,3282.01
+DFID,DFID,14/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400098652,795353.3
+DFID,DFID,14/05/2010,Aid to international organisations,Asia Division,UNCTAD,400098403,901699.31
+DFID,DFID,14/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE INTERNATIONAL COMMITTEE OF THE RED CROSS (ICRC),400098398,1000000
+DFID,DFID,14/05/2010,Technical & Advisory services,Asia Division,GRM INTERNATIONAL LTD,400098509,93623.51
+DFID,DFID,14/05/2010,Technical & Advisory services,West and Southern Africa,PRICEWATERHOUSECOOPERS AFRICA,400098321,81163
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,EFInA,400098301,346751.31
+DFID,DFID,14/05/2010,Technical & Advisory services,West and Southern Africa,GRM INTERNATIONAL LTD,400098576,127568.97
+DFID,DFID,14/05/2010,Technical & Advisory services,Communications Division,CHRISTIAN AID,400098566,288108.05
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Communications Division,THE CROWN AGENTS,400098241,83004.5
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Western Asia and Stabilisation Division,INTERNATIONAL MEDICAL CORPS (UK),400098256,260015
+DFID,DFID,14/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,THE CROWN AGENTS,400098511,96200
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",TRANSPARENCY INTERNATIONAL (UK),400098393,90675
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,ONE WORLD ACTION,400098371,166861.58
+DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,International Food PolicyResearch Institute (IFRI,400098252,94546.19
+DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,7185.95
+DFID,DFID,17/05/2010,Technical & Advisory services,Policy and Research Directorate,HAREWELLE INTERNATIONAL LIMITED,400098867,33491.85
+DFID,DFID,17/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098542,4
+DFID,DFID,17/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098542,15496.55
+DFID,DFID,17/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,813.85
+DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,1099.35
+DFID,DFID,17/05/2010,Technical & Advisory services,Policy and Research Directorate,UNIVERSITY OF BIRMINGHAM,400098787,163874.34
+DFID,DFID,17/05/2010,Accomodation costs,Human Resources Division,SOUTH LANARKSHIRE COUNCIL,400098883,207414
+DFID,DFID,17/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098751,33746.48
+DFID,DFID,17/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098751,1089.68
+DFID,DFID,17/05/2010,Aid to civil society organisations / NGOs,Asia Division,CARE INTERNATIONAL,400098655,357598
+DFID,DFID,17/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400098542,1307.78
+DFID,DFID,17/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400098613,276.95
+DFID,DFID,17/05/2010,Technical & Advisory services,Business Solutions Division Level,LOGICACMG UK LTD.,400098801,43754
+DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,4136.71
+DFID,DFID,17/05/2010,Emergency / Humanitarian Assistance,West and Southern Africa,National Disaster Management Institute (INGC),400098663,500000
+DFID,DFID,17/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,SAVE THE CHILDREN UK,400098660,53334
+DFID,DFID,17/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400098788,59041.69
+DFID,DFID,17/05/2010,Technical & Advisory services,Policy and Research Directorate,CAB INTERNATIONAL,400098631,32771.36
+DFID,DFID,17/05/2010,Technical & Advisory services,Policy and Research Directorate,WRENmedia,400098637,21650.52
+DFID,DFID,17/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",OXFAM,400098636,67462
+DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098542,138.46
+DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,-95.24
+DFID,DFID,17/05/2010,Technical & Advisory services,West and Southern Africa,Cowater International Inc.,400098817,39911.11
+DFID,DFID,17/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400098784,111887.71
+DFID,DFID,17/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Argos Georgia Limited,400098871,313969.86
+DFID,DFID,17/05/2010,Aid to international organisations,East and Central Africa,UNOPS,400098504,1000000
+DFID,DFID,17/05/2010,Technical & Advisory services,East and Central Africa,ADAM SMITH INTERNATIONAL  LTD,400098854,259938.31
+DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098542,11210.76
+DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,924.65
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Asia Division,Hogg Robinson Group,6000020,5548.8
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Business Solutions Division Level,Hogg Robinson Group,6000020,10878.67
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Communications Division,Hogg Robinson Group,6000020,13281.01
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,East and Central Africa,Hogg Robinson Group,6000020,6625.18
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Evaluation Department,Hogg Robinson Group,6000020,4788.57
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Finance and Corporate Performance Division,Hogg Robinson Group,6000020,6632.05
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Human Resources Division,Hogg Robinson Group,6000020,11421.94
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Internal Audit,Hogg Robinson Group,6000020,-957.45
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Finance Division,Hogg Robinson Group,6000020,17451.7
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Relations Division,Hogg Robinson Group,6000020,13011.42
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Policy and Research Directorate,Hogg Robinson Group,6000020,48410.43
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000020,22067.21
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Top Management Group,Hogg Robinson Group,6000020,15485.34
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,West and Southern Africa,Hogg Robinson Group,6000020,12902.67
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,Hogg Robinson Group,6000020,34153.38
+DFID,DFID,17/05/2010,Staff training & Conferences,Asia Division,Hogg Robinson Group,6000020,249.7
+DFID,DFID,17/05/2010,Staff training & Conferences,Business Solutions Division Level,Hogg Robinson Group,6000020,584.29
+DFID,DFID,17/05/2010,Staff training & Conferences,Finance and Corporate Performance Division,Hogg Robinson Group,6000020,298.99
+DFID,DFID,17/05/2010,Staff training & Conferences,Human Resources Division,Hogg Robinson Group,6000020,70.68
+DFID,DFID,17/05/2010,Staff training & Conferences,Internal Audit,Hogg Robinson Group,6000020,118.58
+DFID,DFID,17/05/2010,Staff training & Conferences,International Relations Division,Hogg Robinson Group,6000020,637.07
+DFID,DFID,17/05/2010,Staff training & Conferences,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000020,50.76
+DFID,DFID,17/05/2010,Staff training & Conferences,West and Southern Africa,Hogg Robinson Group,6000020,3404.05
+DFID,DFID,17/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,Hogg Robinson Group,6000020,384.1
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Asia Division,Hogg Robinson Group,6000021,12094.7
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Business Solutions Division Level,Hogg Robinson Group,6000021,17272.98
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Communications Division,Hogg Robinson Group,6000021,2772.95
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,East and Central Africa,Hogg Robinson Group,6000021,32347.77
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Evaluation Department,Hogg Robinson Group,6000021,5135.53
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Finance and Corporate Performance Division,Hogg Robinson Group,6000021,12126.7
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Human Resources Division,Hogg Robinson Group,6000021,18438.51
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Internal Audit,Hogg Robinson Group,6000021,8411.55
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Finance Division,Hogg Robinson Group,6000021,6932.71
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Relations Division,Hogg Robinson Group,6000021,23162.87
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Policy and Research Directorate,Hogg Robinson Group,6000021,90308.51
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000021,31462.33
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Top Management Group,Hogg Robinson Group,6000021,20527.73
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,West and Southern Africa,Hogg Robinson Group,6000021,44989.78
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,Hogg Robinson Group,6000021,106419.16
+DFID,DFID,17/05/2010,Staff training & Conferences,Asia Division,Hogg Robinson Group,6000021,1092.68
+DFID,DFID,17/05/2010,Staff training & Conferences,Business Solutions Division Level,Hogg Robinson Group,6000021,839.73
+DFID,DFID,17/05/2010,Staff training & Conferences,East and Central Africa,Hogg Robinson Group,6000021,501.33
+DFID,DFID,17/05/2010,Staff training & Conferences,Evaluation Department,Hogg Robinson Group,6000021,339.64
+DFID,DFID,17/05/2010,Staff training & Conferences,Finance and Corporate Performance Division,Hogg Robinson Group,6000021,1066.36
+DFID,DFID,17/05/2010,Staff training & Conferences,Human Resources Division,Hogg Robinson Group,6000021,939.49
+DFID,DFID,17/05/2010,Staff training & Conferences,Internal Audit,Hogg Robinson Group,6000021,383.4
+DFID,DFID,17/05/2010,Staff training & Conferences,International Relations Division,Hogg Robinson Group,6000021,905.45
+DFID,DFID,17/05/2010,Staff training & Conferences,Policy and Research Directorate,Hogg Robinson Group,6000021,1549.46
+DFID,DFID,17/05/2010,Staff training & Conferences,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000021,783.66
+DFID,DFID,17/05/2010,Staff training & Conferences,West and Southern Africa,Hogg Robinson Group,6000021,1211.1
+DFID,DFID,17/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,Hogg Robinson Group,6000021,-25.01
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Asia Division,Hogg Robinson Group,6000019,8371.42
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Business Solutions Division Level,Hogg Robinson Group,6000019,10725.43
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Communications Division,Hogg Robinson Group,6000019,6996.58
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,East and Central Africa,Hogg Robinson Group,6000019,6084.29
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Evaluation Department,Hogg Robinson Group,6000019,1339.79
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Finance and Corporate Performance Division,Hogg Robinson Group,6000019,8281.41
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Human Resources Division,Hogg Robinson Group,6000019,4364.34
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Internal Audit,Hogg Robinson Group,6000019,271.36
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Finance Division,Hogg Robinson Group,6000019,4454.26
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Relations Division,Hogg Robinson Group,6000019,9435.65
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Policy and Research Directorate,Hogg Robinson Group,6000019,36793.01
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000019,11999.01
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Top Management Group,Hogg Robinson Group,6000019,18793.48
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,West and Southern Africa,Hogg Robinson Group,6000019,7167.14
+DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,Hogg Robinson Group,6000019,26330.02
+DFID,DFID,17/05/2010,Staff training & Conferences,Business Solutions Division Level,Hogg Robinson Group,6000019,1191.6
+DFID,DFID,17/05/2010,Staff training & Conferences,Finance and Corporate Performance Division,Hogg Robinson Group,6000019,1958.32
+DFID,DFID,17/05/2010,Staff training & Conferences,Policy and Research Directorate,Hogg Robinson Group,6000019,185.42
+DFID,DFID,17/05/2010,Staff training & Conferences,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000019,1579.31
+DFID,DFID,17/05/2010,Staff training & Conferences,West and Southern Africa,Hogg Robinson Group,6000019,379.11
+DFID,DFID,18/05/2010,FCO Post Account,Western Asia and Stabilisation Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,47.51
+DFID,DFID,18/05/2010,Technical & Advisory services,Asia Division,TURNER & TOWNSEND,400099065,105241.85
+DFID,DFID,18/05/2010,Aid to international organisations,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",CARIBBEAN COMMUNITY SECRETARIAT,400098906,70055
+DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,2797.61
+DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,1524.22
+DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,3493.97
+DFID,DFID,18/05/2010,FCO Post Account,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,26.65
+DFID,DFID,18/05/2010,FCO Post Account,West and Southern Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,5977.12
+DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,3095.1
+DFID,DFID,18/05/2010,FCO Post Account,West and Southern Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,174.36
+DFID,DFID,18/05/2010,FCO Post Account,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,850.1
+DFID,DFID,18/05/2010,FCO Post Account,West and Southern Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,114390.22
+DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,838.6
+DFID,DFID,18/05/2010,FCO Post Account,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,12408.48
+DFID,DFID,18/05/2010,FCO Post Account,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,2261.38
+DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,MEDECINS  SANS FRONTIERES,400098868,640708
+DFID,DFID,18/05/2010,Technical & Advisory services,East and Central Africa,THE CROWN AGENTS,400098855,136643.8
+DFID,DFID,18/05/2010,Aid to international organisations,Policy and Research Directorate,International Monetary Fund (GBP),400098882,500000
+DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,267351.62
+DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,39570
+DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,12813.67
+DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,155576.63
+DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,5296.2
+DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,2108.76
+DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,6815
+DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,3306.73
+DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,THE GLOBAL FORUM ON MSM AND HIV,400098731,98201.82
+DFID,DFID,18/05/2010,Technical & Advisory services,Asia Division,Best Practices Foundation,400098709,30401.39
+DFID,DFID,18/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400098862,720.45
+DFID,DFID,18/05/2010,Hardware,Business Solutions Division Level,CARILLION COMMUNICATIONS LTD,400099115,66713.3
+DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,Banja La Mtsogolo,400098776,250000
+DFID,DFID,18/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400098862,255.69
+DFID,DFID,18/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400098862,825.17
+DFID,DFID,18/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400098862,565.05
+DFID,DFID,18/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400098862,36087.97
+DFID,DFID,18/05/2010,Aid to partner government,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400099108,3000000
+DFID,DFID,18/05/2010,Technical & Advisory services,West and Southern Africa,CHEMONICS,400099244,234043.42
+DFID,DFID,18/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400099243,49558.76
+DFID,DFID,18/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,HLSP LIMITED,400098900,29203
+DFID,DFID,18/05/2010,FCO Post Account,Western Asia and Stabilisation Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,995.64
+DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,PACT INC,400098795,428360.95
+DFID,DFID,18/05/2010,Technical & Advisory services,East and Central Africa,KPMG EAST AFRICA LTD,400099146,43159
+DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,International Centre for Trade and Sustainable Development,400098786,150000
+DFID,DFID,19/05/2010,Technical & Advisory services,Asia Division,Harewelle International Limited.,400099350,140227.51
+DFID,DFID,19/05/2010,Aid to civil society organisations / NGOs,Asia Division,Harewelle International Limited.,400099350,372937.14
+DFID,DFID,19/05/2010,Technical & Advisory services,West and Southern Africa,DAI EUROPE LIMITED,400099362,174583.52
+DFID,DFID,19/05/2010,Technical & Advisory services,West and Southern Africa,CARE INTERNATIONAL,400099324,25527.09
+DFID,DFID,19/05/2010,Technical & Advisory services,Policy and Research Directorate,OVERSEAS DEVELOPMENT INSTITUTE,400099368,51683.92
+DFID,DFID,19/05/2010,Aid to international organisations,Policy and Research Directorate,IFPRI,400099048,54448.94
+DFID,DFID,19/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,IMPERIAL COLLEGE LONDON,400099016,47380.17
+DFID,DFID,19/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400099337,4551143.91
+DFID,DFID,19/05/2010,Shared Services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400099205,10668.86
+DFID,DFID,19/05/2010,Technical & Advisory services,International Relations Division,ECOTEC RESEARCH AND CONSULTING LTD,400099360,81680
+DFID,DFID,19/05/2010,Technical & Advisory services,West and Southern Africa,UNDP Representative,400099135,44000
+DFID,DFID,19/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,MONASO,400098969,68412.74
+DFID,DFID,19/05/2010,Medical & Health Supplies/Services,West and Southern Africa,THE CROWN AGENTS,400099367,149161.96
+DFID,DFID,19/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400099498,-34176.67
+DFID,DFID,19/05/2010,Aid to partner government,West and Southern Africa,THE CROWN AGENTS,400099352,150000
+DFID,DFID,19/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,Soul City,400099103,330761
+DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099444,1938688.12
+DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099445,5123356.98
+DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099441,2369309.42
+DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099441,-1579539.42
+DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099442,3106340.03
+DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099446,13114650
+DFID,DFID,20/05/2010,Research & Development,Policy and Research Directorate,NRI LTD.,400099572,25000
+DFID,DFID,20/05/2010,Technical & Advisory services,Asia Division,EMERGING MARKETS GROUP,400099526,64599.11
+DFID,DFID,20/05/2010,Technical & Advisory services,Asia Division,EMERGING MARKETS GROUP,400099527,69265.41
+DFID,DFID,20/05/2010,Aid to international organisations,Asia Division,WORLD HEALTH  ORGANISATION,400099250,129000
+DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",CARE INTERNATIONAL,400099715,254002.86
+DFID,DFID,20/05/2010,Technical & Advisory services,Evaluation Department,SAANA CONSULTING LTD,400099569,33141.37
+DFID,DFID,20/05/2010,Technical & Advisory services,Evaluation Department,SAANA CONSULTING LTD,400099569,10471.01
+DFID,DFID,20/05/2010,Technical & Advisory services,Evaluation Department,SAANA CONSULTING LTD,400099569,-10471.01
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,818208.19
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,42300
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,4025
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,29700
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,154577.72
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,5282.8
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,10418.36
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,7837.25
+DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,UNIVERSITY COLLEGE LONDON (FEES),400099582,105468.31
+DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",TEARFUND,400099395,97298.16
+DFID,DFID,20/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400099412,985252.21
+DFID,DFID,20/05/2010,Hardware,Business Solutions Division Level,CAPITA  IT SERVICES,400099593,771.22
+DFID,DFID,20/05/2010,Hardware,Business Solutions Division Level,CAPITA  IT SERVICES,400099593,26353.87
+DFID,DFID,20/05/2010,Aid to partner government,East and Central Africa,THE CROWN AGENTS,400099564,82812.04
+DFID,DFID,20/05/2010,Aid to partner government,West and Southern Africa,THE CROWN AGENTS,400099613,35000
+DFID,DFID,20/05/2010,Staff training & Conferences,West and Southern Africa,The World Bank (EFO),400099430,50000
+DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Asia Division,Dalit NGO Federation (DNF),400099366,54346.23
+DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Asia Division,Madhesh Community Mediation Project,400099422,73314.27
+DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Asia Division,SNV Netherlands Development Organisation (Nepal),400099434,45000
+DFID,DFID,20/05/2010,Technical & Advisory services,West and Southern Africa,Cambridge  Education Limited,400099357,1045924.87
+DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Communications Division,THE CROWN AGENTS,400099407,37416.6
+DFID,DFID,20/05/2010,Accomodation costs,Human Resources Division,CITY OF WESTMINSTER,400099443,2013992.38
+DFID,DFID,20/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",UNIVERSITY OF BIRMINGHAM,400099542,26144.93
+DFID,DFID,20/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",UNIVERSITY OF BIRMINGHAM,400099542,8914.73
+DFID,DFID,20/05/2010,Technical & Advisory services,International Relations Division,Deposit Insurance Agency - Social Inclusion,400099404,72500.85
+DFID,DFID,20/05/2010,Technical & Advisory services,West and Southern Africa,NATHAN EME LTD,400099523,10023.61
+DFID,DFID,20/05/2010,Technical & Advisory services,West and Southern Africa,NATHAN EME LTD,400099523,16951.6
+DFID,DFID,20/05/2010,Technical & Advisory services,West and Southern Africa,Masdar (UK) Limited,400099519,132778.23
+DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Communications Division,Global Campaign for Education,400099700,103400
+DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,RED R,400099389,207267.8
+DFID,DFID,21/05/2010,Emergency / Humanitarian Assistance,West and Southern Africa,World Food  Programme,400100139,750000
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,AFRICAN MONITOR,400099570,53236
+DFID,DFID,21/05/2010,Technical & Advisory services,Asia Division,BMB MOTT  MACDONALD,400099716,658020.81
+DFID,DFID,21/05/2010,Emergency / Humanitarian Assistance,Asia Division,UNDP CONTRIBUTIONS ACCOUNT,400099626,125000
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Asia Division,DANISH REFUGEE COUNCIL,400100051,168090
+DFID,DFID,21/05/2010,Technical & Advisory services,Finance and Corporate Performance Division,INSTITUTE OF PUBLIC FINANCE LTD (IPF,400099634,27974.38
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,NIKE FOUNDATION,400099617,456125.1
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Asia Division,CHRISTIAN AID,400100088,178775.88
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Asia Division,Oxfam (India) Trust,400100011,459515.19
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Asia Division,SKILLSHARE INTERNATIONAL,400100022,54844
+DFID,DFID,21/05/2010,Software,Business Solutions Division Level,ICM Business Continuity Services Ltd,400099847,61805.97
+DFID,DFID,21/05/2010,Software,Business Solutions Division Level,LOGICACMG UK LTD.,400098876,111501.75
+DFID,DFID,21/05/2010,Software,Business Solutions Division Level,LOGICACMG UK LTD.,400098877,125582.5
+DFID,DFID,21/05/2010,Technical & Advisory services,West and Southern Africa,Salephera Enterprises and Investments Ltd,400099503,32830.46
+DFID,DFID,21/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400099728,44637.31
+DFID,DFID,21/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,HTSPE LTD,400099620,86088.03
+DFID,DFID,21/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,HTSPE LTD,400099620,-40475.77
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Western Asia and Stabilisation Division,Rural Support Programmes Network (RSPN),400099603,700198
+DFID,DFID,21/05/2010,Technical & Advisory services,Human Resources Division,TURNER & TOWNSEND,400100140,28787.5
+DFID,DFID,21/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,COFFEY INTERNATIONAL DEVELOPMENT LTD,400099723,754.34
+DFID,DFID,21/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,COFFEY INTERNATIONAL DEVELOPMENT LTD,400099723,30000
+DFID,DFID,21/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,COFFEY INTERNATIONAL DEVELOPMENT LTD,400099723,30000
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,World Federation of Science Journalists (GBP),400099608,76853.92
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,FinMark  TRUST,400099522,140045.33
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,TEARFUND,400099641,707214
+DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,International Relations Division,UNESCO,400099552,109705
+DFID,DFID,24/05/2010,Aid to other bilateral donors,Asia Division,UNDP CONTRIBUTIONS ACCOUNT,400099741,1900000
+DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Asia Division,WESTMINSTER FOUNDATION FOR DEMOCRACY,400100006,29709.94
+DFID,DFID,24/05/2010,Aid to other bilateral donors,Asia Division,UNDP CONTRIBUTIONS ACCOUNT,400099741,1600000
+DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Asia Division,SAVE THE CHILDREN,400100688,100000
+DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,La Benevolencija,400099865,52019
+DFID,DFID,24/05/2010,Technical & Advisory services,Asia Division,MOTT MACDONALD INTERNATIONAL,400100007,33124.59
+DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,CHRISTIAN AID,400099848,283573
+DFID,DFID,24/05/2010,Technical & Advisory services,Evaluation Department,ITAD LTD,400099943,78051.73
+DFID,DFID,24/05/2010,Technical & Advisory services,Evaluation Department,ITAD LTD,400100016,83785.02
+DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,OVERSEAS DEVELOPMENT INSTITUTE,400100082,158338.4
+DFID,DFID,24/05/2010,Research & Development,Policy and Research Directorate,University Of Oxford,400100096,154489.66
+DFID,DFID,24/05/2010,Communications,Business Solutions Division Level,BT BACS PAYMENTS,400100221,24506.42
+DFID,DFID,24/05/2010,Communications,Business Solutions Division Level,BT BACS PAYMENTS,400100221,2570.31
+DFID,DFID,24/05/2010,Hardware,Business Solutions Division Level,HEWLETT PACKARD,400100078,51912.19
+DFID,DFID,24/05/2010,Hardware,Business Solutions Division Level,HEWLETT PACKARD,400100078,-1
+DFID,DFID,24/05/2010,Technical & Advisory services,East and Central Africa,NATIONAL SCHOOL OF GOVERNMENT,400099869,26442.4
+DFID,DFID,24/05/2010,Aid to international organisations,East and Central Africa,UNDP CONTRIBUTIONS ACCOUNT,400099738,2616000
+DFID,DFID,24/05/2010,Technical & Advisory services,West and Southern Africa,GRM INTERNATIONAL LTD,400100072,90094.38
+DFID,DFID,24/05/2010,Technical & Advisory services,Communications Division,CHRISTIAN AID,400099994,500232.44
+DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Communications Division,SKILLSHARE INTERNATIONAL,400099691,40000
+DFID,DFID,24/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,OXFORD POLICY MANAGEMENT,400099992,69197.47
+DFID,DFID,24/05/2010,"Property Repairs, Maintenance & Alterations",Human Resources Division,PLANNED MAINTENANCE ENGINEERING LTD,400099840,41724.25
+DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,ASSOCIATION OF COMMONWEALTH UNIVER,400099854,44000
+DFID,DFID,24/05/2010,Technical & Advisory services,East and Central Africa,MAXWELL STAMP PLC,400100094,45698.9
+DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FLACSO-Chile,400099778,33196.11
+DFID,DFID,24/05/2010,Technical & Advisory services,West and Southern Africa,BRITISH COUNCIL,400099868,165249.77
+DFID,DFID,24/05/2010,Aid to international organisations,Policy and Research Directorate,ACICI/AITIC (AGENCY FOR INTERNATIONAL TRADE INFORMATION AND COOPERATION),400100554,86688
+DFID,DFID,24/05/2010,Technical & Advisory services,West and Southern Africa,PKF (UK) LLP,400099969,45383
+DFID,DFID,24/05/2010,Technical & Advisory services,West and Southern Africa,PKF (UK) LLP,400099970,113178.26
+DFID,DFID,25/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400100312,2000000
+DFID,DFID,25/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,CENTER FOR CLEAN AIR POLICY,400100126,66419.37
+DFID,DFID,25/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,THE INSTITUTE FOR STATE EFFECTIVENESS,400100150,52523.05
+DFID,DFID,25/05/2010,Research & Development,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400100280,76838.34
+DFID,DFID,25/05/2010,Technical & Advisory services,Policy and Research Directorate,HEALTH PARTNERS INTERNATIONAL,400100255,313962.43
+DFID,DFID,25/05/2010,Technical & Advisory services,Policy and Research Directorate,THE CROWN AGENTS,400100128,29280.86
+DFID,DFID,25/05/2010,Aid to civil society organisations / NGOs,Asia Division,WaterAid  (INDIA),400100124,98317
+DFID,DFID,25/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400100279,3171910.58
+DFID,DFID,25/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400100279,-1585955.29
+DFID,DFID,25/05/2010,Aid to partner government,West and Southern Africa,THE CROWN AGENTS,400100149,2000000
+DFID,DFID,25/05/2010,Technical & Advisory services,Asia Division,RTI INTERNATIONAL,400100236,83390.56
+DFID,DFID,25/05/2010,Technical & Advisory services,West and Southern Africa,ABT ASSOCIATES INC,400100267,548805.46
+DFID,DFID,25/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400100147,1795.86
+DFID,DFID,25/05/2010,Medical & Health Supplies/Services,West and Southern Africa,THE CROWN AGENTS,400100147,59862
+DFID,DFID,25/05/2010,Aid to partner government,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400100310,221525.92
+DFID,DFID,25/05/2010,Aid to international organisations,East and Central Africa,World Food  Programme,400100162,20000000
+DFID,DFID,26/05/2010,Technical & Advisory services,East and Central Africa,ADAM SMITH INTERNATIONAL  LTD,400100529,53880.77
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,EISA,400100278,302069.39
+DFID,DFID,26/05/2010,Technical & Advisory services,Asia Division,BMB MOTT  MACDONALD,400100621,56681.57
+DFID,DFID,26/05/2010,Aid to international organisations,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",ECLAC (ECONOMIC COMMISSION FOR LATIN AMERICA AND THE CARIBBEAN),400100271,250000
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,INTERNATIONAL RESCUE COMMITTEE UK,400100286,1247494
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,INTERNATIONAL RESCUE COMMITTEE UK,400100401,3165987
+DFID,DFID,26/05/2010,Aid to international organisations,Evaluation Department,THE WORLD BANK (CHINA),400100394,29142.38
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,CHRISTIAN AID,400100713,55718
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,FinMark  TRUST,400100718,38025.31
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,LIVERPOOL SCHOOL OF TROPICAL MEDICINE,400100416,444974.9
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",DEVELOPMENT INITIATIVES,400100365,45474
+DFID,DFID,26/05/2010,Communications,Business Solutions Division Level,OGC BUYING SOLUTIONS,400100391,153864.9
+DFID,DFID,26/05/2010,Aid to other bilateral donors,West and Southern Africa,THE CROWN AGENTS,400100604,4000000
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,Finance and Corporate Performance Division,CMI MICHELSEN INSTITUTE,400100708,33333
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,CONCERN UNIVERSAL,400100327,78270.13
+DFID,DFID,26/05/2010,Technical & Advisory services,West and Southern Africa,ADAM SMITH INTERNATIONAL  LTD,400100569,302515.89
+DFID,DFID,26/05/2010,Purchase of Vehicles,West and Southern Africa,THE CROWN AGENTS,400100587,69109.83
+DFID,DFID,26/05/2010,Aid to international organisations,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",CARIBBEAN COMMUNITY CLIMATE CHANGE CENTER,400100397,110000
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,Communications Division,THE CROWN AGENTS,400100577,27742.73
+DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,TRADES UNION CONGRESS,400100205,300000
+DFID,DFID,26/05/2010,Aid to other bilateral donors,West and Southern Africa,Government  of the Federal Republic of Germany,400100329,2000000
+DFID,DFID,26/05/2010,Technical & Advisory services,East and Central Africa,ADAM SMITH INTERNATIONAL  LTD,400100537,39293.17
+DFID,DFID,27/05/2010,Emergency / Humanitarian Assistance,Asia Division,THE CROWN AGENTS,400100751,142716.45
+DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,CATHOLIC RELIEF  SERVICES,400100650,340551.84
+DFID,DFID,27/05/2010,Technical & Advisory services,Policy and Research Directorate,Sustainable Development Capital LLP,400100743,50000
+DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",The Carter Center,400100631,75000
+DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,Asia Division,OXFAM,400100640,180000
+DFID,DFID,27/05/2010,Technical & Advisory services,West and Southern Africa,PRICEWATERHOUSECOOPERS,400100742,178391.1
+DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,Population Council,400100641,235219.28
+DFID,DFID,27/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400100832,34107.85
+DFID,DFID,27/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400100832,4804.59
+DFID,DFID,27/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400100832,503.1
+DFID,DFID,27/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400100749,86825.45
+DFID,DFID,27/05/2010,Technical & Advisory services,Asia Division,PRICEWATERHOUSECOOPERS DEVELOPMENT,400100739,38000
+DFID,DFID,27/05/2010,Technical & Advisory services,Asia Division,SOCIETY FOR PARTICIPATORY RESEARCH,400100561,51841.06
+DFID,DFID,27/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400100741,5006.13
+DFID,DFID,27/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400100745,2962.4
+DFID,DFID,27/05/2010,Medical & Health Supplies/Services,West and Southern Africa,THE CROWN AGENTS,400100741,106415.74
+DFID,DFID,27/05/2010,Purchase of Vehicles,West and Southern Africa,THE CROWN AGENTS,400100745,34248
+DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,Global Development Network,400100623,240000
+DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,PANOS LONDON,400100610,84615
+DFID,DFID,27/05/2010,Technical & Advisory services,East and Central Africa,ADAM SMITH INTERNATIONAL  LTD,400100533,222931.37
+DFID,DFID,27/05/2010,Aid to international organisations,West and Southern Africa,UNAIDS,400100913,190000
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Asia Division,Hogg Robinson Group,6000022,18382.66
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Business Solutions Division Level,Hogg Robinson Group,6000022,12561
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Communications Division,Hogg Robinson Group,6000022,932.04
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,East and Central Africa,Hogg Robinson Group,6000022,7610.22
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Evaluation Department,Hogg Robinson Group,6000022,-260.33
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Finance and Corporate Performance Division,Hogg Robinson Group,6000022,11425.93
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Human Resources Division,Hogg Robinson Group,6000022,17390.23
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Internal Audit,Hogg Robinson Group,6000022,63.34
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,International Finance Division,Hogg Robinson Group,6000022,-1396.97
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,International Relations Division,Hogg Robinson Group,6000022,5761.24
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Policy and Research Directorate,Hogg Robinson Group,6000022,29030.22
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000022,35294.67
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Top Management Group,Hogg Robinson Group,6000022,4791.86
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,West and Southern Africa,Hogg Robinson Group,6000022,19841.56
+DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,Hogg Robinson Group,6000022,21258.09
+DFID,DFID,27/05/2010,Staff training & Conferences,Asia Division,Hogg Robinson Group,6000022,1409.37
+DFID,DFID,27/05/2010,Staff training & Conferences,Business Solutions Division Level,Hogg Robinson Group,6000022,446.73
+DFID,DFID,27/05/2010,Staff training & Conferences,Evaluation Department,Hogg Robinson Group,6000022,286.53
+DFID,DFID,27/05/2010,Staff training & Conferences,Finance and Corporate Performance Division,Hogg Robinson Group,6000022,360.72
+DFID,DFID,27/05/2010,Staff training & Conferences,Human Resources Division,Hogg Robinson Group,6000022,203.67
+DFID,DFID,27/05/2010,Staff training & Conferences,International Relations Division,Hogg Robinson Group,6000022,3616.85
+DFID,DFID,27/05/2010,Staff training & Conferences,Policy and Research Directorate,Hogg Robinson Group,6000022,354.15
+DFID,DFID,27/05/2010,Staff training & Conferences,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000022,577.04
+DFID,DFID,27/05/2010,Staff training & Conferences,West and Southern Africa,Hogg Robinson Group,6000022,335.74
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,94857.23
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,24032.34
+DFID,DFID,28/05/2010,Aid to international organisations,Asia Division,THE WORLD BANK (CHINA),400101542,1020257.5
+DFID,DFID,28/05/2010,FCO Post Account,Policy and Research Directorate,FOREIGN AND COMMONWEALTH OFFICE,400100756,662.11
+DFID,DFID,28/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",HLSP LTD,400100967,28214.77
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100717,11514
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,3024.92
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100756,25447.53
+DFID,DFID,28/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400100717,9451.46
+DFID,DFID,28/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400100756,14416.55
+DFID,DFID,28/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,4813.73
+DFID,DFID,28/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,4785.2
+DFID,DFID,28/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,1832.52
+DFID,DFID,28/05/2010,Aid to international organisations,West and Southern Africa,The World  Bank IBRD,400104898,73649.48
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,710.8
+DFID,DFID,28/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,The Carter Center,400100699,500000
+DFID,DFID,28/05/2010,FCO Post Account,Policy and Research Directorate,FOREIGN AND COMMONWEALTH OFFICE,400100698,1754.37
+DFID,DFID,28/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400100698,1296.28
+DFID,DFID,28/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400100717,3313.01
+DFID,DFID,28/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400100747,1394.87
+DFID,DFID,28/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400100756,465.84
+DFID,DFID,28/05/2010,Technical & Advisory services,East and Central Africa,WHO (GENEVA),400100721,3408510
+DFID,DFID,28/05/2010,Technical & Advisory services,West and Southern Africa,Management Sciences for Health,400100944,34758
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,8126.88
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,1177.66
+DFID,DFID,28/05/2010,Technical & Advisory services,Asia Division,HAREWELLE INTERNATIONAL LIMITED,400100884,34774.82
+DFID,DFID,28/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400100930,6083.06
+DFID,DFID,28/05/2010,Medical & Health Supplies/Services,West and Southern Africa,THE CROWN AGENTS,400100930,209760.7
+DFID,DFID,28/05/2010,Debt Relief,International Relations Division,EUROPEAN INVESTMENT BANK,400100897,56230.74
+DFID,DFID,28/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400100756,387.73
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,850.73
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,511.67
+DFID,DFID,28/05/2010,Technical & Advisory services,West and Southern Africa,OPTIONS CONSULTANCY SERVICES LIMITED,400101592,68263.44
+DFID,DFID,28/05/2010,Technical & Advisory services,Communications Division,EC GROUP,400100951,16591.6
+DFID,DFID,28/05/2010,Technical & Advisory services,Communications Division,EC GROUP,400100951,64566.98
+DFID,DFID,28/05/2010,Technical & Advisory services,East and Central Africa,COFFEY INTERNATIONAL DEVELOPMENT LTD,400100882,88329.16
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,3236.9
+DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,190.18
+DFID,DFID,28/05/2010,FCO Post Account,Finance and Corporate Performance Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,584.82
+DFID,DFID,30/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",AIR CHARTER SERVICE PLC,400100920,68336.6
+DFID,DFID,30/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",AIR CHARTER SERVICE PLC,400100924,68326.65
+DFID,DFID,30/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",AIR CHARTER SERVICE PLC,400100925,68326.65

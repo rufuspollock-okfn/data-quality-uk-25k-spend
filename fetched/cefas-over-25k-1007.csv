@@ -1,0 +1,11 @@
+Department family(T);Entity(T);Pay date;Expense type(T);Expense area(T);Supplier(T);TransNo;Amount;VAT Registration Number
+DEFRA;Cefas;07/07/2010;Assets Under Construction;Aquatic Health & Hygiene;WATERS LTD;20001128;169819.46;
+DEFRA;Cefas;12/07/2010;Assets Under Construction;Fisheries;Loligo Systems Aps;20003787;26850.05;
+DEFRA;Cefas;12/07/2010;Professional Services Technical Subcontracts (original research);Fisheries;TNS Options;20004854;40921.41;
+DEFRA;Cefas;15/07/2010;Lab Services;Environment & Ecosystems;Agilent Technologies;20004958;21559.37;
+DEFRA;Cefas;22/07/2010;Professional Services Technical Subcontracts (original research);Monitoring and Programme Management;NPL MANAGEMENT LIMITED;20005272;44148.00;
+DEFRA;Cefas;22/07/2010;Professional Services Technical Subcontracts (scientific work);Monitoring and Programme Management;INTERFISH LIMITED;20005242;37240.00;
+DEFRA;Cefas;23/07/2010;Lab Consumables;Environment & Ecosystems;DELTARES;20005233;35000.00;
+DEFRA;Cefas;28/07/2010;Professional Services Technical Subcontracts (scientific work);Environment & Ecosystems;SMRU LTD;20005404;34738.53;
+DEFRA;Cefas;28/07/2010;Professional Services Technical Subcontracts (scientific work);Environment & Ecosystems;SMRU LTD;20005404;35510.55;
+DEFRA;Cefas;29/07/2010;Professional Services Technical Subcontracts (original research);Monitoring and Programme Management;UNIVERSITY OF BRISTOL;20005341;30189.00;

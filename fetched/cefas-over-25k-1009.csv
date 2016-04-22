@@ -1,0 +1,7 @@
+Department family(T);Entity(T);Pay date;Expense type(T);Expense area(T);Supplier(T);TransNo;Amount;VAT Registration Number
+DEFRA;Cefas;07/09/2010;G5 DST;Fisheries;Wageningen Imares BV;20007173;158001.36;
+DEFRA;Cefas;07/09/2010;G5 DST;Fisheries;DTU - Aqua;20007171;47394.31;
+DEFRA;Cefas;07/09/2010;Lab Consumables;Fisheries;CEFAS TECHNOLOGY LTD;20004843;22500.00;
+DEFRA;Cefas;07/09/2010;Professional Services Technical Subcontracts (original research);Monitoring and Programme Management;MARIN;20006969;45600.00;
+DEFRA;Cefas;23/09/2010;Assets Under Construction;Corporate;SSD HR SHARED SERVICES;20008153;203379.98;
+DEFRA;Cefas;23/09/2010;Assets Under Construction;Corporate;SSD HR SHARED SERVICES;20008153;185453.08;

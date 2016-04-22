@@ -1,0 +1,8 @@
+Department family(T),Entity(T),Pay date,Expense type(T),Expense area(T),Supplier,Supplier(T),TransNo,Amount
+DEFRA,Cefas,05/01/2011,Subscriptions,Corporate,201521,EBSCO Information Services,20012293,"Ł28,712.18"
+DEFRA,Cefas,05/01/2011,Professional Services Technical Subcontracts (original research),Monitoring and Programme Management,200879,NERC REF 9704,20012034,"Ł38,627.00"
+DEFRA,Cefas,05/01/2011,Consultancy - Technical,Corporate,200278,COMPUTACENTER UK LTD,20012297,"Ł387,224.10"
+DEFRA,Cefas,13/01/2011,Subscriptions,Corporate,200405,ELSEVIER SCIENCE BV,20012772,"Ł75,092.72"
+DEFRA,Cefas,14/01/2011,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20012851,"Ł164,080.34"
+DEFRA,Cefas,24/01/2011,Professional Services Technical Subcontracts (original research),Monitoring and Programme Management,201294,UNIVERSITY OF BRISTOL,20012897,"Ł30,189.00"
+DEFRA,Cefas,31/01/2011,Lab Consumables,Corporate,202007,Barclaycard,20013436,"Ł52,104.81"

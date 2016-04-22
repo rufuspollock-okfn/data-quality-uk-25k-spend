@@ -1,0 +1,8 @@
+Department family (T),Entity (T),Pay date,Expense type (T),Expense area (T),Supplier,Supplier (T),TransNo,Amount
+DEFRA,Cefas,01/11/2010,Lab Consumables,Corporate,202007,Barclaycard,20009844,"88,703.55"
+DEFRA,Cefas,03/11/2010,Professional Services Technical Sub...,Monitoring and Programme Management,200869,NPL MANAGEMENT LIMITED,20009906,"44,148.00"
+DEFRA,Cefas,23/11/2010,Professional Services Technical Sub...,Aquatic Health & Hygiene,201283,UNIVERSITY OF LEICESTER,20010980,"30,000.00"
+DEFRA,Cefas,23/11/2010,Professional Services Technical Sub...,Monitoring and Programme Management,201287,UNIVERSITY OF SOUTHAMPTON,20009079,"26,290.00"
+DEFRA,Cefas,23/11/2010,Professional Services Technical Sub...,Monitoring and Programme Management,200408,EMU LTD,20010629,"26,518.00"
+DEFRA,Cefas,23/11/2010,Professional Services Technical Sub...,Monitoring and Programme Management,200879,NERC REF 9704,20005707,"69,777.00"
+DEFRA,Cefas,23/11/2010,Professional Services Technical Sub...,Monitoring and Programme Management,201745,Imperial College,20010925,"29,330.00"

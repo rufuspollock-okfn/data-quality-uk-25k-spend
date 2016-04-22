@@ -1,0 +1,928 @@
+Department,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount
+Home Office,Home Office,21/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,METROPOLITAN POLICE AUTHORITY  (G),1993605,4767030.00
+Home Office,Home Office,21/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,METROPOLITAN POLICE AUTHORITY  (G),1993608,2828268.00
+Home Office,Home Office,21/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,METROPOLITAN POLICE AUTHORITY  (G),1995437,990967.00
+Home Office,Home Office,09/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,LONDON ORGANISING COMMITTEE OF THE OLYMPIC GAMES AND PARALYMPIC GAMES (G),1992733,679374.00
+Home Office,Home Office,09/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,NPIA (G),1992735,661888.00
+Home Office,Home Office,21/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,METROPOLITAN POLICE AUTHORITY  (G),1995435,226692.00
+Home Office,Home Office,24/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,DORSET POLICE AUTHORITY 1 (G),2000371,69702.00
+Home Office,Home Office,16/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,CITY OF LONDON POLICE AUTHORITY (G),1997580,43394.00
+Home Office,Home Office,21/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,METROPOLITAN POLICE AUTHORITY  (G),1993603,40256.00
+Home Office,Home Office,24/06/2011,Grants,OSCT - Office of Security and Counter-Terrorism,THAMES VALLEY POLICE (G),2000361,35098.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NPIA (G),1996467,35000000.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,INDEPENDENT POLICE COMPLAINTS COMISSION (G),1996468,2000000.00
+Home Office,Home Office,21/06/2011,Grants,CPG - Crime & Policing Group,MERSEYSIDE POLICE AUTHORITY 1 (G),1999508,179768.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,GREATER LONDON AUTHORITY (G),1961303,93977997.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,WEST MIDLANDS POLICE AUTHORITY 1 (G),1961320,22740680.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,GREATER MANCHESTER POLICE AUTHORITY (G),1961291,20705963.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,WEST YORKSHIRE POLICE (G),1961321,16054480.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,THAMES VALLEY POLICE (G),1961317,13179571.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,HAMPSHIRE POLICE AUTHORITY 1 (G),1961294,11497255.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,MERSEYSIDE POLICE AUTHORITY 1 (G),1961302,11480388.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,NORTHUMBRIA POLICE (G),1961308,10357098.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,AVON & SOMERSET POLICE AUTHORITY 1 (G),1961265,10077352.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,DEVON & CORNWALL POLICE AUTHORITY 1 (G),1961280,9911628.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,KENT POLICE AUTHORITY 1 (G),1961298,9823144.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,ESSEX POLICE AUTHORITY (G),1961288,9800828.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,LANCASHIRE POLICE AUTHORITY 1 (G),1961299,9528222.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE AUTHORITY 1 (G),1961311,9230816.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,SUSSEX POLICE AUTHORITY 1 (G),1961316,9081460.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,SOUTH WALES POLICE AUTHORITY 1 (G),1961310,8387288.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,NOTTINGHAMSHIRE POLICE AUTHORITY 2 (G),1961309,7237470.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,HERTFORDSHIRE POLICE AUTHORITY 1 (G),1961295,6623331.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,HUMBERSIDE POLICE AUTHORITY 1 (G),1961297,6232921.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,STAFFORDSHIRE POLICE AUTHORITY (G),1961313,6180975.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,NEW WEST MERCIA POLICE AUTHORITY (G),1961319,6178620.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,LEICESTERSHIRE POLICE AUTHORITY (G),1961300,6036080.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,DERBYSHIRE POLICE AUTHORITY 1 (G),1961275,5846241.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,SURREY POLICE AUTHORITY 1 (G),1961315,5835740.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,CHESHIRE POLICE AUTHORITY 2 (G),1961269,5792834.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,NORFOLK POLICE AUTHORITY 1 (G),1961304,4805069.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,NORTH WALES POLICE AUTHORITY (G),1961305,4677883.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,CAMBRIDGESHIRE POLICE AUTHORITY 1 (G),1961268,4478210.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,CLEVELAND POLICE AUTHORITY 1 (G),1961273,4279609.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,NORTHAMPTONSHIRE POLICE 1 (G),1961307,4046674.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,GWENT POLICE AUTHORITY 1 (G),1961293,4012840.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,DURHAM POLICE AUTHORITY 1 (G),1961285,3982069.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,NORTH YORKSHIRE POLICE AUTHORITY (G),1961306,3937104.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,SUFFOLK POLICE AUTHORITY (G),1961314,3825493.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,DORSET POLICE AUTHORITY 1 (G),1961283,3822155.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,BEDFORDSHIRE POLICE AUTHORITY 1 (G),1961267,3659509.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,LINCOLNSHIRE POLICE AUTHORITY 1 (G),1961301,3571904.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,WILTSHIRE CONSTABULARY (G),1961323,3468252.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,DYFED POWYS POLICE AUTHORITY 1 (G),1961286,3400650.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,GLOUCESTERSHIRE POLICE AUTHORITY (G),1961289,3254375.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,WARWICKSHIRE POLICE AUTHORITY 1 (G),1961318,2932142.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,CUMBRIA POLICE AUTHORITY 1 (G),1961274,2754604.00
+Home Office,Home Office,06/06/2011,Grants,CPG - Crime & Policing Group,CHAMBERLAIN OF LONDON (G),1961271,2637391.00
+Home Office,Home Office,02/06/2011,Grants,CPG - Crime & Policing Group,GWENT POLICE AUTHORITY 1 (G),1985919,2197773.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORFOLK POLICE AUTHORITY 1 (G),2005207,817580.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTHUMBRIA POLICE (G),2005208,376872.71
+Home Office,Home Office,21/06/2011,Grants,CPG - Crime & Policing Group,CITY OF YORK COUNCIL 1 (G),1999422,40000.00
+Home Office,Home Office,21/06/2011,Grants,CPG - Crime & Policing Group,LANCASHIRE COUNTY COUNCIL 1 (G),1999421,40000.00
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,METROPOLITAN POLICE AUTHORITY  (G),2001267,1303764.25
+Home Office,Home Office,23/06/2011,Grants,CPG - Crime & Policing Group,LIVERPOOL CITY COUNCIL 1 (G),2001256,170801.00
+Home Office,Home Office,23/06/2011,Grants,CPG - Crime & Policing Group,LEICESTERSHIRE POLICE AUTHORITY (G),2001269,125871.25
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,LONDON BOROUGH OF NEWHAM (G),2003935,114244.25
+Home Office,Home Office,23/06/2011,Grants,CPG - Crime & Policing Group,BARNSLEY MBC 1 (G),2001250,62380.75
+Home Office,Home Office,23/06/2011,Grants,CPG - Crime & Policing Group,STAFFORDSHIRE COUNTY COUNCIL 1 (G),2001243,56963.75
+Home Office,Home Office,23/06/2011,Grants,CPG - Crime & Policing Group,STOCKPORT METRO BOROUGH COUNCIL (G),2001252,54334.00
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,HAMPSHIRE COUNTY COUNCIL 1 (G),2003945,53233.25
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,CALDERDALE MBC (G),2003936,42934.50
+Home Office,Home Office,22/06/2011,Grants,CPG - Crime & Policing Group,SUFFOLK COUNTY COUNCIL (G),2000425,39872.25
+Home Office,Home Office,23/06/2011,Grants,CPG - Crime & Policing Group,WARWICKSHIRE COUNTY COUNCIL 1 (G),2001240,33984.00
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,LONDON BOROUGH OF BARNET 1 (G),2003941,26533.25
+Home Office,Home Office,14/06/2011,Grants,CPG - Crime & Policing Group,CATCH 22 (G),1995431,1257757.50
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,METROPOLITAN POLICE AUTHORITY  (G),2004946,145921921.72
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,WEST YORKSHIRE POLICE (G),2004966,62135558.51
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,WEST MIDLANDS POLICE AUTHORITY 1 (G),2004965,50680726.72
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,GREATER MANCHESTER POLICE AUTHORITY (G),2004933,41959066.26
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,MERSEYSIDE POLICE AUTHORITY 1 (G),2004945,41853885.54
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NOTTINGHAMSHIRE POLICE AUTHORITY 2 (G),2004952,31798689.74
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,AVON & SOMERSET POLICE AUTHORITY 1 (G),2004915,30096790.35
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE AUTHORITY 1 (G),2004954,29041694.89
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DEVON & CORNWALL POLICE AUTHORITY 1 (G),2004925,27715014.37
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,LANCASHIRE POLICE AUTHORITY 1 (G),2004940,26744223.81
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,HAMPSHIRE POLICE AUTHORITY 1 (G),2004935,23311483.52
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NEW WEST MERCIA POLICE AUTHORITY (G),2004963,20814615.77
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,HUMBERSIDE POLICE AUTHORITY 1 (G),2004938,19388325.53
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SOUTH WALES POLICE AUTHORITY 1 (G),2004953,19155461.28
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,STAFFORDSHIRE POLICE AUTHORITY (G),2004955,18561082.53
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SUSSEX POLICE AUTHORITY 1 (G),2004960,17287413.21
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CHESHIRE POLICE AUTHORITY 2 (G),2004919,16385021.64
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,KENT POLICE AUTHORITY 1 (G),2004939,16091697.17
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CLEVELAND POLICE AUTHORITY 1 (G),2004922,14132065.48
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DURHAM POLICE AUTHORITY 1 (G),2004928,13814355.33
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,LINCOLNSHIRE POLICE AUTHORITY 1 (G),2004943,13433142.92
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTHUMBRIA POLICE (G),2004951,13039197.76
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,THAMES VALLEY POLICE (G),2004961,12779664.06
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SOCA (G),2004968,12737733.83
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORFOLK POLICE AUTHORITY 1 (G),2004947,11331926.11
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DERBYSHIRE POLICE AUTHORITY 1 (G),2004924,10797235.80
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DORSET POLICE AUTHORITY 1 (G),2004927,10648846.27
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CUMBRIA POLICE AUTHORITY 1 (G),2004923,9957537.90
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,WILTSHIRE CONSTABULARY (G),2004967,9939158.86
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CAMBRIDGESHIRE POLICE AUTHORITY 1 (G),2004918,9828009.54
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTHAMPTONSHIRE POLICE 1 (G),2004950,9804939.16
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTH YORKSHIRE POLICE AUTHORITY (G),2004949,9729699.59
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CHAMBERLAIN OF LONDON (G),2004920,9702885.86
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTH WALES POLICE AUTHORITY (G),2004948,9642817.86
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,GLOUCESTERSHIRE POLICE AUTHORITY (G),2004932,9465088.38
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SURREY POLICE AUTHORITY 1 (G),2004959,9195713.09
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SUFFOLK POLICE AUTHORITY (G),2004958,9160225.64
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,WARWICKSHIRE POLICE AUTHORITY 1 (G),2004962,8569615.99
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,LEICESTERSHIRE POLICE AUTHORITY (G),2004941,8083214.89
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,HERTFORDSHIRE POLICE AUTHORITY 1 (G),2004937,7432635.29
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,ESSEX POLICE AUTHORITY (G),2004931,7402184.18
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DYFED POWYS POLICE AUTHORITY 1 (G),2004930,7288370.09
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,BEDFORDSHIRE POLICE AUTHORITY 1 (G),2004917,6529258.20
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,GWENT POLICE AUTHORITY 1 (G),2004934,2466665.70
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NPIA (G),2004969,335433.22
+Home Office,Home Office,03/06/2011,Grants,CPG - Crime & Policing Group,POLICE DEPENDANTS' TRUST (G),1986686,50446.67
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,GREATER LONDON AUTHORITY (G),2005824,25467280.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,GREATER MANCHESTER POLICE AUTHORITY (G),2005813,4349094.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,WEST MIDLANDS POLICE AUTHORITY 1 (G),2005846,3999603.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,WEST YORKSHIRE POLICE (G),2005848,3585121.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,MERSEYSIDE POLICE AUTHORITY 1 (G),2005823,2470952.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,THAMES VALLEY POLICE (G),2005842,2294570.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTHUMBRIA POLICE (G),2005830,2244073.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,LANCASHIRE POLICE AUTHORITY 1 (G),2005820,2052860.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,KENT POLICE AUTHORITY 1 (G),2005819,2013205.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,HAMPSHIRE POLICE AUTHORITY 1 (G),2005815,1902306.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DEVON & CORNWALL POLICE AUTHORITY 1 (G),2005806,1882377.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,AVON & SOMERSET POLICE AUTHORITY 1 (G),2005798,1838997.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SUSSEX POLICE AUTHORITY 1 (G),2005840,1807832.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,ESSEX POLICE AUTHORITY (G),2005811,1803448.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SOUTH WALES POLICE AUTHORITY 1 (G),2005834,1682153.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE AUTHORITY 1 (G),2005835,1649541.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NOTTINGHAMSHIRE POLICE AUTHORITY 2 (G),2005832,1371800.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NEW WEST MERCIA POLICE AUTHORITY (G),2005845,1338980.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,HERTFORDSHIRE POLICE AUTHORITY 1 (G),2005816,1333658.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CHESHIRE POLICE AUTHORITY 2 (G),2005801,1212159.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,HUMBERSIDE POLICE AUTHORITY 1 (G),2005817,1190299.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,LEICESTERSHIRE POLICE AUTHORITY (G),2005821,1180692.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,STAFFORDSHIRE POLICE AUTHORITY (G),2005836,1119460.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SURREY POLICE AUTHORITY 1 (G),2005839,1111372.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORFOLK POLICE AUTHORITY 1 (G),2005826,989091.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DERBYSHIRE POLICE AUTHORITY 1 (G),2005805,920030.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CAMBRIDGESHIRE POLICE AUTHORITY 1 (G),2005800,913984.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTH YORKSHIRE POLICE AUTHORITY (G),2005828,855427.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTH WALES POLICE AUTHORITY (G),2005827,834452.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DURHAM POLICE AUTHORITY 1 (G),2005808,833951.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DORSET POLICE AUTHORITY 1 (G),2005807,816222.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,GLOUCESTERSHIRE POLICE AUTHORITY (G),2005812,800579.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,SUFFOLK POLICE AUTHORITY (G),2005838,767982.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,NORTHAMPTONSHIRE POLICE 1 (G),2005829,762420.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CLEVELAND POLICE AUTHORITY 1 (G),2005803,741320.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,GWENT POLICE AUTHORITY 1 (G),2005814,740674.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,LINCOLNSHIRE POLICE AUTHORITY 1 (G),2005822,716868.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,WILTSHIRE CONSTABULARY (G),2005849,705302.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,WARWICKSHIRE POLICE AUTHORITY 1 (G),2005843,693099.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,BEDFORDSHIRE POLICE AUTHORITY 1 (G),2005799,690798.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CUMBRIA POLICE AUTHORITY 1 (G),2005804,587213.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,DYFED POWYS POLICE AUTHORITY 1 (G),2005809,411585.00
+Home Office,Home Office,29/06/2011,Grants,CPG - Crime & Policing Group,CHAMBERLAIN OF LONDON (G),2005802,317178.00
+Home Office,Home Office,14/06/2011,Grants,CPG - Crime & Policing Group,THANET DISTRICT COUNCIL (G),1996148,50000.00
+Home Office,Home Office,30/06/2011,Grants,CPG - Crime & Policing Group,LUTON BOROUGH COUNCIL (G),2005990,50000.00
+Home Office,Home Office,17/06/2011,Grants,CPG - Crime & Policing Group,LB OF BARKING & DAGENHAM (G),1998291,49612.00
+Home Office,Home Office,30/06/2011,Grants,CPG - Crime & Policing Group,GATESHEAD METROPOLITAN BC (G),2005989,49169.00
+Home Office,Home Office,23/06/2011,Grants,CPG - Crime & Policing Group,PETERBOROUGH CITY COUNCIL (G),2001207,25233.28
+Home Office,Home Office,24/06/2011,Grants,CPG - Crime & Policing Group,CITY AND COUNTY OF SWANSEA 1 (G),2002341,147892.00
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,CARDIFF COUNTY COUNCIL 1 (G),2004045,73623.25
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,DUDLEY METROPOLITAN BOROUGH COUNCIL (G),2004075,60000.00
+Home Office,Home Office,01/06/2011,Grants,CPG - Crime & Policing Group,LEEDS CITY COUNCIL 1 (G),1912601,45228.88
+Home Office,Home Office,01/06/2011,Grants,CPG - Crime & Policing Group,LEEDS CITY COUNCIL 1 (G),1943856,45228.88
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,RHONDDA CYNON TAFF (G),2004064,40694.00
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,CAERPHILLY COUNTY BOROUGH COUNCIL (G),2004056,35471.75
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,NEWPORT COUNTY BOROUGH COUNCIL 1 (G),2004059,34623.25
+Home Office,Home Office,24/06/2011,Grants,CPG - Crime & Policing Group,CITY AND COUNTY OF SWANSEA 1 (G),2002343,29587.50
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,BRIDGEND COUNTY BOROUGH COUNCIL 1 (G),2004053,27732.25
+Home Office,Home Office,28/06/2011,Grants,CPG - Crime & Policing Group,WREXHAM COUNTY BOROUGH COUNCIL (G),2004067,27354.75
+Home Office,Home Office,21/06/2011,Grants,CPG - Crime & Policing Group,SOCA (G),1999497,10000000.00
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,SOCA (G),1999745,3242452.38
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,METROPOLITAN POLICE SERVICE (G),1999626,2426919.43
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,WEST MIDLANDS POLICE AUTHORITY 1 (G),1999664,875389.61
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,MERSEYSIDE POLICE AUTHORITY 1 (G),1999624,612576.05
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,WEST YORKSHIRE POLICE (G),1999667,388265.73
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,BIRMINGHAM CITY COUNCIL (G),2000488,348061.02
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,GREATER MANCHESTER POLICE AUTHORITY (G),1999599,344457.73
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,HERTFORDSHIRE COUNTY COUNCIL 1 (G),2000508,296191.39
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,SOUTH WALES POLICE AUTHORITY 1 (G),1999643,276781.82
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,POLICE SERVICE OF NORTHERN IRELAND (G),1999742,255139.91
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,FINANCIAL SERVICES AUTHORITY (G),1999748,240041.72
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,LANCASHIRE POLICE AUTHORITY 1 (G),1999618,224387.86
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,STAFFORDSHIRE POLICE AUTHORITY (G),1999646,218870.63
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE AUTHORITY 1 (G),1999644,202123.53
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,KENT POLICE AUTHORITY 1 (G),1999608,200237.02
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,DERBYSHIRE POLICE AUTHORITY 1 (G),1999588,148664.12
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,HAMPSHIRE POLICE AUTHORITY 1 (G),1999602,136386.80
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,NORTH WALES POLICE AUTHORITY (G),1999634,133355.31
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,WILTSHIRE CONSTABULARY (G),1999670,128496.45
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,NORTHAMPTONSHIRE POLICE 1 (G),1999636,115289.65
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,HUMBERSIDE POLICE AUTHORITY 1 (G),1999605,114309.07
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,BRITISH TRANSPORT POLICE AUTHORITY (G),1999753,112066.05
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,NORTH YORKSHIRE POLICE AUTHORITY (G),1999632,107303.38
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,SUFFOLK POLICE AUTHORITY (G),1999649,96344.57
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,GWENT POLICE AUTHORITY 1 (G),1999600,90509.80
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,GLOUCESTERSHIRE POLICE AUTHORITY (G),1999598,82240.31
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,NORTHUMBRIA POLICE (G),1999639,80247.29
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,AVON & SOMERSET CONSTABULARY (G),1999575,77221.69
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,NOTTINGHAMSHIRE POLICE AUTHORITY 2 (G),1999642,74943.80
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,CHESHIRE POLICE AUTHORITY 2 (G),1999583,70916.19
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,LEICESTERSHIRE POLICE AUTHORITY (G),1999620,67176.42
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,DEVON & CORNWALL CONSTABULARY 4 (G),1999589,60234.14
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,BEDFORDSHIRE POLICE AUTHORITY 1 (G),1999579,56597.52
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,SUSSEX POLICE AUTHORITY 1 (G),1999653,53432.05
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,SURREY POLICE AUTHORITY 1 (G),1999651,46251.16
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,NEW WEST MERCIA POLICE AUTHORITY (G),1999661,41923.20
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,ENVIRONMENT AGENCY (G),1999749,39802.84
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,HERTFORDSHIRE POLICE AUTHORITY 1 (G),1999603,36796.98
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,CHAMBERLAIN OF LONDON 2 (G),1999582,35241.70
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,THAMES VALLEY POLICE (G),1999655,32754.37
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,DEPARTMENT FOR SOCIAL DEVELOPMENT (G),1999755,32652.51
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,LONDON BOROUGH OF HOUNSLOW 1 (G),2000516,30999.79
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,ESSEX POLICE AUTHORITY (G),1999596,28883.98
+Home Office,Home Office,27/06/2011,Grants,CPG - Crime & Policing Group,NORFOLK POLICE AUTHORITY 1 (G),1999628,27679.41
+Home Office,Home Office,01/06/2011,Other Government Department,OSCT - Office of Security and Counter-Terrorism,"DEPARTMENT FOR BUSINESS, INNOVATION & SKILLS",1969206,470845.85
+Home Office,Home Office,21/06/2011,Other Government Department,CPG - Crime & Policing Group,COMMUNITIES & LOCAL GOVERNMENT (G),1999436,13410488.00
+Home Office,Home Office,23/06/2011,Other Government Department,CPG - Crime & Policing Group,HEART OF BIRMINGHAM TEACHING PCT (G),2001238,467266.50
+Home Office,Home Office,28/06/2011,Other Government Department,CPG - Crime & Policing Group,DONCASTER PCT (G),2003943,95813.75
+Home Office,Home Office,22/06/2011,Other Government Department,CPG - Crime & Policing Group,NORTH EAST LINCOLNSHIRE PCT(G),2000424,79082.50
+Home Office,Home Office,23/06/2011,Other Government Department,CPG - Crime & Policing Group,SOUTH SEFTON PCT (G),2001245,58310.75
+Home Office,Home Office,23/06/2011,Other Government Department,CPG - Crime & Policing Group,WALSALL PCT (G),2001247,56811.50
+Home Office,Home Office,22/06/2011,Other Government Department,CPG - Crime & Policing Group,CHESTERFIELD PCT (G),2000422,53255.75
+Home Office,Home Office,23/06/2011,Other Government Department,CPG - Crime & Policing Group,LINCOLNSHIRE PCT (G),2001259,45261.75
+Home Office,Home Office,09/06/2011,Other Government Department,CPG - Crime & Policing Group,COI COMMUNICATIONS,1940066,49103.02
+Home Office,Home Office,03/06/2011,Other Government Department,CPG - Crime & Policing Group,COMMUNITIES & LOCAL GOVERNMENT (G),1955747,4735973.00
+Home Office,Home Office,29/06/2011,Other Government Department,CPG - Crime & Policing Group,CROWN PROSECUTION SERVICE (G),1999790,4129469.73
+Home Office,Home Office,29/06/2011,Other Government Department,CPG - Crime & Policing Group,MINISTRY OF JUSTICE,1999810,3564956.17
+Home Office,Home Office,29/06/2011,Other Government Department,CPG - Crime & Policing Group,HM REVENUE & CUSTOMS (G),1999802,1831048.63
+Home Office,Home Office,29/06/2011,Other Government Department,CPG - Crime & Policing Group,DEPARTMENT OF WORK & PENSIONS (G),1999799,535990.49
+Home Office,Home Office,29/06/2011,Other Government Department,CPG - Crime & Policing Group,DEPARTMENT FOR BUSINESS INNOVATION & SKILLS (G),1999794,159824.78
+Home Office,Home Office,29/06/2011,Other Government Department,CPG - Crime & Policing Group,DEPARTMENT FOR ENVIRONMENT FOOD AND RURAL AFFAIRS (G),1999797,138750.00
+Home Office,Home Office,29/06/2011,Other Government Department,CPG - Crime & Policing Group,SERIOUS FRAUD OFFICE (G),1999812,32787.73
+Home Office,Home Office,29/06/2011,Other Government Department,CPG - Crime & Policing Group,VOSA (G),1999828,26779.58
+Home Office,Home Office,01/06/2011,Other Government Department,Group Human Resources,DWP (SHARED SERVICES),1981878,155329.20
+Home Office,Home Office,02/06/2011,Other Government Department,Group Human Resources,DWP (SHARED SERVICES),1973571,155329.20
+Home Office,Home Office,16/06/2011,Other Government Department,Group Human Resources,DWP (SHARED SERVICES),1997324,155329.20
+Home Office,Home Office,06/06/2011,Other Government Department,Group Human Resources,FCO SERVICES,1986709,50406.00
+Home Office,Home Office,10/06/2011,Other Government Department,Group Human Resources,FCO SERVICES,1993393,47212.80
+Home Office,Home Office,06/06/2011,GPC Card,PFD*,BARCLAYS BANK,1990046,268935.54
+Home Office,Home Office,27/06/2011,Other Government Department,Home Office Science,TRINITY HOUSE CORPORATION,2003790,100000.00
+Home Office,Home Office,03/06/2011,Other Government Department,Home Office Science,CAMBRIDGE CONSULTANTS LTD,1953334,64200.00
+Home Office,Home Office,06/06/2011,Other Government Department,Home Office Science,CAMBRIDGE CONSULTANTS LTD,1989178,45504.00
+Home Office,Home Office,16/06/2011,Other Government Department,Home Office Science,ALTIUS CONSULTING LTD,1995309,33731.53
+Home Office,Home Office,17/06/2011,Rent & Rates,Home Office Science,DTZ DEBENHAM TIE LEUNG LTD,1998327,33185.60
+Home Office,Home Office,28/06/2011,Other Government Department,Home Office Science,ROHDE & SCHWARZ UK LIMITED,2003204,31877.38
+Home Office,Home Office,22/06/2011,Other Government Department,Home Office Science,LAND ROVER GROUP,2000480,29144.00
+Home Office,Home Office,28/06/2011,Professional & Admin Services.Seconded in Staff costs - ADMN,OSCT - Office of Security and Counter-Terrorism,METROPOLITAN POLICE AUTHORITY,2004003,101994.12
+Home Office,Home Office,28/06/2011,Professional & Admin Services.Seconded in Staff costs - ADMN,OSCT - Office of Security and Counter-Terrorism,METROPOLITAN POLICE AUTHORITY,2004000,95551.08
+Home Office,Home Office,20/06/2011,Politics & Civic Affairs.Property tax,OSCT - Office of Security and Counter-Terrorism,THE FOOD AND ENVIRONMENT RESEARCH AGENCY,1997337,26567.73
+Home Office,Home Office,02/06/2011,Professional & Admin Services.Seconded in Staff costs - PROG,OSCT - Office of Security and Counter-Terrorism,WEST YORKSHIRE POLICE AUTHORITY,1988389,25161.45
+Home Office,Home Office,03/06/2011,GPC CARD,PFD*,BARCLAYS BANK,,304323.08
+Home Office,Home Office,14/06/2011,TRAVEL,PFD*,CARLSON WAGONLIT TRAVEL,1995373,139053.00
+Home Office,Home Office,22/06/2011,TRAVEL,PFD*,CARLSON WAGONLIT TRAVEL,2000635,118664.65
+Home Office,Home Office,03/06/2011,TRAVEL,PFD*,CARLSON WAGONLIT TRAVEL,1989320,111698.30
+Home Office,Home Office,29/06/2011,TRAVEL,PFD*,CARLSON WAGONLIT TRAVEL,2005285,97973.24
+Home Office,Home Office,09/06/2011,CONFERENCES & EVENTS,PFD*,NYS CORPORATE LTD,1992902,82630.69
+Home Office,Home Office,30/06/2011,FUEL CARD,PFD*,ARVAL UK LTD,2006028,75704.14
+Home Office,Home Office,24/06/2011,FUEL CARD,PFD*,ARVAL UK LTD,2001958,75145.86
+Home Office,Home Office,08/06/2011,TRAVEL,PFD*,CARLSON WAGONLIT TRAVEL,1992045,61161.36
+Home Office,Home Office,27/06/2011,CAR HIRE,PFD*,ENTERPRISE RENT-A-CAR UK LTD,2002876,39064.86
+Home Office,Home Office,29/06/2011,Storage & Mail Services.Messenger & Reception Services,CPG - Crime & Policing Group,CONCATENO UK LIMITED,2005004,119544.00
+Home Office,Home Office,06/06/2011,Storage & Mail Services.Messenger & Reception Services,CPG - Crime & Policing Group,CONCATENO UK LIMITED,1987752,108372.00
+Home Office,Home Office,10/06/2011,"Science, Technical & Research.Testing",CPG - Crime & Policing Group,CONCATENO UK LIMITED,1946649,45801.36
+Home Office,Home Office,10/06/2011,"Science, Technical & Research.Testing",CPG - Crime & Policing Group,CONCATENO UK LIMITED,1918247,42411.60
+Home Office,Home Office,10/06/2011,Management & Admin Serv.Corp & Bus Org Structure- ADMN,CPG - Crime & Policing Group,SAVVIS UK LTD,1963114,26303.82
+Home Office,Home Office,20/06/2011,"IT, Broadcasting & Telecomms.IT Running Cost - Maint - PROG",CPG - Crime & Policing Group,SAVVIS UK LTD,1985690,26303.82
+Home Office,Home Office,16/06/2011,Defense & Law Enforcement.Police Liaison Officers,CPG - Crime & Policing Group,WEST MIDLANDS POLICE,1997336,80000.00
+Home Office,Home Office,02/06/2011,Defense & Law Enforcement.Police Liaison Officers,CPG - Crime & Policing Group,HAMPSHIRE CONSTABULARY,1987535,60000.00
+Home Office,Home Office,02/06/2011,Defense & Law Enforcement.Police Liaison Officers,CPG - Crime & Policing Group,LANCASHIRE POLICE AUTHORITY,1987613,48506.00
+Home Office,Home Office,13/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",CPG - Crime & Policing Group,"KELLOGG, BROWN AND ROOT LTD",1994543,38681.16
+Home Office,Home Office,13/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",CPG - Crime & Policing Group,"KELLOGG, BROWN AND ROOT LTD",1994554,38681.16
+Home Office,Home Office,21/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",CPG - Crime & Policing Group,"KELLOGG, BROWN AND ROOT LTD",1999630,38681.16
+Home Office,Home Office,16/06/2011,Defense & Law Enforcement.Police Liaison Officers,CPG - Crime & Policing Group,BRITISH TRANSPORT POLICE,1997507,38500.00
+Home Office,Home Office,13/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",CPG - Crime & Policing Group,"KELLOGG, BROWN AND ROOT LTD",1941816,37974.55
+Home Office,Home Office,22/06/2011,Professional & Admin Services.Residential Rental - PROG,CPG - Crime & Policing Group,WORKSPACE,2000960,36002.06
+Home Office,Home Office,10/06/2011,Lab & Scientific Equip (FA).Laboratory & scientific equip,CPG - Crime & Policing Group,BURNBANK SYSTEMS LTD,1994181,36000.00
+Home Office,Home Office,10/06/2011,Lab & Scientific Equip (FA).Laboratory & scientific equip,CPG - Crime & Policing Group,BURNBANK SYSTEMS LTD,1994182,28800.00
+Home Office,Home Office,21/06/2011,"Science, Technical & Research.Social Research",CPG - Crime & Policing Group,SHEFFIELD HALLAM UNIVERSITY,1999517,349252.00
+Home Office,IPCC - Independent Police Complaints Commission,20/05/2011,Rent - Coalville,IPCC - Independent Police Complaints Commission,WM MORRISON SUPERMARKETS PLC,RCT0036456,31500.00
+Home Office,IPCC - Independent Police Complaints Commission,20/05/2011,Rent - Cardiff,IPCC - Independent Police Complaints Commission,EASTERN BUSINESS PARK,RCT0036427,32767.20
+Home Office,IPCC - Independent Police Complaints Commission,20/05/2011,Rent - Wakefield House,IPCC - Independent Police Complaints Commission,Acropolis Properties Ltd,RCT0036425,27535.50
+Home Office,ISA - Independent Safeguarding Authority,08/06/2011,Rent,ISA - Independent Safeguarding Authority,City & Northern Ltd,3569,140188.20
+Home Office,ISA - Independent Safeguarding Authority,15/06/2011,NPIA Costs,ISA - Independent Safeguarding Authority,NPIA,3595,293184.00
+Home Office,SIA - Security Industry Authority,01/06/2011,HR,HR,Access Select ,CACC05,28350.00
+Home Office,SIA - Security Industry Authority,08/06/2011,CRB Disclosure,Licensing ,CRB ,CCRB01,266852.00
+Home Office,SIA - Security Industry Authority,15/06/2011,Syntegra ,Licensing ,BT Syntegra ,CSYN01,596458.85
+Home Office,SOCA - Serious Organised Crime Agency,23/05/2011,IT Expenses,Corporate Services,CABLE & WIRELESS ,77141,79906.25
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,IT Expenses,Corporate Services,SERCO,77307,-42954.75
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,IT Expenses,Corporate Services,SERCO,77309,128161.27
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,PFI Contract Charges,Enforcement,SERCO,77314,1856.04
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,IT Expenses,Corporate Services,SERCO,77314,9876.03
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,PFI Contract Charges,Corporate Services,SERCO,77314,1768370.23
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,PFI Contract Charges,CEOP,SERCO,77314,31423.61
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,IT Expenses,Investment Board,SERCO,77314,9787.94
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,Intangibles non-current assets,Investment Board,SERCO,77314,737.66
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,PFI Contract Charges,Investment Board,SERCO,77314,132626.12
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,Property Plant & Equipment,Investment Board,SERCO,77314,955.15
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2011,Property Plant & Equipment,Investment Board,DRIVERS JONAS DELOITTE,77377,46286.40
+Home Office,SOCA - Serious Organised Crime Agency,31/05/2011,IT Expenses,Investment Board,COMPUTACENTER (UK) LIMITED,77581,51850.26
+Home Office,SOCA - Serious Organised Crime Agency,31/05/2011,IT Expenses,Corporate Services,LOGICA UK LTD,77587,1488148.80
+Home Office,SOCA - Serious Organised Crime Agency,31/05/2011,IT Expenses,Investment Board,COMPUTACENTER (UK) LIMITED,77701,119810.70
+Home Office,SOCA - Serious Organised Crime Agency,31/05/2011,Salaries and Allowances -permanently employed,Corporate Services,ADECCO ALFRED MARKS,77735,94022.72
+Home Office,SOCA - Serious Organised Crime Agency,01/06/2011,Property Plant & Equipment,Investment Board,HERMAN MILLER LTD,77749,25693.20
+Home Office,SOCA - Serious Organised Crime Agency,01/06/2011,Property Plant & Equipment,Investment Board,DRIVERS JONAS DELOITTE,77842,46286.40
+Home Office,SOCA - Serious Organised Crime Agency,01/06/2011,Premises,Corporate Services,REVENUE FINANCE BANKING SERVIC,77857,36700.28
+Home Office,SOCA - Serious Organised Crime Agency,01/06/2011,Premises,Corporate Services,REVENUE FINANCE BANKING SERVIC,77876,76033.14
+Home Office,SOCA - Serious Organised Crime Agency,06/06/2011,IT Expenses,Corporate Services,LOGICA UK LTD,78115,351132.90
+Home Office,SOCA - Serious Organised Crime Agency,08/06/2011,Premises,Corporate Services,KIER BUILDING SERVICES,78257,-105600.00
+Home Office,SOCA - Serious Organised Crime Agency,08/06/2011,IT Expenses,Corporate Services,NPIA,78311,57818.40
+Home Office,SOCA - Serious Organised Crime Agency,08/06/2011,IT Expenses,Corporate Services,NPIA,78354,26557.13
+Home Office,SOCA - Serious Organised Crime Agency,08/06/2011,Premises,Corporate Services,KIER BUILDING SERVICES,78356,120000.00
+Home Office,SOCA - Serious Organised Crime Agency,08/06/2011,Office Equipment & Repairs,Corporate Services,CANON (UK) LTD,78359,53509.88
+Home Office,SOCA - Serious Organised Crime Agency,13/06/2011,Salaries and Allowances -permanently employed,Investment Board,LA INT'L COMPUTER CONSULTANTS,78644,25285.20
+Home Office,SOCA - Serious Organised Crime Agency,13/06/2011,Premises,Investment Board,OCS GROUP,78677,42619.06
+Home Office,SOCA - Serious Organised Crime Agency,13/06/2011,Premises,Corporate Services,OCS GROUP,78694,181279.73
+Home Office,SOCA - Serious Organised Crime Agency,13/06/2011,IT Expenses,Intelligence,HOME OFFICE PAY & SUPER'N SERV,78724,48000.00
+Home Office,SOCA - Serious Organised Crime Agency,14/06/2011,IT Expenses,Corporate Services,AIRWAVE SOLUTIONS LTD,78868,14181.83
+Home Office,SOCA - Serious Organised Crime Agency,14/06/2011,Property Plant & Equipment,Investment Board,AIRWAVE SOLUTIONS LTD,78868,35701.52
+Home Office,SOCA - Serious Organised Crime Agency,14/06/2011,Forensic Fees,Intelligence,FORENSIC SCIENCE SERVICE,78939,30487.80
+Home Office,SOCA - Serious Organised Crime Agency,14/06/2011,Property Plant & Equipment,Investment Board,HERMAN MILLER LTD,78989,496543.78
+Home Office,SOCA - Serious Organised Crime Agency,15/06/2011,IT Expenses,Investment Board,COMPANY WATCH LTD,79009,36000.00
+Home Office,SOCA - Serious Organised Crime Agency,15/06/2011,Professional Services and Fees,Investment Board,SERCO,79018,44461.64
+Home Office,SOCA - Serious Organised Crime Agency,15/06/2011,Property Plant & Equipment,Investment Board,HERMAN MILLER LTD,79020,125961.60
+Home Office,SOCA - Serious Organised Crime Agency,15/06/2011,IT Expenses,Corporate Services,C.E.S.G,79081,36591.60
+Home Office,SOCA - Serious Organised Crime Agency,16/06/2011,IT Expenses,Corporate Services,I2 LIMITED,79222,135336.35
+Home Office,SOCA - Serious Organised Crime Agency,21/06/2011,IT Expenses,Corporate Services,L-3 COMMUNICATIONS ASA LTD,79539,205583.40
+Home Office,SOCA - Serious Organised Crime Agency,21/06/2011,IT Expenses,Corporate Services,L-3 COMMUNICATIONS ASA LTD,79541,28854.00
+Home Office,SOCA - Serious Organised Crime Agency,21/06/2011,IT Expenses,Corporate Services,LOGICA UK LTD,79583,2066336.96
+Home Office,SOCA - Serious Organised Crime Agency,21/06/2011,Salaries and Allowances -permanently employed,Corporate Services,ADECCO ALFRED MARKS,79599,111539.14
+Home Office,SOCA - Serious Organised Crime Agency,22/06/2011,Office and General Expenses,Corporate Services,OFFICE DEPOT UK LTD,79829,38923.84
+Home Office,SOCA - Serious Organised Crime Agency,22/06/2011,Office and General Expenses,Corporate Services,OFFICE DEPOT UK LTD,79839,34305.56
+Home Office,SOCA - Serious Organised Crime Agency,22/06/2011,Professional Services and Fees,Investment Board,WINCKWORTH SHERWOOD ,79852,31250.00
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,British Transport Police,16150  3,26630.02
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,Cheshire Police Authority,16099  6,52587.24
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Cleveland Police Authority,16150  6,28355.59
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,Cumbria Police Authority,16099  7,28772.40
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,Devon & Cornwall Police,16128  7,34277.50
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Durham Police Authority,16150  10,48617.60
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Gwent Police Authority,16150  17,45299.84
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Hampshire Police Authority,16150  18,135106.61
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,Humberside Police Authority,16128  12,48467.87
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Kent Constabulary,16150  22,76752.87
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,Lancashire Police Authority,16128  14,50263.76
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Lancashire Police Authority,16150  23,50801.95
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Merseyside Police Authority,16150   26,73531.90
+Home Office,CRB - Criminal Records Bureau,29/06/2011,Police costs per check,CRB - Criminal Records Bureau,Ministry of Justice,16168  6,255299.20
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,Northants Police Authority,16099  18,36666.61
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,Northumbria Police,16128  18,31406.19
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Northumbria Police,16150  31,32646.11
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,Nottingham Police ,16128  19,35153.64
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Nottingham Police ,16150  32,34945.74
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,North Wale Police,16099  20,108755.56
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,North Yorkshire police,16099  21,50203.37
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,North Yorkshire police,16128  20,32014.44
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Royal Military Police,16150  34,26775.61
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,Disclosure Scotland,16128  23,26960.37
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,Avon & Somerset Police,16099  25,56782.34
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,Avon & Somerset Police,16128  24,59353.26
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Avon & Somerset Police,16150  35,60215.64
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,South Wales Police,16099  26,28327.97
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,South Wales Police,16128  25,25369.88
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,Staffordshire Police Authority,16099  28,35158.90
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,Staffordshire Police Authority,16128  26,31414.87
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Staffordshire Police Authority,16150  38,31764.96
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,Suffolk Police Authority,16099  29,25259.21
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Sussex Police,16150  39,67806.94
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,West Midlands police,16150  40,124609.08
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Police costs per check,CRB - Criminal Records Bureau,West Yorkshire Police,16128  32,71452.75
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,West Yorkshire Police,16150  41,66659.29
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,Wiltshire Police Authority,16150  42,42011.74
+Home Office,CRB - Criminal Records Bureau,10/06/2011,Police costs per check,CRB - Criminal Records Bureau,West Mercia Police,16099  33,30567.78
+Home Office,CRB - Criminal Records Bureau,24/06/2011,Police costs per check,CRB - Criminal Records Bureau,West Mercia Police,16150  43,29520.98
+Home Office,CRB - Criminal Records Bureau,09/05/2011,Public Private Partnership contract / agreement,CRB - Criminal Records Bureau,Capita Business Services Ltd,16107  11,281127.40
+Home Office,CRB - Criminal Records Bureau,30/06/2011,Public Private Partnership contract / agreement,CRB - Criminal Records Bureau,Capita Business Services Ltd,16184  42,656693.70
+Home Office,CRB - Criminal Records Bureau,17/06/2011,PNC costs,CRB - Criminal Records Bureau,NPIA,16128  21,384000.00
+Home Office,CRB - Criminal Records Bureau,17/06/2011,PNC costs,CRB - Criminal Records Bureau,NPIA,16128  21,183350.79
+Home Office,CRB - Criminal Records Bureau,17/06/2011,IT Costs,CRB - Criminal Records Bureau,Home Office,16128  11,168669.00
+Home Office,CRB - Criminal Records Bureau,29/06/2011,SOCA costs,CRB - Criminal Records Bureau,Serious Organised Crime Agency,16168  7,60878.50
+Home Office,CRB - Criminal Records Bureau,17/06/2011,Disclosure Expenses,CRB - Criminal Records Bureau,ACPO,16128  1,39219.81
+Home Office,IPS - Identity & Passport Service,14/06/2011,Passport Stationery,IPS - Identity & Passport Service,ADARE LTD,0000138908,225694.39
+Home Office,IPS - Identity & Passport Service,21/06/2011,Other Government Departments,IPS - Identity & Passport Service,Benefits Agency,0000138967,114523.71
+Home Office,IPS - Identity & Passport Service,21/06/2011,Telecoms,IPS - Identity & Passport Service,BT Telecomms plc (calls),0000138968,88852.80
+Home Office,IPS - Identity & Passport Service,28/06/2011,Contracted Staff,IPS - Identity & Passport Service,Capita Resourcing Ltd,0000139047,25431.10
+Home Office,IPS - Identity & Passport Service,14/06/2011,Accommodation,IPS - Identity & Passport Service,COLLIERS CRE CLIENTS ACCOUNT,0000138913,114948.44
+Home Office,IPS - Identity & Passport Service,07/06/2011,IT Development/Service Charges,IPS - Identity & Passport Service,CSC COMPUTER SCIENCES LTD,0000138834,321123.60
+Home Office,IPS - Identity & Passport Service,24/06/2011,IT Development/Service Charges,IPS - Identity & Passport Service,CSC COMPUTER SCIENCES LTD,0000139015,11458064.86
+Home Office,IPS - Identity & Passport Service,17/06/2011,Passport Printing,IPS - Identity & Passport Service,De La Rue International Ltd,0000138941,318762.64
+Home Office,IPS - Identity & Passport Service,21/06/2011,Facilities Management,IPS - Identity & Passport Service,ENDPOINT LTD,0000138990,30006.07
+Home Office,IPS - Identity & Passport Service,28/06/2011,PASS,IPS - Identity & Passport Service,Equifax Plc,0000139073,638898.10
+Home Office,IPS - Identity & Passport Service,21/06/2011,Consultancy & Professional Ser,IPS - Identity & Passport Service,ERNST & YOUNG LLP,0000138991,33102.00
+Home Office,IPS - Identity & Passport Service,01/07/2011,Consultancy & Professional Ser,IPS - Identity & Passport Service,ERNST & YOUNG LLP,0000139098,70176.24
+Home Office,IPS - Identity & Passport Service,10/06/2011,Legal Fees,IPS - Identity & Passport Service,Field Fisher Waterhouse LLP,0000138886,29763.22
+Home Office,IPS - Identity & Passport Service,21/06/2011,Occupational Health Management,IPS - Identity & Passport Service,Health Management Ltd,0000138994,36000.00
+Home Office,IPS - Identity & Passport Service,07/06/2011,Passport Printing,IPS - Identity & Passport Service,Security Printing Systems Ltd,0000138843,503580.00
+Home Office,IPS - Identity & Passport Service,24/06/2011,Other Government Departments,IPS - Identity & Passport Service,HOME OFFICE - AFU CASH MANAGEM,0000139022,253003.00
+Home Office,IPS - Identity & Passport Service,14/06/2011,Other,IPS - Identity & Passport Service,INTERACTIVE INTELLIGENCE INC,0000138918,42852.89
+Home Office,IPS - Identity & Passport Service,28/06/2011,Rent,IPS - Identity & Passport Service,Jones Lang LASELLE,0000139077,36000.00
+Home Office,IPS - Identity & Passport Service,10/06/2011,Accommodation,IPS - Identity & Passport Service,Mapeley ABI Provider Limited,0000138890,29643.51
+Home Office,IPS - Identity & Passport Service,14/06/2011,Contact Centre,IPS - Identity & Passport Service,MM TELEPERFORMANCE,0000138925,545152.99
+Home Office,IPS - Identity & Passport Service,28/06/2011,Contact Centre,IPS - Identity & Passport Service,MM TELEPERFORMANCE,0000139079,740902.71
+Home Office,IPS - Identity & Passport Service,10/06/2011,Consultancy & Professional Ser,IPS - Identity & Passport Service,PA Consulting Group,0000138896,130813.20
+Home Office,IPS - Identity & Passport Service,21/06/2011,Consultancy & Professional Ser,IPS - Identity & Passport Service,PA Consulting Group,0000138998,109724.40
+Home Office,IPS - Identity & Passport Service,01/07/2011,Consultancy & Professional Ser,IPS - Identity & Passport Service,PA Consulting Group,0000139106,35520.00
+Home Office,IPS - Identity & Passport Service,10/06/2011,Accommodation,IPS - Identity & Passport Service,Prudential Property Investment,0000138899,777843.00
+Home Office,IPS - Identity & Passport Service,10/06/2011,Publications & Subscriptions,IPS - Identity & Passport Service,RR Donnelley Global Document,0000138901,27120.00
+Home Office,IPS - Identity & Passport Service,07/06/2011,Office Furniture,IPS - Identity & Passport Service,SENATOR INTERNATIONAL LTD,0000138854,29390.40
+Home Office,IPS - Identity & Passport Service,24/06/2011,Passport Processing,IPS - Identity & Passport Service,Siemens Business Services Ltd,0000139032,79677.10
+Home Office,IPS - Identity & Passport Service,07/06/2011,Passports - Secure Mail,IPS - Identity & Passport Service,SECURE MAIL SERVICES LIMITED,0000138856,2527394.73
+Home Office,IPS - Identity & Passport Service,10/06/2011,Consultancy & Professional Ser,IPS - Identity & Passport Service,Steria Limited,0000138905,79914.00
+Home Office,IPS - Identity & Passport Service,10/06/2011,Passport Processing,IPS - Identity & Passport Service,Steria Limited,0000138906,2740534.79
+Home Office,IPS - Identity & Passport Service,21/06/2011,Passport Processing,IPS - Identity & Passport Service,Steria Limited,0000139003,42427.92
+Home Office,IPS - Identity & Passport Service,28/06/2011,Passport Processing,IPS - Identity & Passport Service,Steria Limited,0000139087,1336299.46
+Home Office,IPS - Identity & Passport Service,24/06/2011,IT Development,IPS - Identity & Passport Service,Thales,0000139034,322204.21
+Home Office,IPS - Identity & Passport Service,01/07/2011,Accommodation,IPS - Identity & Passport Service,WH 101 OLD HALL STREET LTD,0000139113,376631.76
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF CROYDON 1 (G),2002179,2863283.61
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,KENT COUNTY COUNCIL 1 (G),2002181,2425000.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF HILLINGDON 1 (G),2002183,993500.00
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,SURREY COUNTY COUNCIL 1 (G),1998287,771158.00
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,KENT COUNTY COUNCIL 1 (G),1996472,759731.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,KENT COUNTY COUNCIL 1 (G),2002094,653475.00
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,WEST SUSSEX COUNTY COUNCIL 1 (G),1992662,495988.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF HILLINGDON 1 (G),2002086,460692.86
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,MANCHESTER CITY COUNCIL (G),1992653,398466.00
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,SLOUGH BOROUGH COUNCIL (G),1992658,389277.00
+Home Office,UKBA - UK Border Agency,30/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF NEWHAM (G),2005853,375192.86
+Home Office,UKBA - UK Border Agency,02/06/2011,Grants,UKBA - UK Border Agency,THE INTERNATIONAL ORG FOR MIGRATION (G),1989087,355630.88
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,NORTHAMPTONSHIRE COUNTY COUNCIL (G),1992656,337352.00
+Home Office,UKBA - UK Border Agency,16/06/2011,Grants,UKBA - UK Border Agency,OISC (G),1992046,291076.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,SOLIHULL MBC,2002160,277885.71
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,GLASGOW CITY COUNCIL 1 (G),1992647,276887.00
+Home Office,UKBA - UK Border Agency,09/06/2011,Grants,UKBA - UK Border Agency,MANCHESTER CITY COUNCIL (G),1992053,259564.29
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,LEEDS CITY COUNCIL 1 (G),1996473,241031.00
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF ISLINGTON (G),1997570,229885.71
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,ESSEX COUNTY COUNCIL 1 (G),1994166,228706.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF LAMBETH 1 (G),2002104,222964.29
+Home Office,UKBA - UK Border Agency,30/06/2011,Grants,UKBA - UK Border Agency,OXFORDSHIRE COUNTY COUNCIL 1 (G),2006017,222212.00
+Home Office,UKBA - UK Border Agency,10/06/2011,Third Party Suppliers,UKBA - UK Border Agency,ROYAL BOROUGH KINGSTON UPON THAMES (G),1992650,176712.00
+Home Office,UKBA - UK Border Agency,09/06/2011,Grants,UKBA - UK Border Agency,LIVERPOOL CITY COUNCIL 1 (G),1992052,175800.00
+Home Office,UKBA - UK Border Agency,30/06/2011,Grants,UKBA - UK Border Agency,NORTHAMPTONSHIRE COUNTY COUNCIL (G),2005855,155292.86
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,HAMPSHIRE COUNTY COUNCIL 1 (G),1992648,148728.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF SOUTHWARK 1 (G),2002163,148157.14
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,SURREY COUNTY COUNCIL 1 (G),2002172,142350.00
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,CAMBRIDGESHIRE COUNTY COUNCIL (G),1997567,140142.86
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,NOTTINGHAMSHIRE COUNTY COUNCIL 2 (G),1992657,136613.00
+Home Office,UKBA - UK Border Agency,06/06/2011,Grants,UKBA - UK Border Agency,DEPARTMENT OF JUSTICE (THE),1989953,130826.79
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF CAMDEN 1 (G),2002084,125550.00
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,WILTSHIRE COUNTY COUNCIL 1 (G),1992664,124561.00
+Home Office,UKBA - UK Border Agency,30/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF HARINGEY 1 (G),2005851,124328.57
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,BIRMINGHAM CITY COUNCIL (G),1992642,123783.00
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,LEEDS CITY COUNCIL 1 (G),1997571,121157.14
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF HOUNSLOW 1 (G),2002090,113828.57
+Home Office,UKBA - UK Border Agency,30/06/2011,Grants,UKBA - UK Border Agency,MILTON KEYNES COUNCIL 1 (G),2006015,112446.00
+Home Office,UKBA - UK Border Agency,09/06/2011,Grants,UKBA - UK Border Agency,WEST SUSSEX COUNTY COUNCIL 1 (G),1992055,110400.00
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,HAMMERSMITH & FULHAM COMMUNITY (G),1997569,102192.86
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LEICESTERSHIRE COUNTY COUNCIL 1 (G),2002153,95978.57
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,OXFORDSHIRE COUNTY COUNCIL 1 (G),2002155,91928.57
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF HOUNSLOW 1 (G),1992649,89346.00
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF ENFIELD 1 (G),1992646,88958.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH  WALTHAM FOREST (G),2002176,88735.71
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF BARNET 1 (G),1997565,85735.71
+Home Office,UKBA - UK Border Agency,14/06/2011,Grants,UKBA - UK Border Agency,SES TUTORS (G),1995445,85687.50
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,BIRMINGHAM CITY COUNCIL (G),1997566,85564.29
+Home Office,UKBA - UK Border Agency,09/06/2011,Grants,UKBA - UK Border Agency,HERTFORDSHIRE COUNTY COUNCIL 1 (G),1992050,84257.14
+Home Office,UKBA - UK Border Agency,13/06/2011,Grants,UKBA - UK Border Agency,REFUGEE ACTION (G),1994177,83000.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Third Party Suppliers,UKBA - UK Border Agency,ROYAL BOROUGH KINGSTON UPON THAMES (G),2002096,82092.86
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF EALING 1 (G),1992644,71066.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,COSLA (G),2004420,70000.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF BARKING & DAGENHAM (G),2002079,66792.86
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,SHEFFIELD CITY COUNCIL 1 (G),2001437,65386.28
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,WEST SUSSEX COUNTY COUNCIL 1 (G),1992727,64288.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,NEWCASTLE CITY COUNCIL (G),2002154,63900.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,STAFFORDSHIRE COUNTY COUNCIL 1 (G),2002169,58028.57
+Home Office,UKBA - UK Border Agency,09/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF HARROW 1 (G),1992049,57707.14
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH TOWER HAMLETS (G),1997576,57621.43
+Home Office,UKBA - UK Border Agency,22/06/2011,Grants,UKBA - UK Border Agency,INTERNATIONAL ORGANISATION FOR MIGRATION FRANCE (G),2000550,53885.47
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,LIVERPOOL CITY COUNCIL 1 (G),1994170,51813.04
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,BOLTON MBC 1 (G),2001427,49779.00
+Home Office,UKBA - UK Border Agency,30/06/2011,Grants,UKBA - UK Border Agency,WESTMINSTER CITY COUNCIL (G),2005857,49757.14
+Home Office,UKBA - UK Border Agency,09/06/2011,Grants,UKBA - UK Border Agency,SHEFFIELD CITY COUNCIL 1 (G),1992054,49435.71
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,WARWICKSHIRE COUNTY COUNCIL 1 (G),1997577,49371.43
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF CAMDEN 1 (G),1992643,46463.00
+Home Office,UKBA - UK Border Agency,09/06/2011,Grants,UKBA - UK Border Agency,WORCESTERSHIRE COUNTY COUNCIL 1 (G),1992056,46392.86
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF RICHMOND UPON THAMES (G),1997575,45685.71
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,HULL CITY COUNCIL (G),2001430,45509.00
+Home Office,UKBA - UK Border Agency,23/06/2011,Grants,UKBA - UK Border Agency,LINCOLNSHIRE COUNTY COUNCIL 1 (G),1997574,42900.00
+Home Office,UKBA - UK Border Agency,09/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF KENSINGTON & CHELSEA (G),1992051,41592.86
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF BEXLEY (G),1992641,41393.00
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF NEWHAM (G),1992654,40110.00
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,WARRINGTON BOROUGH COUNCIL (G),1992661,38766.00
+Home Office,UKBA - UK Border Agency,24/06/2011,Grants,UKBA - UK Border Agency,NEW COLLEGE NOTTINGHAM (G),2002191,38561.50
+Home Office,UKBA - UK Border Agency,07/06/2011,Grants,UKBA - UK Border Agency,NOTTINGHAM TRAINING AND ENTERPRISES (G),1991323,37843.91
+Home Office,UKBA - UK Border Agency,16/06/2011,Grants,UKBA - UK Border Agency,EAST LONDON ADVANCED TECHNOLOGY TRAINING (ELATT) (G),1997586,31500.00
+Home Office,UKBA - UK Border Agency,06/06/2011,Grants,UKBA - UK Border Agency,YMCA GLASGOW (G),1990335,30222.94
+Home Office,UKBA - UK Border Agency,10/06/2011,Grants,UKBA - UK Border Agency,LUTON BOROUGH COUNCIL (G),1992652,29922.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Grants,UKBA - UK Border Agency,LONDON BOROUGH OF BEXLEY (G),2002081,28264.29
+Home Office,Home Office,22/06/2011,"Science, Technical & Research.Social Research",Home Office Science,HM REVENUE & CUSTOMS,1999403,29110.00
+Home Office,UKBA - UK Border Agency,22/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,2000487,1395549.62
+Home Office,UKBA - UK Border Agency,20/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),1998684,665817.61
+Home Office,UKBA - UK Border Agency,03/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1989324,440483.92
+Home Office,UKBA - UK Border Agency,20/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1998891,391742.35
+Home Office,UKBA - UK Border Agency,22/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,2000541,346249.52
+Home Office,UKBA - UK Border Agency,03/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1989329,336078.96
+Home Office,UKBA - UK Border Agency,22/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,2000485,214429.57
+Home Office,UKBA - UK Border Agency,10/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1993439,188449.50
+Home Office,UKBA - UK Border Agency,20/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1998889,177580.82
+Home Office,UKBA - UK Border Agency,17/06/2011,"IT, Broadcasting & Telecomms.Sirius - Other Services - PROG",UKBA - UK Border Agency,FCO SERVICES,1998229,175200.00
+Home Office,UKBA - UK Border Agency,22/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,2000483,165796.30
+Home Office,UKBA - UK Border Agency,27/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,2002955,155797.26
+Home Office,UKBA - UK Border Agency,06/06/2011,Other Government Departments,UKBA - UK Border Agency,FOREIGN AND COMMONWEALTH OFFICE,1990159,129000.00
+Home Office,UKBA - UK Border Agency,17/06/2011,Law Enforcement & safety Equip.Security & Control Equip- PROG,UKBA - UK Border Agency,HM REVENUE & CUSTOMS,1997303,124999.98
+Home Office,UKBA - UK Border Agency,20/06/2011,"Print, Photo, Audio & Visual.Presentation equipment - PROG",UKBA - UK Border Agency,FCO SERVICES,1986708,120000.00
+Home Office,UKBA - UK Border Agency,01/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1986956,112247.00
+Home Office,UKBA - UK Border Agency,29/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,2005243,94001.19
+Home Office,UKBA - UK Border Agency,15/06/2011,"Public Order, Security, Safety.Confinement Surveillance",UKBA - UK Border Agency,MINISTRY OF JUSTICE,1982294,85902.20
+Home Office,UKBA - UK Border Agency,20/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),1998686,77030.94
+Home Office,UKBA - UK Border Agency,21/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,FCO SERVICES,1990212,69855.34
+Home Office,UKBA - UK Border Agency,23/06/2011,Professional & Admin Services.Business admin services,UKBA - UK Border Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),1998682,67714.06
+Home Office,UKBA - UK Border Agency,21/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1998973,60000.00
+Home Office,UKBA - UK Border Agency,20/06/2011,Other Government Departments,UKBA - UK Border Agency,DEPARTMENT FOR WORK AND PENSIONS ACCOUNTING SHARED SERVICES,1998910,59648.00
+Home Office,UKBA - UK Border Agency,16/06/2011,Professional & Admin Services.Facilities Man Serv - PROG,UKBA - UK Border Agency,FOREIGN AND COMMONWEALTH OFFICE,1997610,56356.86
+Home Office,UKBA - UK Border Agency,22/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,2000481,55809.19
+Home Office,UKBA - UK Border Agency,20/06/2011,Professional & Admin Services.Business admin services,UKBA - UK Border Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),1998680,46823.34
+Home Office,UKBA - UK Border Agency,22/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,DWP (SHARED SERVICES),1999415,45403.16
+Home Office,UKBA - UK Border Agency,13/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1994330,45000.00
+Home Office,UKBA - UK Border Agency,20/06/2011,Other Government Departments,UKBA - UK Border Agency,DEPARTMENT FOR ENVIRONMENT FOOD AND RURAL AFFAIRS(DEFRA),1983534,39685.34
+Home Office,UKBA - UK Border Agency,10/06/2011,Legal Services,UKBA - UK Border Agency,TREASURY SOLICITORS OFFICE,1993504,38050.00
+Home Office,UKBA - UK Border Agency,01/06/2011,"Transport, Storage & Mail Serv.Mailing Mail Del Serv - ADMN",UKBA - UK Border Agency,GOVERNMENT CAR AND DESPATCH AGENCY (GCDA),1986635,32073.83
+Home Office,UKBA - UK Border Agency,01/06/2011,"Transport, Storage & Mail Serv.Mailing Mail Del Serv - ADMN",UKBA - UK Border Agency,GOVERNMENT CAR AND DESPATCH AGENCY (GCDA),1986650,32073.83
+Home Office,UKBA - UK Border Agency,23/06/2011,"Transport, Storage & Mail Serv.Mailing Mail Del Serv - ADMN",UKBA - UK Border Agency,GOVERNMENT CAR AND DESPATCH AGENCY (GCDA),2001937,25314.23
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Standard Software (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1990101,6437580.00
+Home Office,UKBA - UK Border Agency,16/06/2011,Professional & Admin Services.Visa Processing Services,UKBA - UK Border Agency,VF WORLDWIDE HOLDINGS LTD,1997248,3547895.98
+Home Office,UKBA - UK Border Agency,07/06/2011,Professional & Admin Services.Visa Processing Services,UKBA - UK Border Agency,VF WORLDWIDE HOLDINGS LTD,1991282,3279800.96
+Home Office,UKBA - UK Border Agency,02/06/2011,IT & Telecoms Components.Standard Software (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1987872,2333547.60
+Home Office,UKBA - UK Border Agency,10/06/2011,IT & Telecoms Components.Standard Software (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1994164,2333547.60
+Home Office,UKBA - UK Border Agency,22/06/2011,Professional & Admin Services.Visa Processing Services,UKBA - UK Border Agency,CSC COMPUTER SCIENCES CORPORATION,1996439,2228362.81
+Home Office,UKBA - UK Border Agency,08/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,SERCO  LTD,1976160,2089340.62
+Home Office,UKBA - UK Border Agency,27/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,SERCO  LTD,1989276,2041075.64
+Home Office,UKBA - UK Border Agency,20/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,NPIA (National Policing Improvement Agency),1997225,1658400.00
+Home Office,UKBA - UK Border Agency,03/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,THE GEO GROUP UK LTD,1987860,1241143.20
+Home Office,UKBA - UK Border Agency,17/06/2011,Professional & Admin Services.Residential Rental - PROG,UKBA - UK Border Agency,PRUDENTIAL PROP INV MANAGERS L,1997545,1180377.30
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1990137,1028983.20
+Home Office,UKBA - UK Border Agency,13/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1980654,1024317.59
+Home Office,UKBA - UK Border Agency,22/06/2011,Asylum Provision.Asylum serv Cash Supp,UKBA - UK Border Agency,SODEXHO PASS LTD,2000472,950375.56
+Home Office,UKBA - UK Border Agency,24/06/2011,"Building, Construction Service.Build a new structure (FA)",UKBA - UK Border Agency,WATES CONSTRUCTION LTD,2000594,943531.20
+Home Office,UKBA - UK Border Agency,07/06/2011,Asylum Provision.Asylum serv Cash Supp,UKBA - UK Border Agency,SODEXHO PASS LTD,1990935,940119.33
+Home Office,UKBA - UK Border Agency,27/06/2011,Asylum Provision.Asylum serv Cash Supp,UKBA - UK Border Agency,SODEXHO PASS LTD,2003193,931876.64
+Home Office,UKBA - UK Border Agency,03/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,SERCO  LTD,1974783,916847.29
+Home Office,UKBA - UK Border Agency,14/06/2011,Asylum Provision.Asylum serv Cash Supp,UKBA - UK Border Agency,SODEXHO PASS LTD,1995420,903979.15
+Home Office,UKBA - UK Border Agency,28/06/2011,"Public Order, Security, Safety.Domestic Escort Services",UKBA - UK Border Agency,RELIANCE SECURE TASK MANAGEMENT,1993422,886754.40
+Home Office,UKBA - UK Border Agency,27/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,SERCO  LTD,1989284,868515.68
+Home Office,UKBA - UK Border Agency,14/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,LEEDS CITY COUNCIL,1995197,821804.01
+Home Office,UKBA - UK Border Agency,07/06/2011,Politics & Civic Affairs.Emergency house services,UKBA - UK Border Agency,CLEARSPRINGS MANAGEMENT LTD,1990058,817434.50
+Home Office,UKBA - UK Border Agency,28/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,SIEMENS BUSINESS SERVICES LTD,1969468,735821.67
+Home Office,UKBA - UK Border Agency,23/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,SPECIALIST COMPUTER CENTRES PLC,1990271,731056.80
+Home Office,UKBA - UK Border Agency,06/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,YMCA GLASGOW,1990913,648890.00
+Home Office,UKBA - UK Border Agency,07/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,MANCHESTER CITY COUNCIL,1991249,605172.33
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1987899,578210.06
+Home Office,UKBA - UK Border Agency,21/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,THE GEO GROUP UK LTD,1989349,557908.74
+Home Office,UKBA - UK Border Agency,28/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1990173,553946.86
+Home Office,UKBA - UK Border Agency,28/06/2011,"Public Order, Security, Safety.Domestic Escort Services",UKBA - UK Border Agency,RELIANCE SECURE TASK MANAGEMENT,1993432,553807.20
+Home Office,UKBA - UK Border Agency,27/06/2011,"Science, Technical & Research.Computer services - PROG",UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,2002131,532063.56
+Home Office,UKBA - UK Border Agency,07/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,UNITED PROPERTY MANAGEMENT,1991319,532019.21
+Home Office,UKBA - UK Border Agency,10/06/2011,IT & Telecoms Components.Standard Software (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1990029,514791.60
+Home Office,UKBA - UK Border Agency,27/06/2011,"Transport, Storage & Mail Serv.File (Archive) Storage - ADMN",UKBA - UK Border Agency,IRON MOUNTAIN (UK) LTD,1989384,498411.14
+Home Office,UKBA - UK Border Agency,30/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,PRIORITY PROPERTIES NORTH WEST,2006949,493965.44
+Home Office,UKBA - UK Border Agency,03/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,JOMAST PROPERTY AND FINANCE CO LTD,1990043,492794.57
+Home Office,UKBA - UK Border Agency,29/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,2003117,479723.24
+Home Office,UKBA - UK Border Agency,02/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,PRIORITY PROPERTIES NORTH WEST,1989226,405580.01
+Home Office,UKBA - UK Border Agency,07/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,UNITED PROPERTY MANAGEMENT,1991318,402734.21
+Home Office,UKBA - UK Border Agency,30/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,PRIORITY PROPERTIES NORTH WEST,2006956,364019.07
+Home Office,UKBA - UK Border Agency,07/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,HAPPY HOMES UK LTD,1991040,343204.72
+Home Office,UKBA - UK Border Agency,03/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,PRIORITY PROPERTIES NORTH WEST,1989325,334469.84
+Home Office,UKBA - UK Border Agency,24/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,SPECIALIST COMPUTER CENTRES PLC,1991048,332163.17
+Home Office,UKBA - UK Border Agency,21/06/2011,Professional & Admin Services.Residential Rental - PROG,UKBA - UK Border Agency,ARORA MANAGEMENT SERVICES ON BEHALF OF AP24 LTD,1999929,325395.00
+Home Office,UKBA - UK Border Agency,17/06/2011,Professional & Admin Services.Residential Rental - PROG,UKBA - UK Border Agency,ARORA MANAGEMENT SERVICES ON BEHALF OF AP24 LTD,1998636,324600.00
+Home Office,UKBA - UK Border Agency,06/06/2011,IT & Telecoms Components.Standard Software (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1990294,321447.60
+Home Office,UKBA - UK Border Agency,17/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1998110,314276.36
+Home Office,UKBA - UK Border Agency,06/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,CLEARSPRINGS MANAGEMENT LTD,1990053,309476.92
+Home Office,UKBA - UK Border Agency,13/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1980642,305165.01
+Home Office,UKBA - UK Border Agency,14/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,GLASGOW CITY COUNCIL,1995475,298521.12
+Home Office,UKBA - UK Border Agency,07/06/2011,"Law Enforcement & safety Equip.Haulage, Storage & Disp (HSD)",UKBA - UK Border Agency,TNT UK LTD,1991315,289162.63
+Home Office,UKBA - UK Border Agency,09/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,CARDIFF COUNTY COUNCIL,1992820,258641.45
+Home Office,UKBA - UK Border Agency,02/06/2011,IT & Telecoms Components.Standard Software  (FA),UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,1982481,257795.76
+Home Office,UKBA - UK Border Agency,02/06/2011,"Vehicles, Ships, Airplanes.Vehicle Maint Equip (FA)- PROG",UKBA - UK Border Agency,DAMEN SHIPYARDS GORINCHEM,1988344,248069.48
+Home Office,UKBA - UK Border Agency,06/06/2011,"Public Order, Security, Safety.Escorting services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1976354,245132.91
+Home Office,UKBA - UK Border Agency,21/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,1999560,240682.30
+Home Office,UKBA - UK Border Agency,07/06/2011,Asylum Provision.Asylum serv Cash Supp,UKBA - UK Border Agency,SODEXHO PASS LTD,1990938,231551.16
+Home Office,UKBA - UK Border Agency,02/06/2011,Asylum Provision.Asylum Cont Out Serv,UKBA - UK Border Agency,LEGAL SERVICES COMMISSION,1974773,225000.00
+Home Office,UKBA - UK Border Agency,29/06/2011,Professional & Admin Services.Residential Rental - PROG,UKBA - UK Border Agency,GVA GRIMLEY,2005971,220462.51
+Home Office,UKBA - UK Border Agency,28/06/2011,Professional & Admin Services.Seconded in Staff costs - PROG,UKBA - UK Border Agency,METROPOLITAN POLICE AUTHORITY,2004161,219931.11
+Home Office,UKBA - UK Border Agency,08/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1992007,214950.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,2004387,214950.00
+Home Office,UKBA - UK Border Agency,28/06/2011,Professional & Admin Services.Seconded in Staff costs - PROG,UKBA - UK Border Agency,METROPOLITAN POLICE AUTHORITY,2004164,214720.16
+Home Office,UKBA - UK Border Agency,14/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1996223,213750.00
+Home Office,UKBA - UK Border Agency,30/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,PRIORITY PROPERTIES NORTH WEST,2006953,206900.67
+Home Office,UKBA - UK Border Agency,06/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,CLEARSPRINGS MANAGEMENT LTD,1990054,200318.78
+Home Office,UKBA - UK Border Agency,28/06/2011,Public Order.Voluntary Assisted Return,UKBA - UK Border Agency,CITIBANK INTERNATIONAL PLC,2005016,200000.00
+Home Office,UKBA - UK Border Agency,02/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,PRIORITY PROPERTIES NORTH WEST,1989223,191467.47
+Home Office,UKBA - UK Border Agency,13/06/2011,"Public Order, Security, Safety.Escorting services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1978278,188186.78
+Home Office,UKBA - UK Border Agency,29/06/2011,"IT, Broadcasting & Telecomms.IT Run Costs other -Prog",UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,1986772,187864.80
+Home Office,UKBA - UK Border Agency,13/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,METROPOLITAN SUPPORT TRUST (EAST MIDLANDS),1990246,186237.73
+Home Office,UKBA - UK Border Agency,16/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1980638,183366.70
+Home Office,UKBA - UK Border Agency,24/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,2002204,172100.90
+Home Office,UKBA - UK Border Agency,14/06/2011,"IT, Broadcasting & Telecomms.IT Run Costs other -Prog",UKBA - UK Border Agency,SPECIALIST COMPUTER CENTRES PLC,1995581,166524.76
+Home Office,UKBA - UK Border Agency,28/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,SIEMENS BUSINESS SERVICES LTD,1969484,165567.12
+Home Office,UKBA - UK Border Agency,07/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,EAMUS CORK SOLUTIONS,1991027,161322.54
+Home Office,UKBA - UK Border Agency,06/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,CLEARSPRINGS MANAGEMENT LTD,1990056,157910.66
+Home Office,UKBA - UK Border Agency,07/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,UNITED PROPERTY MANAGEMENT,1991317,156705.52
+Home Office,UKBA - UK Border Agency,28/06/2011,"Public Order, Security, Safety.Domestic Escort Services",UKBA - UK Border Agency,RELIANCE SECURE TASK MANAGEMENT,1993429,156200.40
+Home Office,UKBA - UK Border Agency,06/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,SERCO  LTD,1976153,152623.73
+Home Office,UKBA - UK Border Agency,30/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,PRIORITY PROPERTIES NORTH WEST,2006952,149986.08
+Home Office,UKBA - UK Border Agency,08/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,THE GEO GROUP UK LTD,1990163,148475.90
+Home Office,UKBA - UK Border Agency,28/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,SIEMENS BUSINESS SERVICES LTD,1989085,147874.30
+Home Office,UKBA - UK Border Agency,16/06/2011,"Public Order, Security, Safety.Security Guard Services - PROG",UKBA - UK Border Agency,OCS GROUP UK LTD,1993400,146430.48
+Home Office,UKBA - UK Border Agency,09/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1992713,144276.00
+Home Office,UKBA - UK Border Agency,03/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,ANGEL GROUP,1989475,142327.55
+Home Office,UKBA - UK Border Agency,03/06/2011,"Science, Technical & Research.Computer services - PROG",UKBA - UK Border Agency,FUJITSU SERVICES (ALCEDO) LIMITED,1973188,140567.96
+Home Office,UKBA - UK Border Agency,17/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,NORTHERN IRELAND HOUSING EXEC,1998302,139534.53
+Home Office,UKBA - UK Border Agency,03/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1989379,135303.43
+Home Office,UKBA - UK Border Agency,27/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,2003162,133870.16
+Home Office,UKBA - UK Border Agency,24/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,2002208,133785.42
+Home Office,UKBA - UK Border Agency,22/06/2011,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Border Agency,SODEXHO PASS LTD,2000471,128146.76
+Home Office,UKBA - UK Border Agency,07/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1990871,127352.35
+Home Office,UKBA - UK Border Agency,07/06/2011,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Border Agency,SODEXHO PASS LTD,1990937,127074.73
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1987842,126259.06
+Home Office,UKBA - UK Border Agency,27/06/2011,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Border Agency,SODEXHO PASS LTD,2003189,126130.29
+Home Office,UKBA - UK Border Agency,14/06/2011,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Border Agency,SODEXHO PASS LTD,1995417,124869.13
+Home Office,UKBA - UK Border Agency,28/06/2011,"Public Order, Security, Safety.Domestic Escort Services",UKBA - UK Border Agency,RELIANCE SECURE TASK MANAGEMENT,1993343,124030.80
+Home Office,UKBA - UK Border Agency,02/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,PRIORITY PROPERTIES NORTH WEST,1989221,123513.74
+Home Office,UKBA - UK Border Agency,06/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Border Agency,CLEARSPRINGS MANAGEMENT LTD,1990063,116202.50
+Home Office,UKBA - UK Border Agency,17/06/2011,"Public Order, Security, Safety.Escorting services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1976364,110454.05
+Home Office,UKBA - UK Border Agency,03/06/2011,"Science, Technical & Research.Computer services - PROG",UKBA - UK Border Agency,FUJITSU SERVICES (ALCEDO) LIMITED,1989288,105946.70
+Home Office,UKBA - UK Border Agency,24/06/2011,"Transport, Storage & Mail Serv.Visa stock",UKBA - UK Border Agency,3M SECURITY PRINTING & SYSTEMS LTD,1974530,104522.40
+Home Office,UKBA - UK Border Agency,24/06/2011,"Transport, Storage & Mail Serv.Visa stock",UKBA - UK Border Agency,3M SECURITY PRINTING & SYSTEMS LTD,1989422,98172.00
+Home Office,UKBA - UK Border Agency,21/06/2011,IT & Telecommunications.IT & Telecommunications - PROG,UKBA - UK Border Agency,MORPHO UK LTD,1974676,97500.00
+Home Office,UKBA - UK Border Agency,30/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,2006866,97030.90
+Home Office,UKBA - UK Border Agency,03/06/2011,Politics & Civic Affairs.REFUGEE PROG. SECT 95,UKBA - UK Border Agency,ANGEL GROUP,1989473,96287.34
+Home Office,UKBA - UK Border Agency,29/06/2011,"Public Order, Security, Safety.Confinement Surveillance",UKBA - UK Border Agency,SERCO  LTD,1993331,94927.82
+Home Office,UKBA - UK Border Agency,13/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,SERCO  LTD,1976151,92807.88
+Home Office,UKBA - UK Border Agency,27/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,SERCO  LTD,1989285,92807.88
+Home Office,UKBA - UK Border Agency,09/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,SPECIALIST COMPUTER CENTRES PLC,1991307,92168.66
+Home Office,UKBA - UK Border Agency,20/06/2011,"Public Order, Security, Safety.Escorting services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1957266,90792.30
+Home Office,UKBA - UK Border Agency,22/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1999406,89170.68
+Home Office,UKBA - UK Border Agency,08/06/2011,"Public Order, Security, Safety.Escorting services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1968214,88200.44
+Home Office,UKBA - UK Border Agency,21/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1999402,84883.80
+Home Office,UKBA - UK Border Agency,16/06/2011,Healthcare Services.Occupational Therapy Serv-ADMN,UKBA - UK Border Agency,HEALTH MANAGEMENT LTD,1994203,82789.14
+Home Office,UKBA - UK Border Agency,09/06/2011,Professional & Admin Services.Seconded in Staff costs - PROG,UKBA - UK Border Agency,METROPOLITAN POLICE AUTHORITY,1992863,81028.24
+Home Office,UKBA - UK Border Agency,21/06/2011,Professional & Admin Services.Seconded in Staff costs - PROG,UKBA - UK Border Agency,METROPOLITAN POLICE AUTHORITY,2000351,80758.17
+Home Office,UKBA - UK Border Agency,28/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,SIEMENS BUSINESS SERVICES LTD,1985843,79326.84
+Home Office,UKBA - UK Border Agency,23/06/2011,Management & Admin Serv.Overseas Posting Costs-PROG,UKBA - UK Border Agency,CROWN RELOCATIONS,2001213,79182.00
+Home Office,UKBA - UK Border Agency,13/06/2011,"IT, Broadcasting & Telecomms.IT Running Cost - Maint - PROG",UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,1982404,79021.20
+Home Office,UKBA - UK Border Agency,28/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,2004483,78430.10
+Home Office,UKBA - UK Border Agency,17/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1998112,77456.08
+Home Office,UKBA - UK Border Agency,22/06/2011,Management & Admin Serv.Overseas Posting Costs-PROG,UKBA - UK Border Agency,PARIS APARTMENT SERVICES,1998200,77145.00
+Home Office,UKBA - UK Border Agency,10/06/2011,Management & Admin Serv.Overseas Posting Costs-PROG,UKBA - UK Border Agency,PARIS APARTMENT SERVICES,1987823,75009.00
+Home Office,UKBA - UK Border Agency,22/06/2011,Management & Admin Serv.Overseas Posting Costs-PROG,UKBA - UK Border Agency,PARIS APARTMENT SERVICES,1997315,74483.00
+Home Office,UKBA - UK Border Agency,30/06/2011,"Transport, Storage & Mail Serv.Fuel & Vehicle Supp Serv- PROG",UKBA - UK Border Agency,INCHCAPE FLEET SOLUTIONS LTD,1999400,72859.56
+Home Office,UKBA - UK Border Agency,03/06/2011,"Science, Technical & Research.Computer services - PROG",UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,1990019,71602.46
+Home Office,UKBA - UK Border Agency,03/06/2011,"IT, Broadcasting & Telecomms.Sirius-Business Projects- PROG",UKBA - UK Border Agency,FUJITSU SERVICES (ALCEDO) LIMITED,1973185,71600.25
+Home Office,UKBA - UK Border Agency,02/06/2011,IT & Telecoms Components.Standard Software  (FA),UKBA - UK Border Agency,SPECIALIST COMPUTER CENTRES PLC,1980991,71458.02
+Home Office,UKBA - UK Border Agency,06/06/2011,Politics & Civic Affairs.REFUGEE PROG. SECT 95,UKBA - UK Border Agency,CITY AND COUNTY OF SWANSEA,1990864,71168.76
+Home Office,UKBA - UK Border Agency,27/06/2011,"Transport, Storage & Mail Serv.File (Archive) Storage - ADMN",UKBA - UK Border Agency,IRON MOUNTAIN (UK) LTD,1989394,65109.78
+Home Office,UKBA - UK Border Agency,22/06/2011,Management & Admin Serv.Overseas Posting Costs-PROG,UKBA - UK Border Agency,PARIS APARTMENT SERVICES,1997308,64637.00
+Home Office,UKBA - UK Border Agency,21/06/2011,Management & Admin Serv.Corp & Bus Org Structure- ADMN,UKBA - UK Border Agency,VERIZON UK LTD,1998788,64543.77
+Home Office,UKBA - UK Border Agency,15/06/2011,"Vehicles, Ships, Airplanes.Vessel Maintenance - PROG",UKBA - UK Border Agency,DAMEN SHIPYARDS GORINCHEM,1989375,62800.00
+Home Office,UKBA - UK Border Agency,16/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1980649,62437.60
+Home Office,UKBA - UK Border Agency,03/06/2011,"Science, Technical & Research.Computer services - PROG",UKBA - UK Border Agency,FUJITSU SERVICES LIMITED,1973187,62383.29
+Home Office,UKBA - UK Border Agency,29/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,SPECIALIST COMPUTER CENTRES PLC,1991038,61133.40
+Home Office,UKBA - UK Border Agency,03/06/2011,IT & Telecommunications.IT & Telecommunications - PROG,UKBA - UK Border Agency,FUJITSU SERVICES (ALCEDO) LIMITED,1973190,61064.06
+Home Office,UKBA - UK Border Agency,28/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,2003922,60664.70
+Home Office,UKBA - UK Border Agency,13/06/2011,"Public Order, Security, Safety.Escorting services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1972499,57317.78
+Home Office,UKBA - UK Border Agency,10/06/2011,"Public Order, Security, Safety.Escorting services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1979518,56275.71
+Home Office,UKBA - UK Border Agency,27/06/2011,IT & Telecommunications.IT & Telecommunications,UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,2002121,51422.14
+Home Office,UKBA - UK Border Agency,07/06/2011,Professional & Admin Services.Seconded in Staff costs - PROG,UKBA - UK Border Agency,SOUTH YORKSHIRE POLICE,1990186,51376.59
+Home Office,UKBA - UK Border Agency,28/06/2011,Professional & Admin Services.Seconded in Staff costs - PROG,UKBA - UK Border Agency,STRATHCLYDE JOINT POLICE BOARD,2004312,50525.00
+Home Office,UKBA - UK Border Agency,03/06/2011,Laboratory & Scientific Equip.Scientific Equip Running Costs,UKBA - UK Border Agency,L3 COMMUNICATIONS (UK) LTD,1989271,50011.86
+Home Office,UKBA - UK Border Agency,13/06/2011,"Public Order, Security, Safety.Domestic Escort Services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1978282,49338.03
+Home Office,UKBA - UK Border Agency,07/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1990873,49224.67
+Home Office,UKBA - UK Border Agency,30/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,2006039,48752.45
+Home Office,UKBA - UK Border Agency,28/06/2011,Public Order.Jail or prison services,UKBA - UK Border Agency,METROPOLITAN POLICE AUTHORITY,2004240,48599.00
+Home Office,UKBA - UK Border Agency,10/06/2011,"Public Order, Security, Safety.Domestic Escort Services",UKBA - UK Border Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1978519,46516.47
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,SPECIALIST COMPUTER CENTRES PLC,1991306,46084.87
+Home Office,UKBA - UK Border Agency,14/06/2011,"Transport, Storage & Mail Serv.Visa stock",UKBA - UK Border Agency,CENTRO,1995298,45000.00
+Home Office,UKBA - UK Border Agency,22/06/2011,Financial & Insurance Services.Building contents insurance,UKBA - UK Border Agency,HARPIN LIMITED,1149895,44853.28
+Home Office,UKBA - UK Border Agency,17/06/2011,"Transport, Storage & Mail Serv.Mailing Mail Del Serv - ADMN",UKBA - UK Border Agency,FRANCOTYP-POSTALIA LIMITED,1997683,40000.00
+Home Office,UKBA - UK Border Agency,09/06/2011,"Transport, Storage & Mail Serv.Fuel & Vehicle Supp Serv- PROG",UKBA - UK Border Agency,ARVAL UK LTD,1983401,39957.52
+Home Office,UKBA - UK Border Agency,29/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,ATOS ORIGIN IT SERVICES UK LIMITED,2003149,39600.00
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1987897,39126.84
+Home Office,UKBA - UK Border Agency,30/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,2006046,36584.64
+Home Office,UKBA - UK Border Agency,08/06/2011,"Transport, Storage & Mail Serv.Overseas travel - PROG",UKBA - UK Border Agency,THE CHANNEL TUNNEL GROUP LTD,1992030,36280.00
+Home Office,UKBA - UK Border Agency,17/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",UKBA - UK Border Agency,INTERSERVE PROJECT SERVICES LIMITED,1998610,35099.60
+Home Office,UKBA - UK Border Agency,03/06/2011,Asylum Services.Public Expense Removals,UKBA - UK Border Agency,CARLSON WAGONLIT TRAVEL,1987743,34308.57
+Home Office,UKBA - UK Border Agency,16/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,MITIE CARE & CUSTODY LTD,1993320,34167.66
+Home Office,UKBA - UK Border Agency,08/06/2011,Financial & Insurance Services.Banking & Monetary Serv - PROG,UKBA - UK Border Agency,STREAMLINE,1991308,33902.00
+Home Office,UKBA - UK Border Agency,30/06/2011,"IT, Broadcasting & Telecomms.IT Running Cost - Maint - PROG",UKBA - UK Border Agency,FUJITSU SERVICES LIMITED,1990120,33615.09
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1987848,33096.35
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1988341,32755.20
+Home Office,UKBA - UK Border Agency,29/06/2011,Professional & Admin Services.Business admin services - PROG,UKBA - UK Border Agency,ERNST AND YOUNG LLP,2005159,31477.36
+Home Office,UKBA - UK Border Agency,10/06/2011,"Transport, Storage & Mail Serv.Parking fees - PROG",UKBA - UK Border Agency,GATWICK AIRPORT LTD,1993431,31245.60
+Home Office,UKBA - UK Border Agency,17/06/2011,"Transport, Storage & Mail Serv.Parking fees - PROG",UKBA - UK Border Agency,GATWICK AIRPORT LTD,1998275,31020.00
+Home Office,UKBA - UK Border Agency,27/06/2011,Professional & Admin Services.Residential Rental - PROG,UKBA - UK Border Agency,MANCHESTER AIRPORT PLC,2003140,30750.00
+Home Office,UKBA - UK Border Agency,17/06/2011,Management & Admin Serv.Civil Liability Serv - ADMN,UKBA - UK Border Agency,MORRISON & FOERSTER (UK) LLP,1998207,30115.33
+Home Office,UKBA - UK Border Agency,17/06/2011,"Law Enforcement & safety Equip.Haulage, Storage & Disp (HSD)",UKBA - UK Border Agency,G4S CASH SERVICES (UK) LIMITED,1998299,29367.32
+Home Office,UKBA - UK Border Agency,03/06/2011,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Border Agency,TNT UK LTD,1989287,29203.92
+Home Office,UKBA - UK Border Agency,07/06/2011,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,1987932,29202.66
+Home Office,UKBA - UK Border Agency,03/06/2011,"Professional & Admin Services.Patent, Copyright Law - ADMN",UKBA - UK Border Agency,NIESER SERVICES LTD,1974536,28732.80
+Home Office,UKBA - UK Border Agency,07/06/2011,"Law Enforcement & safety Equip.Haulage, Storage & Disp (HSD)",UKBA - UK Border Agency,THAMESDOWN RECYCLING,1991316,28492.62
+Home Office,UKBA - UK Border Agency,27/06/2011,"Science, Technical & Research.Computer services - PROG",UKBA - UK Border Agency,IBM DIRECT UNITED KINGDOM LTD,2003848,27168.00
+Home Office,UKBA - UK Border Agency,03/06/2011,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Border Agency,THE GEO GROUP UK LTD,1987862,25657.60
+Home Office,Home Office,16/06/2011,Other Government Department,Performance & Finance,HM PRISON SERVICE,1997332,165000.00
+Home Office,Home Office,01/06/2011,Management & Admin Serv.Temp IT Syst / Db Admin - ADMN,Performance & Finance,VALUATION OFFICE AGENCY,1988335,38304.00
+Home Office,Home Office,17/06/2011,"IT, Broadcasting & Telecomms.Software - ADMN",Performance & Finance,FUJITSU SERVICES (ALCEDO) LIMITED,1998241,5069678.40
+Home Office,Home Office,03/06/2011,"IT, Broadcasting & Telecomms.Software - ADMN",Performance & Finance,FUJITSU SERVICES (ALCEDO) LIMITED,1973186,665598.82
+Home Office,Home Office,03/06/2011,"IT, Broadcasting & Telecomms.Software - ADMN",Performance & Finance,FUJITSU SERVICES (ALCEDO) LIMITED,1989268,385017.60
+Home Office,Home Office,03/06/2011,"IT, Broadcasting & Telecomms.Software - ADMN",Performance & Finance,FUJITSU SERVICES (ALCEDO) LIMITED,1973183,34939.63
+Home Office,Home Office,24/06/2011,"IT, TelecommsHardware Desktop.Support and Maintenance - PROG",Performance & Finance,ATOS ORIGIN IT SERVICES UK LIMITED,1986752,1483911.18
+Home Office,Home Office,14/06/2011,"IT, TelecommsHardware Desktop.Support and Maintenance - PROG",Performance & Finance,ATOS ORIGIN IT SERVICES UK LIMITED,1984903,815768.17
+Home Office,Home Office,10/06/2011,"IT, Broadcasting & Telecomms.IT Running Cost - Maint - PROG",Performance & Finance,ORACLE CORPORATION UK LIMITED,1979422,378126.79
+Home Office,Home Office,06/06/2011,IT & Telecommunications.IT & Telecommunications - PROG,Performance & Finance,CABLE & WIRELESS,1966428,241259.80
+Home Office,Home Office,10/06/2011,"IT, Broadcasting & Telecomms.IT Run Costs other -Prog",Performance & Finance,ATOS ORIGIN IT SERVICES UK LIMITED,1982439,230820.00
+Home Office,Home Office,14/06/2011,"IT,TelecommsMan ServiceHosting.Support - ADMN",Performance & Finance,ATOS ORIGIN IT SERVICES UK LIMITED,1982408,230000.40
+Home Office,Home Office,08/06/2011,Utilities.Pay Phone Provider Serv - PROG,Performance & Finance,BRITISH TELECOMMUNICATIONS LTD,1984643,86240.69
+Home Office,Home Office,21/06/2011,"Transport, Storage & Mail Serv.File (Archive) Storage - ADMN",Performance & Finance,TNT UK LTD,2000440,152705.82
+Home Office,Home Office,29/06/2011,"Transport, Storage & Mail Serv.File (Archive) Storage - ADMN",Performance & Finance,TNT UK LTD,2005204,37558.15
+Home Office,Home Office,22/06/2011,"Transport, Storage & Mail Serv.File (Archive) Storage - ADMN",Performance & Finance,TNT UK LTD,2000545,31651.99
+Home Office,Home Office,29/06/2011,"IT, TelecommsHardware Desktop.Support and Maintenance - ADMN",Performance & Finance,FUJITSU SERVICES (ALCEDO) LIMITED,2003897,4115677.18
+Home Office,Home Office,29/06/2011,"IT, TelecommsHardware Desktop.Support and Maintenance - ADMN",Performance & Finance,FUJITSU SERVICES (ALCEDO) LIMITED,1988601,4077677.18
+Home Office,Home Office,10/06/2011,"IT, Broadcasting & Telecomms.IT Maintenance - ADMN",Performance & Finance,ATOS ORIGIN IT SERVICES UK LIMITED,1982452,300000.00
+Home Office,Home Office,20/06/2011,"IT, Broadcasting & Telecomms.IT Maintenance - ADMN",Performance & Finance,HEWLETT PACKARD,1984568,213491.59
+Home Office,Home Office,15/06/2011,"IT, Broadcasting & Telecomms.IT Run Cost ű Info Support",Performance & Finance,SAVVIS UK LTD,1931741,146287.91
+Home Office,Home Office,20/06/2011,"IT, Broadcasting & Telecomms.IT Run Cost ű Info Support",Performance & Finance,SAVVIS UK LTD,1985678,72000.00
+Home Office,Home Office,10/06/2011,"IT, Broadcasting & Telecomms.IT Maintenance - ADMN",Performance & Finance,ATOS ORIGIN IT SERVICES UK LIMITED,1982459,60000.00
+Home Office,Home Office,20/06/2011,"IT, Broadcasting & Telecomms.IT Run Cost ű Info Support",Performance & Finance,SAVVIS UK LTD,1985667,56662.56
+Home Office,Home Office,20/06/2011,"IT, Broadcasting & Telecomms.IT Run Cost ű Info Support",Performance & Finance,SAVVIS UK LTD,1985694,49113.43
+Home Office,Home Office,23/06/2011,"IT, TelecommsHardware Desktop.Support and Maintenance - ADMN",Performance & Finance,CABLE & WIRELESS,1954589,43877.70
+Home Office,Home Office,02/06/2011,Management & Admin Serv.Temp IT N/w Specialists - ADMN,Performance & Finance,ADVANTAGE TECHNICAL RESOURCING,1987806,40863.98
+Home Office,Home Office,10/06/2011,Management & Admin Serv.Temp IT N/w Specialists - ADMN,Performance & Finance,ALPINE RESOURCING LIMITED,1993562,26401.20
+Home Office,Home Office,27/06/2011,Politics & Civic Affairs.Human aid & relief Sect 4,Performance & Finance,VINCENT INVESTMENT PROPERTIES,2003869,455689.25
+Home Office,Home Office,15/06/2011,Professional & Admin Services.Facilities Man Serv - ADMN,Performance & Finance,ATKINS LTD,1995242,195400.22
+Home Office,Home Office,29/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988491,76423.88
+Home Office,Home Office,29/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1951154,28427.33
+Home Office,Home Office,17/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1998322,9358045.34
+Home Office,Home Office,23/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,2001984,4863331.56
+Home Office,Home Office,17/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1998321,355771.78
+Home Office,Home Office,24/06/2011,Professional & Admin Services.Residential Rental - PROG,Performance & Finance,C B RICHARD ELLIS LTD,2002199,116770.50
+Home Office,Home Office,09/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1992697,90614.98
+Home Office,Home Office,02/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1989075,55095.42
+Home Office,Home Office,10/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1994131,48000.00
+Home Office,Home Office,21/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1999773,37186.90
+Home Office,Home Office,09/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1993297,35117.61
+Home Office,Home Office,28/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,2004118,33282.35
+Home Office,Home Office,27/06/2011,Professional & Admin Services.Residential Rental - PROG,Performance & Finance,MANCHESTER AIRPORT PLC,2003084,31000.00
+Home Office,Home Office,02/06/2011,"Building, Construction Service.General building construction",Performance & Finance,NEW HALL PLACE UNIT TRUST,1989196,1080951.23
+Home Office,Home Office,29/06/2011,"Building, Construction Service.General building construction",Performance & Finance,NEW HALL PLACE UNIT TRUST,1998628,663346.03
+Home Office,Home Office,17/06/2011,"Building, Construction Service.General building construction",Performance & Finance,MARTIN & HAMILTON LTD,1995554,142102.62
+Home Office,Home Office,14/06/2011,"Building, Construction Service.General building construction",Performance & Finance,MANSELL CONSTRUCTION SERVICES LTD,1995645,93205.68
+Home Office,Home Office,14/06/2011,"Building, Construction Service.General building construction",Performance & Finance,LIFTEC LIFTS LTD,1991976,54210.00
+Home Office,Home Office,29/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1969242,34618.44
+Home Office,Home Office,24/06/2011,"Building, Construction Service.General building construction",Performance & Finance,PASCO,2002786,30484.30
+Home Office,Home Office,14/06/2011,"Transport, Storage & Mail Serv.Mailing, Mail Delivery Service",Performance & Finance,CENTRAL DESPATCH,1996199,47405.27
+Home Office,Home Office,17/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1998323,7035103.34
+Home Office,Home Office,23/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,2001986,1108954.14
+Home Office,Home Office,03/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1989272,843119.91
+Home Office,Home Office,21/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1999587,133377.60
+Home Office,Home Office,02/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988412,130739.10
+Home Office,Home Office,09/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1993301,118832.13
+Home Office,Home Office,20/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1998706,109727.46
+Home Office,Home Office,22/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988482,70395.02
+Home Office,Home Office,15/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988448,67270.20
+Home Office,Home Office,02/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988408,60368.82
+Home Office,Home Office,02/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988450,57376.68
+Home Office,Home Office,14/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1995334,54539.00
+Home Office,Home Office,15/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1996314,53136.36
+Home Office,Home Office,22/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988480,50237.44
+Home Office,Home Office,20/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1998716,47151.87
+Home Office,Home Office,15/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1996304,45951.55
+Home Office,Home Office,02/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988404,45143.38
+Home Office,Home Office,02/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988460,40827.25
+Home Office,Home Office,10/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1994143,40822.80
+Home Office,Home Office,24/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988479,37370.59
+Home Office,Home Office,28/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,2004123,33352.08
+Home Office,Home Office,09/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1992699,33206.22
+Home Office,Home Office,02/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988401,27856.40
+Home Office,Home Office,15/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1882185,25981.18
+Home Office,Home Office,29/06/2011,Real Estate management Serv.Property Management,Performance & Finance,ANNES GATE PROPERTY PLC,2002258,3865071.56
+Home Office,Home Office,17/06/2011,Rent & Rates,Performance & Finance,DTZ DEBENHAM TIE LEUNG LTD,1998324,1661185.96
+Home Office,Home Office,09/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1992731,990494.71
+Home Office,Home Office,14/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1986629,782834.81
+Home Office,Home Office,09/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1992736,683108.42
+Home Office,Home Office,14/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1986619,648739.12
+Home Office,Home Office,14/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1986622,563502.35
+Home Office,Home Office,09/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1992734,396114.49
+Home Office,Home Office,09/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1992740,385713.60
+Home Office,Home Office,14/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1986614,271867.82
+Home Office,Home Office,14/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1986616,111073.73
+Home Office,Home Office,09/06/2011,Utilities.Electric utilities - ADMN,Performance & Finance,EDF ENERGY,1992893,101054.04
+Home Office,Home Office,14/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1986618,98572.67
+Home Office,Home Office,15/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1996151,48735.97
+Home Office,Home Office,15/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1994390,36448.58
+Home Office,Home Office,29/06/2011,"Building, Construction Service.Building ConstructionServ-ADMN",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988419,35763.54
+Home Office,Home Office,15/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,AMEY COMMUNITY,1996482,33631.83
+Home Office,Home Office,24/06/2011,"Science, Technical & Research.Building & Engineer Serv- ADMN",Performance & Finance,RWE SUPPLY & TRADING SWITZERLAND SA,2001409,25736.04
+Home Office,Home Office,06/06/2011,"Building, Construction Service.General building construction",Performance & Finance,OFFICE PROJECTS LIMITED,1986817,725881.01
+Home Office,Home Office,15/06/2011,"Building, Construction Service.General building construction",Performance & Finance,OFFICE PROJECTS LIMITED,1995582,703464.82
+Home Office,Home Office,22/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988476,112378.03
+Home Office,Home Office,02/06/2011,"Building, Construction Service.Interior finishing - PROG",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988406,63805.75
+Home Office,Home Office,27/06/2011,"Building, Construction Service.Building ConstructionServ-PROG",Performance & Finance,INTERSERVE FACILITIES MANAGEMENT,1988584,32455.46
+Home Office,NPIA - National Policing Improvement Agency,14/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,ProcServe Shared Services Limited,5100054201,250000.00
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,IPL Information Processing Ltd.,5100054850,153496.50
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,IPL Information Processing Ltd.,5100054850,43255.96
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,IPL Information Processing Ltd.,5100054850,-16.95
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT software,Information & Communications Technology & Science Directorate,IPL Information Processing Ltd.,5100054850,195710.00
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT software,Information & Communications Technology & Science Directorate,IPL Information Processing Ltd.,5100054850,71587.49
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,IPL Information Processing Ltd.,5100054851,25620.00
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,IPL Information Processing Ltd.,5100054851,5.00
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,Other consultancy,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100054869,25012.56
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,Other consultancy,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100054873,163194.03
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,Cable & Wireless Communications,5100054938,23587.50
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,IT Hardware,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100054949,161799.53
+Home Office,NPIA - National Policing Improvement Agency,13/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100055143,492021.00
+Home Office,NPIA - National Policing Improvement Agency,13/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100055160,492021.00
+Home Office,NPIA - National Policing Improvement Agency,14/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100054142,427749.00
+Home Office,NPIA - National Policing Improvement Agency,14/06/2011,IT Managed Services,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100055173,-427749.00
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Rent of telephone exchange,Information & Communications Technology & Science Directorate,BT Global Services,1900061576,72281.45
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Other consultancy,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100055333,44437.00
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Other consultancy,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100055333,381.43
+Home Office,NPIA - National Policing Improvement Agency,23/06/2011,Telephone charges,Information & Communications Technology & Science Directorate,BT Plc,1700005367,-45043.45
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Telephone charges,Information & Communications Technology & Science Directorate,BT Plc,1900061847,37043.07
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT Information Support,Information & Communications Technology & Science Directorate,Logica CMG UK Ltd,5100055525,24544.00
+Home Office,NPIA - National Policing Improvement Agency,02/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100054443,226057.22
+Home Office,NPIA - National Policing Improvement Agency,02/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100054444,14844329.73
+Home Office,NPIA - National Policing Improvement Agency,01/06/2011,IT software,Operations Directorate,UNISYS Ltd,5100053935,61819.00
+Home Office,NPIA - National Policing Improvement Agency,01/06/2011,IT software,Operations Directorate,UNISYS Ltd,5100053935,25414.00
+Home Office,NPIA - National Policing Improvement Agency,01/06/2011,IT software,Operations Directorate,UNISYS Ltd,5100053935,8665.62
+Home Office,NPIA - National Policing Improvement Agency,01/06/2011,IT software,Operations Directorate,UNISYS Ltd,5100053935,8.38
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT Managed Services,Operations Directorate,Airwave Solutions Ltd,5100054131,189782.93
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,IT Managed Services,Operations Directorate,Airwave Solutions Ltd,5100054449,189782.93
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT software,Operations Directorate,Northgate Information Solutions UK,5100054846,36742.40
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100054899,-14850353.70
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100054899,6023.97
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100054900,14835503.35
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100054900,8826.38
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055170,60699.00
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055170,25191.07
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055170,8297.08
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055170,77888.97
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055171,88775.00
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,IT Managed Services,Operations Directorate,Airwave Solutions Ltd,5100055172,189782.93
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055179,24457.59
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055180,368459.38
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055181,640100.29
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055182,588667.38
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055215,-324683.19
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055215,-263984.19
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055216,588667.83
+Home Office,NPIA - National Policing Improvement Agency,20/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055216,-0.45
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055219,-640097.29
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055219,-3.00
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055220,640097.29
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100055220,-6.01
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100054291,410083.15
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100054291,7704.37
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT software,Operations Directorate,UNISYS Ltd,5100055433,4365.38
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT software,Operations Directorate,UNISYS Ltd,5100055433,-8.38
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT software,Operations Directorate,UNISYS Ltd,5100055433,38472.00
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT software,Operations Directorate,UNISYS Ltd,5100055433,27.00
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT equipment <Ł5000,Policing Policy and Practice Directorate ,Fujitsu (FTS) Limited,5100054538,116466.17
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,Contractors,Policing Policy and Practice Directorate ,Advantage Technical Resourcing,5100054802,23627.50
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT Information Support,Policing Policy and Practice Directorate ,Steria Ltd,5100055221,44963.78
+Home Office,NPIA - National Policing Improvement Agency,03/06/2011,Land and Buildings maintenance,Resources Directorate,Scott Wilson Ltd,1900061551,31852.90
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Wyboston Lakes Ltd,5100054882,31622.55
+Home Office,NPIA - National Policing Improvement Agency,22/06/2011,Electricity,Resources Directorate,EDF Energy,1900061745,21995.00
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Home Office,5100054663,82144.00
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Home Office,5100054663,1642.88
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Home Office,5100054663,226556.52
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Home Office,5100054663,4531.13
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Home Office,5100054663,92562.00
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Home Office,5100054663,1851.24
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Home Office,5100054663,321428.00
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Home Office,5100054663,6427.88
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,Rent/lease - Offices,Resources Directorate,Executive Communication Centres,5100054811,13797.00
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,Rent/lease - Offices,Resources Directorate,Executive Communication Centres,5100054811,275.94
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Executive Communication Centres,5100054811,17855.75
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Executive Communication Centres,5100054811,354.57
+Home Office,NPIA - National Policing Improvement Agency,08/06/2011,FM Costs,Resources Directorate,Wyboston Lakes Ltd,5100055042,-31622.55
+Home Office,NPIA - National Policing Improvement Agency,14/06/2011,FM Costs,Resources Directorate,Wyboston Lakes Ltd,5100055043,31002.50
+Home Office,NPIA - National Policing Improvement Agency,14/06/2011,FM Costs,Resources Directorate,Wyboston Lakes Ltd,5100055043,620.05
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,IT Managed Services,Resources Directorate,Spikes Cavell Analytic Limited,5100055161,60194.69
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,2455.71
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,491.14
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,67531.40
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,13506.28
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,12643.52
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,252.87
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,533.30
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,10.67
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,15334.59
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,306.69
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,27055.75
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Home Office,5100054580,541.11
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,FM Costs,Resources Directorate,Home Office,5100054580,682.57
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,FM Costs,Resources Directorate,Home Office,5100054580,13.65
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061047,4339.34
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061047,19723.44
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061047,5063.71
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061047,276.02
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061047,393.26
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061047,45363.27
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061553,3597.10
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061553,4100.66
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061553,15860.19
+Home Office,NPIA - National Policing Improvement Agency,21/06/2011,Electricity,Resources Directorate,EDF Energy Exeter,1900061553,44530.03
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Land and Buildings maintenance,Resources Directorate,Interserve Project Services Limited,1900061883,60840.00
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Rent/lease - Offices,Resources Directorate,Mapeley STEPS Ltd,5100055571,487500.00
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,Rent/lease - Offices,Resources Directorate,Mapeley STEPS Ltd,5100055571,9750.00
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,FM Costs,Resources Directorate,Mapeley STEPS Ltd,5100055571,140070.00
+Home Office,NPIA - National Policing Improvement Agency,28/06/2011,FM Costs,Resources Directorate,Mapeley STEPS Ltd,5100055571,2725.33

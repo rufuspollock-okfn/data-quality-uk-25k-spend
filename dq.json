@@ -1,0 +1,29 @@
+{
+  "data_dir": "data",
+  "cache_dir": "fetched",
+  "result_file": "results.csv",
+  "run_file": "runs.csv",
+  "source_file": "sources.csv",
+  "publisher_file": "publishers.csv",
+  "performance_file": "performance.csv",
+  "remotes": ["origin"],
+  "branch": "master",
+  "goodtables": {
+    "goodtables_web": "http://goodtables.okfnlabs.org",
+    "arguments": {
+      "pipeline": {
+        "processors": ["structure", "schema"],
+	"options":{
+          "schema": {"case_insensitive_headers": true}
+	},
+	"encoding": "ISO-8859-2"
+      },
+      "batch": {
+	"sleep":2,
+	"data_key": "data",
+      	"format_key": "format",
+        "schema_key": "schema"
+      }
+    }
+  }
+}

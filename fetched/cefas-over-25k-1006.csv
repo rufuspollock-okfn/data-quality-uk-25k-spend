@@ -1,0 +1,3 @@
+Department family(T);Entity(T);Pay date;Expense type(T);Expense area(T);Supplier(T);TransNo;Amount;VAT Registration Number
+DEFRA;Cefas;09/06/2010;Lab Services;Aquatic Health & Hygiene;Agilent Technologies;20002973;23551.51;
+DEFRA;Cefas;16/06/2010;Professional Services Technical Subcontracts (scientific work);Environment & Ecosystems;Eunomia Research & Consulting Ltd;20002772;22873.75;

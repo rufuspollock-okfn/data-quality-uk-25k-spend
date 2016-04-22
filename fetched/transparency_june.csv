@@ -1,0 +1,62 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Narrative
+HM Treasury,DMO,01/06/2010,Contracted Out Services Other,Business Delivery,BLOOMBERG FINANCE L.P.,84599,55345.62,
+HM Treasury,HM Treasury,04/06/2010,Consultants - Legal - Advisory only,Financial Stability,SLAUGHTER AND MAY,83468,28288.18,
+HM Treasury,HM Treasury,04/06/2010,Consultants - Legal - Advisory only,Financial Stability,SLAUGHTER AND MAY,84102,49611.67,
+HM Treasury,HM Treasury,04/06/2010,Equitable Life Enquiry,"Budget, Tax & Welfare",TOWERS WATSON,84699,347842.65,Actuarial advice
+HM Treasury,HM Treasury,04/06/2010,Maintenance,Corporate Services,MITIE MANAGED SERVICES LTD,84701,32442.55,Estates Norwich
+HM Treasury,HM Treasury,04/06/2010,Electricity,Corporate Services,MITIE MANAGED SERVICES LTD,84703,16450.00,Estates Norwich
+HM Treasury,HM Treasury,04/06/2010,Facilities Mgt. Service Charges(Contracted Out),Corporate Services,MITIE MANAGED SERVICES LTD,84703,800.00,Estates Norwich
+HM Treasury,HM Treasury,04/06/2010,Facilities Mgt. Service Charges(Contracted Out),Corporate Services,MITIE MANAGED SERVICES LTD,84703,1200.00,Estates Norwich
+HM Treasury,HM Treasury,04/06/2010,Gas,Corporate Services,MITIE MANAGED SERVICES LTD,84703,2232.50,Estates Norwich
+HM Treasury,HM Treasury,04/06/2010,Postage Costs,Corporate Services,MITIE MANAGED SERVICES LTD,84703,4465.00,Estates Norwich
+HM Treasury,HM Treasury,04/06/2010,Service Charges,Corporate Services,MITIE MANAGED SERVICES LTD,84703,1057.50,Estates Norwich
+HM Treasury,HM Treasury,04/06/2010,Supply Stock Items(Stationery),Corporate Services,MITIE MANAGED SERVICES LTD,84703,1997.50,Estates Norwich
+HM Treasury,HM Treasury,04/06/2010,Water & Sewage,Corporate Services,MITIE MANAGED SERVICES LTD,84703,352.50,Estates Norwich
+HM Treasury,APA,04/06/2010,Consultants - Financial - Advisory only,Finance,PRICEWATERHOUSECOOPERS,84722,39486.86,Asset Protection Scheme Advice
+HM Treasury,HM Treasury,04/06/2010,Procurement Card,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84725,27546.23,Estates 1 Horse Guards Road
+HM Treasury,UKFI,07/06/2010,Consultants-Mgt-Advisory,UKFI,THE COGNITAS GROUP,84836,30000.00,
+HM Treasury,HM Treasury,08/06/2010,Service Charges,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84473,31357.10,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,08/06/2010,Service Charges,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84474,31357.10,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,08/06/2010,Equitable Life Enquiry,"Budget, Tax & Welfare",DELOITTE LLP,84546,62909.00,
+HM Treasury,HM Treasury,08/06/2010,Electricity,Corporate Services,EDF ENERGY,84810,45567.44,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,08/06/2010,Rent,Permanent Secretary & Ministersanent Secretary & Ministers,CABINET OFFICE RM SHARED SERVICES,84848,468585.00,Downing Street rentals 
+HM Treasury,DMO,10/06/2010,Software Maintenance,Business Delivery,CONTEMPORARY PLC,84847,38708.65,
+HM Treasury,HM Treasury,10/06/2010,Capital payment on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84909,126985.97,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/06/2010, Rent on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84909,309008.70,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/06/2010,Interest Payable on PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84909,812606.75,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/06/2010,Service Charges,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84909,2234.36,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/06/2010,Service Element of PFI,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84909,309278.52,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,10/06/2010,AME Mint Stock Metal Costs,Macro Economic & Fiscal Policy,ROYAL MINT,84921,1580199.83,
+HM Treasury,HM Treasury,10/06/2010,DEL Mint Stock Manufacturing Costs,Macro Economic & Fiscal Policy,ROYAL MINT,84921,1053087.55,
+HM Treasury,HM Treasury,10/06/2010,Service Charges,Corporate Services,EXCHEQUER PARTNERSHIP PLC,84922,31357.10,Estates 1 Horse Guards Road
+HM Treasury,HM Treasury,15/06/2010,Consultants - Legal - Advisory only,Financial Stability,SLAUGHTER AND MAY,80530,273780.30,
+HM Treasury,HM Treasury,15/06/2010,Consultants - Financial - Advisory only,Financial Stability,DELOITTE LLP,84952,36837.00,Financial stability - Asset Protection Scheme
+HM Treasury,HM Treasury,15/06/2010,Equitable Life Enquiry,"Budget, Tax & Welfare",DELOITTE LLP,84981,49863.60,
+HM Treasury,APA,17/06/2010,Consultants - Mgt - Non Advisory,Infrastructure Management,KPMG LLP,83664,37901.98,Asset Protection Scheme Advice
+HM Treasury,HM Treasury,17/06/2010,UK Coinage Manufacturing Cost,Macro Economic & Fiscal Policy,ROYAL MINT,84878,39315.50,
+HM Treasury,HM Treasury,17/06/2010,Consultancy - Legal -  Contracted out services,Corporate Services,THE TREASURY SOLICITOR,85152,271197.00,Treasury Legal Advisors - salary costs recharged from TSOL 
+HM Treasury,HM Treasury,17/06/2010,Equitable Life Enquiry,"Budget, Tax & Welfare",TOWERS WATSON,85163,493677.67,Actuarial advice
+HM Treasury,HM Treasury,21/06/2010,Consultants - Financial - Advisory only,Financial Stability,PRICEWATERHOUSECOOPERS,82028,321061.12,
+HM Treasury,HM Treasury,21/06/2010,Consultants - Financial - Advisory only,Financial Stability,PRICEWATERHOUSECOOPERS,82686,352236.50,
+HM Treasury,HM Treasury,21/06/2010,Rent,Corporate Services,GOODMAN UK LIMITED,84898,28087.49,Estates Alexandra House Leeds
+HM Treasury,HM Treasury,23/06/2010,Consultants - Financial - Advisory only,Financial Stability,PRICEWATERHOUSECOOPERS,80914,388023.45,
+HM Treasury,APA,23/06/2010,Consultants- IT - Advisory,Operations,PRICEWATERHOUSECOOPERS,84726,270917.25,Asset Protection Scheme Advice
+HM Treasury,HM Treasury,23/06/2010,Original Research,International Finance,ECOTEC RESEARCH & CONSULTING LTD,85244,22876.00,evaluation of DWP Growth Fund
+HM Treasury,HM Treasury,23/06/2010,Office Machinery Repairs,Corporate Services,EXCHEQUER PARTNERSHIP PLC,85263,33939.70,IT modernisation programme
+HM Treasury,HM Treasury,23/06/2010,Procurement Card,Corporate Services,NATWEST BANK PLC,85318,141705.78,various purchases on Government Procurement Card
+HM Treasury,HM Treasury,25/06/2010,It Equipment  - Current,Corporate Services,BUYING SOLUTIONS,83820,60742.82,IT services
+HM Treasury,HM Treasury,25/06/2010,It Equipment  - Current,Corporate Services,BUYING SOLUTIONS,83866,141230.30,IT services
+HM Treasury,HM Treasury,25/06/2010,Call Charges,Corporate Services,VODAFONE CORPORATE LTD,84526,39401.29,IT/ telephony services
+HM Treasury,HM Treasury,25/06/2010,Budget Documentation,"Budget, Tax & Welfare",SECURITY & LOGISTICAL SOLUTIONS LTD,85471,30949.50,
+HM Treasury,HM Treasury,25/06/2010,Travel,Corporate Services,RBS LODGE,85475,101422.70,various travel costs 
+HM Treasury,HM Treasury,30/06/2010,Consultants - Mgt - Non Advisory,Public Services & Growth,CAPGEMINI UK PLC,84247,32054.00,Development of COINS replacement
+HM Treasury,HM Treasury,30/06/2010,Hire Of It Equipment,Corporate Services,EXCHEQUER PARTNERSHIP PLC,85260,43323.74,IT modernisation programme
+HM Treasury,HM Treasury,30/06/2010,Cost Additions - IT Hardware,Corporate Services,EXCHEQUER PARTNERSHIP PLC,85262,113453.89,IT modernisation programme
+HM Treasury,HM Treasury,30/06/2010,Govt. Car Service,Permanent Secretary & Ministersanent Secretary & Ministers,GCDA (GOVERNMENT CAR SERVICE),85296,30260.33,
+HM Treasury,APA,30/06/2010,Recruitment Expenses,Finance,CIRCLE PEOPLE LTD,85407,24000.00,external recruitment costs Asset Protection Agency 
+HM Treasury,UKFI,30/06/2010,Rent,UKFI,"DEPARTMENT FOR CULTURE, MEDIA AND SPORT",85494,54596.45,"Estates, rental payment - UKFI "
+HM Treasury,HM Treasury,30/06/2010,Consultancy - Legal -  Contracted out services,Corporate Services,THE TREASURY SOLICITOR,85525,273233.26,Treasury Legal Advisors - salary costs recharged from TSOL 
+HM Treasury,HM Treasury,30/06/2010,Maintenance,Corporate Services,MITIE MANAGED SERVICES LTD,85528,32442.55,Estates Norwich Office
+HM Treasury,HM Treasury,30/06/2010,Procurement Card,Corporate Services,BT PLC,85534,38613.97,telephony services
+HM Treasury,DMO,30/06/2010,Rent (to managing agent),Facilities,JONES LANG LASALLE,85559,282385.40,Estates - DMO 11 Philpot Lane
+,,,,,,,,

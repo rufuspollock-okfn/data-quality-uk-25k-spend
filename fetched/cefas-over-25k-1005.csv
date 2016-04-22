@@ -1,0 +1,4 @@
+Department family(T);Entity(T);Pay date;Expense type(T);Expense area(T);Supplier(T);TransNo;Amount;VAT Registration Number
+DEFRA;Cefas;04/05/2010;Professional Services Operational Services;Corporate;OPTIMUM TECHNOLOGY TRANSFER;20000662;33350.00;
+DEFRA;Cefas;19/05/2010;Professional Services Technical Subcontracts (scientific work);Aquatic Health & Hygiene;BRUNEL UNIVERSITY;20000793;23750.00;
+DEFRA;Cefas;28/05/2010;Assets Under Construction;Fisheries;Archipelago Marine Research Ltd;20002185;94488.77;
