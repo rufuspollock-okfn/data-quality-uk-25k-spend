@@ -7,7 +7,7 @@
   "publisher_file": "publishers.csv",
   "performance_file": "performance.csv",
   "remotes": ["origin"],
-  "branch": "master",
+  "branch": "test_deploy_option",
   "goodtables": {
     "goodtables_web": "http://goodtables.okfnlabs.org",
     "arguments": {
