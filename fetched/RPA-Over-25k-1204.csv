@@ -1,48 +1,48 @@
 Department,Entity,Date,Expense type,Expense Area,Supplier Name,Transaction Number,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Number,Expenditure type
-DEFRA,RPA,30/04/2012,IT Outsourced Services,Programmes & Projects,Accenture,3003180760,"≈Å836,820.00",ICT Managed Service Charges ,EC3M 3BD,No,64175,SPSS0110,Admin
-DEFRA,RPA,30/04/2012,IT Outsourced Services,Service Management,Accenture,3003180761,"≈Å836,820.00",ICT Managed Service Charges,EC3M 3BD,No,64175,PPS03700,Admin
-DEFRA,RPA,20/04/2012,Printing,Managed Document Services,Adare,IS1201229,"≈Å63,251.60",Scheme Payments 2012 Application Forms,HD8 9QQ,No,63966,MDSSPS01,Admin
-DEFRA,RPA,24/04/2012,Downtream Access Mailing,Managed Document Services,Adare,IS1201230,"≈Å27,480.00",Mailing Costs,HD8 9QQ,No,63966,MDSSPS01,Admin
-DEFRA,RPA,04/04/2012,Various,Various,Barclaycard,April Transactions,"≈Å26,257.19",Government Procurement Card Expenditure,TS17 6YG,,N/A,N/A,Admin
-DEFRA,RPA,20/04/2012,IT Outsourced Services,Service Management,Cable & Wireless,UK13070379/UK10/042012/9044,"≈Å30,177.48",Monthly PBX Maintenance Charges for all RPA Locations,RG12 1XL,,64133,TLMS0160,Admin
-DEFRA,RPA,20/04/2012,IT Licences,Service Management,Computacenter,3803877935,"≈Å223,600.00",Symantec Security Software Support,AL10 9TW,,64104,N/A,Admin
-DEFRA,RPA,03/04/2012,IT Outsourced Services,Service Management,Defra,1000014301,"≈Å142,005.83",2011-2012 Government Gateway,YO1 7PX,,63662,COMS0150,Admin
-DEFRA,RPA,03/04/2012,IT Outsourced Services,Service Management,Defra,1000014301,"≈Å28,401.17",2011-2012 Government Gateway,YO1 7PX,,63662,COMS0150,
-DEFRA,RPA,03/04/2012,IT Outsourced Services,Service Management,Defra,1000014302,"≈Å108,333.33",2011-2012 Single Payment Scheme Applications Licences,YO1 7PX,,63663,SPSH0120,Admin
-DEFRA,RPA,12/04/2012,IT Outsourced Services,Service Management,DSGi Business,11329797,"≈Å63,195.00",Monthly ICT Managed Service Charges,BL9 7BJ,,64069,OFF0125,Admin
-DEFRA,RPA,20/04/2012,Rates,Sustainable Workplace Management,DTZ,34934,"≈Å79,563.75",Sustainable Workplace Management,B4 6AJ,,63799,N/A,Admin
-DEFRA,RPA,20/04/2012,Fuel & Utilities,Sustainable Workplace Management,DTZ,34934,"≈Å44,278.45",Sustainable Workplace Management,B4 6AJ,,63799,N/A,
-DEFRA,RPA,20/04/2012,Rent,Sustainable Workplace Management,DTZ,34934,"≈Å325,000.00",Sustainable Workplace Management,B4 6AJ,,63799,N/A,
-DEFRA,RPA,20/04/2012,Rates,Sustainable Workplace Management,DTZ,34938,"≈Å58,682.33",Sustainable Workplace Management,B4 6AJ,,63803,N/A,
-DEFRA,RPA,24/04/2012,Maintenance & FM Service,Sustainable Workplace Management,DTZ,33924,"≈Å27,080.09",Sustainable Workplace Management,B4 6AJ,,63803,N/A,Admin
-DEFRA,RPA,25/04/2012,Defra Estates Recharge,Sustainable Workplace Management,DTZ,33333,"≈Å28,365.56",Sustainable Workplace Management,B4 6AJ,,63802,N/A,Admin
-DEFRA,RPA,25/04/2012,Maintenance & FM Service,Sustainable Workplace Management,DTZ,33900,"≈Å40,056.49",Sustainable Workplace Management,B4 6AJ,,63802,N/A,Admin
-DEFRA,RPA,25/04/2012,Rent,Sustainable Workplace Management,DTZ,34909,"≈Å142,276.75",Sustainable Workplace Management,B4 6AJ,,63802,N/A,Admin
-DEFRA,RPA,25/04/2012,Rent,Sustainable Workplace Management,DTZ,34852,"≈Å139,643.16",Sustainable Workplace Management,B4 6AJ,,63804,N/A,Admin
-DEFRA,RPA,25/04/2012,Rates,Sustainable Workplace Management,DTZ,34852,"≈Å42,715.87",Sustainable Workplace Management,B4 6AJ,,63804,N/A,
-DEFRA,RPA,26/04/2012,Maintenance & FM Service,Sustainable Workplace Management,DTZ,33921,"≈Å30,947.01",Sustainable Workplace Management,B4 6AJ,,63800,N/A,
-DEFRA,RPA,26/04/2012,Rent,Sustainable Workplace Management,DTZ,29598,"≈Å251,394.66",Sustainable Workplace Management,B4 6AJ,,63800,N/A,Admin
-DEFRA,RPA,26/04/2012,Rates,Sustainable Workplace Management,DTZ,29598,"≈Å71,245.28",Sustainable Workplace Management,B4 6AJ,,63800,N/A,
-DEFRA,RPA,26/04/2012,Fuel & Utilities,Sustainable Workplace Management,DTZ,29598,"≈Å26,862.56",Sustainable Workplace Management,B4 6AJ,,63800,N/A,
-DEFRA,RPA,26/04/2012,Maintenance & FM Service,Sustainable Workplace Management,DTZ,29598,"≈Å29,305.48",Sustainable Workplace Management,B4 6AJ,,63800,N/A,
-DEFRA,RPA,15/04/2012,IT Licences,Service Management,E-Spatial Solutions,200012,"≈Å35,200.00",Desktop Licences,Dublin D3,,64102,OFFS0250,Admin
-DEFRA,RPA,15/04/2012,IT Licences,Service Management,E-Spatial Solutions,200012,"≈Å70,400.00",Desktop Licences,Dublin D3,,64102,OFFS0250,
-DEFRA,RPA,03/04/2012,IT Licences,Service Management,Experian Q A S ,133954I,"≈Å55,497.03",UNIX - SOLARIS Desktop Licences to 28/02/2013,SW4 0QL,,63990,OFFS0250,Admin
-DEFRA,RPA,03/04/2012,Meat Hygiene Services,British Cattle Movement Services,Food Standards Agency,1701225,"≈Å57,761.82",Cattle Passports,YO1 7PX,,63545,N/A,Admin
-DEFRA,RPA,03/04/2012,Meat Hygiene Services,British Cattle Movement Services,Food Standards Agency,1701270,"≈Å56,525.57",Cattle Passports,YO1 7PX,,63545,N/A,Admin
-DEFRA,RPA,04/04/2012,IT Outsourced Services,Service Management,IBM,5803121250,"≈Å63,162.98",SAN Microsoft Migration - IBM Provided Resource 30/12/11 to 27/01/12 ,B4 6AJ,,63959,PPT01100,Admin
-DEFRA,RPA,04/04/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121545,"≈Å43,083.18",SAN Microsoft Migration - IBM Provided Resource 01/03/12 to 31/03/12  ICT Continuity,B4 6AJ,,63726,PPT02200,Admin
-DEFRA,RPA,26/04/2012,IT Outsourced Services,Programmes & Projects,IBM,5804120854,"≈Å49,741.51",SAN Microsoft Migration - IBM Provided Resource 01/04/12 to 30/4/12 Collaborative Environmental Transportation Agreement for Streamling (CETAS),B4 6AJ,,63655,PPX08600,Admin
-DEFRA,RPA,05/04/2012,Supplier Contractors,Geographic Information Services,Infotech Enterprises,970001366,"≈Å48,717.13",Geographical Information Services Rural Land Registry Digitization - Feb 12,WC1A 6RL,,63631,N/A,Admin
-DEFRA,RPA,25/04/2012,Supplier Contractors,Geographic Information Services,Infotech Enterprises,970001465,"≈Å61,448.24",Geographical information Services Rural Land Registry Digitization - Mar 11,WC1A 6RL,,63631,N/A,Admin
-DEFRA,RPA,05/04/2012,Supplier Contractors,Programmes & Projects,Price Waterhouse Coopers,1353770086,"≈Å113,024.00",Future Options Programme,E14 9SQ,,64074,FOP01000,Admin
-DEFRA,RPA,05/04/2012,Supplier Contractors,Programmes & Projects,Price Waterhouse Coopers,1353770086,"≈Å135,566.00",Future Options Programme,E14 9SQ,,63919,FOP01000,
-DEFRA,RPA,13/04/2012,IT Outsourced Services,Programmes & Projects,Software AG,1109002255,"≈Å44,620.00",Single Payment Scheme (SPS) Rollover and Enhancements,DE24 8HS,,63855,PPS08700,Admin
-DEFRA,RPA,19/04/2012,IT Outsourced Services,Service Management,Software AG,1109002256,"≈Å153,819.00",E-channel software,DE24 8HS,,64059,CORS0210,Admin
-DEFRA,RPA,30/04/2012,Assets Clearing,Programmes & Projects,Software Box,INV56830,"≈Å213,000.00",Identify and Improve Key Business Processes,YO6 1ET,,64053,PPN11000,Admin
-DEFRA,RPA,30/04/2012,Assets Clearing,Programmes & Projects,Specialist Computer Centres,OP/L476540,"≈Å78,762.93",Scheme Analysis,B11 2LE,,64073,PPN09500,Admin
-DEFRA,RPA,18/04/2012,IT Outsourced Services,Service Management,Steria Limited,100031351,"≈Å461,695.00",Strategic Management Information Finance Applications Maintenance and Support,M14 0WN,,64137,CORS0150,Admin
-DEFRA,RPA,18/04/2012,IT Outsourced Services,Service Management,Steria Limited,100031352,"≈Å28,852.00",Strategic Management Information Corporate Application Change Requests,M14 0WN,,64137,CORS0120,Admin
-DEFRA,RPA,20/04/2012,IT Outsourced Services,Service Management,Steria Limited,100031353,"≈Å160,507.00",Strategic Management Information Financial Applications Enhancements,M14 0WN,,64137,CORS0140,Admin
-DEFRA,RPA,20/04/2012,IT Licences,Service Management,Tibco Software,6020547,"≈Å157,983.00",Desktop Licences,Netherlands,,64076,OFFS0250,Admin
-DEFRA,RPA,20/04/2012,IT Licences,Programmes & Projects,Trustmarque Solutions,2168846,"≈Å111,182.06",Licences - Desktop Transaction Project,YO32 9WN,,64099,PPT02000,Admin
+DEFRA,RPA,30/04/2012,IT Outsourced Services,Programmes & Projects,Accenture,3003180760,"£836,820.00",ICT Managed Service Charges ,EC3M 3BD,No,64175,SPSS0110,Admin
+DEFRA,RPA,30/04/2012,IT Outsourced Services,Service Management,Accenture,3003180761,"£836,820.00",ICT Managed Service Charges,EC3M 3BD,No,64175,PPS03700,Admin
+DEFRA,RPA,20/04/2012,Printing,Managed Document Services,Adare,IS1201229,"£63,251.60",Scheme Payments 2012 Application Forms,HD8 9QQ,No,63966,MDSSPS01,Admin
+DEFRA,RPA,24/04/2012,Downtream Access Mailing,Managed Document Services,Adare,IS1201230,"£27,480.00",Mailing Costs,HD8 9QQ,No,63966,MDSSPS01,Admin
+DEFRA,RPA,04/04/2012,Various,Various,Barclaycard,April Transactions,"£26,257.19",Government Procurement Card Expenditure,TS17 6YG,,N/A,N/A,Admin
+DEFRA,RPA,20/04/2012,IT Outsourced Services,Service Management,Cable & Wireless,UK13070379/UK10/042012/9044,"£30,177.48",Monthly PBX Maintenance Charges for all RPA Locations,RG12 1XL,,64133,TLMS0160,Admin
+DEFRA,RPA,20/04/2012,IT Licences,Service Management,Computacenter,3803877935,"£223,600.00",Symantec Security Software Support,AL10 9TW,,64104,N/A,Admin
+DEFRA,RPA,03/04/2012,IT Outsourced Services,Service Management,Defra,1000014301,"£142,005.83",2011-2012 Government Gateway,YO1 7PX,,63662,COMS0150,Admin
+DEFRA,RPA,03/04/2012,IT Outsourced Services,Service Management,Defra,1000014301,"£28,401.17",2011-2012 Government Gateway,YO1 7PX,,63662,COMS0150,
+DEFRA,RPA,03/04/2012,IT Outsourced Services,Service Management,Defra,1000014302,"£108,333.33",2011-2012 Single Payment Scheme Applications Licences,YO1 7PX,,63663,SPSH0120,Admin
+DEFRA,RPA,12/04/2012,IT Outsourced Services,Service Management,DSGi Business,11329797,"£63,195.00",Monthly ICT Managed Service Charges,BL9 7BJ,,64069,OFF0125,Admin
+DEFRA,RPA,20/04/2012,Rates,Sustainable Workplace Management,DTZ,34934,"£79,563.75",Sustainable Workplace Management,B4 6AJ,,63799,N/A,Admin
+DEFRA,RPA,20/04/2012,Fuel & Utilities,Sustainable Workplace Management,DTZ,34934,"£44,278.45",Sustainable Workplace Management,B4 6AJ,,63799,N/A,
+DEFRA,RPA,20/04/2012,Rent,Sustainable Workplace Management,DTZ,34934,"£325,000.00",Sustainable Workplace Management,B4 6AJ,,63799,N/A,
+DEFRA,RPA,20/04/2012,Rates,Sustainable Workplace Management,DTZ,34938,"£58,682.33",Sustainable Workplace Management,B4 6AJ,,63803,N/A,
+DEFRA,RPA,24/04/2012,Maintenance & FM Service,Sustainable Workplace Management,DTZ,33924,"£27,080.09",Sustainable Workplace Management,B4 6AJ,,63803,N/A,Admin
+DEFRA,RPA,25/04/2012,Defra Estates Recharge,Sustainable Workplace Management,DTZ,33333,"£28,365.56",Sustainable Workplace Management,B4 6AJ,,63802,N/A,Admin
+DEFRA,RPA,25/04/2012,Maintenance & FM Service,Sustainable Workplace Management,DTZ,33900,"£40,056.49",Sustainable Workplace Management,B4 6AJ,,63802,N/A,Admin
+DEFRA,RPA,25/04/2012,Rent,Sustainable Workplace Management,DTZ,34909,"£142,276.75",Sustainable Workplace Management,B4 6AJ,,63802,N/A,Admin
+DEFRA,RPA,25/04/2012,Rent,Sustainable Workplace Management,DTZ,34852,"£139,643.16",Sustainable Workplace Management,B4 6AJ,,63804,N/A,Admin
+DEFRA,RPA,25/04/2012,Rates,Sustainable Workplace Management,DTZ,34852,"£42,715.87",Sustainable Workplace Management,B4 6AJ,,63804,N/A,
+DEFRA,RPA,26/04/2012,Maintenance & FM Service,Sustainable Workplace Management,DTZ,33921,"£30,947.01",Sustainable Workplace Management,B4 6AJ,,63800,N/A,
+DEFRA,RPA,26/04/2012,Rent,Sustainable Workplace Management,DTZ,29598,"£251,394.66",Sustainable Workplace Management,B4 6AJ,,63800,N/A,Admin
+DEFRA,RPA,26/04/2012,Rates,Sustainable Workplace Management,DTZ,29598,"£71,245.28",Sustainable Workplace Management,B4 6AJ,,63800,N/A,
+DEFRA,RPA,26/04/2012,Fuel & Utilities,Sustainable Workplace Management,DTZ,29598,"£26,862.56",Sustainable Workplace Management,B4 6AJ,,63800,N/A,
+DEFRA,RPA,26/04/2012,Maintenance & FM Service,Sustainable Workplace Management,DTZ,29598,"£29,305.48",Sustainable Workplace Management,B4 6AJ,,63800,N/A,
+DEFRA,RPA,15/04/2012,IT Licences,Service Management,E-Spatial Solutions,200012,"£35,200.00",Desktop Licences,Dublin D3,,64102,OFFS0250,Admin
+DEFRA,RPA,15/04/2012,IT Licences,Service Management,E-Spatial Solutions,200012,"£70,400.00",Desktop Licences,Dublin D3,,64102,OFFS0250,
+DEFRA,RPA,03/04/2012,IT Licences,Service Management,Experian Q A S ,133954I,"£55,497.03",UNIX - SOLARIS Desktop Licences to 28/02/2013,SW4 0QL,,63990,OFFS0250,Admin
+DEFRA,RPA,03/04/2012,Meat Hygiene Services,British Cattle Movement Services,Food Standards Agency,1701225,"£57,761.82",Cattle Passports,YO1 7PX,,63545,N/A,Admin
+DEFRA,RPA,03/04/2012,Meat Hygiene Services,British Cattle Movement Services,Food Standards Agency,1701270,"£56,525.57",Cattle Passports,YO1 7PX,,63545,N/A,Admin
+DEFRA,RPA,04/04/2012,IT Outsourced Services,Service Management,IBM,5803121250,"£63,162.98",SAN Microsoft Migration - IBM Provided Resource 30/12/11 to 27/01/12 ,B4 6AJ,,63959,PPT01100,Admin
+DEFRA,RPA,04/04/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121545,"£43,083.18",SAN Microsoft Migration - IBM Provided Resource 01/03/12 to 31/03/12  ICT Continuity,B4 6AJ,,63726,PPT02200,Admin
+DEFRA,RPA,26/04/2012,IT Outsourced Services,Programmes & Projects,IBM,5804120854,"£49,741.51",SAN Microsoft Migration - IBM Provided Resource 01/04/12 to 30/4/12 Collaborative Environmental Transportation Agreement for Streamling (CETAS),B4 6AJ,,63655,PPX08600,Admin
+DEFRA,RPA,05/04/2012,Supplier Contractors,Geographic Information Services,Infotech Enterprises,970001366,"£48,717.13",Geographical Information Services Rural Land Registry Digitization - Feb 12,WC1A 6RL,,63631,N/A,Admin
+DEFRA,RPA,25/04/2012,Supplier Contractors,Geographic Information Services,Infotech Enterprises,970001465,"£61,448.24",Geographical information Services Rural Land Registry Digitization - Mar 11,WC1A 6RL,,63631,N/A,Admin
+DEFRA,RPA,05/04/2012,Supplier Contractors,Programmes & Projects,Price Waterhouse Coopers,1353770086,"£113,024.00",Future Options Programme,E14 9SQ,,64074,FOP01000,Admin
+DEFRA,RPA,05/04/2012,Supplier Contractors,Programmes & Projects,Price Waterhouse Coopers,1353770086,"£135,566.00",Future Options Programme,E14 9SQ,,63919,FOP01000,
+DEFRA,RPA,13/04/2012,IT Outsourced Services,Programmes & Projects,Software AG,1109002255,"£44,620.00",Single Payment Scheme (SPS) Rollover and Enhancements,DE24 8HS,,63855,PPS08700,Admin
+DEFRA,RPA,19/04/2012,IT Outsourced Services,Service Management,Software AG,1109002256,"£153,819.00",E-channel software,DE24 8HS,,64059,CORS0210,Admin
+DEFRA,RPA,30/04/2012,Assets Clearing,Programmes & Projects,Software Box,INV56830,"£213,000.00",Identify and Improve Key Business Processes,YO6 1ET,,64053,PPN11000,Admin
+DEFRA,RPA,30/04/2012,Assets Clearing,Programmes & Projects,Specialist Computer Centres,OP/L476540,"£78,762.93",Scheme Analysis,B11 2LE,,64073,PPN09500,Admin
+DEFRA,RPA,18/04/2012,IT Outsourced Services,Service Management,Steria Limited,100031351,"£461,695.00",Strategic Management Information Finance Applications Maintenance and Support,M14 0WN,,64137,CORS0150,Admin
+DEFRA,RPA,18/04/2012,IT Outsourced Services,Service Management,Steria Limited,100031352,"£28,852.00",Strategic Management Information Corporate Application Change Requests,M14 0WN,,64137,CORS0120,Admin
+DEFRA,RPA,20/04/2012,IT Outsourced Services,Service Management,Steria Limited,100031353,"£160,507.00",Strategic Management Information Financial Applications Enhancements,M14 0WN,,64137,CORS0140,Admin
+DEFRA,RPA,20/04/2012,IT Licences,Service Management,Tibco Software,6020547,"£157,983.00",Desktop Licences,Netherlands,,64076,OFFS0250,Admin
+DEFRA,RPA,20/04/2012,IT Licences,Programmes & Projects,Trustmarque Solutions,2168846,"£111,182.06",Licences - Desktop Transaction Project,YO32 9WN,,64099,PPT02000,Admin

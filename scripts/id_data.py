@@ -237,7 +237,8 @@ def get_datafile_data(package, resource):
 
     datafile['publisher_id'] = package.get('organization', {}).get('name', '')
     datafile['schema'] = SCHEMA
-    datafile['period_id'] = period.get_period(datafile['title'], datafile['data'])
+    period_id = period.get_period(datafile['title'], datafile['data'])
+    datafile['period_id'] = period_id or resource.get('created', '')
     return datafile
 
 
@@ -272,7 +273,7 @@ def make_csv(csvfile, fieldnames, dataset):
 
     """
     with open(csvfile, mode='w+t', encoding='utf-8') as data:
-        writer = csv.DictWriter(data, fieldnames=fieldnames)
+        writer = csv.DictWriter(data, fieldnames=fieldnames, lineterminator=os.linesep)
         writer.writeheader()
         for element in dataset:
             writer.writerow(element)

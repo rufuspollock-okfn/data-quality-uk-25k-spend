@@ -9,8 +9,8 @@ FCO,FCO,28/10/2013,"4,481,387","-31,924.00",CROWN AGENTS BANK,Programme Spend (O
 FCO,FCO,23/10/2013,"4,473,121","-31,304.96",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,29/10/2013,"4,482,309","25,000.00",OXFORD SAID BUSINESS SCHOOL,Training
 FCO,FCO,09/10/2013,"4,459,294","25,169.10",VFS BUSINESS INFORMATION CONSULTING (SHANGHAI) CO LTD,Commercial Partners (Visa)
-FCO,FCO,16/10/2013,"4,468,864","25,266.37",INTERSERVE FM LTD,Construction Project more than ≈Å10k
-FCO,FCO,16/10/2013,"4,469,895","25,309.72",INTERSERVE FM LTD,"Construction Project more than ≈Å10k, Repair and maintenance of furniture and fittings"
+FCO,FCO,16/10/2013,"4,468,864","25,266.37",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,16/10/2013,"4,469,895","25,309.72",INTERSERVE FM LTD,"Construction Project more than £10k, Repair and maintenance of furniture and fittings"
 FCO,FCO,09/10/2013,"4,460,849","25,352.96",CASPIAN MOTORS LLP,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,04/10/2013,"4,456,889","25,354.00",PACE FUELCARE LIMITED,Fuel Oil Non-Residential
 FCO,FCO,15/10/2013,"4,465,094","25,361.27",SANSEI SISTEMA DE SEGURANCA LTDA,"Property Maintenance Overseas Residential, Security: Works Residential"
@@ -100,7 +100,7 @@ FCO,FCO,24/10/2013,"4,478,276","33,915.17",CTA ECONOMIC AND EXPORT ANALYSTS,Prog
 FCO,FCO,15/10/2013,"4,467,593","34,444.00",SEARCH FOR COMMON GROUND,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,14/10/2013,"4,466,237","34,595.00",INTERNATIONAL GOVERNANCE AND RISK LIMITED GOVRISK,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,16/10/2013,"4,468,980","34,683.57",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
-FCO,FCO,10/10/2013,"4,463,035","34,900.00",MISCO,Information Systems Under ≈Å3000 (non-capitalised)
+FCO,FCO,10/10/2013,"4,463,035","34,900.00",MISCO,Information Systems Under £3000 (non-capitalised)
 FCO,FCO,07/10/2013,"4,458,291","34,966.20",WARREN HENRY AUTO GROUP,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,24/10/2013,"4,472,704","34,987.81",ISS FACILITY SERVICES LTD FCO OP - POE,"Electricity Non-Residential, Gas Residential, Rental Payments - non residential, Rental Payments - residential, Telephone Call Charges, Waste Disposal"
 FCO,FCO,23/10/2013,"4,473,743","35,361.84",FCO SERVICES,Air Freight Dip Bags - Freight & Clearance Charges
@@ -145,7 +145,7 @@ FCO,FCO,11/10/2013,"4,463,545","43,390.35",LA SENEGALAISE DE L'AUTOMOBILE,Rechar
 FCO,FCO,09/10/2013,"4,459,234","43,736.45",VFS BUSINESS INFORMATION CONSULTING (SHANGHAI) CO LTD,Commercial Partners (Visa)
 FCO,FCO,24/10/2013,"4,472,703","43,760.38",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Rent Deposits, Rental Payments - residential, Telephone Call Charges, Water Non-Residential, Water Residential"
 FCO,FCO,29/10/2013,"4,483,102","43,845.00",SAFERWORLD,Programme Spend (Oracle Projects Control Account)
-FCO,FCO,29/10/2013,"4,483,092","43,951.31",OROSTREAM INTERNATIONAL CONTRACTS LTD,Construction Project more than ≈Å10k
+FCO,FCO,29/10/2013,"4,483,092","43,951.31",OROSTREAM INTERNATIONAL CONTRACTS LTD,Construction Project more than £10k
 FCO,FCO,16/10/2013,"4,468,995","43,982.60",ISS FACILITY SERVICES LTD FCO OP,"Building Fabric Services, Building Mechanical and Engineering Services, Cleaning & Waste, Contract Fees, Grounds Maintenance, Mail & Porterage Services, Manned Guarding Services, Miscellaneous Expenditure: inc subscriptions and equipment maintenance, Office Support Services, Reception Services, Repair and maintenance of furniture and fittings, Residential Property Services, Unscheduled repairs to building infrastructure"
 FCO,FCO,22/10/2013,"4,475,632","44,494.75",ZAVOD ZA VODOPRIVREDU DD SARAJEVO,Rental Payments - non residential
 FCO,FCO,11/10/2013,"4,464,515","44,547.30",G4S RISK MANAGEMENT LTD FORMALLY ARMOURGROUP SERVICES LTD,UK Mobile Guarding Contract overseas
@@ -200,7 +200,7 @@ FCO,FCO,04/10/2013,"4,457,471","65,729.73",LUCONEX SRL,Rental Payments - non res
 FCO,FCO,08/10/2013,"4,458,712","66,009.23",SWAAT,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,16/10/2013,"4,467,485","66,564.31",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,20/10/2013,"4,466,327","66,989.22",SMART CAR,Assets Under Construction (Oracle PA Control Account)
-FCO,FCO,16/10/2013,"4,463,044","67,008.00",MISCO,Information Systems Under ≈Å3000 (non-capitalised)
+FCO,FCO,16/10/2013,"4,463,044","67,008.00",MISCO,Information Systems Under £3000 (non-capitalised)
 FCO,FCO,30/10/2013,"4,484,855","67,254.25",FCO SERVICES,IT/IS Consultancy
 FCO,FCO,09/10/2013,"4,461,616","68,290.08",FCO SERVICES,Miscellaneous Expenditure: inc subscriptions and equipment maintenance
 FCO,FCO,30/10/2013,"4,479,474","70,000.00",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
@@ -211,7 +211,7 @@ FCO,FCO,09/10/2013,"4,455,142","71,683.33",COFFEY INTERNATIONAL DEVELOPMENT,Prog
 FCO,FCO,04/10/2013,"4,456,723","71,912.23",AFRICAN SKIES LTD,Local Guards
 FCO,FCO,31/10/2013,"4,486,247","73,721.44",THE CITIZENS ARCHIVE OF PAKISTAN,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,28/10/2013,"4,480,098","77,712.00",HEWLETT PACKARD LTD,IT/IS Consultancy
-FCO,FCO,21/10/2013,"4,472,103","77,923.35",OROSTREAM INTERNATIONAL CONTRACTS LTD,Construction Project more than ≈Å10k
+FCO,FCO,21/10/2013,"4,472,103","77,923.35",OROSTREAM INTERNATIONAL CONTRACTS LTD,Construction Project more than £10k
 FCO,FCO,08/10/2013,"4,458,781","79,785.79","KURIHARA (THAILAND) CO., LTD.",Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,25/10/2013,"4,476,312","81,324.63",NO PEACE WITHOUT JUSTICE,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,15/10/2013,"4,467,424","82,080.76",FIELD FISHER WATERHOUSE,Specialist Contractors

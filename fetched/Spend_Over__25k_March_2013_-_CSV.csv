@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (≈Å) 
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£) 
 FCO,FCO,13-Mar-13,Proceeds from Assets held for sale,DG CHANGE & DELIVERY,GNE INTERNATIONAL,2005102,"1,485,832.76"
 FCO,FCO,06-Mar-13,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,SILVEIRA HOUSE,700003094,"31,718.76"
 FCO,FCO,26-Mar-13,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,CENTRE FOR HUMANITARIAN DIALOGUE,5000655,"38,563.00"
@@ -528,8 +528,8 @@ FCO,FCO,21-Mar-13,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,IN
 FCO,FCO,21-Mar-13,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1004224,47.05
 FCO,FCO,21-Mar-13,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1004224,"2,196.43"
 FCO,FCO,21-Mar-13,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1004224,"2,034.96"
-FCO,FCO,12-Mar-13,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1069716,"39,555.76"
-FCO,FCO,12-Mar-13,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1069716,"30,347.45"
+FCO,FCO,12-Mar-13,Construction Project more than £10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1069716,"39,555.76"
+FCO,FCO,12-Mar-13,Construction Project more than £10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1069716,"30,347.45"
 FCO,FCO,12-Mar-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,INTERSERVE FM LTD,1069716,"6,069.49"
 FCO,FCO,12-Mar-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,INTERSERVE FM LTD,1069716,"7,911.15"
 FCO,FCO,18-Mar-13,Building Mechanical and Engineering Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1070403,"143,847.79"
@@ -571,10 +571,10 @@ FCO,FCO,20-Mar-13,Specialist Training (Devolved),DG CENTRAL GROUP,LSE ENTERPRISE
 FCO,FCO,20-Mar-13,Specialist Training (Devolved),DG CENTRAL GROUP,LSE ENTERPRISE LIMITED,1070905,474.3
 FCO,FCO,12-Mar-13,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,MARSHALL AID COMMERATION COMMISSION,1069729,"68,000.00"
 FCO,FCO,02-Apr-13,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,MARSHALL AID COMMERATION COMMISSION,2000564,"400,000.00"
-FCO,FCO,19-Mar-13,Information Systems Under ≈Å3000 (non-capitalised),#N/A,MISCO,1070723,"24,250.10"
-FCO,FCO,19-Mar-13,Information Systems Under ≈Å3000 (non-capitalised),#N/A,MISCO,1070723,19.99
-FCO,FCO,19-Mar-13,Information Systems Under ≈Å3000 (non-capitalised),#N/A,MISCO,1070723,"4,850.02"
-FCO,FCO,19-Mar-13,Information Systems Under ≈Å3000 (non-capitalised),#N/A,MISCO,1070723,4
+FCO,FCO,19-Mar-13,Information Systems Under £3000 (non-capitalised),#N/A,MISCO,1070723,"24,250.10"
+FCO,FCO,19-Mar-13,Information Systems Under £3000 (non-capitalised),#N/A,MISCO,1070723,19.99
+FCO,FCO,19-Mar-13,Information Systems Under £3000 (non-capitalised),#N/A,MISCO,1070723,"4,850.02"
+FCO,FCO,19-Mar-13,Information Systems Under £3000 (non-capitalised),#N/A,MISCO,1070723,4
 FCO,FCO,22-Mar-13,Programme Spend (Oracle Projects Control Account),DG DEFENCE AND INTELLIGENCE,TURNER & TOWNSEND PROPERTY SERVICES,1071304,"23,171.00"
 FCO,FCO,22-Mar-13,Programme Spend (Oracle Projects Control Account),DG DEFENCE AND INTELLIGENCE,TURNER & TOWNSEND PROPERTY SERVICES,1071304,"4,634.20"
 FCO,FCO,19-Mar-13,Language Tuition: Essential,DG CHANGE & DELIVERY,LANGUAGE SERVICES DIRECT,1070679,"1,914.00"
@@ -603,7 +603,7 @@ FCO,FCO,05-Mar-13,Assets Under Construction (Oracle PA Control Account),NON CASH
 FCO,FCO,05-Mar-13,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD (FORM WES),1068986,"-55,522.64"
 FCO,FCO,05-Mar-13,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD (FORM WES),1068986,"55,522.64"
 FCO,FCO,06-Mar-13,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD (FORM WES),1069277,"62,328.98"
-FCO,FCO,08-Mar-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1069566,"32,568.45"
+FCO,FCO,08-Mar-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1069566,"32,568.45"
 FCO,FCO,19-Mar-13,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD (FORM WES),1070534,"25,674.70"
 FCO,FCO,18-Mar-13,"Purchase of Furniture, Fittings and Domestic Appliances",DG CHANGE & DELIVERY,S AND R FURNISHING CONSULTANTS,1070439,"9,535.00"
 FCO,FCO,18-Mar-13,"Purchase of Furniture, Fittings and Domestic Appliances",DG CHANGE & DELIVERY,S AND R FURNISHING CONSULTANTS,1070439,"27,938.00"
@@ -629,9 +629,9 @@ FCO,FCO,27-Mar-13,Assets Under Construction (Oracle PA Control Account),NON CASH
 FCO,FCO,27-Mar-13,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,STERIA LTD,1072035,"25,590.00"
 FCO,FCO,27-Mar-13,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,STERIA LTD,1072035,589.99
 FCO,FCO,27-Mar-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,STERIA LTD,1072035,"8,648.00"
-FCO,FCO,11-Mar-13,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,HERMAN MILLER LTD,1069656,"32,224.00"
-FCO,FCO,11-Mar-13,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,HERMAN MILLER LTD,1069656,"6,444.80"
-FCO,FCO,12-Mar-13,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,HERMAN MILLER LTD,1069709,"66,597.00"
+FCO,FCO,11-Mar-13,Construction Project more than £10k,DG CHANGE & DELIVERY,HERMAN MILLER LTD,1069656,"32,224.00"
+FCO,FCO,11-Mar-13,Construction Project more than £10k,DG CHANGE & DELIVERY,HERMAN MILLER LTD,1069656,"6,444.80"
+FCO,FCO,12-Mar-13,Construction Project more than £10k,DG CHANGE & DELIVERY,HERMAN MILLER LTD,1069709,"66,597.00"
 FCO,FCO,12-Mar-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HERMAN MILLER LTD,1069709,"13,319.40"
 FCO,FCO,12-Mar-13,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,AFRICAN UNION PEACE FUND,1812507,"57,999.74"
 FCO,FCO,20-Mar-13,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1812547,"2,000,000.00"

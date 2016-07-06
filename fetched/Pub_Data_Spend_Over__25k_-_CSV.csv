@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (≈Å) 
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£) 
 FCO,FCO,9-Oct-12,Information Systems Maintenance,DG CHANGE & DELIVERY,3M UNITED KINGDOM PLC,1056837," 61,687.50 "
 FCO,FCO,9-Oct-12,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,3M UNITED KINGDOM PLC,1056837," 12,337.50 "
 FCO,FCO,25-Oct-12,Programme Spend (Oracle Projects Control Account),DG POLITICAL,GENESIS,2011594," 33,868.25 "
@@ -1054,14 +1054,14 @@ FCO,FCO,24-Oct-12,Rental Payments - non residential,DG CHANGE & DELIVERY,LV31 EH
 FCO,FCO,30-Oct-12,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,LEONE INVESTMENT INC,1005395," 34,662.18 "
 FCO,FCO,23-Oct-12,Programme Spend (Oracle Projects Control Account),DG POLITICAL,TORO CREATIVE UNION,1006799," 29,923.00 "
 FCO,FCO,22-Oct-12,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,VALMONT (WA) PTY LTD,12039," 64,247.15 "
-FCO,FCO,11-Oct-12,Construction Project more than ≈Å10k,#N/A,AG ENGENHARIA LTDA  EPP,6005804," 28,870.86 "
+FCO,FCO,11-Oct-12,Construction Project more than £10k,#N/A,AG ENGENHARIA LTDA  EPP,6005804," 28,870.86 "
 FCO,FCO,19-Oct-12,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,THE INSTITUTE FOR WAR AND PEACE REPORTING IWPR,5000431," 194,813.50 "
-FCO,FCO,12-Oct-12,Construction Project more than ≈Å10k,#N/A,CD IN + OUT SPRL,1003834," 23,828.44 "
-FCO,FCO,12-Oct-12,Construction Project more than ≈Å10k,#N/A,CD IN + OUT SPRL,1003834," 1,429.71 "
-FCO,FCO,12-Oct-12,Construction Project more than ≈Å10k,#N/A,CD IN + OUT SPRL,1003834," (23,828.44)"
-FCO,FCO,12-Oct-12,Construction Project more than ≈Å10k,#N/A,CD IN + OUT SPRL,1003834," (1,429.71)"
-FCO,FCO,12-Oct-12,Construction Project more than ≈Å10k,#N/A,CD IN + OUT SPRL,1003834," 23,828.44 "
-FCO,FCO,12-Oct-12,Construction Project more than ≈Å10k,#N/A,CD IN + OUT SPRL,1003834," 1,429.71 "
+FCO,FCO,12-Oct-12,Construction Project more than £10k,#N/A,CD IN + OUT SPRL,1003834," 23,828.44 "
+FCO,FCO,12-Oct-12,Construction Project more than £10k,#N/A,CD IN + OUT SPRL,1003834," 1,429.71 "
+FCO,FCO,12-Oct-12,Construction Project more than £10k,#N/A,CD IN + OUT SPRL,1003834," (23,828.44)"
+FCO,FCO,12-Oct-12,Construction Project more than £10k,#N/A,CD IN + OUT SPRL,1003834," (1,429.71)"
+FCO,FCO,12-Oct-12,Construction Project more than £10k,#N/A,CD IN + OUT SPRL,1003834," 23,828.44 "
+FCO,FCO,12-Oct-12,Construction Project more than £10k,#N/A,CD IN + OUT SPRL,1003834," 1,429.71 "
 FCO,FCO,10-Oct-12,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BBC - BRITISH BROADCASTING CORPORATION,1057046," 17,800,000.00 "
 FCO,FCO,10-Oct-12,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,BBC - BRITISH BROADCASTING CORPORATION,1057046," 400,000.00 "
 FCO,FCO,16-Oct-12,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,BRIGHT HORIZONS FAMILY SOLUTION LTD,1057405," 41,997.58 "
@@ -1165,7 +1165,7 @@ FCO,FCO,31-Oct-12,Recruitment - Fast Stream,#N/A,HMRC - HM REVENUE AND CUSTOMS,4
 FCO,FCO,15-Oct-12,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HITT CONTRACTING INC,40000010856," 27,202.94 "
 FCO,FCO,15-Oct-12,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HITT CONTRACTING INC,40000010856," (27,202.94)"
 FCO,FCO,15-Oct-12,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HITT CONTRACTING INC,40000010856," 27,174.53 "
-FCO,FCO,15-Oct-12,Construction Project more than ≈Å10k,#N/A,HITT CONTRACTING INC,40000010856, 28.41 
+FCO,FCO,15-Oct-12,Construction Project more than £10k,#N/A,HITT CONTRACTING INC,40000010856, 28.41 
 FCO,FCO,12-Oct-12,Building Mechanical and Engineering Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,11999," 3,461.69 "
 FCO,FCO,12-Oct-12,Building Mechanical and Engineering Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,11999," 2,541.10 "
 FCO,FCO,12-Oct-12,Building Fabric Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,11999, 282.01 
@@ -1351,10 +1351,10 @@ FCO,FCO,12-Oct-12,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,IN
 FCO,FCO,12-Oct-12,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1003837," 1,243.92 "
 FCO,FCO,12-Oct-12,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1003837, 582.35 
 FCO,FCO,12-Oct-12,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1003837, 762.08 
-FCO,FCO,2-Oct-12,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1056283," 59,592.47 "
-FCO,FCO,2-Oct-12,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1056283," 28,485.02 "
-FCO,FCO,2-Oct-12,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1056283," 1,312.85 "
-FCO,FCO,2-Oct-12,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1056283," 29,464.77 "
+FCO,FCO,2-Oct-12,Construction Project more than £10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1056283," 59,592.47 "
+FCO,FCO,2-Oct-12,Construction Project more than £10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1056283," 28,485.02 "
+FCO,FCO,2-Oct-12,Construction Project more than £10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1056283," 1,312.85 "
+FCO,FCO,2-Oct-12,Construction Project more than £10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1056283," 29,464.77 "
 FCO,FCO,2-Oct-12,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,INTERSERVE FM LTD,1056283," 23,508.44 "
 FCO,FCO,2-Oct-12,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,INTERSERVE FM LTD,1056283, 262.57 
 FCO,FCO,2-Oct-12,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,INTERSERVE FM LTD,1056283, 0.01 

@@ -190,8 +190,8 @@ Ministry of Defence,Ministry of Defence,19/06/2014,Fuel for military use,Land Fo
 Ministry of Defence,Ministry of Defence,02/06/2014,Purchase of buildings and military equipment ,Defence Equipment + Support,HOLYHEAD MARINE SERVICES LIMITED,LL65 1YB,344903,Fiscal asset under construction - capital in year addition,"461,884.40"
 Ministry of Defence,Ministry of Defence,19/06/2014,Grants to NDPBs,Land Forces,COUNCIL OF RESERVE FORCES' AND CADETS' ASSOCIATIONS,EC2A 4EY,351541,Capital grant in aid for the purchase of non-current assets for the Council of Reserve Forces and Cadet association,"456,937.00"
 Ministry of Defence,Ministry of Defence,18/06/2014,Food and clothing,Defence Equipment + Support,PURPLE FOODSERVICE SOLUTIONS LIMITED,GU32 3QD,351249,Cost of food purchases,"455,211.92"
-Ministry of Defence,Ministry of Defence,11/06/2014,Dilapidation charges¬† ,DEFENCE INFRASTRUCTURE ORGANISATION,ANNINGTON PROPERTY LTD,W1U 1DR,348318,Other provisions payment against provision,"453,833.00"
-Ministry of Defence,Ministry of Defence,12/06/2014,Dilapidation charges¬† ,Land Forces,UNFALLKASSE DES BUNDES,,5000115175,Other provisions payment against provision,"449,882.33"
+Ministry of Defence,Ministry of Defence,11/06/2014,Dilapidation charges† ,DEFENCE INFRASTRUCTURE ORGANISATION,ANNINGTON PROPERTY LTD,W1U 1DR,348318,Other provisions payment against provision,"453,833.00"
+Ministry of Defence,Ministry of Defence,12/06/2014,Dilapidation charges† ,Land Forces,UNFALLKASSE DES BUNDES,,5000115175,Other provisions payment against provision,"449,882.33"
 Ministry of Defence,Ministry of Defence,18/06/2014,"Transportation of personnel, freight and travel expenses",Land Forces,AGILITY LOGISTICS LIMITED,RG1 2LG,350760,Movement of service personnel,"448,251.88"
 Ministry of Defence,Ministry of Defence,02/06/2014,Purchase of buildings and military equipment ,DEFENCE INFRASTRUCTURE ORGANISATION,MOTT MACDONALD LTD,CR9 2UL,344987,Fiscal asset under construction - capital in year addition,"446,837.61"
 Ministry of Defence,Ministry of Defence,20/06/2014,Spend on Inventory - General,Defence Equipment + Support,ITURRI SA,OX16 3TA,3000010699,Spend on Inventory - General,"446,126.87"
@@ -244,7 +244,7 @@ Ministry of Defence,Ministry of Defence,02/06/2014,"Purchase of munitions, other
 Ministry of Defence,Ministry of Defence,19/06/2014,Purchase of buildings and military equipment ,Defence Equipment + Support,DEVONPORT ROYAL DOCKYARD LIMITED,PL1 4SG,351560,Fiscal asset under construction - capital in year addition,"345,878.27"
 Ministry of Defence,Defence Science and Technology Laboratory,06/06/2014,Sub Contracted Work,Programme Delivery Directorate,BAE SYSTEMS (OPERATIONS) LIMITED,,V - 9000159559 - 00185425,,"343,140.74"
 Ministry of Defence,Ministry of Defence,12/06/2014,Fees for professional services,HO+CS,TNT UK LIMITED,BL0 9AR,349185,Fees for professional services excluding legal fees,"341,507.07"
-Ministry of Defence,Ministry of Defence,26/06/2014,General services and support,Defence Equipment + Support,H M REVENUE & CUSTOMS,M60 9HL,354424,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"340,009.37"
+Ministry of Defence,Ministry of Defence,26/06/2014,General services and support,Defence Equipment + Support,H M REVENUE & CUSTOMS,M60 9HL,354424,Purchase of defence support equipment below capitalisation threshold of £25k.,"340,009.37"
 Ministry of Defence,Ministry of Defence,13/06/2014,"Transportation of personnel, freight and travel expenses",Land Forces,AGILITY LOGISTICS LIMITED,RG1 2LG,349244,Movement of service personnel,"334,310.01"
 Ministry of Defence,Ministry of Defence,17/06/2014,Externally delivered education and training,JFC,UNIVERSITY HOSPITAL BIRMINGHAM NHS FOUNDATION TRUST,B29 6JS,350724,External military training ,"333,110.00"
 Ministry of Defence,Ministry of Defence,13/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,TOUCHSTONE CORPORATE PROPERTY SERVICES LIMITED,BA2 2AF,349789,Rent land - non civil estate property + married quarter property,"332,260.77"
@@ -585,7 +585,7 @@ Ministry of Defence,Ministry of Defence,16/06/2014,Service and civilian recruitm
 Ministry of Defence,Ministry of Defence,23/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,COLCHESTER BOROUGH COUNCIL,CO1 1QY,352640,Rent buildings - non civil estate property and married quarter property,"115,858.25"
 Ministry of Defence,Ministry of Defence,04/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,GOSPORT BOROUGH COUNCIL,PO12 1EB,345782,Rent buildings - non civil estate property and married quarter property,"115,721.72"
 Ministry of Defence,Ministry of Defence,16/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,GOSPORT BOROUGH COUNCIL,PO12 1EB,350048,Rent buildings - non civil estate property and married quarter property,"115,721.72"
-Ministry of Defence,Ministry of Defence,02/06/2014,General services and support,Air Command,ROLLS-ROYCE POWER ENGINEERING PLC,DE24 8BJ,345070,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"115,200.00"
+Ministry of Defence,Ministry of Defence,02/06/2014,General services and support,Air Command,ROLLS-ROYCE POWER ENGINEERING PLC,DE24 8BJ,345070,Purchase of defence support equipment below capitalisation threshold of £25k.,"115,200.00"
 Ministry of Defence,Ministry of Defence,16/06/2014,Property leases,DEFENCE INFRASTRUCTURE ORGANISATION,THE RIVERSIDE GROUP LIMITED,L24 8RF,350331,Property dwellings private finance initiative - service concession arrangement service charge,"115,082.77"
 Ministry of Defence,Defence Science and Technology Laboratory,20/06/2014,IS Support Service,Infrastructure,STERIA LIMITED,,V - 9000159827 - 00186989,,"114,965.40"
 Ministry of Defence,Ministry of Defence,17/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,ANNINGTON RECEIVABLES LTD,W1U 1DR,350402,Rent buildings - non civil estate property and married quarter property,"114,565.25"
@@ -656,7 +656,7 @@ Ministry of Defence,Defence Science and Technology Laboratory,13/06/2014,Energy 
 Ministry of Defence,Ministry of Defence,16/06/2014,"Transportation of personnel, freight and travel expenses",Navy Command,RAIL SETTLEMENT PLAN LIMITED,SG1 2YN,350236,Military short term detached duty,"101,229.30"
 Ministry of Defence,Ministry of Defence,04/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,HAMBLETON DISTRICT COUNCIL,DL6 2UU,345787,Rent buildings - non civil estate property and married quarter property,"100,924.17"
 Ministry of Defence,Ministry of Defence,16/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,HAMBLETON DISTRICT COUNCIL,DL6 2UU,350058,Rent buildings - non civil estate property and married quarter property,"100,924.17"
-Ministry of Defence,Ministry of Defence,26/06/2014,General services and support,JFC,CANON (UK) LIMITED,RH2 8BF,354328,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"100,839.45"
+Ministry of Defence,Ministry of Defence,26/06/2014,General services and support,JFC,CANON (UK) LIMITED,RH2 8BF,354328,Purchase of defence support equipment below capitalisation threshold of £25k.,"100,839.45"
 Ministry of Defence,Ministry of Defence,03/06/2014,Purchase of buildings and military equipment ,DEFENCE INFRASTRUCTURE ORGANISATION,URS INFRASTRUCTURE & ENVIRONMENT UK LIMITED,RG21 7PP,345559,Fiscal asset under construction - capital in year addition,"100,461.00"
 Ministry of Defence,Ministry of Defence,10/06/2014,Spend on Inventory - General,Defence Equipment + Support,JAGUAR LAND ROVER LIMITED,CV3 4LF,348059,Spend on Inventory - General,"100,361.63"
 Ministry of Defence,Defence Science and Technology Laboratory,30/06/2014,Sub Contracted Research,Programme Delivery Directorate,ROLLS ROYCE PLC,,V - 9000159919 - 00183501,,"100,150.00"
@@ -1184,7 +1184,7 @@ Ministry of Defence,Ministry of Defence,16/06/2014,Rent and rates,DEFENCE INFRAS
 Ministry of Defence,Ministry of Defence,23/06/2014,Food and clothing,Navy Command,TURNER VIRR & CO. LTD,LS25 2DY,353119,Cost of purchasing and repairing clothing,"46,324.79"
 Ministry of Defence,Defence Science and Technology Laboratory,30/06/2014,Sub Contracted Work,Programme Delivery Directorate,NATIONAL PHYSICAL LABORATORY,,V - 9000159953 - 00187493,,"46,313.00"
 Ministry of Defence,Ministry of Defence,06/06/2014,Purchase of buildings and military equipment ,Defence Equipment + Support,CATERPILLAR SHREWSBURY LIMITED,SY1 3NX,346877,Single use military equipment asset under construction - capital in year addition,"46,270.32"
-Ministry of Defence,Ministry of Defence,16/06/2014,Dilapidation charges¬† ,Defence Equipment + Support,H M REVENUE & CUSTOMS,M50 3XN,350055,Other provisions payment against provision,"46,131.36"
+Ministry of Defence,Ministry of Defence,16/06/2014,Dilapidation charges† ,Defence Equipment + Support,H M REVENUE & CUSTOMS,M50 3XN,350055,Other provisions payment against provision,"46,131.36"
 Ministry of Defence,Defence Science and Technology Laboratory,13/06/2014,Capital Asset expenditure,Infrastructure,STERIA LIMITED,,V - 9000159693 - 00186625,,"46,130.06"
 Ministry of Defence,Defence Science and Technology Laboratory,20/06/2014,Sub Contracted Work,Programme Delivery Directorate,BAE SYSTEMS (OPERATIONS) LIMITED,,V - 9000159798 - 00187081,,"46,118.07"
 Ministry of Defence,Ministry of Defence,02/06/2014,Spend on Inventory - General,Defence Equipment + Support,COONEEN DEFENCE LIMITED,BT75 0NE,41999,Spend on Inventory - General,"46,047.23"
@@ -1203,7 +1203,7 @@ Ministry of Defence,Ministry of Defence,19/06/2014,Design services and minor equ
 Ministry of Defence,Ministry of Defence,17/06/2014,Spend on Inventory - General,Defence Equipment + Support,KEY INDUSTRIAL EQUIPMENT LIMITED,BH31 6AT,350574,Spend on Inventory - General,"45,199.08"
 Ministry of Defence,Ministry of Defence,26/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,ST EDMUNDSBURY BOROUGH COUNCIL,IP33 3YS,354677,Rent buildings - non civil estate property and married quarter property,"45,180.77"
 Ministry of Defence,Ministry of Defence,27/06/2014,Payment of utilities,DEFENCE INFRASTRUCTURE ORGANISATION,ANGLIAN WATER AUTHORITY,PE11 1FP,354799,Utilities consumed - water + sewage,"45,152.89"
-Ministry of Defence,Ministry of Defence,20/06/2014,General services and support,Land Forces,ROSKER LTD,PO12 4LJ,352374,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"45,051.55"
+Ministry of Defence,Ministry of Defence,20/06/2014,General services and support,Land Forces,ROSKER LTD,PO12 4LJ,352374,Purchase of defence support equipment below capitalisation threshold of £25k.,"45,051.55"
 Ministry of Defence,Ministry of Defence,09/06/2014,Fees for professional services,JFC,BAE SYSTEMS (OPERATIONS) LIMITED,GU14 6YU,347321,Fees for professional services excluding legal fees,"45,009.54"
 Ministry of Defence,Ministry of Defence,10/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,POLICE SERVICE OF NORTHERN  IRELAND,BT1 2RU,42076,Rent buildings - non civil estate property and married quarter property,"45,000.00"
 Ministry of Defence,Defence Science and Technology Laboratory,13/06/2014,Sub Contracted Work,Programme Delivery Directorate,QINETIQ LIMITED,,V - 9000159710 - 00186234,,"45,000.00"
@@ -1241,7 +1241,7 @@ Ministry of Defence,Defence Science and Technology Laboratory,20/06/2014,IS Supp
 Ministry of Defence,Defence Science and Technology Laboratory,20/06/2014,IS Support Service,Infrastructure,STERIA LIMITED,,V - 9000159827 - 00186941,,"43,273.70"
 Ministry of Defence,Ministry of Defence,23/06/2014,IT and communication services,Defence Equipment + Support,TLMNEXUS LTD,BN1 6AF,353110,Information technology services,"43,200.00"
 Ministry of Defence,Ministry of Defence,24/06/2014,Fuel for military use,Air Command,CERTAS ENERGY UK LIMITED,WA3 6XG,353269,Cost of ground diesel fuel consumed,"43,131.66"
-Ministry of Defence,Council of Reserve Forces and Cadets Association,04/06/2014,Condition¬†Grade¬†Improvement,Estates Management,FLEMINGS BUILDINGS LTD,,1659,,"43,102.25"
+Ministry of Defence,Council of Reserve Forces and Cadets Association,04/06/2014,Condition†Grade†Improvement,Estates Management,FLEMINGS BUILDINGS LTD,,1659,,"43,102.25"
 Ministry of Defence,Ministry of Defence,25/06/2014,Spend on Inventory - General,Defence Equipment + Support,BAE SYSTEMS GLOBAL COMBAT SYSTEMS LIMITED,NP15 1XL,353632,Spend on Inventory - General,"43,074.91"
 Ministry of Defence,Ministry of Defence,17/06/2014,Estate management,DEFENCE INFRASTRUCTURE ORGANISATION,ARAMARK LTD,GU14 7JP,350403,Estate + facilities management services - accommodation inventory + service,"42,964.60"
 Ministry of Defence,Ministry of Defence,18/06/2014,Estate management,DEFENCE INFRASTRUCTURE ORGANISATION,MODERN HOUSING SOLUTIONS (PRIME)LIMITED,PE28 4QG,351058,Estate core services charge,"42,927.89"
@@ -1413,7 +1413,7 @@ Ministry of Defence,Ministry of Defence,25/06/2014,"Transportation of personnel,
 Ministry of Defence,Ministry of Defence,06/06/2014,Spend on Inventory - General,Defence Equipment + Support,UNITED TOOL DISTRIBUTORS LTD,M32 0NB,347245,Spend on Inventory - General,"36,183.78"
 Ministry of Defence,Royal Hospital Chelsea ,23/05/2014,Property Management,Royal Hospital Chelsea,Norland Managed Services,,PIN121668,Property Management,"36,161.56"
 Ministry of Defence,Ministry of Defence,25/06/2014,Purchase of inventory and services ,JFC,AAH PHARMACEUTICALS LTD,CV2 2TX,353589,Consumption of medical dental and veterinary inventory,"36,115.00"
-Ministry of Defence,Ministry of Defence,02/06/2014,General services and support,Land Forces,ARNOLD CLARK FINANCE LTD.,G3 6LB,344711,Purchase of defence equipment below capitalisation threshold of ≈Å25k.,"36,088.00"
+Ministry of Defence,Ministry of Defence,02/06/2014,General services and support,Land Forces,ARNOLD CLARK FINANCE LTD.,G3 6LB,344711,Purchase of defence equipment below capitalisation threshold of £25k.,"36,088.00"
 Ministry of Defence,Ministry of Defence,13/06/2014,Design services and minor equipment purchases,Defence Equipment + Support,DEVONPORT ROYAL DOCKYARD LIMITED,PL1 4SG,349384,Equipment support non-project costs,"36,054.00"
 Ministry of Defence,Ministry of Defence,18/06/2014,Spend on Inventory - General,Land Forces,FORBO FLOORING UK LIMITED,DE5 3NT,350944,Spend on Inventory - General,"36,051.39"
 Ministry of Defence,Ministry of Defence,13/06/2014,Spend on Inventory - General,Defence Equipment + Support,AVIATION JERSEY LTD,JE2 6SB,349278,Spend on Inventory - General,"36,031.20"
@@ -1448,7 +1448,7 @@ Ministry of Defence,Ministry of Defence,05/06/2014,Purchase of buildings and mil
 Ministry of Defence,Defence Science and Technology Laboratory,27/06/2014,Sub Contracted Work,Programme Delivery Directorate,BAE SYSTEMS SURFACE SHIPS SUPPORT LIMITED,,V - 9000159891 - 00182900,,"34,825.50"
 Ministry of Defence,Defence Science and Technology Laboratory,13/06/2014,Travel & Subsistence,Programme Delivery Directorate,BARCLAYCARD,,G - 9000159735 - 00187812,,"34,818.18"
 Ministry of Defence,Ministry of Defence,06/06/2014,Fees for professional services,DEFENCE INFRASTRUCTURE ORGANISATION,URS INFRASTRUCTURE & ENVIRONMENT UK LIMITED,RG21 7PP,347249,Fees for professional services excluding legal fees,"34,789.14"
-Ministry of Defence,Ministry of Defence,12/06/2014,General services and support,Land Forces,COTSWOLD OUTDOOR LTD,SN16 9SH,348867,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"34,740.00"
+Ministry of Defence,Ministry of Defence,12/06/2014,General services and support,Land Forces,COTSWOLD OUTDOOR LTD,SN16 9SH,348867,Purchase of defence support equipment below capitalisation threshold of £25k.,"34,740.00"
 Ministry of Defence,Ministry of Defence,30/06/2014,Purchase of inventory and services ,JFC,AAH PHARMACEUTICALS LTD,CV2 2TX,355330,Consumption of medical dental and veterinary inventory,"34,695.44"
 Ministry of Defence,United Kingdom Hydrographic Office,04/06/2014,Raw Material/ Finished Goods,Raw Material/ Finished Goods,Howard Smith Paper Group Ltd,,5100112003,Raw Material/ Finished Goods,"34,686.06"
 Ministry of Defence,Ministry of Defence,09/06/2014,Spend on Inventory - General,Defence Equipment + Support,ENERSYS LTD.,,347448,Spend on Inventory - General,"34,588.08"
@@ -1523,7 +1523,7 @@ Ministry of Defence,Defence Science and Technology Laboratory,17/06/2014,Sub Con
 Ministry of Defence,Defence Science and Technology Laboratory,03/06/2014,Sub Contracted Work,Programme Delivery Directorate,QINETIQ LIMITED,,V - 9000159541 - 00185857,,"31,930.00"
 Ministry of Defence,Defence Science and Technology Laboratory,30/06/2014,Sub Contracted Work,Programme Delivery Directorate,QINETIQ LIMITED,,V - 9000159966 - 00183402,,"31,847.00"
 Ministry of Defence,Ministry of Defence,19/06/2014,Fuel for military use,JFC,ARVAL UK LTD,SN5 6PE,351419,Oil and lubricants consumed excluding those from the inventory system,"31,660.72"
-Ministry of Defence,Council of Reserve Forces and Cadets Association,29/05/2014,Statutory¬†&¬†Mandatory¬†Inspections,Estates Management,J Tomlinson,,391-503,,"31,654.74"
+Ministry of Defence,Council of Reserve Forces and Cadets Association,29/05/2014,Statutory†&†Mandatory†Inspections,Estates Management,J Tomlinson,,391-503,,"31,654.74"
 Ministry of Defence,Ministry of Defence,05/06/2014,Payment of utilities,DEFENCE INFRASTRUCTURE ORGANISATION,BRITISH GAS TRADING LIMITED,M16 0TW,346224,Utilities consumed - gas,"31,649.06"
 Ministry of Defence,Ministry of Defence,23/06/2014,Fuel for military use,Air Command,HARVEST ENERGY LIMITED,W1G 0PU,352742,Cost of ground diesel fuel consumed,"31,629.76"
 Ministry of Defence,Ministry of Defence,05/06/2014,Fees for professional services,JFC,CGI IT UK LIMITED,CF31 9AP,346259,"Advice and guidance on how to produce the product, but not production of the product itself.","31,600.92"
@@ -1582,7 +1582,7 @@ Ministry of Defence,Ministry of Defence,05/06/2014,Spend on Inventory - General,
 Ministry of Defence,Defence Science and Technology Laboratory,20/06/2014,Capital Asset expenditure,Infrastructure,STERIA LIMITED,,V - 9000159827 - 00187249,,"30,234.35"
 Ministry of Defence,Council of Reserve Forces and Cadets Association,30/05/2014,Injections / Projects RDEL and MNW,Estates Management,P & K Lacey(Southampton)Ltd,,3651,,"30,158.10"
 Ministry of Defence,Ministry of Defence,27/06/2014,Design services and minor equipment purchases,Defence Equipment + Support,SIMOCO EMEA LIMITED,DE11 1NH,355212,Equipment support project costs,"30,149.29"
-Ministry of Defence,Council of Reserve Forces and Cadets Association,04/06/2014,Statutory¬†&¬†Mandatory¬†Works,Estates Management,FORBES PARTNERSHIP,,1217,,"30,137.04"
+Ministry of Defence,Council of Reserve Forces and Cadets Association,04/06/2014,Statutory†&†Mandatory†Works,Estates Management,FORBES PARTNERSHIP,,1217,,"30,137.04"
 Ministry of Defence,Ministry of Defence,26/06/2014,Spend on Inventory - General,Defence Equipment + Support,ITW LIMITED,LS26 8BS,354452,Spend on Inventory - General,"30,135.41"
 Ministry of Defence,Ministry of Defence,06/06/2014,Purchase of inventory and services ,JFC,AAH PHARMACEUTICALS LTD,CV2 2TX,346773,Consumption of medical dental and veterinary inventory,"30,089.09"
 Ministry of Defence,Ministry of Defence,04/06/2014,Externally delivered education and training,Air Command,BABCOCK LAND LIMITED,BH23 9BS,345637,External military training ,"30,031.62"
@@ -1599,7 +1599,7 @@ Ministry of Defence,Ministry of Defence,19/06/2014,Estate management,DEFENCE INF
 Ministry of Defence,Ministry of Defence,23/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,COTSWOLD DISTRICT COUNCIL,GL7 1PY,352646,Rent buildings - non civil estate property and married quarter property,"29,864.80"
 Ministry of Defence,Defence Science and Technology Laboratory,20/06/2014,Sub Contracted Work,Programme Delivery Directorate,BAE SYSTEMS (OPERATIONS) LIMITED,,V - 9000159798 - 00185819,,"29,859.24"
 Ministry of Defence,Council of Reserve Forces and Cadets Association,23/06/2014,Payments to Welfare Assoc,Estates Management,Day & Robinson Builders LTD,,10001788,,"29,780.00"
-Ministry of Defence,Council of Reserve Forces and Cadets Association,22/05/2014,Condition¬†Grade¬†Improvement,Estates Management,Brecongate Projects,,704,,"29,758.80"
+Ministry of Defence,Council of Reserve Forces and Cadets Association,22/05/2014,Condition†Grade†Improvement,Estates Management,Brecongate Projects,,704,,"29,758.80"
 Ministry of Defence,Ministry of Defence,23/06/2014,Spend on Inventory - General,Defence Equipment + Support,L WHITAKER SERVICES LIMITED,BB1 2QE,352799,Spend on Inventory - General,"29,727.36"
 Ministry of Defence,Ministry of Defence,09/06/2014,Spend on Inventory - General,Defence Equipment + Support,BRITANNIA FIRE LIMITED,NR10 4JJ,182027,Spend on Inventory - General,"29,571.36"
 Ministry of Defence,Ministry of Defence,04/06/2014,Medical treatment & stores and welfare services,Land Forces,PEMBROKESHIRE COUNTY COUNCIL,SA61 1TP,346010,Schools + community relations initiatives,"29,500.00"
@@ -1728,14 +1728,14 @@ Ministry of Defence,Ministry of Defence,20/06/2014,Spend on Inventory - General,
 Ministry of Defence,Ministry of Defence,04/06/2014,Design services and minor equipment purchases,Defence Equipment + Support,HASKEL EUROPE LTD,SR5 3JD,345795,Equipment support non-project costs,"26,317.64"
 Ministry of Defence,Ministry of Defence,05/06/2014,Design services and minor equipment purchases,Defence Equipment + Support,RELAY ENGINEERING LIMITED,BA20 2EN,346603,Equipment support non-project costs,"26,295.00"
 Ministry of Defence,Ministry of Defence,05/06/2014,Design services and minor equipment purchases,Navy Command,RELAY ENGINEERING LIMITED,BA20 2EN,346603,Equipment support non-project costs,"26,295.00"
-Ministry of Defence,Ministry of Defence,23/06/2014,Dilapidation charges¬† ,Defence Equipment + Support,JACOBS U.K. LIMITED,RG41 5TU,352780,Other provisions payment against provision,"26,288.00"
+Ministry of Defence,Ministry of Defence,23/06/2014,Dilapidation charges† ,Defence Equipment + Support,JACOBS U.K. LIMITED,RG41 5TU,352780,Other provisions payment against provision,"26,288.00"
 Ministry of Defence,Ministry of Defence,06/06/2014,Design services and minor equipment purchases,Defence Equipment + Support,A & M DEFENCE & MARINE SERVICES LIMITED,BH21 6SP,346767,Equipment support non-project costs,"26,282.96"
 Ministry of Defence,Ministry of Defence,12/06/2014,IT and communication services,Land Forces,PROBRAND LIMITED,B1 3BP,349081,Computer equipment costing below the capitalisation threshold,"26,278.95"
 Ministry of Defence,Defence Science and Technology Laboratory,13/06/2014,Sub Contracted Work,Programme Delivery Directorate,PLEXTEK LIMITED,,V - 9000159704 - 00186314,,"26,218.00"
 Ministry of Defence,Ministry of Defence,03/06/2014,Service and civilian recruitment,Defence Equipment + Support,ROSYTH ROYAL DOCKYARD PENSION SCHEME,KY11 2YD,345493,Payments to former employees and dependants,"26,084.78"
 Ministry of Defence,Ministry of Defence,02/06/2014,Spend on Inventory - General,Defence Equipment + Support,MICHELIN TYRE PLC,ST4 4EY,344977,Spend on Inventory - General,"26,083.44"
 Ministry of Defence,Ministry of Defence,25/06/2014,Rent and rates,DEFENCE INFRASTRUCTURE ORGANISATION,MR WILLIAM SALVIN T/A W.H.T.SALVIN,DL12 9TN,353948,Rent land - non civil estate property + married quarter property,"26,072.98"
-Ministry of Defence,Council of Reserve Forces and Cadets Association,11/06/2014,Condition¬†Grade¬†Improvement,Estates Management,J Martin-Hoyes Ltd,,607,,"26,053.26"
+Ministry of Defence,Council of Reserve Forces and Cadets Association,11/06/2014,Condition†Grade†Improvement,Estates Management,J Martin-Hoyes Ltd,,607,,"26,053.26"
 Ministry of Defence,Ministry of Defence,03/06/2014,"Transportation of personnel, freight and travel expenses",Air Command,MY PEAK POTENTIAL LTD,,5000114693,Military short term detached duty,"26,036.59"
 Ministry of Defence,Ministry of Defence,12/06/2014,Externally delivered education and training,Navy Command,UNIVERSITY OF PLYMOUTH,PL4 8AA,349207,External military training ,"26,028.00"
 Ministry of Defence,Ministry of Defence,10/06/2014,Fuel for military use,Air Command,HARVEST ENERGY LIMITED,W1G 0PU,348023,Cost of ground diesel fuel consumed,"25,977.14"
@@ -1758,7 +1758,7 @@ Ministry of Defence,Defence Science and Technology Laboratory,13/06/2014,Sub Con
 Ministry of Defence,Defence Science and Technology Laboratory,13/06/2014,Sub Contracted Work,Programme Delivery Directorate,THE ROYAL ACADEMY OF ENGINEERING,,V - 9000159723 - 00186901,,"25,666.00"
 Ministry of Defence,Ministry of Defence,24/06/2014,Fuel for military use,DEFENCE INFRASTRUCTURE ORGANISATION,CERTAS ENERGY UK LIMITED,WA3 6XG,353269,Cost of ground unleaded fuel consumed,"25,658.40"
 Ministry of Defence,Ministry of Defence,06/06/2014,Fuel for military use,Navy Command,CERTAS ENERGY UK LIMITED,WA3 6XG,181997,Cost of ground diesel fuel consumed,"25,644.00"
-Ministry of Defence,Ministry of Defence,23/06/2014,General services and support,JFC,CANON (UK) LIMITED,RH2 8BF,352599,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"25,624.58"
+Ministry of Defence,Ministry of Defence,23/06/2014,General services and support,JFC,CANON (UK) LIMITED,RH2 8BF,352599,Purchase of defence support equipment below capitalisation threshold of £25k.,"25,624.58"
 Ministry of Defence,Ministry of Defence,13/06/2014,Purchase of buildings and military equipment ,DEFENCE INFRASTRUCTURE ORGANISATION,HOLDFAST TRAINING SERVICES LTD,ME4 4UG,349489,Fiscal asset under construction - capital in year addition,"25,602.26"
 Ministry of Defence,Ministry of Defence,06/06/2014,Fuel for military use,DEFENCE INFRASTRUCTURE ORGANISATION,CERTAS ENERGY UK LIMITED,WA3 6XG,181997,Cost of ground diesel fuel consumed,"25,596.00"
 Ministry of Defence,Ministry of Defence,30/06/2014,Property leases,DEFENCE INFRASTRUCTURE ORGANISATION,RMPA SERVICES PLC,CO2 7ST,355652,Property dwellings private finance initiative - service concession arrangement service charge,"25,588.51"
@@ -2349,7 +2349,7 @@ Ministry of Defence,Ministry of Defence,10/06/2014,Fees for professional service
 Ministry of Defence,Ministry of Defence,20/06/2014,Spend on Inventory - General,JFC,CARWOOD MOTOR UNITS LTD,CV3 2RQ,352140,Spend on Inventory - General,"5,518.44"
 Ministry of Defence,Ministry of Defence,09/06/2014,Purchase of inventory and services ,Defence Equipment + Support,XMA LTD,NG11 7EP,347825,Cost of other material consumed,"5,511.92"
 Ministry of Defence,Ministry of Defence,12/06/2014,Purchase of inventory and services ,Navy Command,XMA LTD,NG11 7EP,349227,Cost of other material consumed,"5,472.34"
-Ministry of Defence,Ministry of Defence,13/06/2014,General services and support,Air Command,UNITED AVIATION SERVICES,,2000022351,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"5,471.61"
+Ministry of Defence,Ministry of Defence,13/06/2014,General services and support,Air Command,UNITED AVIATION SERVICES,,2000022351,Purchase of defence support equipment below capitalisation threshold of £25k.,"5,471.61"
 Ministry of Defence,Ministry of Defence,23/06/2014,Payment of utilities,Air Command,COUNCIL OF RESERVE FORCES' AND CADETS' ASSOCIATIONS,EC2A 4EY,352648,Utilities consumed - heating oil,"5,467.25"
 Ministry of Defence,Ministry of Defence,09/06/2014,Purchase of inventory and services ,Land Forces,AAH PHARMACEUTICALS LTD,CV2 2TX,347273,Consumption of medical dental and veterinary inventory,"5,463.75"
 Ministry of Defence,Ministry of Defence,13/06/2014,Spend on Inventory - General,Air Command,BUNZL UK LIMITED,RG7 4XE,349330,Spend on Inventory - General,"5,455.02"
@@ -2395,7 +2395,7 @@ Ministry of Defence,Ministry of Defence,04/06/2014,Purchase of inventory and ser
 Ministry of Defence,Ministry of Defence,13/06/2014,Spend on Inventory - General,DEFENCE INFRASTRUCTURE ORGANISATION,BUNZL UK LIMITED,RG7 4XE,349330,Spend on Inventory - General,"4,743.28"
 Ministry of Defence,Ministry of Defence,23/06/2014,"Transportation of personnel, freight and travel expenses",Air Command,CITYSPRINT (UK) LIMITED,RH1 1SH,352635,Freight movement costs,"4,731.33"
 Ministry of Defence,Ministry of Defence,03/06/2014,Purchase of inventory and services ,Land Forces,AAH PHARMACEUTICALS LTD,CV2 2TX,345186,Consumption of medical dental and veterinary inventory,"4,722.72"
-Ministry of Defence,Ministry of Defence,13/06/2014,General services and support,Air Command,SAFESKYS LTD,HP11 1LT,349704,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"4,699.33"
+Ministry of Defence,Ministry of Defence,13/06/2014,General services and support,Air Command,SAFESKYS LTD,HP11 1LT,349704,Purchase of defence support equipment below capitalisation threshold of £25k.,"4,699.33"
 Ministry of Defence,Ministry of Defence,06/06/2014,"Transportation of personnel, freight and travel expenses",DEFENCE INFRASTRUCTURE ORGANISATION,AGILITY LOGISTICS LIMITED,RG1 2LG,346780,Movement of service personnel,"4,691.61"
 Ministry of Defence,Ministry of Defence,20/06/2014,Spend on Inventory - General,Defence Equipment + Support,CARWOOD MOTOR UNITS LTD,CV3 2RQ,352140,Spend on Inventory - General,"4,682.99"
 Ministry of Defence,Ministry of Defence,27/06/2014,Spend on Inventory - General,Defence Equipment + Support,REXEL UK LTD,EN6 9EB,355179,Spend on Inventory - General,"4,662.74"
@@ -2609,7 +2609,7 @@ Ministry of Defence,Ministry of Defence,12/06/2014,Spend on Inventory - General,
 Ministry of Defence,Ministry of Defence,19/06/2014,Food and clothing,Defence Equipment + Support,SODEXO LTD,M50 0AL,351943,Cost of food purchases,"2,226.88"
 Ministry of Defence,Ministry of Defence,23/06/2014,Purchase of inventory and services ,JFC,XMA LTD,NG11 7EP,353160,Cost of other material consumed,"2,216.15"
 Ministry of Defence,Ministry of Defence,20/06/2014,Purchase of inventory and services ,JFC,WILLIAMS LEA LIMITED,NR3 1PD,352470,Cost of other material consumed,"2,210.93"
-Ministry of Defence,Ministry of Defence,18/06/2014,General services and support,Air Command,XEROX (UK) LIMITED,BN13 1QG,351375,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"2,200.10"
+Ministry of Defence,Ministry of Defence,18/06/2014,General services and support,Air Command,XEROX (UK) LIMITED,BN13 1QG,351375,Purchase of defence support equipment below capitalisation threshold of £25k.,"2,200.10"
 Ministry of Defence,Ministry of Defence,19/06/2014,Design services and minor equipment purchases,Defence Equipment + Support,BABCOCK MARINE (ROSYTH) LTD,KY11 2YD,351437,Equipment support project costs,"2,177.56"
 Ministry of Defence,Ministry of Defence,30/06/2014,Purchase of inventory and services ,JFC,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,355374,Cost of other material consumed,"2,169.88"
 Ministry of Defence,Ministry of Defence,26/06/2014,Payment of utilities,Navy Command,CORONA ENERGY RETAIL 4 LIMITED,WD17 1JW,354361,Utilities consumed - gas,"2,160.02"
@@ -2898,7 +2898,7 @@ Ministry of Defence,Ministry of Defence,09/06/2014,Rental of plant and machinery
 Ministry of Defence,Ministry of Defence,13/06/2014,Purchase of inventory and services ,DEFENCE INFRASTRUCTURE ORGANISATION,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,349297,Cost of other material consumed,780.66
 Ministry of Defence,Ministry of Defence,20/06/2014,Purchase of inventory and services ,JFC,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,352105,Cost of other material consumed,768.38
 Ministry of Defence,Ministry of Defence,23/06/2014,Spend on Inventory - General,Defence Equipment + Support,MACTAGGART  SCOTT & COMPANY LTD,EH20 9SP,352823,Spend on Inventory - General,765.48
-Ministry of Defence,Ministry of Defence,18/06/2014,General services and support,Navy Command,SERCO LIMITED,RG27 9UY,351286,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,764.06
+Ministry of Defence,Ministry of Defence,18/06/2014,General services and support,Navy Command,SERCO LIMITED,RG27 9UY,351286,Purchase of defence support equipment below capitalisation threshold of £25k.,764.06
 Ministry of Defence,Ministry of Defence,13/06/2014,Fees for professional services,Land Forces,BAE SYSTEMS (OPERATIONS) LIMITED,GU14 6YU,349288,Fees for professional services excluding legal fees,760.98
 Ministry of Defence,Ministry of Defence,10/06/2014,"Transportation of personnel, freight and travel expenses",Land Forces,RYDER PUBLIC LIMITED COMPANY,SK16 4UL,348171,Movement of service personnel,759.11
 Ministry of Defence,Ministry of Defence,16/06/2014,Purchase of inventory and services ,HO+CS,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,349894,Cost of other material consumed,751.12
@@ -3043,7 +3043,7 @@ Ministry of Defence,Ministry of Defence,26/06/2014,Purchase of inventory and ser
 Ministry of Defence,Ministry of Defence,23/06/2014,IT and communication services,DEFENCE INFRASTRUCTURE ORGANISATION,CANON (UK) LIMITED,RH2 8BF,352599,Computer equipment costing below the capitalisation threshold,391.48
 Ministry of Defence,Ministry of Defence,17/06/2014,Fuel for military use,Navy Command,ARAL AG.,,5000115294,Oil and lubricants consumed excluding those from the inventory system,383.97
 Ministry of Defence,Ministry of Defence,03/06/2014,Purchase of inventory and services ,Navy Command,AAH PHARMACEUTICALS LTD,CV2 2TX,345186,Consumption of medical dental and veterinary inventory,383.85
-Ministry of Defence,Ministry of Defence,18/06/2014,General services and support,Navy Command,CANON (UK) LIMITED,RH2 8BF,350851,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,377.07
+Ministry of Defence,Ministry of Defence,18/06/2014,General services and support,Navy Command,CANON (UK) LIMITED,RH2 8BF,350851,Purchase of defence support equipment below capitalisation threshold of £25k.,377.07
 Ministry of Defence,Ministry of Defence,20/06/2014,Official entertainment and hospitality,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Entertainment + hospitality,376.76
 Ministry of Defence,Ministry of Defence,30/06/2014,Design services and minor equipment purchases,Defence Equipment + Support,CAPITA SECURE INFORMATION SOLUTIONS LIMITED,DL1 9HN,355412,Equipment support non-project costs,376.39
 Ministry of Defence,Ministry of Defence,12/06/2014,IT and communication services,Air Command,CANON (UK) LIMITED,RH2 8BF,348832,IT Services -internal costs,370.31
@@ -3122,14 +3122,14 @@ Ministry of Defence,Defence Science and Technology Laboratory,13/06/2014,Travel 
 Ministry of Defence,Ministry of Defence,24/06/2014,Transport hire charges,Land Forces,RYDER PUBLIC LIMITED COMPANY,SK16 4UL,353493,Transport other hire charge,257.74
 Ministry of Defence,Ministry of Defence,05/06/2014,"Transportation of personnel, freight and travel expenses",Land Forces,SODEXO LTD,M50 0AL,346662,Military short term detached duty,254.73
 Ministry of Defence,Ministry of Defence,19/06/2014,Purchase of inventory and services ,DEFENCE INFRASTRUCTURE ORGANISATION,XMA LTD,NG11 7EP,352049,Cost of other material consumed,254.55
-Ministry of Defence,Ministry of Defence,24/06/2014,General services and support,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Purchase of defence equipment below capitalisation threshold of ≈Å25k.,254.41
+Ministry of Defence,Ministry of Defence,24/06/2014,General services and support,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Purchase of defence equipment below capitalisation threshold of £25k.,254.41
 Ministry of Defence,Ministry of Defence,30/06/2014,Fuel for military use,Defence Equipment + Support,EUROSHELL DEUTSCHLAND GMBH,,5000115934,Oil and lubricants consumed excluding those from the inventory system,253.62
-Ministry of Defence,Ministry of Defence,12/06/2014,General services and support,Air Command,EUROPEAN ELECTRONIQUE LIMITED,OX29 4TT,348925,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,252.84
+Ministry of Defence,Ministry of Defence,12/06/2014,General services and support,Air Command,EUROPEAN ELECTRONIQUE LIMITED,OX29 4TT,348925,Purchase of defence support equipment below capitalisation threshold of £25k.,252.84
 Ministry of Defence,Ministry of Defence,26/06/2014,Food and clothing,DEFENCE INFRASTRUCTURE ORGANISATION,ARAMARK LTD,LS16 6QY,354265,Cost of clothing and textile services received,250.6
 Ministry of Defence,Ministry of Defence,05/06/2014,IT and communication services,Defence Equipment + Support,HP ENTERPRISE SERVICES DEFENCE & SECURITY UK LIMITED,RG12 1HN,346405,Information technology services,250
 Ministry of Defence,Ministry of Defence,03/06/2014,Design services and minor equipment purchases,Defence Equipment + Support,DARCY PRODUCTS LTD,ME20 6GN,345279,Equipment support non-project costs,248.18
 Ministry of Defence,Ministry of Defence,25/06/2014,"Transportation of personnel, freight and travel expenses",Land Forces,SODEXO LTD,M50 0AL,354124,Military short term detached duty,246.41
-Ministry of Defence,Ministry of Defence,04/06/2014,General services and support,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Purchase of defence equipment below capitalisation threshold of ≈Å25k.,246.11
+Ministry of Defence,Ministry of Defence,04/06/2014,General services and support,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Purchase of defence equipment below capitalisation threshold of £25k.,246.11
 Ministry of Defence,Ministry of Defence,30/06/2014,Payment of utilities,Defence Equipment + Support,BRITISH GAS TRADING LIMITED,OX4 2JY,355395,Utilities consumed - electricity,245.7
 Ministry of Defence,Ministry of Defence,18/06/2014,Administration,Navy Command,ROYAL MAIL GROUP LIMITED,S49 1HQ,351272,General administration,245.23
 Ministry of Defence,Ministry of Defence,05/06/2014,Payment of utilities,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Utilities consumed - water + sewage,244.93
@@ -3370,7 +3370,7 @@ Ministry of Defence,Ministry of Defence,05/06/2014,Payment of utilities,HO+CS,FO
 Ministry of Defence,Ministry of Defence,20/06/2014,Payment of utilities,Air Command,CORONA ENERGY RETAIL 4 LIMITED,WD17 1JW,352161,Utilities consumed - gas,28.35
 Ministry of Defence,Ministry of Defence,26/06/2014,Design services and minor equipment purchases,Air Command,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,354296,Equipment support non-project costs,27.78
 Ministry of Defence,Ministry of Defence,02/06/2014,IT and communication services,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Line + telephone rental including commercial charge for use of radio frequencies,27.08
-Ministry of Defence,Ministry of Defence,24/06/2014,General services and support,Air Command,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,353234,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,26.63
+Ministry of Defence,Ministry of Defence,24/06/2014,General services and support,Air Command,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,353234,Purchase of defence support equipment below capitalisation threshold of £25k.,26.63
 Ministry of Defence,Ministry of Defence,06/06/2014,IT and communication services,Land Forces,ASPIRE DEFENCE LIMITED,SP9 7QD,346807,Information technology services,26.51
 Ministry of Defence,Ministry of Defence,09/06/2014,Estate management,Land Forces,COMPASS SERVICES (U.K.) LIMITED,B45 9PZ,347396,Estate + facilities management services - accommodation inventory + service,25.8
 Ministry of Defence,Ministry of Defence,10/06/2014,"Transportation of personnel, freight and travel expenses",Air Command,ARAMARK LTD,LS16 6QY,347852,Military short term detached duty,24.68
@@ -3420,7 +3420,7 @@ Ministry of Defence,Ministry of Defence,20/06/2014,Administration,HO+CS,FOREIGN 
 Ministry of Defence,Ministry of Defence,03/06/2014,Administration,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,General administration,3.38
 Ministry of Defence,Ministry of Defence,17/06/2014,Payment of utilities,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Utilities consumed - water + sewage,2.28
 Ministry of Defence,Ministry of Defence,03/06/2014,Rent and rates,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Rent buildings - non civil estate property and married quarter property,0
-Ministry of Defence,Ministry of Defence,20/06/2014,General services and support,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Purchase of defence equipment below capitalisation threshold of ≈Å25k.,0
+Ministry of Defence,Ministry of Defence,20/06/2014,General services and support,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Purchase of defence equipment below capitalisation threshold of £25k.,0
 Ministry of Defence,Ministry of Defence,20/06/2014,IT and communication services,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,IT Services -internal costs,0
 Ministry of Defence,Ministry of Defence,20/06/2014,Rent and rates,HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Rent buildings - non civil estate property and married quarter property,0
 Ministry of Defence,Ministry of Defence,20/06/2014,"Transportation of personnel, freight and travel expenses",HO+CS,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,2.00E+11,Civilian short term detached duty,0

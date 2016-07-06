@@ -1,4 +1,4 @@
 Department,Entity,Date,Expense Type,Expense Area,Supplier ,Transaction Number, Amount ,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type,Vat Registration Number
-DEFRA,JNCC,10/08/12,CONTRACTED OUT CONSERVATION SERVICES,Surveillance and monitoring,NATURAL ENVIRONMENT RESEARCH COUNCIL,6792," ≈Å30,000.00 ",UK butterfly monitoring,SN2 1EU,Large,A10-0060-0368,100,Administration,
-DEFRA,JNCC,17/08/12,CONTRACTED OUT CONSERVATION SERVICES,Surveillance and monitoring,BRITISH TRUST FOR ORNITHOLOGY,6828," ≈Å106,583.50 ",Monitoring of birds and the environment,IP24 2PU,SME,A09-0056-0259,100,Administration,
-DEFRA,JNCC,15/08/12,CONTRACTED OUT CONSERVATION SERVICES,Surveillance and monitoring,BRITISH TRUST FOR ORNITHOLOGY,6829," ≈Å29,874.32 ",Bird ringing licensing,IP24 2PU,SME,C11-0056-0531,100,Administration,
+DEFRA,JNCC,10/08/12,CONTRACTED OUT CONSERVATION SERVICES,Surveillance and monitoring,NATURAL ENVIRONMENT RESEARCH COUNCIL,6792," £30,000.00 ",UK butterfly monitoring,SN2 1EU,Large,A10-0060-0368,100,Administration,
+DEFRA,JNCC,17/08/12,CONTRACTED OUT CONSERVATION SERVICES,Surveillance and monitoring,BRITISH TRUST FOR ORNITHOLOGY,6828," £106,583.50 ",Monitoring of birds and the environment,IP24 2PU,SME,A09-0056-0259,100,Administration,
+DEFRA,JNCC,15/08/12,CONTRACTED OUT CONSERVATION SERVICES,Surveillance and monitoring,BRITISH TRUST FOR ORNITHOLOGY,6829," £29,874.32 ",Bird ringing licensing,IP24 2PU,SME,C11-0056-0531,100,Administration,

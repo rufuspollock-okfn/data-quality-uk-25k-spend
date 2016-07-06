@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (Ł) ,VAT Registration Number
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (�) ,VAT Registration Number
 FCO,FCO,18-Oct-10,Programme and Project Management Consultancy,DG FINANCE,CONCERTO CONSULTING LTD,1001247,"28,050.00",
 FCO,FCO,18-Oct-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,CONCERTO CONSULTING LTD,1001247,"5,509.70",
 FCO,FCO,28-Oct-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,MERCY CORPS,21462,"34,938.00",
@@ -219,8 +219,8 @@ FCO,FCO,14-Oct-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1001098
 FCO,FCO,14-Oct-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1001098,"6,442.80",
 FCO,FCO,14-Oct-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1001098,"2,684.50",
 FCO,FCO,14-Oct-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1001098,-0.01,
-FCO,FCO,28-Oct-10,Information Systems Under ÂŁ3000,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1002024,"42,575.00",
-FCO,FCO,28-Oct-10,Information Systems Under ÂŁ3000,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1002024,"7,450.63",
+FCO,FCO,28-Oct-10,Information Systems Under £3000,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1002024,"42,575.00",
+FCO,FCO,28-Oct-10,Information Systems Under £3000,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1002024,"7,450.63",
 FCO,FCO,13-Oct-10,P.A.Y.E Income Tax (Oracle PAY Control Account),NON CASH & UNALLOCATED COSTS,HM REVENUE & CUSTOMS,3000296,"3,643,999.09",
 FCO,FCO,13-Oct-10,National Insurance (NI) (Oracle PAY Control Account),NON CASH & UNALLOCATED COSTS,HM REVENUE & CUSTOMS,3000296,"2,135,725.91",
 FCO,FCO,20-Oct-10,Home Office Visa Fees: Post Collection-Payment In UK,DG CHANGE & DELIVERY,HOME OFFICE,3000322,"14,305.07",

@@ -33,7 +33,7 @@ FCO,FCO,8/12/2013,4401331,"111,088.00",BELFAST AIRPORT HANDLING LTD,Inward visit
 FCO,FCO,8/21/2013,4410708,"100,000.00",BELFAST INTERNATIONAL AIRPORT LTD,Inward visits to the UK and UK Conferences
 FCO,FCO,8/21/2013,4410708,"57,162.00",BELFAST INTERNATIONAL AIRPORT LTD,Accommodation
 FCO,FCO,8/21/2013,4381122,"57,223.11",BK SHRESTHA AND BUILDERS PVT LTD,Assets Under Construction (Oracle PA Control Account)
-FCO,FCO,8/20/2013,4405176,"29,833.28",BK SHRESTHA AND BUILDERS PVT LTD,Construction Project more than ≈Å10k
+FCO,FCO,8/20/2013,4405176,"29,833.28",BK SHRESTHA AND BUILDERS PVT LTD,Construction Project more than £10k
 FCO,FCO,8/20/2013,4407947,"53,240.41",BK SHRESTHA AND BUILDERS PVT LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,8/8/2013,4399309,"41,997.58",BRIGHT HORIZONS FAMILY SOLUTION LTD,Nursery Childcare Subsidy
 FCO,FCO,8/9/2013,4352602,"25,394.65",BRITISH SCHOOL OF BRUSSELS,Local Education Allowance
@@ -90,7 +90,7 @@ FCO,FCO,8/13/2013,4405195,"34,758.00",DIPLOMATIC MISSION SUPPLIES LTD,"Purchase 
 FCO,FCO,8/13/2013,4405195,"34,020.35",DIPLOMATIC MISSION SUPPLIES LTD,"Purchase of Furniture, Fittings and Domestic Appliances"
 FCO,FCO,8/13/2013,4420827,"26,058.75",DIPLOMATIC MISSION SUPPLIES LTD,Property Maintenance Overseas Non Residential
 FCO,FCO,8/21/2013,4411496,"32,300.00",DIRECTORATE FOR HUMAN AND MINORITY RIGHTS,Programme Spend (Oracle Projects Control Account)
-FCO,FCO,8/20/2013,4410698,"121,684.80",DRAKE & GORHAM,Construction Project more than ≈Å10k
+FCO,FCO,8/20/2013,4410698,"121,684.80",DRAKE & GORHAM,Construction Project more than £10k
 FCO,FCO,8/21/2013,4328515,"30,000.00",DTZ CONSULTING AND RESEARCH,Residential Property Services
 FCO,FCO,8/14/2013,4291830,"57,105.19",EIC LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,8/14/2013,4324517,"45,967.84",EIC LTD,Assets Under Construction (Oracle PA Control Account)
@@ -129,8 +129,8 @@ FCO,FCO,8/22/2013,4333152,"147,423.80",FCO SERVICES,Air Freight Dip Bags - Freig
 FCO,FCO,8/22/2013,4344592,"34,045.50",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,8/22/2013,4349245,"185,243.10",FCO SERVICES,Temporary Staff (Admin and Clerical Only)
 FCO,FCO,8/22/2013,4349245,"100,004.30",FCO SERVICES,Temporary Staff (Admin and Clerical Only)
-FCO,FCO,8/22/2013,4353592,"318,913.40",FCO SERVICES,Construction Project more than ≈Å10k
-FCO,FCO,8/22/2013,4353592,"318,913.40",FCO SERVICES,Construction Project more than ≈Å10k
+FCO,FCO,8/22/2013,4353592,"318,913.40",FCO SERVICES,Construction Project more than £10k
+FCO,FCO,8/22/2013,4353592,"318,913.40",FCO SERVICES,Construction Project more than £10k
 FCO,FCO,8/22/2013,4353592,"142,000.00",FCO SERVICES,Residential Property Services
 FCO,FCO,8/22/2013,4353592,"71,597.46",FCO SERVICES,Residential Property Services
 FCO,FCO,8/22/2013,4353636,"80,286.40",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
@@ -247,18 +247,18 @@ FCO,FCO,8/5/2013,4394824,"27,766.33",HAYAT HELMANDWAL CONSTRUCTION COMPANY,Progr
 FCO,FCO,8/7/2013,4397512,"117,529.30",HEALIX INTERNATIONAL LTD,Fco Healthcare Scheme
 FCO,FCO,8/8/2013,4399434,"88,453.00",HEALIX INTERNATIONAL LTD,Medical Journeys (General)
 FCO,FCO,8/30/2013,4421533,"31,614.54",HEALIX INTERNATIONAL LTD,Medical Journeys (General)
-FCO,FCO,8/9/2013,4291903,"30,884.00",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,8/9/2013,4291910,"109,671.00",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
+FCO,FCO,8/9/2013,4291903,"30,884.00",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,8/9/2013,4291910,"109,671.00",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
 FCO,FCO,8/9/2013,4321987,"63,360.00",HEWLETT PACKARD LTD,Information Systems Maintenance
 FCO,FCO,8/9/2013,4323459,"46,382.50",HEWLETT PACKARD LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,8/9/2013,4372011,"26,070.34",HEWLETT PACKARD LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,8/9/2013,4372021,"43,303.78",HEWLETT PACKARD LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,8/9/2013,4378797,"43,656.00",HEWLETT PACKARD LTD,Technical Consultancy
-FCO,FCO,8/9/2013,4392328,"53,139.24",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,8/9/2013,4392328,"42,809.44",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,8/9/2013,4392328,"41,575.68",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,8/9/2013,4392328,"37,444.68",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,8/9/2013,4392328,"36,018.00",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
+FCO,FCO,8/9/2013,4392328,"53,139.24",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,8/9/2013,4392328,"42,809.44",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,8/9/2013,4392328,"41,575.68",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,8/9/2013,4392328,"37,444.68",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,8/9/2013,4392328,"36,018.00",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
 FCO,FCO,8/9/2013,4392349,"110,382.00",HEWLETT PACKARD LTD,Temporary Staff (Admin and Clerical Only)
 FCO,FCO,8/9/2013,4392387,"58,656.00",HEWLETT PACKARD LTD,Technical Consultancy
 FCO,FCO,8/9/2013,4399261,"29,447.52",HEWLETT PACKARD LTD,IT/IS Consultancy
@@ -448,13 +448,13 @@ FCO,FCO,8/26/2013,4415158,"40,028.18",RED SEA,Assets Under Construction (Oracle 
 FCO,FCO,8/27/2013,4416397,"181,186.50",RENCO,Rental Payments - non residential
 FCO,FCO,8/14/2013,4404646,"35,368.50",RESPONDING TO CONFLICT,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,8/14/2013,4404652,"27,525.00",RESPONDING TO CONFLICT,Programme Spend (Oracle Projects Control Account)
-FCO,FCO,8/15/2013,4389272,"52,044.92",SCHINDLER LIMITED,Construction Project more than ≈Å10k
+FCO,FCO,8/15/2013,4389272,"52,044.92",SCHINDLER LIMITED,Construction Project more than £10k
 FCO,FCO,8/29/2013,4395186,"45,154.65",SEARCH FOR COMMON GROUND NEPAL,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,8/30/2013,4260912,"56,605.71",SECURITY CONTROL,Security: Works Residential
 FCO,FCO,8/19/2013,4408352,"26,959.76",SEDER TBS,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,8/13/2013,4403550,"25,915.48",SEMBAYEV ASLAN IE,Rental Payments - residential
 FCO,FCO,8/7/2013,4397988,"183,185.00",SIREN ASSOCIATES LTD,Programme Spend (Oracle Projects Control Account)
-FCO,FCO,8/19/2013,4331675,"29,574.13",SJ CARPENTRY,Construction Project more than ≈Å10k
+FCO,FCO,8/19/2013,4331675,"29,574.13",SJ CARPENTRY,Construction Project more than £10k
 FCO,FCO,8/21/2013,4407263,"25,065.53",SOUTH AFRICAN LIAISON OFFICE,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,8/13/2013,4402871,"33,999.30",ST LAURENT AUTOMOTIVE GROUP,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,8/14/2013,4387954,"25,038.00",STATT CONSULTING LTD,Programme Spend (Oracle Projects Control Account)

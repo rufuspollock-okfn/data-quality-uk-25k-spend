@@ -1,40 +1,40 @@
 Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number, Amount ,Description,Supplier postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
-DEFRA,RPA,27/03/2012,IT Outsourced Services /WIP Software Projects,Service Management / Programmes & Projects,Accenture,3003177997," ≈Å41,275.30 ",ICT Managed Service Charges,EC3M 3BD,,,,Admin
-DEFRA,RPA,19/03/2012,Outsourced Systems Development,Programmes & Projects ,Adare,IS1198783," ≈Å29,640.00 ",Scheme Payments 2012 Scan Solution Development January 2012,HD8 9QQ,,PO63688,PPS08700,Admin
-DEFRA,RPA,06/03/2012,Down stream Access Mailing,Managed Document Service,Adare,IS1197447," ≈Å52,699.34 ",Printing relating to Scheme Payments,HD8 9QQ,,PO63089,MDSCRSC1,Admin
-DEFRA,RPA,02/03/2012,Lease Cars,Various,Arval,1028067," ≈Å58,910.20 ",Lease Rental Costs  - Feb 12,SN5 6PE,,Various,N/A,Admin
-DEFRA,RPA,16/03/2012,Lease Cars,Various,Arval,1030174," ≈Å59,557.60 ",Lease Rental Costs  - Mar 12,SN5 6PE,,Various,N/A,Admin
-DEFRA,RPA,13/03/2012,IT Outsourced Services,Service Management,Azzurri Communications ,567861," ≈Å219,647.52 ",Annual Maintenance Definity Apr 12 to Mar 13,HP13 6EQ,,PO64010,COMS0131,Admin
-DEFRA,RPA,19/03/2012,IT Outsourced Services,Service Management,Cable & Wireless,UK10/012012/5571," ≈Å38,705.28 ",Quarterly Maintenance Call Centre Jan-Mar 12,RG12 1XL,,PO63072,TLMS0160,Admin
-DEFRA,RPA,19/03/2012,IT Outsourced Services,Service Management ,Cable & Wireless,UK13070379/UK10/03," ≈Å77,189.76 ",Monthly PBX Maintenance Charges for all RPA Locations,RG12 1XL,,Various,PPT0100/TLMS0100/CNTR0060,Admin
-DEFRA,RPA,27/03/2012,Data Centre Clearing/IT Outsourced Services,Programmes & Projects ,Cable & Wireless,5000001141/426039," ≈Å148,687.45 ",Customised Networking Services,RG12 1XL,,PO62643,PPT0100,Admin
-DEFRA,RPA,28/03/2012,Data Centre Clearing/IT Outsourced Services/Supplier Contractors,Programmes & Projects/Service Management,Cable & Wireless,UK13073136/UK10/02," ≈Å170,472.47 ",Call Charges,RG12 1XL,,"PO 63072, PO63239, PO62643",,Admin
-DEFRA,RPA,22/03/2012,IT Consumables,Programmes & Projects,Computacenter,3803819226," ≈Å81,600.00 ",RPA Laptop Transition Project,AL10 9TW,,"PO 63925, PO 64052",PPT0200,Admin
-DEFRA,RPA,12/03/2012,Conferences,Communications,Crown Business Communications,105812," ≈Å37,200.00 ",RPA Strategic Improvement Plan Roadshow,W14 0EH,,PO 64015,N/A,Admin
-DEFRA,RPA,16/03/2012,Pay Costs,Policy Directorate,Defra,1000003121," ≈Å28,978.05 ",Recovery of Salary Costs,YO1 7PX,,N/A,N/A,Admin
-DEFRA,RPA,16/03/2012,Legal,Legal Shared Services Recharges,Defra,1000003360," ≈Å501,666.67 ",Legal Shared Service Recharge Sept 11 to Mar 12,YO1 7PX,,N/A,N/A,Admin
-DEFRA,RPA,21/03/2012,IT Outsourced Services,Service Management,Defra,1000013500," ≈Å1,170,243.04 ",Recharge for IBM Services - Aug 11 to Nov 11,YO1 7PX,,PO 63673,N/A,Admin
-DEFRA,RPA,20/03/2012,Supplier Contractors,"Programmes & Projects / Workstream 1, Defra Review.",Deloitte & Touche,1110780719," ≈Å119,420.40 ",Feb Services - Extension to Future Options Programme (FDP and FOP),MK9 1FD,,PO 63648,FOP01000,Admin
-DEFRA,RPA,30/03/2012,Supplier Contractors,"Programmes & Projects / Workstream 1, Defra Review.",Deloitte & Touche,1110766154," ≈Å160,382.15 ",Jan Services - Extension to Future Options Programme (FDP and FOP),MK9 1FD,,PO 63648,FOP01000,Admin
-DEFRA,RPA,15/03/2012,IT Outsourced Services,Service Management,DSGi Business,11297951," ≈Å29,700.00 ",Quarterly Charges,BL9 7BJ,,PO 62964,OFF0125,Admin
-DEFRA,RPA,09/03/2012,IT Outsourced Services,Programmes & Projects,DSGi Business,11288101," ≈Å41,115.00 ",Application Sequencing 50% and Server Engineering 50%,BL9 7BJ,,PO 63521,OFF0125,Admin
-DEFRA,RPA,06/03/2012,IT Outsourced Services,Service Management,DSGi Business,11268591," ≈Å75,834.00 ",Monthly ICT Managed Service Charges,BL9 7BJ,,PO 62964,OFF0125,Admin
-DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,DSGi Business,11318846," ≈Å85,050.00 ",Application Re-Sequencing and Promotion of new Remote Data Service (RDS) rebuild,BL9 7BJ,,PO 63521,PPT02000,Admin
-DEFRA,RPA,07/03/2012,Defra Estates,Sustainable Workplace Management,DTZ,30440," ≈Å71,238.80 ",Depreciation and Establishment Charges Apr-Nov 11,B4 6AJ,,PO 63799,N/A,Admin
-DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121254," ≈Å26,742.78 ",SAN Microsoft Migration - IBM Provided Resource in Sept 11 to migrate all remaining Microsoft Estates off old 9980 SAN's ,B4 6AJ,,PO 63701,PPT01100,Admin
-DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121251," ≈Å31,454.94 ",SAN Microsoft Migration - IBM Provided Resource in Sept 11 to migrate all remaining Microsoft Estates off old 9980 SAN's ,B4 6AJ,,PO 63701,PPT01100,Admin
-DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121255," ≈Å38,415.67 ",SAN Microsoft Migration - IBM Provided Resource in Sept 11 to migrate all remaining Microsoft Estates off old 9980 SAN's ,B4 6AJ,,PO 63701,PPT01100,Admin
-DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121249," ≈Å49,000.96 ",SAN Microsoft Migration - IBM Provided Resource in Sept 11 to migrate all remaining Microsoft Estates off old 9980 SAN's ,B4 6AJ,,"PO 63536, PO 62847, PO 63376, PO 63071",PPT01100,Admin
-DEFRA,RPA,02/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5802121348," ≈Å52,117.10 ",SAN Microsoft Migration Workington - IBM Provided Resource in Feb 12 to migrate old 9980 SAN's ,B4 6AJ,,PO 63726,PPT01100,Admin
-DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121112," ≈Å63,360.00 ",Collaborative Environmental Transportation Agreement for Streamlining (CETAS) - Dial up security Remediation - Fixed deliverables to replace external user access,B4 6AJ,,PO 63726,PPT01100,Admin
-DEFRA,RPA,02/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5802121346," ≈Å83,519.99 ",Collaborative Environmental Transportation Agreement for Streamlining (CETAS) - Dial up security Remediation - Fixed deliverables to replace external user access,B4 6AJ,,PO 63655,PPT01100,Admin
-DEFRA,RPA,09/03/2012,IT Outsourced Services,Service Management,IBM,5802121741," ≈Å693,901.93 ","¬ú693,901.93 - Fixed IBM Baseline Charges",B4 6AJ,,PO 63863,IBMBS000,Admin
-DEFRA,,,IT Outsourced Services,Programmes & Projects,,," ≈Å74,102.00 ","¬ú44,741.02 - Kings House Data Centre Charges",B4 6AJ,,PO 63863,PPT01000,Admin
-DEFRA,RPA,23/03/2012,Supplier Contractors,Exeter Geographical Information Services,Infotech Enterprises,970001303," ≈Å67,102.70 ",Geographical Information Services Rural Land Registry Digitization - Jan 12,WC1A 6RL,,PO 63631,N/A,Admin
-DEFRA,RPA,22/03/2012,Supplier Contractors,Exeter Geographical Information Services,Infotech Enterprises,970001233," ≈Å71,004.29 ",Geographical information Services Rural Land Registry Digitization - Dec 11,WC1A 6RL,,PO 63631,N/A,Admin
-DEFRA,RPA,09/03/2012,IT Consumables,Inspectorate,Korec Limited,249487," ≈Å62,040.00 ",Global Positioning Service (GPS) Hardware Equipment and Fastmap i-capture Software,L22 6QB,,PO 63870,N/A,Admin
-DEFRA,RPA,20/03/2012,Training,HR People Development,OEE,49750," ≈Å35,760.00 ",Lean Training for Design and Change,OX7 3EW,,PO 63986,N/A,Admin
-DEFRA,RPA,27/03/2012,Contractor Costs,Internal Audit,Price Waterhouse Coopers,1353764353," ≈Å51,376.00 ",Jan and Feb 2012 Secondment costs - Head of Internal Audit,E14 9SQ,,PO 63972,N/A,Admin
-DEFRA,RPA,27/03/2012,Travel,Various,Redfern Travel,31499," ≈Å43,739.10 ","Travel Services - Train Travel, Air travel - Feb 2012",BD1 3AE,,N/A,N/A,Admin
-DEFRA,RPA,16/03/2012,IT Outsourced Services,Programmes & Projects,Steria Limited,100030687," ≈Å74,590.01 ",Strategic Management Information,M14 0WN,,PO 63791,PPN09200,Admin
-DEFRA,RPA,29/03/2012,IT Licences,Programmes & Projects,Trustmarque Solutions,2166416," ≈Å58,846.68 ",Licences - Desktop Transaction Project,YO32 9WN,,PO 63964,PPT02000,Admin
+DEFRA,RPA,27/03/2012,IT Outsourced Services /WIP Software Projects,Service Management / Programmes & Projects,Accenture,3003177997," £41,275.30 ",ICT Managed Service Charges,EC3M 3BD,,,,Admin
+DEFRA,RPA,19/03/2012,Outsourced Systems Development,Programmes & Projects ,Adare,IS1198783," £29,640.00 ",Scheme Payments 2012 Scan Solution Development January 2012,HD8 9QQ,,PO63688,PPS08700,Admin
+DEFRA,RPA,06/03/2012,Down stream Access Mailing,Managed Document Service,Adare,IS1197447," £52,699.34 ",Printing relating to Scheme Payments,HD8 9QQ,,PO63089,MDSCRSC1,Admin
+DEFRA,RPA,02/03/2012,Lease Cars,Various,Arval,1028067," £58,910.20 ",Lease Rental Costs  - Feb 12,SN5 6PE,,Various,N/A,Admin
+DEFRA,RPA,16/03/2012,Lease Cars,Various,Arval,1030174," £59,557.60 ",Lease Rental Costs  - Mar 12,SN5 6PE,,Various,N/A,Admin
+DEFRA,RPA,13/03/2012,IT Outsourced Services,Service Management,Azzurri Communications ,567861," £219,647.52 ",Annual Maintenance Definity Apr 12 to Mar 13,HP13 6EQ,,PO64010,COMS0131,Admin
+DEFRA,RPA,19/03/2012,IT Outsourced Services,Service Management,Cable & Wireless,UK10/012012/5571," £38,705.28 ",Quarterly Maintenance Call Centre Jan-Mar 12,RG12 1XL,,PO63072,TLMS0160,Admin
+DEFRA,RPA,19/03/2012,IT Outsourced Services,Service Management ,Cable & Wireless,UK13070379/UK10/03," £77,189.76 ",Monthly PBX Maintenance Charges for all RPA Locations,RG12 1XL,,Various,PPT0100/TLMS0100/CNTR0060,Admin
+DEFRA,RPA,27/03/2012,Data Centre Clearing/IT Outsourced Services,Programmes & Projects ,Cable & Wireless,5000001141/426039," £148,687.45 ",Customised Networking Services,RG12 1XL,,PO62643,PPT0100,Admin
+DEFRA,RPA,28/03/2012,Data Centre Clearing/IT Outsourced Services/Supplier Contractors,Programmes & Projects/Service Management,Cable & Wireless,UK13073136/UK10/02," £170,472.47 ",Call Charges,RG12 1XL,,"PO 63072, PO63239, PO62643",,Admin
+DEFRA,RPA,22/03/2012,IT Consumables,Programmes & Projects,Computacenter,3803819226," £81,600.00 ",RPA Laptop Transition Project,AL10 9TW,,"PO 63925, PO 64052",PPT0200,Admin
+DEFRA,RPA,12/03/2012,Conferences,Communications,Crown Business Communications,105812," £37,200.00 ",RPA Strategic Improvement Plan Roadshow,W14 0EH,,PO 64015,N/A,Admin
+DEFRA,RPA,16/03/2012,Pay Costs,Policy Directorate,Defra,1000003121," £28,978.05 ",Recovery of Salary Costs,YO1 7PX,,N/A,N/A,Admin
+DEFRA,RPA,16/03/2012,Legal,Legal Shared Services Recharges,Defra,1000003360," £501,666.67 ",Legal Shared Service Recharge Sept 11 to Mar 12,YO1 7PX,,N/A,N/A,Admin
+DEFRA,RPA,21/03/2012,IT Outsourced Services,Service Management,Defra,1000013500," £1,170,243.04 ",Recharge for IBM Services - Aug 11 to Nov 11,YO1 7PX,,PO 63673,N/A,Admin
+DEFRA,RPA,20/03/2012,Supplier Contractors,"Programmes & Projects / Workstream 1, Defra Review.",Deloitte & Touche,1110780719," £119,420.40 ",Feb Services - Extension to Future Options Programme (FDP and FOP),MK9 1FD,,PO 63648,FOP01000,Admin
+DEFRA,RPA,30/03/2012,Supplier Contractors,"Programmes & Projects / Workstream 1, Defra Review.",Deloitte & Touche,1110766154," £160,382.15 ",Jan Services - Extension to Future Options Programme (FDP and FOP),MK9 1FD,,PO 63648,FOP01000,Admin
+DEFRA,RPA,15/03/2012,IT Outsourced Services,Service Management,DSGi Business,11297951," £29,700.00 ",Quarterly Charges,BL9 7BJ,,PO 62964,OFF0125,Admin
+DEFRA,RPA,09/03/2012,IT Outsourced Services,Programmes & Projects,DSGi Business,11288101," £41,115.00 ",Application Sequencing 50% and Server Engineering 50%,BL9 7BJ,,PO 63521,OFF0125,Admin
+DEFRA,RPA,06/03/2012,IT Outsourced Services,Service Management,DSGi Business,11268591," £75,834.00 ",Monthly ICT Managed Service Charges,BL9 7BJ,,PO 62964,OFF0125,Admin
+DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,DSGi Business,11318846," £85,050.00 ",Application Re-Sequencing and Promotion of new Remote Data Service (RDS) rebuild,BL9 7BJ,,PO 63521,PPT02000,Admin
+DEFRA,RPA,07/03/2012,Defra Estates,Sustainable Workplace Management,DTZ,30440," £71,238.80 ",Depreciation and Establishment Charges Apr-Nov 11,B4 6AJ,,PO 63799,N/A,Admin
+DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121254," £26,742.78 ",SAN Microsoft Migration - IBM Provided Resource in Sept 11 to migrate all remaining Microsoft Estates off old 9980 SAN's ,B4 6AJ,,PO 63701,PPT01100,Admin
+DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121251," £31,454.94 ",SAN Microsoft Migration - IBM Provided Resource in Sept 11 to migrate all remaining Microsoft Estates off old 9980 SAN's ,B4 6AJ,,PO 63701,PPT01100,Admin
+DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121255," £38,415.67 ",SAN Microsoft Migration - IBM Provided Resource in Sept 11 to migrate all remaining Microsoft Estates off old 9980 SAN's ,B4 6AJ,,PO 63701,PPT01100,Admin
+DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121249," £49,000.96 ",SAN Microsoft Migration - IBM Provided Resource in Sept 11 to migrate all remaining Microsoft Estates off old 9980 SAN's ,B4 6AJ,,"PO 63536, PO 62847, PO 63376, PO 63071",PPT01100,Admin
+DEFRA,RPA,02/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5802121348," £52,117.10 ",SAN Microsoft Migration Workington - IBM Provided Resource in Feb 12 to migrate old 9980 SAN's ,B4 6AJ,,PO 63726,PPT01100,Admin
+DEFRA,RPA,30/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5803121112," £63,360.00 ",Collaborative Environmental Transportation Agreement for Streamlining (CETAS) - Dial up security Remediation - Fixed deliverables to replace external user access,B4 6AJ,,PO 63726,PPT01100,Admin
+DEFRA,RPA,02/03/2012,IT Outsourced Services,Programmes & Projects,IBM,5802121346," £83,519.99 ",Collaborative Environmental Transportation Agreement for Streamlining (CETAS) - Dial up security Remediation - Fixed deliverables to replace external user access,B4 6AJ,,PO 63655,PPT01100,Admin
+DEFRA,RPA,09/03/2012,IT Outsourced Services,Service Management,IBM,5802121741," £693,901.93 ","ú693,901.93 - Fixed IBM Baseline Charges",B4 6AJ,,PO 63863,IBMBS000,Admin
+DEFRA,,,IT Outsourced Services,Programmes & Projects,,," £74,102.00 ","ú44,741.02 - Kings House Data Centre Charges",B4 6AJ,,PO 63863,PPT01000,Admin
+DEFRA,RPA,23/03/2012,Supplier Contractors,Exeter Geographical Information Services,Infotech Enterprises,970001303," £67,102.70 ",Geographical Information Services Rural Land Registry Digitization - Jan 12,WC1A 6RL,,PO 63631,N/A,Admin
+DEFRA,RPA,22/03/2012,Supplier Contractors,Exeter Geographical Information Services,Infotech Enterprises,970001233," £71,004.29 ",Geographical information Services Rural Land Registry Digitization - Dec 11,WC1A 6RL,,PO 63631,N/A,Admin
+DEFRA,RPA,09/03/2012,IT Consumables,Inspectorate,Korec Limited,249487," £62,040.00 ",Global Positioning Service (GPS) Hardware Equipment and Fastmap i-capture Software,L22 6QB,,PO 63870,N/A,Admin
+DEFRA,RPA,20/03/2012,Training,HR People Development,OEE,49750," £35,760.00 ",Lean Training for Design and Change,OX7 3EW,,PO 63986,N/A,Admin
+DEFRA,RPA,27/03/2012,Contractor Costs,Internal Audit,Price Waterhouse Coopers,1353764353," £51,376.00 ",Jan and Feb 2012 Secondment costs - Head of Internal Audit,E14 9SQ,,PO 63972,N/A,Admin
+DEFRA,RPA,27/03/2012,Travel,Various,Redfern Travel,31499," £43,739.10 ","Travel Services - Train Travel, Air travel - Feb 2012",BD1 3AE,,N/A,N/A,Admin
+DEFRA,RPA,16/03/2012,IT Outsourced Services,Programmes & Projects,Steria Limited,100030687," £74,590.01 ",Strategic Management Information,M14 0WN,,PO 63791,PPN09200,Admin
+DEFRA,RPA,29/03/2012,IT Licences,Programmes & Projects,Trustmarque Solutions,2166416," £58,846.68 ",Licences - Desktop Transaction Project,YO32 9WN,,PO 63964,PPT02000,Admin

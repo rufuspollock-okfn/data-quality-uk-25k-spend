@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (ÂŁ)
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£)
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,12-May-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GIBS LTD,1002189,"251,542.26"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,12-May-10,Programme and Project Management Consultancy,DG FINANCE,HAYS SPECIALIST RECRUITMENT LTD,1163726,"11,157.30"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,12-May-10,Temporary Staff (Admin and Clerical Only),DG CHANGE & DELIVERY,HAYS SPECIALIST RECRUITMENT LTD,1163726,"14,368.62"
@@ -156,7 +156,7 @@ Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-May-10,Programme 
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-May-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1164486,"149,363.42"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-May-10,Electricity Non-Residential,DG CHANGE & DELIVERY,LONDON ENERGY,1164486,"26,138.60"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-May-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,ORACLE CORPORATION (UK) LTD,1164492,"154,335.68"
-Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-May-10,Information Systems Under ĂÂŁ3000,DG CENTRAL GROUP,ORACLE CORPORATION (UK) LTD,1164492,"34,330.34"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-May-10,Information Systems Under Â£3000,DG CENTRAL GROUP,ORACLE CORPORATION (UK) LTD,1164492,"34,330.34"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-May-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ORACLE CORPORATION (UK) LTD,1164492,"33,016.55"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,24-May-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COB EMPLOYEE EXPENSES,3007255,"70,049.34"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,25-May-10,FTN Unitary Payment,DG CENTRAL GROUP,GLOBAL CROSSING,1164563,"48,044.49"

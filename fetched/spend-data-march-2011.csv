@@ -1,47 +1,47 @@
 ,,,,,,,
 Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling
-ECGD,ECGD,03-Mar-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Damovo UK Ltd,60636,"≈Å43,573.85"
-ECGD,ECGD,03-Mar-11,Online costs,(DAB) CRG CRAD Admin Costs,Fitch Ratings Ltd,60637,"≈Å55,950.00"
-ECGD,ECGD,03-Mar-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,60649,"≈Å122,237.09"
-ECGD,ECGD,03-Mar-11,IT Non Project Expenditure,(DAB) FG ID: Admin Costs,,60649,"≈Å1,800.00"
-ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) FG ID: Admin Costs,American Express,60719,≈Å172.46
-ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,≈Å213.23
-ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,≈Å94.43
-ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,≈Å89.30
-ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,≈Å102.63
-ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,≈Å54.55
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB) CRG CRAD Admin Costs,American Express,60719,≈Å279.25
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB) CRG CRAD Admin Costs,American Express,60719,"≈Å2,902.68"
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB) CRG CRAD Admin Costs,American Express,60719,"≈Å2,798.76"
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division 3,American Express,60719,"≈Å3,110.77"
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,60719,"≈Å1,446.50"
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,60719,"≈Å4,253.03"
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,60719,≈Å279.25
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,60719,-≈Å24.57
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,≈Å279.25
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,"≈Å3,726.67"
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,"≈Å3,925.07"
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,"≈Å3,186.24"
-ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,≈Å279.25
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB) CRG CCPMD: Admin Costs,American Express,60719,≈Å329.48
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB) CRG CCPMD: Admin Costs,American Express,60719,≈Å165.90
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB) CRG CRAD Admin Costs,American Express,60719,≈Å165.90
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,60719,≈Å320.25
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,60719,"≈Å3,313.51"
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,60719,≈Å279.25
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division1,American Express,60719,≈Å191.56
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division1,American Express,60719,≈Å106.00
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division2,American Express,60719,"≈Å2,281.07"
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,≈Å190.08
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,≈Å166.50
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,≈Å329.48
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,≈Å235.18
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,≈Å118.50
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,≈Å279.25
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,≈Å360.30
-ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,≈Å94.50
-ECGD,ECGD,15-Mar-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,60748,"≈Å612,500.00"
-ECGD,ECGD,15-Mar-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,60748,"≈Å267,607.50"
-ECGD,ECGD,15-Mar-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,60749,"≈Å38,072.75"
-ECGD,ECGD,22-Mar-11,BSIC Projects,BSIC Projects,Logica UK Limited,60816,"≈Å231,210.00"
+ECGD,ECGD,03-Mar-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Damovo UK Ltd,60636,"£43,573.85"
+ECGD,ECGD,03-Mar-11,Online costs,(DAB) CRG CRAD Admin Costs,Fitch Ratings Ltd,60637,"£55,950.00"
+ECGD,ECGD,03-Mar-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,60649,"£122,237.09"
+ECGD,ECGD,03-Mar-11,IT Non Project Expenditure,(DAB) FG ID: Admin Costs,,60649,"£1,800.00"
+ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) FG ID: Admin Costs,American Express,60719,£172.46
+ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,£213.23
+ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,£94.43
+ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,£89.30
+ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,£102.63
+ECGD,ECGD,15-Mar-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,60719,£54.55
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB) CRG CRAD Admin Costs,American Express,60719,£279.25
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB) CRG CRAD Admin Costs,American Express,60719,"£2,902.68"
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB) CRG CRAD Admin Costs,American Express,60719,"£2,798.76"
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division 3,American Express,60719,"£3,110.77"
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,60719,"£1,446.50"
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,60719,"£4,253.03"
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,60719,£279.25
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,60719,-£24.57
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,£279.25
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,"£3,726.67"
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,"£3,925.07"
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,"£3,186.24"
+ECGD,ECGD,15-Mar-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,60719,£279.25
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB) CRG CCPMD: Admin Costs,American Express,60719,£329.48
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB) CRG CCPMD: Admin Costs,American Express,60719,£165.90
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB) CRG CRAD Admin Costs,American Express,60719,£165.90
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,60719,£320.25
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,60719,"£3,313.51"
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,60719,£279.25
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division1,American Express,60719,£191.56
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division1,American Express,60719,£106.00
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,(DAB)BG Business Division2,American Express,60719,"£2,281.07"
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,£190.08
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,£166.50
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,£329.48
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,£235.18
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,£118.50
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,£279.25
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,£360.30
+ECGD,ECGD,15-Mar-11,Overseas Travel/Subsistence,CXO: admin,American Express,60719,£94.50
+ECGD,ECGD,15-Mar-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,60748,"£612,500.00"
+ECGD,ECGD,15-Mar-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,60748,"£267,607.50"
+ECGD,ECGD,15-Mar-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,60749,"£38,072.75"
+ECGD,ECGD,22-Mar-11,BSIC Projects,BSIC Projects,Logica UK Limited,60816,"£231,210.00"
 ,,,,,,,
