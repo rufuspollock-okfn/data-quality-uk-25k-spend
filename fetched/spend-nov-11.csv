@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (Âœ) ,VAT Registration Number
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (œ) ,VAT Registration Number
 FCO,FCO,18-Nov-11,Information Systems Maintenance,DG CHANGE & DELIVERY,3M UNITED KINGDOM PLC,1030922,"139,500.00",
 FCO,FCO,18-Nov-11,Information Systems Maintenance,DG CHANGE & DELIVERY,3M UNITED KINGDOM PLC,1030922,"3,875.00",
 FCO,FCO,18-Nov-11,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,3M UNITED KINGDOM PLC,1030922,"28,675.00",
@@ -171,8 +171,8 @@ FCO,FCO,29-Nov-11,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNA
 FCO,FCO,01-Nov-11,Insurance Of Personal Effects,DG CHANGE & DELIVERY,MARSH UK LTD,1029583,"40,000.00",
 FCO,FCO,01-Nov-11,Insurance Of Personal Effects,DG CHANGE & DELIVERY,MARSH UK LTD,1029583,"-40,000.00",
 FCO,FCO,01-Nov-11,Insurance Of Personal Effects,DG CHANGE & DELIVERY,MARSH UK LTD,1029583,"40,000.00",
-FCO,FCO,14-Nov-11,Construction Project more than Å›Âœ10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1030478,"61,995.27",
-FCO,FCO,29-Nov-11,Construction Project more than Å›Âœ10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1031712,"77,083.30",
+FCO,FCO,14-Nov-11,Construction Project more than ¶œ10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1030478,"61,995.27",
+FCO,FCO,29-Nov-11,Construction Project more than ¶œ10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1031712,"77,083.30",
 FCO,FCO,29-Nov-11,Information Systems Maintenance,DG CENTRAL GROUP,STERIA LTD,1031763,"40,816.70",
 FCO,FCO,29-Nov-11,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,STERIA LTD,1031763,"8,163.34",
 FCO,FCO,22-Nov-11,Programme Spend (Oracle Projects Control Account),DG POLITICAL,THE BRITISH- RUSSIAN CENTRE,1031328,"120,000.00",

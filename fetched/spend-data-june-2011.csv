@@ -1,8 +1,8 @@
 Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling,Line Description
-ECGD,ECGD,01-Jun-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,61309,"≈Å91,959.00",Business Rates for ECGD's premises
-ECGD,ECGD,06-Jun-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,61347,"≈Å612,500.00",Quarterly rent for ECGD's premises - 24/6-28/9/11
-ECGD,ECGD,06-Jun-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,61347,"≈Å267,607.50",Quarterly service charge 24/6/-28/9/11
-ECGD,ECGD,13-Jun-11,BSIC Projects,BSIC Projects,Logica UK Limited,61408,"≈Å5,695.09",Charge to upgrade ECGD's business system (ACBS)
-ECGD,ECGD,13-Jun-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,61408,"≈Å122,237.09",Operation and Maintenance of ECGD's IT Infrastructure
-ECGD,ECGD,13-Jun-11,IT Non Project Expenditure,(DAB) FG ID: Admin Costs,Logica UK Limited,61408,"≈Å1,500.00",Charge for moves above agreed monthly allowance
+ECGD,ECGD,01-Jun-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,61309,"£91,959.00",Business Rates for ECGD's premises
+ECGD,ECGD,06-Jun-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,61347,"£612,500.00",Quarterly rent for ECGD's premises - 24/6-28/9/11
+ECGD,ECGD,06-Jun-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,61347,"£267,607.50",Quarterly service charge 24/6/-28/9/11
+ECGD,ECGD,13-Jun-11,BSIC Projects,BSIC Projects,Logica UK Limited,61408,"£5,695.09",Charge to upgrade ECGD's business system (ACBS)
+ECGD,ECGD,13-Jun-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,61408,"£122,237.09",Operation and Maintenance of ECGD's IT Infrastructure
+ECGD,ECGD,13-Jun-11,IT Non Project Expenditure,(DAB) FG ID: Admin Costs,Logica UK Limited,61408,"£1,500.00",Charge for moves above agreed monthly allowance
 ,,,,,,,,

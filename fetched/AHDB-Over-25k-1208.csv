@@ -1,13 +1,13 @@
 Department,Entity,Date,Expense Type,Expense Area,Supplier ,Transaction Number, Amount ,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type,Vat Registration Number
-DEFRA,AHDB,17/08/12,Invoice,,SAC Commercial Ltd,20446449," ≈Å76,250.00 ",Genetic Evaluations Operational Services,EH9 3JG,SAC Commercial Ltd,,2046175,R&D,GB435988217
-DEFRA,AHDB,17/08/12,invoice,,Ladies in Pigs,4249," ≈Å30,000.00 ",2nd instalment of annual Ladies in Pigs (LIPS) sponsorship to support LIPS field activity,HU15 2LU,Ladies in Pigs,,,Sponsorship,
-DEFRA,AHDB,31/08/12,Invoice,,i2i Marketing Ltd,403322," ≈Å60,902.55 ","50% of total fee for design, implementation and bookings for potato sampling activity",TW12 2GH,i2i Marketing Ltd,,,Marketing,791452415
-DEFRA,AHDB,24/08/12,Invoice,,Unum,1926335," ≈Å27,130.00 ",Registered Group Life Policy,BS99 1PJ,Unum,,,Staff benefits,
-DEFRA,AHDB,24/08/12,Invoice,,Marsh Ltd,5995065," ≈Å52,904.33 ",Commercial Combined Insurance,ME19 4ER,Marsh Ltd,10837070,,Professional Services - Insurance,GB244251779
-DEFRA,AHDB,10/08/12,Invoice,,University of Nottingham,6978778," ≈Å40,631.00 ",Research partnership on Dairy Cattle Health - July instalment,NG7 2RD,University of Nottingham,,RC35AC,R&D,
-DEFRA,AHDB,31/08/12,Invoice,,University of Nottingham,6978959," ≈Å40,631.00 ",Research partnership on Dairy Cattle Health - August instalment,NG7 2RD,University of Nottingham,,RC35AC,R&D,
-DEFRA,AHDB,10/08/12,Invoice,,Beattie McGuiness Bungay,10405728," ≈Å70,000.00 ",Advertising services for May and June 2012,WC2H 9AU,Beattie McGuiness Bungay,EBLEX F101,,Marketing,888546848
-DEFRA,AHDB,17/08/12,Invoice,,TLR Limited,BPEX/075," ≈Å25,550.46 ","Hosting, licencing and support for BPEX e-AML2 Pig Movement Services from July 1st 2012 to September 30th 2012",AL1 3AF,TLR Limited,,,ICT Services,600 5119 96
-DEFRA,AHDB,10/08/12,Invoice,,ADAS UK Ltd,RIRP062163," ≈Å41,250.00 ",Sustainable crop and environment protection targeted research for edibles,WV9 5AP,ADAS UK Ltd,CP77 30687,XBM6573-1 (Hortlink-Sceptre0,R&D,685 4268 95
-DEFRA,AHDB,17/08/12,Invoice,,NIAB,NI1931," ≈Å97,183.12 ",Crop Trials - various,CB3 0LE,NIAB,,,R&D,100 1322 07
-DEFRA,AHDB,03/08/12,Invoice,,Phoenix Software Limited,OP/I670011," ≈Å56,781.82 ",Software licences,YO42 1NS,Phoenix Software Limited,,,ICT Services - Software,GB 755 3490 15
+DEFRA,AHDB,17/08/12,Invoice,,SAC Commercial Ltd,20446449," £76,250.00 ",Genetic Evaluations Operational Services,EH9 3JG,SAC Commercial Ltd,,2046175,R&D,GB435988217
+DEFRA,AHDB,17/08/12,invoice,,Ladies in Pigs,4249," £30,000.00 ",2nd instalment of annual Ladies in Pigs (LIPS) sponsorship to support LIPS field activity,HU15 2LU,Ladies in Pigs,,,Sponsorship,
+DEFRA,AHDB,31/08/12,Invoice,,i2i Marketing Ltd,403322," £60,902.55 ","50% of total fee for design, implementation and bookings for potato sampling activity",TW12 2GH,i2i Marketing Ltd,,,Marketing,791452415
+DEFRA,AHDB,24/08/12,Invoice,,Unum,1926335," £27,130.00 ",Registered Group Life Policy,BS99 1PJ,Unum,,,Staff benefits,
+DEFRA,AHDB,24/08/12,Invoice,,Marsh Ltd,5995065," £52,904.33 ",Commercial Combined Insurance,ME19 4ER,Marsh Ltd,10837070,,Professional Services - Insurance,GB244251779
+DEFRA,AHDB,10/08/12,Invoice,,University of Nottingham,6978778," £40,631.00 ",Research partnership on Dairy Cattle Health - July instalment,NG7 2RD,University of Nottingham,,RC35AC,R&D,
+DEFRA,AHDB,31/08/12,Invoice,,University of Nottingham,6978959," £40,631.00 ",Research partnership on Dairy Cattle Health - August instalment,NG7 2RD,University of Nottingham,,RC35AC,R&D,
+DEFRA,AHDB,10/08/12,Invoice,,Beattie McGuiness Bungay,10405728," £70,000.00 ",Advertising services for May and June 2012,WC2H 9AU,Beattie McGuiness Bungay,EBLEX F101,,Marketing,888546848
+DEFRA,AHDB,17/08/12,Invoice,,TLR Limited,BPEX/075," £25,550.46 ","Hosting, licencing and support for BPEX e-AML2 Pig Movement Services from July 1st 2012 to September 30th 2012",AL1 3AF,TLR Limited,,,ICT Services,600 5119 96
+DEFRA,AHDB,10/08/12,Invoice,,ADAS UK Ltd,RIRP062163," £41,250.00 ",Sustainable crop and environment protection targeted research for edibles,WV9 5AP,ADAS UK Ltd,CP77 30687,XBM6573-1 (Hortlink-Sceptre0,R&D,685 4268 95
+DEFRA,AHDB,17/08/12,Invoice,,NIAB,NI1931," £97,183.12 ",Crop Trials - various,CB3 0LE,NIAB,,,R&D,100 1322 07
+DEFRA,AHDB,03/08/12,Invoice,,Phoenix Software Limited,OP/I670011," £56,781.82 ",Software licences,YO42 1NS,Phoenix Software Limited,,,ICT Services - Software,GB 755 3490 15

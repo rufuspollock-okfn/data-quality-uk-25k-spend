@@ -1,51 +1,51 @@
 Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number, Amount ,Description,Supplier postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
-DEFRA,Fera,01/03/2012,Purchase Of Publications,External Affairs Directorate,John Wiley & Sons Ltd,67165," ≈Å39,170.72 ",Invoice Agreement Letter ,PO22 9SA,,N/A,!,Administration
-DEFRA,Fera,02/03/2012,Direct Subcontractors,Policy & Regulation,Health and Safety Laboratory,67199," ≈Å120,600.00 ","Purple Helix, Milestone 2",SK17 9JN,,N/A,W8GV1000,Administration
-DEFRA,Fera,02/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,57247," ≈Å161,193.55 ",D E F R A,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,02/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,62888," ≈Å41,248.52 ",D E F R A,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,06/03/2012,Direct Subcontractors,Policy & Regulation,Agri-Food and Bioscience Institute,67465," ≈Å69,210.56 ",Regular Pbr/Nl Work 3rd Quarter,BT9 5PX,,N/A,W8CA1090,Administration
-DEFRA,Fera,07/03/2012,Direct Subcontractors,Operations Directorate,University of Cambridge,67529," ≈Å29,130.75 ",Modelling Work Completed Quarter 4 20,CB2 1SB,,N/A,T5JA7000,Administration
-DEFRA,Fera,12/03/2012,Direct Subcontractors,Chief Scientist Directorate,Central Office of Information,67849," ≈Å40,006.01 ",Bpw/Ccd Digital Campaign ,SE1 7DU,,N/A,N1KN6080,Administration
-DEFRA,Fera,12/03/2012,Scientific Eq: Capital At Cost,Operations Directorate,*Agilent Technologies UK Ltd,67853," ≈Å75,007.34 ",Agilent 7700x Icp-Ms Mainframe,RG41 5TP,,N/A,!,Administration
-DEFRA,Fera,13/03/2012,Prepayment Postal Visa Card,Finance And Corporate Services,National Westminster Bank plc,67891," ≈Å148,459.48 ",National Westminster Bank Plc,SS1 9AJ,,N/A,!,Administration
-DEFRA,Fera,14/03/2012,Direct Subcontractors,Policy & Regulation,Cardiff University,67795," ≈Å86,800.00 ",University Of Cardiff - Seroco,CF10 3XR,,N/A,W8KF1000,Administration
-DEFRA,Fera,14/03/2012,B/In Software:Capital At Cost,External Affairs Directorate,Cetus Solutions,67271," ≈Å33,668.26 ",Vmware Site Recovery Manager ,M50 3SS,,N/A,BS000158,Administration
-DEFRA,Fera,14/03/2012,Computers: Capital At Cost,External Affairs Directorate,Cetus Solutions,67273," ≈Å33,321.74 ",Netapp For Vmware,M50 3SS,,N/A,CE000772,Administration
-DEFRA,Fera,14/03/2012,Legal Fees,Finance And Corporate Services,'D E F R A,67828," ≈Å58,333.33 ",Legal Fees For September 2011 ,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,15/03/2012,Defra Central Overheads,Finance And Corporate Services,'D E F R A,67827," ≈Å31,475.00 ",D E F R A,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,15/03/2012,Direct Subcontractors,Operations Directorate,University Of Nottingham,67791," ≈Å25,000.00 ",Year 3 Student Agreement,NG7 2RD,,N/A,S4OW4000,Administration
-DEFRA,Fera,15/03/2012,Direct Subcontractors,Policy & Regulation,NIAB,67158," ≈Å56,604.82 ",Inv 29138 Routine Service  ,CB3 0LE,,N/A,W8CA1000,Administration
-DEFRA,Fera,16/03/2012,Other Direct,Operations Directorate,'Veterinary Laboratories Agency,68136," ≈Å39,044.92 ",Diagnosis Of Samples ,KT15 3NB,,N/A,W8CK1030,Administration
-DEFRA,Fera,16/03/2012,Direct Subcontractors,Policy & Regulation,*DSTL,68067," ≈Å46,800.00 ",Final Report For Development ,PO14 9HL,,N/A,W8GR1000,Administration
-DEFRA,Fera,16/03/2012,Direct Subcontractors,Operations Directorate,Environment Systems Ltd,68253," ≈Å39,000.00 ",W8gg Carry Out Subcontract Work,SY23 3AH,,N/A,W8GG1090,Administration
-DEFRA,Fera,16/03/2012,Ibm (Ciod) Recharge,External Affairs Directorate,'D E F R A,62683," ≈Å443,637.40 ",D E F R A,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,19/03/2012,Notional Estates Charges (Swm),Finance And Corporate Services,DTZ,68414," ≈Å421,141.61 ",Dtz,B4 6AJ,,N/A,!,Administration
-DEFRA,Fera,19/03/2012,Other Staff Welfare,Finance And Corporate Services,'D E F R A,57181," ≈Å28,375.50 ",Next Generation Hr Expert Services Co,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,19/03/2012,Direct Subcontractors,Operations Directorate,Informa UK Limited,68443," ≈Å60,000.00 ",Po P609984 -Second Payment ,CO3 3LP,,N/A,W8KN1000,Administration
-DEFRA,Fera,20/03/2012,Ibm (Ciod) Recharge,External Affairs Directorate,'D E F R A,62682," ≈Å653,015.13 ",D E F R A,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,21/03/2012,Direct Subcontractors,Operations Directorate,*University Of Leeds,68700," ≈Å35,955.00 ",2011-2012,LS2 9JT,,N/A,T6QZ3000,Administration
-DEFRA,Fera,23/03/2012,Business Consultant Fees,Operations Directorate,2020 Delivery Ltd,68897," ≈Å72,000.00 ",Unipart Expert Practices.,TW9 1PL,,N/A,!,Administration
-DEFRA,Fera,23/03/2012,Estates Charges (Swm),Finance And Corporate Services,'D E F R A,68073," ≈Å31,988.04 ",D E F R A,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,26/03/2012,Computers: Capital At Cost,External Affairs Directorate,Solid State Solutions Ltd,69058," ≈Å39,525.60 ",Nexsan E60 18tb Sas File,RG24 8GT,,N/A,CE000772,Administration
-DEFRA,Fera,26/03/2012,Computers: Capital At Cost,External Affairs Directorate,Solid State Solutions Ltd,69058," ≈Å39,525.60 ",Nexsan E60 18tb Sas Fin 1,RG24 8GT,,N/A,CE000772,Administration
-DEFRA,Fera,26/03/2012,Computers: Capital At Cost,External Affairs Directorate,Solid State Solutions Ltd,69058," ≈Å39,525.60 ",Nexsan E60 18tb Sas Mail,RG24 8GT,,N/A,CE000772,Administration
-DEFRA,Fera,26/03/2012,Computers: Capital At Cost,External Affairs Directorate,Solid State Solutions Ltd,69058," ≈Å39,525.60 ",Nexsan E60 18tb Sas Mirror 1,RG24 8GT,,N/A,CE000772,Administration
-DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," ≈Å144,181.34 ",D E F R A,YO1 7PX,,N/A,BD000134,Administration
-DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," ≈Å57,491.73 ",D E F R A,YO1 7PX,,N/A,BD000136,Administration
-DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," ≈Å28,300.02 ",D E F R A,YO1 7PX,,N/A,BD000140,Administration
-DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," ≈Å109,442.56 ",D E F R A,YO1 7PX,,N/A,BD000150,Administration
-DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," ≈Å199,060.57 ",D E F R A,YO1 7PX,,N/A,BD000151,Administration
-DEFRA,Fera,27/03/2012,Estates Charges (Swm),Finance And Corporate Services,DTZ,69168," ≈Å572,469.52 ",Dtz,B4 6AJ,,N/A,!,Administration
-DEFRA,Fera,27/03/2012,Estates Charges (Swm),Operations Directorate,DTZ,69168," ≈Å34,800.52 ",Dtz,B4 6AJ,,N/A,!,Administration
-DEFRA,Fera,27/03/2012,Estates Charges (Policy),Policy & Regulation,DTZ,69168," ≈Å29,502.50 ",Dtz,B4 6AJ,,N/A,!,Administration
-DEFRA,Fera,27/03/2012,Estates Charges (Phsi),Operations Directorate,DTZ,69168," ≈Å43,244.51 ",Dtz,B4 6AJ,,N/A,!,Administration
-DEFRA,Fera,27/03/2012,Scientific Eq: Capital At Cost,Operations Directorate,*Agilent Technologies UK Ltd,68561," ≈Å427,810.12 ",2 X Lc-Ms/Ms As Per Quotation,RG41 5TP,,N/A,!,Administration
-DEFRA,Fera,28/03/2012,Computers: Capital At Cost,External Affairs Directorate,Dell Corporation Limited,69286," ≈Å49,563.36 ",Omics Servers,RG12 1LF,,N/A,CE000767,Administration
-DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,66040," ≈Å263,044.32 ",D E F R A,YO1 7PX,,N/A,BD000151,Administration
-DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68892," ≈Å30,751.15 ",Bcp2317 To Recode,YO1 7PX,,N/A,BD000179,Administration
-DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68892," ≈Å84,250.30 ",D E F R A,YO1 7PX,,N/A,BD000179,Administration
-DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68893," ≈Å204,614.94 ",D E F R A,YO1 7PX,,N/A,BD000165,Administration
-DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68893," ≈Å41,000.03 ",D E F R A,YO1 7PX,,N/A,BD000170,Administration
-DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68893," ≈Å67,652.53 ",2317 To Recode Bd000180,YO1 7PX,,N/A,BD000169,Administration
-DEFRA,Fera,29/03/2012,Ibm (Ciod) Recharge,External Affairs Directorate,'D E F R A,69344," ≈Å615,970.23 ",D E F R A,YO1 7PX,,N/A,!,Administration
-DEFRA,Fera,29/03/2012,Estates Charges (Swm),Finance And Corporate Services,'D E F R A,66765," ≈Å73,339.29 ",D E F R A,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,01/03/2012,Purchase Of Publications,External Affairs Directorate,John Wiley & Sons Ltd,67165," £39,170.72 ",Invoice Agreement Letter ,PO22 9SA,,N/A,!,Administration
+DEFRA,Fera,02/03/2012,Direct Subcontractors,Policy & Regulation,Health and Safety Laboratory,67199," £120,600.00 ","Purple Helix, Milestone 2",SK17 9JN,,N/A,W8GV1000,Administration
+DEFRA,Fera,02/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,57247," £161,193.55 ",D E F R A,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,02/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,62888," £41,248.52 ",D E F R A,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,06/03/2012,Direct Subcontractors,Policy & Regulation,Agri-Food and Bioscience Institute,67465," £69,210.56 ",Regular Pbr/Nl Work 3rd Quarter,BT9 5PX,,N/A,W8CA1090,Administration
+DEFRA,Fera,07/03/2012,Direct Subcontractors,Operations Directorate,University of Cambridge,67529," £29,130.75 ",Modelling Work Completed Quarter 4 20,CB2 1SB,,N/A,T5JA7000,Administration
+DEFRA,Fera,12/03/2012,Direct Subcontractors,Chief Scientist Directorate,Central Office of Information,67849," £40,006.01 ",Bpw/Ccd Digital Campaign ,SE1 7DU,,N/A,N1KN6080,Administration
+DEFRA,Fera,12/03/2012,Scientific Eq: Capital At Cost,Operations Directorate,*Agilent Technologies UK Ltd,67853," £75,007.34 ",Agilent 7700x Icp-Ms Mainframe,RG41 5TP,,N/A,!,Administration
+DEFRA,Fera,13/03/2012,Prepayment Postal Visa Card,Finance And Corporate Services,National Westminster Bank plc,67891," £148,459.48 ",National Westminster Bank Plc,SS1 9AJ,,N/A,!,Administration
+DEFRA,Fera,14/03/2012,Direct Subcontractors,Policy & Regulation,Cardiff University,67795," £86,800.00 ",University Of Cardiff - Seroco,CF10 3XR,,N/A,W8KF1000,Administration
+DEFRA,Fera,14/03/2012,B/In Software:Capital At Cost,External Affairs Directorate,Cetus Solutions,67271," £33,668.26 ",Vmware Site Recovery Manager ,M50 3SS,,N/A,BS000158,Administration
+DEFRA,Fera,14/03/2012,Computers: Capital At Cost,External Affairs Directorate,Cetus Solutions,67273," £33,321.74 ",Netapp For Vmware,M50 3SS,,N/A,CE000772,Administration
+DEFRA,Fera,14/03/2012,Legal Fees,Finance And Corporate Services,'D E F R A,67828," £58,333.33 ",Legal Fees For September 2011 ,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,15/03/2012,Defra Central Overheads,Finance And Corporate Services,'D E F R A,67827," £31,475.00 ",D E F R A,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,15/03/2012,Direct Subcontractors,Operations Directorate,University Of Nottingham,67791," £25,000.00 ",Year 3 Student Agreement,NG7 2RD,,N/A,S4OW4000,Administration
+DEFRA,Fera,15/03/2012,Direct Subcontractors,Policy & Regulation,NIAB,67158," £56,604.82 ",Inv 29138 Routine Service  ,CB3 0LE,,N/A,W8CA1000,Administration
+DEFRA,Fera,16/03/2012,Other Direct,Operations Directorate,'Veterinary Laboratories Agency,68136," £39,044.92 ",Diagnosis Of Samples ,KT15 3NB,,N/A,W8CK1030,Administration
+DEFRA,Fera,16/03/2012,Direct Subcontractors,Policy & Regulation,*DSTL,68067," £46,800.00 ",Final Report For Development ,PO14 9HL,,N/A,W8GR1000,Administration
+DEFRA,Fera,16/03/2012,Direct Subcontractors,Operations Directorate,Environment Systems Ltd,68253," £39,000.00 ",W8gg Carry Out Subcontract Work,SY23 3AH,,N/A,W8GG1090,Administration
+DEFRA,Fera,16/03/2012,Ibm (Ciod) Recharge,External Affairs Directorate,'D E F R A,62683," £443,637.40 ",D E F R A,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,19/03/2012,Notional Estates Charges (Swm),Finance And Corporate Services,DTZ,68414," £421,141.61 ",Dtz,B4 6AJ,,N/A,!,Administration
+DEFRA,Fera,19/03/2012,Other Staff Welfare,Finance And Corporate Services,'D E F R A,57181," £28,375.50 ",Next Generation Hr Expert Services Co,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,19/03/2012,Direct Subcontractors,Operations Directorate,Informa UK Limited,68443," £60,000.00 ",Po P609984 -Second Payment ,CO3 3LP,,N/A,W8KN1000,Administration
+DEFRA,Fera,20/03/2012,Ibm (Ciod) Recharge,External Affairs Directorate,'D E F R A,62682," £653,015.13 ",D E F R A,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,21/03/2012,Direct Subcontractors,Operations Directorate,*University Of Leeds,68700," £35,955.00 ",2011-2012,LS2 9JT,,N/A,T6QZ3000,Administration
+DEFRA,Fera,23/03/2012,Business Consultant Fees,Operations Directorate,2020 Delivery Ltd,68897," £72,000.00 ",Unipart Expert Practices.,TW9 1PL,,N/A,!,Administration
+DEFRA,Fera,23/03/2012,Estates Charges (Swm),Finance And Corporate Services,'D E F R A,68073," £31,988.04 ",D E F R A,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,26/03/2012,Computers: Capital At Cost,External Affairs Directorate,Solid State Solutions Ltd,69058," £39,525.60 ",Nexsan E60 18tb Sas File,RG24 8GT,,N/A,CE000772,Administration
+DEFRA,Fera,26/03/2012,Computers: Capital At Cost,External Affairs Directorate,Solid State Solutions Ltd,69058," £39,525.60 ",Nexsan E60 18tb Sas Fin 1,RG24 8GT,,N/A,CE000772,Administration
+DEFRA,Fera,26/03/2012,Computers: Capital At Cost,External Affairs Directorate,Solid State Solutions Ltd,69058," £39,525.60 ",Nexsan E60 18tb Sas Mail,RG24 8GT,,N/A,CE000772,Administration
+DEFRA,Fera,26/03/2012,Computers: Capital At Cost,External Affairs Directorate,Solid State Solutions Ltd,69058," £39,525.60 ",Nexsan E60 18tb Sas Mirror 1,RG24 8GT,,N/A,CE000772,Administration
+DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," £144,181.34 ",D E F R A,YO1 7PX,,N/A,BD000134,Administration
+DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," £57,491.73 ",D E F R A,YO1 7PX,,N/A,BD000136,Administration
+DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," £28,300.02 ",D E F R A,YO1 7PX,,N/A,BD000140,Administration
+DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," £109,442.56 ",D E F R A,YO1 7PX,,N/A,BD000150,Administration
+DEFRA,Fera,27/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,59093," £199,060.57 ",D E F R A,YO1 7PX,,N/A,BD000151,Administration
+DEFRA,Fera,27/03/2012,Estates Charges (Swm),Finance And Corporate Services,DTZ,69168," £572,469.52 ",Dtz,B4 6AJ,,N/A,!,Administration
+DEFRA,Fera,27/03/2012,Estates Charges (Swm),Operations Directorate,DTZ,69168," £34,800.52 ",Dtz,B4 6AJ,,N/A,!,Administration
+DEFRA,Fera,27/03/2012,Estates Charges (Policy),Policy & Regulation,DTZ,69168," £29,502.50 ",Dtz,B4 6AJ,,N/A,!,Administration
+DEFRA,Fera,27/03/2012,Estates Charges (Phsi),Operations Directorate,DTZ,69168," £43,244.51 ",Dtz,B4 6AJ,,N/A,!,Administration
+DEFRA,Fera,27/03/2012,Scientific Eq: Capital At Cost,Operations Directorate,*Agilent Technologies UK Ltd,68561," £427,810.12 ",2 X Lc-Ms/Ms As Per Quotation,RG41 5TP,,N/A,!,Administration
+DEFRA,Fera,28/03/2012,Computers: Capital At Cost,External Affairs Directorate,Dell Corporation Limited,69286," £49,563.36 ",Omics Servers,RG12 1LF,,N/A,CE000767,Administration
+DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,66040," £263,044.32 ",D E F R A,YO1 7PX,,N/A,BD000151,Administration
+DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68892," £30,751.15 ",Bcp2317 To Recode,YO1 7PX,,N/A,BD000179,Administration
+DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68892," £84,250.30 ",D E F R A,YO1 7PX,,N/A,BD000179,Administration
+DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68893," £204,614.94 ",D E F R A,YO1 7PX,,N/A,BD000165,Administration
+DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68893," £41,000.03 ",D E F R A,YO1 7PX,,N/A,BD000170,Administration
+DEFRA,Fera,28/03/2012,Buildings: Capital At Cost,Finance And Corporate Services,'D E F R A,68893," £67,652.53 ",2317 To Recode Bd000180,YO1 7PX,,N/A,BD000169,Administration
+DEFRA,Fera,29/03/2012,Ibm (Ciod) Recharge,External Affairs Directorate,'D E F R A,69344," £615,970.23 ",D E F R A,YO1 7PX,,N/A,!,Administration
+DEFRA,Fera,29/03/2012,Estates Charges (Swm),Finance And Corporate Services,'D E F R A,66765," £73,339.29 ",D E F R A,YO1 7PX,,N/A,!,Administration

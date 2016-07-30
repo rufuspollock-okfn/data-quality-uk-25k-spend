@@ -1,7 +1,7 @@
 Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling,Line Description
-ECGD,ECGD,03-Oct-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,62020,"≈Å91,959.00",Business Rates for ECGD's premises
-ECGD,ECGD,17-Oct-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Unit4 Business Software Ltd,62107,"≈Å45,053.19",Maintenance of ECGD's Financial Infrastructure
-ECGD,ECGD,18-Oct-11,BSIC Projects,BSIC Projects,Logica UK Limited,62112,"≈Å22,986.00",Support for the implementation of a new data warehouse
-ECGD,ECGD,18-Oct-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,62113,"≈Å91,160.00",Operations and Maintenance of ECGD's IT Infrastructure
-ECGD,ECGD,31-Oct-11,Annual Security Charges,(DAB) Others HRD PP: Admin Costs,Logica UK Limited,62181,"≈Å40,154.00",Post Transition Disaster Recovery testing
-ECGD,ECGD,31-Oct-11,BSIC Projects,BSIC Projects,Logica UK Limited,62181,"≈Å9,728.54",Support for the implementation of a new data warehouse
+ECGD,ECGD,03-Oct-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,62020,"£91,959.00",Business Rates for ECGD's premises
+ECGD,ECGD,17-Oct-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Unit4 Business Software Ltd,62107,"£45,053.19",Maintenance of ECGD's Financial Infrastructure
+ECGD,ECGD,18-Oct-11,BSIC Projects,BSIC Projects,Logica UK Limited,62112,"£22,986.00",Support for the implementation of a new data warehouse
+ECGD,ECGD,18-Oct-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,62113,"£91,160.00",Operations and Maintenance of ECGD's IT Infrastructure
+ECGD,ECGD,31-Oct-11,Annual Security Charges,(DAB) Others HRD PP: Admin Costs,Logica UK Limited,62181,"£40,154.00",Post Transition Disaster Recovery testing
+ECGD,ECGD,31-Oct-11,BSIC Projects,BSIC Projects,Logica UK Limited,62181,"£9,728.54",Support for the implementation of a new data warehouse

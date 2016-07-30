@@ -1,12 +1,12 @@
 Department,Entity,Date,Transaction Number,GBP Amount,Supplier ,Account Description
 FCO,FCO,01-May-13,4291792,52.06,FIELD FISHER WATERHOUSE,Specialist Contractors
 FCO,FCO,01-May-13,4291792,"47,204.91",FIELD FISHER WATERHOUSE,Specialist Contractors
-FCO,FCO,01-May-13,4291903,"7,242.00",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,01-May-13,4291903,"30,884.00",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,01-May-13,4291903,"1,448.40",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,01-May-13,4291903,"6,176.80",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,01-May-13,4291910,"109,671.01",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
-FCO,FCO,01-May-13,4291910,"21,934.20",HEWLETT PACKARD LTD,Information Systems Under ≈Å3000 (non-capitalised)
+FCO,FCO,01-May-13,4291903,"7,242.00",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,01-May-13,4291903,"30,884.00",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,01-May-13,4291903,"1,448.40",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,01-May-13,4291903,"6,176.80",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,01-May-13,4291910,"109,671.01",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
+FCO,FCO,01-May-13,4291910,"21,934.20",HEWLETT PACKARD LTD,Information Systems Under £3000 (non-capitalised)
 FCO,FCO,01-May-13,4290236,"89,709.23",HOME OFFICE,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,01-May-13,4280672,"575,356.00",STERIA LTD,IT/IS Consultancy
 FCO,FCO,01-May-13,4291834,"30,315.60",SUPPLY 999 LTD TODD RESEARCH LTD,Technical Supplies (Maint)
@@ -59,8 +59,8 @@ FCO,FCO,03-May-13,4293503,"74,241.00",CROWN AGENTS,Programme Spend (Oracle Proje
 FCO,FCO,03-May-13,4293505,"35,478.00",CROWN AGENTS,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,03-May-13,4293353,"26,500.00",ECA INTERNATIONAL,Local Allowances
 FCO,FCO,03-May-13,4291714,"73,500.00",SEARCH FOR COMMON GROUND,Programme Spend (Oracle Projects Control Account)
-FCO,FCO,03-May-13,4292774,"23,470.00",HERMAN MILLER LTD,Construction Project more than ≈Å10k
-FCO,FCO,03-May-13,4292774,"4,694.00",HERMAN MILLER LTD,Construction Project more than ≈Å10k
+FCO,FCO,03-May-13,4292774,"23,470.00",HERMAN MILLER LTD,Construction Project more than £10k
+FCO,FCO,03-May-13,4292774,"4,694.00",HERMAN MILLER LTD,Construction Project more than £10k
 FCO,FCO,03-May-13,4292028,"33,456.00",CONFEDERATION OF INDIAN INDUSTRY,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,03-May-13,4282074,"1,800,000.00",ISLAMIC REPUBLIC OF AFGHANISTAN MINISTRY OF FINANCE,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,03-May-13,4284133,"27,442.20",INSTITUTE FOR SUSTAINABLE COMMUNITIES,Programme Spend (Oracle Projects Control Account)
@@ -70,8 +70,8 @@ FCO,FCO,03-May-13,4292584,"32,270.56",CYBERLEASE LLC,Legal Consultancy
 FCO,FCO,03-May-13,4293657,"24,165.00",2 HARE COURT,Legal Consultancy
 FCO,FCO,05-May-13,4292162,"67,961.79",CRIMINAL JUSTICE TASK FORCE - CJTF,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,06-May-13,4294549,134.23,INTERSERVE FM LTD,FM Interserve Building Fabric Maintenance
-FCO,FCO,06-May-13,4294549,"257,771.07",INTERSERVE FM LTD,Construction Project more than ≈Å10k
-FCO,FCO,06-May-13,4294549,705.25,INTERSERVE FM LTD,Construction Project more than ≈Å10k
+FCO,FCO,06-May-13,4294549,"257,771.07",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,06-May-13,4294549,705.25,INTERSERVE FM LTD,Construction Project more than £10k
 FCO,FCO,06-May-13,4294549,149.94,INTERSERVE FM LTD,GH/VIP Grant in Aid
 FCO,FCO,06-May-13,4294549,29.99,INTERSERVE FM LTD,GH/VIP Grant in Aid
 FCO,FCO,06-May-13,4294549,-134.23,INTERSERVE FM LTD,FM Interserve Building Fabric Maintenance
@@ -1135,8 +1135,8 @@ FCO,FCO,14-May-13,4302854,"55,137.76",LONDON ENERGY,Electricity Non-Residential
 FCO,FCO,14-May-13,4302854,"2,471.01",LONDON ENERGY,Electricity Non-Residential
 FCO,FCO,14-May-13,4303384,"169,683.39",LONDON ENERGY,Electricity Non-Residential
 FCO,FCO,14-May-13,4303384,"33,936.68",LONDON ENERGY,Electricity Non-Residential
-FCO,FCO,14-May-13,4302927,"24,744.21",FORME UK,Construction Project more than ≈Å10k
-FCO,FCO,14-May-13,4302927,"4,948.84",FORME UK,Construction Project more than ≈Å10k
+FCO,FCO,14-May-13,4302927,"24,744.21",FORME UK,Construction Project more than £10k
+FCO,FCO,14-May-13,4302927,"4,948.84",FORME UK,Construction Project more than £10k
 FCO,FCO,14-May-13,4300730,"284,754.32",GARDA WORLD LTD,UK Guarding Contracts Overseas
 FCO,FCO,14-May-13,4300730,"-284,754.32",GARDA WORLD LTD,UK Guarding Contracts Overseas
 FCO,FCO,14-May-13,4300730,"284,754.32",GARDA WORLD LTD,UK Guarding Contracts Overseas
@@ -1180,14 +1180,14 @@ FCO,FCO,15-May-13,4300146,"11,237.90",THE TREASURY SOLICITOR,Legal Consultancy
 FCO,FCO,15-May-13,4300146,46.8,THE TREASURY SOLICITOR,Legal Consultancy
 FCO,FCO,15-May-13,4300146,"23,643.60",THE TREASURY SOLICITOR,Legal Consultancy
 FCO,FCO,15-May-13,4250745,"32,611.45",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
-FCO,FCO,15-May-13,4258417,"20,045.74",FCO SERVICES,Construction Project more than ≈Å10k
-FCO,FCO,15-May-13,4258417,"51,936.67",FCO SERVICES,Construction Project more than ≈Å10k
-FCO,FCO,15-May-13,4258417,171.04,FCO SERVICES,Construction Project more than ≈Å10k
-FCO,FCO,15-May-13,4258417,"-20,045.74",FCO SERVICES,Construction Project more than ≈Å10k
-FCO,FCO,15-May-13,4258417,-171.04,FCO SERVICES,Construction Project more than ≈Å10k
-FCO,FCO,15-May-13,4258417,"20,045.74",FCO SERVICES,Construction Project more than ≈Å10k
-FCO,FCO,15-May-13,4258417,"-51,936.67",FCO SERVICES,Construction Project more than ≈Å10k
-FCO,FCO,15-May-13,4258417,"52,107.71",FCO SERVICES,Construction Project more than ≈Å10k
+FCO,FCO,15-May-13,4258417,"20,045.74",FCO SERVICES,Construction Project more than £10k
+FCO,FCO,15-May-13,4258417,"51,936.67",FCO SERVICES,Construction Project more than £10k
+FCO,FCO,15-May-13,4258417,171.04,FCO SERVICES,Construction Project more than £10k
+FCO,FCO,15-May-13,4258417,"-20,045.74",FCO SERVICES,Construction Project more than £10k
+FCO,FCO,15-May-13,4258417,-171.04,FCO SERVICES,Construction Project more than £10k
+FCO,FCO,15-May-13,4258417,"20,045.74",FCO SERVICES,Construction Project more than £10k
+FCO,FCO,15-May-13,4258417,"-51,936.67",FCO SERVICES,Construction Project more than £10k
+FCO,FCO,15-May-13,4258417,"52,107.71",FCO SERVICES,Construction Project more than £10k
 FCO,FCO,15-May-13,4275732,"223,465.00",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,15-May-13,4275743,"77,465.49",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,15-May-13,4299048,"30,385.08",FCO SERVICES,IT/IS Consultancy
@@ -1213,8 +1213,8 @@ FCO,FCO,16-May-13,4305807,"4,732.41",INTERSERVE FM LTD,Residential Property Serv
 FCO,FCO,16-May-13,4305807,"5,211.45",INTERSERVE FM LTD,Contract Fees
 FCO,FCO,16-May-13,4305807,203.03,INTERSERVE FM LTD,Contract Fees
 FCO,FCO,16-May-13,4305807,25.65,INTERSERVE FM LTD,Cleaning & Waste
-FCO,FCO,16-May-13,4305810,"26,602.53",INTERSERVE FM LTD,Construction Project more than ≈Å10k
-FCO,FCO,16-May-13,4305810,"5,320.50",INTERSERVE FM LTD,Construction Project more than ≈Å10k
+FCO,FCO,16-May-13,4305810,"26,602.53",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,16-May-13,4305810,"5,320.50",INTERSERVE FM LTD,Construction Project more than £10k
 FCO,FCO,16-May-13,4305855,"7,147.09",INTERSERVE FM LTD,Building Mechanical and Engineering Services
 FCO,FCO,16-May-13,4305855,"2,732.92",INTERSERVE FM LTD,Minor New Works <10K
 FCO,FCO,16-May-13,4305855,"1,053.14",INTERSERVE FM LTD,Grounds Maintenance
@@ -1228,7 +1228,7 @@ FCO,FCO,16-May-13,4305855,892.21,INTERSERVE FM LTD,Office Support Services
 FCO,FCO,16-May-13,4305855,236.43,INTERSERVE FM LTD,Estates Management Services
 FCO,FCO,16-May-13,4305855,"11,039.33",INTERSERVE FM LTD,Residential Property Services
 FCO,FCO,16-May-13,4305855,"10,227.78",INTERSERVE FM LTD,Contract Fees
-FCO,FCO,16-May-13,4305856,"84,198.92",INTERSERVE FM LTD,Construction Project more than ≈Å10k
+FCO,FCO,16-May-13,4305856,"84,198.92",INTERSERVE FM LTD,Construction Project more than £10k
 FCO,FCO,16-May-13,4305858,366.18,INTERSERVE FM LTD,Building Mechanical and Engineering Services
 FCO,FCO,16-May-13,4305858,"1,062.64",INTERSERVE FM LTD,Minor New Works <10K
 FCO,FCO,16-May-13,4305858,534.64,INTERSERVE FM LTD,Grounds Maintenance
@@ -1496,7 +1496,7 @@ FCO,FCO,20-May-13,4309061,"11,609.92",INTERSERVE FM LTD,Rematching / Reinstateme
 FCO,FCO,20-May-13,4309061,"54,475.81",INTERSERVE FM LTD,Contract Fees
 FCO,FCO,20-May-13,4309061,"43,636.83",INTERSERVE FM LTD,Interim Helpdesk
 FCO,FCO,20-May-13,4309067,"24,995.69",INTERSERVE FM LTD,FM Interserve BES Maintenance
-FCO,FCO,20-May-13,4309109,"43,710.57",INTERSERVE FM LTD,Construction Project more than ≈Å10k
+FCO,FCO,20-May-13,4309109,"43,710.57",INTERSERVE FM LTD,Construction Project more than £10k
 FCO,FCO,20-May-13,4309110,"36,121.98",INTERSERVE FM LTD,FM Interserve BES Maintenance
 FCO,FCO,20-May-13,4309119,"21,392.50",INTERSERVE FM LTD,Dilapidations Non-Residential
 FCO,FCO,20-May-13,4309119,"4,278.50",INTERSERVE FM LTD,Dilapidations Non-Residential
@@ -2089,7 +2089,7 @@ FCO,FCO,24-May-13,4316182,"57,641.36",GILBERT-ASH FITOUT LIMITED,Assets Under Co
 FCO,FCO,24-May-13,4316034,"323,665.33",INTERNATIONAL COMMISSION FOR MISSING PERSONS,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,24-May-13,4306787,"156,630.68",OROSTREAM INTERNATIONAL CONTRACTS LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,24-May-13,4315813,"32,001.76",AUSWAERTIGES AMT,Rental Payments - non residential
-FCO,FCO,24-May-13,4308274,"61,707.55",BK SHRESTHA AND BUILDERS PVT LTD,Construction Project more than ≈Å10k
+FCO,FCO,24-May-13,4308274,"61,707.55",BK SHRESTHA AND BUILDERS PVT LTD,Construction Project more than £10k
 FCO,FCO,24-May-13,4307677,"62,352.88",UNION FRANCO ARABE D'ASSURANCES ET DE REASSURANCES SAL (UFA),Cleaning & Waste
 FCO,FCO,24-May-13,4307677,381.46,UNION FRANCO ARABE D'ASSURANCES ET DE REASSURANCES SAL (UFA),Programme Spend (Oracle Projects Control Account)
 FCO,FCO,24-May-13,4307677,"-62,352.88",UNION FRANCO ARABE D'ASSURANCES ET DE REASSURANCES SAL (UFA),Cleaning & Waste
@@ -2159,7 +2159,7 @@ FCO,FCO,29-May-13,4316081,"1,779.64",BRICKELL BAY TOWER LTD,Rates Taxes Non-Resi
 FCO,FCO,29-May-13,4320258,"26,625.81",CULTURA INGLESA,Rental Payments - non residential
 FCO,FCO,29-May-13,4320113,"26,490.00",BRITISH MUSEUM,Inward visits to the UK and UK Conferences
 FCO,FCO,29-May-13,4320113,"5,298.00",BRITISH MUSEUM,Inward visits to the UK and UK Conferences
-FCO,FCO,29-May-13,4316038,"29,043.50",HITT CONTRACTING INC,Construction Project more than ≈Å10k
+FCO,FCO,29-May-13,4316038,"29,043.50",HITT CONTRACTING INC,Construction Project more than £10k
 FCO,FCO,29-May-13,4305570,"50,031.63",THE ASIA FOUNDATION,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,29-May-13,4319816,"31,688.40",3DI TECHNOLOGIES LLC,Information Systems Implementation
 FCO,FCO,29-May-13,4309696,"42,561.11",COFFEY INTERNATIONAL DEVELOPMENT,Programme Spend (Oracle Projects Control Account)

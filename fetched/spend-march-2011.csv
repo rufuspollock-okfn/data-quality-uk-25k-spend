@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (Âœ) ,VAT Registration Number
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (œ) ,VAT Registration Number
 FCO,FCO,23-Mar-11,Uk Duty Travel,DG FINANCE,CONCERTO CONSULTING LTD,1012620,265.82,
 FCO,FCO,23-Mar-11,Overseas Duty Travel,DG FINANCE,CONCERTO CONSULTING LTD,1012620,252.6,
 FCO,FCO,23-Mar-11,Programme and Project Management Consultancy,DG FINANCE,CONCERTO CONSULTING LTD,1012620,"25,500.00",
@@ -166,9 +166,9 @@ FCO,FCO,28-Mar-11,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNA
 FCO,FCO,30-Mar-11,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,LORD SLYNN HADLEY EURO LAW FOUNDATION,1013589,"35,777.00",
 FCO,FCO,17-Mar-11,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,HAMILTON HARRISON AND MATHEWS,213059,"864,355.17",
 FCO,FCO,08-Mar-11,Programme Spend (Oracle Projects Control Account),DG CENTRAL GROUP,MARSHALL AID COMMERATION COMMISSION,1011146,"270,000.00",
-FCO,FCO,03-Mar-11,Information Systems Under Å›Âœ3000,DG CENTRAL GROUP,ORACLE CORPORATION (UK) LTD,1010816,17,
-FCO,FCO,03-Mar-11,Information Systems Under Å›Âœ3000,DG CENTRAL GROUP,ORACLE CORPORATION (UK) LTD,1010816,-17,
-FCO,FCO,03-Mar-11,Information Systems Under Å›Âœ3000,DG CENTRAL GROUP,ORACLE CORPORATION (UK) LTD,1010816,"22,791.28",
+FCO,FCO,03-Mar-11,Information Systems Under ¶œ3000,DG CENTRAL GROUP,ORACLE CORPORATION (UK) LTD,1010816,17,
+FCO,FCO,03-Mar-11,Information Systems Under ¶œ3000,DG CENTRAL GROUP,ORACLE CORPORATION (UK) LTD,1010816,-17,
+FCO,FCO,03-Mar-11,Information Systems Under ¶œ3000,DG CENTRAL GROUP,ORACLE CORPORATION (UK) LTD,1010816,"22,791.28",
 FCO,FCO,03-Mar-11,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ORACLE CORPORATION (UK) LTD,1010816,"4,558.26",
 FCO,FCO,03-Mar-11,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,ORACLE CORPORATION (UK) LTD,1010816,0.04,
 FCO,FCO,16-Mar-11,Information Systems Maintenance,DG CENTRAL GROUP,SYMANTEC LIRIC LTD,1011969,"186,555.00",

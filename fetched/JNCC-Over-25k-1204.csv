@@ -1,3 +1,3 @@
 Department,Entity,Date,Expense type,Expense Area,Supplier Name,Transaction Number,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Number,Expenditure type
-Defra,JNCC,30/05/2012,OFFICE RENT,Governance & Corporate Services,GOODSIR GRAHAM COMMERCIAL LTD,6471,"≈Å44,130.00",Monkstone House rent Jul-Sep12,EC1Y 0TA,SME,,130,Administration
-Defra,JNCC,08/05/2012,BOOKS,Overseas Territories & Crown Dependancies,BARCLAYCARD COMMERCIAL                                      ,Barclaycard April 2012,"≈Å41,028.34",Monthly payment for Government Procurement Card expenditure,TS17 6YG,Large,,130,Administration
+Defra,JNCC,30/05/2012,OFFICE RENT,Governance & Corporate Services,GOODSIR GRAHAM COMMERCIAL LTD,6471,"£44,130.00",Monkstone House rent Jul-Sep12,EC1Y 0TA,SME,,130,Administration
+Defra,JNCC,08/05/2012,BOOKS,Overseas Territories & Crown Dependancies,BARCLAYCARD COMMERCIAL                                      ,Barclaycard April 2012,"£41,028.34",Monthly payment for Government Procurement Card expenditure,TS17 6YG,Large,,130,Administration
