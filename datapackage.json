@@ -219,7 +219,8 @@
                         },
                         "name": "created_at",
                         "title": "Time of the source's creation.",
-                        "type": "string"
+                        "type": "date",
+                        "format": "date"
                     },
                     {
                         "constraints": {
@@ -311,7 +312,8 @@
                     {
                         "name": "created_at",
                         "title": "Time of file creation",
-                        "type": "string"
+                        "type": "date",
+                        "format": "date"
                     },
                     {
                         "name": "files_count",
