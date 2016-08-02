@@ -310,8 +310,8 @@
                         "type": "string"
                     },
                     {
-                        "name": "created_at",
-                        "title": "Time of file creation",
+                        "name": "month_of_creation",
+                        "title": "Month of the file creation",
                         "type": "date",
                         "format": "date"
                     },
