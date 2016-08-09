@@ -1,0 +1,1976 @@
+EXAMPLES OF GPC EXPENDITURE,
+
+Merchant Category Group/Code narrative,Examples of Expenditure
+
+"Bars, restaurants and nightclubs",·         Small hotels provided by our Hotel provider are classed under this heading 
+,"·         Meals/subsistence while on detached duty, military operations and training exercises "
+Fireplace,·         Repairs to ovens in kitchens
+Gifts/cards/novelty shops and video amusement game supply,·         Trainee visits to the Royal Armouries as part of their training to see the history of weaponry and guns.
+,"·         Video Games, puzzles etc for rest and recuperation for personnel serving in Afghanistan"
+"Hobby, Toys and games","·         For schools educating Service children overseas, models of military equipment for presentations to schools"
+Florists,·         Wreaths for Military personnel killed while in Service 
+,"·         Upkeep of the Defence estate, particularly military establishments"
+Music shops and Bands/Orchestras,·         Musical instruments purchased for the various military bands and the Royal School of Music
+Dry cleaning,"·         The procurement, rental and maintenance of washing machines  "
+,·         The provision of laundry facilities for Military personnel
+Jewellery,·         Maintenance of clocking-in machines at MOD establishments
+,·         New location signs
+,·         The provision of dog tags for military personnel 
+,·         Warrant card holders for the MOD Police
+,·         Kilt pins for school uniforms
+,·         CCTV/Alarm systems
+Gym equipment,·         The purchase of physical training equipment for military gyms and schools
+Arts and Craft Shops,·         Insignia for military band instruments
+,·         Mock up models for military visits to schools 
+,·         Military recruitment banners
+Cinema trips,·         Hire of venues by the Army Presentation team 
+,·         Leisure activity as part of the training for new junior soldiers
+Tourist attractions and exhibits,·         Acquaint visits for potential recruits to the Royal Navy
+,·         Costs related to the annual Navy Day
+,·         Adventure training courses including hire of facilities and instruction
+,·         Hire of coaches
+Cosmetics,·         Demineralised water for radar systems
+,·         Air fresheners for waiting areas and toilets in Military Careers Offices
+Leisure Activities/Recreation services,"·         Payment to local radio companies for ""advertising space"" by the Military Recruiting Teams"
+,·         Payment for a Mountain Rescue Winter Climbing Training Courses for the Search and Rescue Teams
+,·         Coach hire for pre deployment training
+,·         Diving courses for Army divers
+Theatrical Producers,·         Ferry bookings
+,·         Venues for MOD Recruiting Teams and Presentation Teams
+,·         Army Officer training as part of cultural awareness
+Bowling Alleys,·         Leisure activities/team building for junior soldiers as part of their Army training programme
+Health and Beauty Spas,·         Some of the hotels booked by our Hotel provider for staff on detached duty fall into this category
+Shoe Stores,·         Specialist boots on health grounds for Military staff
+Pet stores/Food & Supply,·         Food and Supplies for the Defence Animal Centre and MOD Police and guard dogs
+Books and Periodicals,·         Books and publications for our libraries and schools that are not available on contract e.g. second hand books 
+Beauty and Barber shops,·         Specialist Medical and trauma training
+Speciality Cleaning/Polishing,"·         Industrial leak and spill management, industrial safety and plant maintenance products"
+Tailor/Seamstress/Alters,"·         Ceremonial clothing e.g. Trooping the Colour, Queens Birthday parade"
+,·         Mounting  of military medals on uniforms
+Children/Infants wear stores,·         Some retailers in this category also supply adult clothing/products 
+,·         Specialist clothing requiring motifs e.g. t-shirts for the Red Arrows
+,·         Equipment for battle field tests
+,·         Items for our schools and sponsorship of sports clothing for local schools with military logos
+Mens/Womens Clothing Stores,·         Specialist Outdoor Clothing e.g. adventure training clothing
+,·         Purchase of items of uniform from specialist Suppliers
+Advertising Services,"·         Payment to local radio companies and Newspapers for ""advertising space"" by the Military Recruiting Teams   "
+,·         Sign making Services
+,·         Exhibition displays
+Commercial Photo/Art/Graph,·         Safety Sign making Services
+Management/Consult/Public Relations Services,·         Specialist training providers
+,·         Payments to Professional Bodies
+Civic/Social/Fraternal Associations,·         Payments to Professional Bodies
+,·         Payments to Local Councils
+Statutory Bodies - Fines,·         Payments to the Police for advanced driving courses
+Cable/Pay TV Services,·         Sky installations for MOD establishments and ships
+Boat Dealers,·         Repairs to ships and boats
+,·         Purchase of specialist paint for ships
+Dentists/Orthodontists,·         Dental equipment for Military staff dental check ups
+General Retail – Women’s Access/Speciality,·         Waterproof Clothing and products for Adventure training 
+,·         Waterproof Clothing for Search and Rescue teams 
+Timeshare,·         Temporary accommodation (short term holiday home let) for Service Families awaiting Service Accommodation 
+Pkg Stores/Beer/Wine/Liquor,·         The purchase of alcohol for cooking purposes at the Defence School of Catering for trainee chefs.
+,·         The provision and payment of Catering courses
+Member Clubs/Sport/Rec/Golf,·         Some of the hotels booked by our Hotel provider for staff on detached duty fall into this category
+,·         Military training courses
+,·         Adventure training courses including hire of facilities and instruction
+Detective/Protective Agency,·         CCTV Equipment
+,·         Threat Detection Equipment
+Variety Stores,·         Specialist boots on health grounds for Military staff
+,·         Security Equipment
+,·         Survival Equipment,,,,
+,·         Calor Gas Supplies,,,,
+,·         Pressure Washers/Steam Cleaners,,,,
+Public Golf Courses,·         Some of the hotels booked by our Hotel provider for staff on detached duty fall into this category,,,,
+Art Dealers and Galleries,·         Digital images/photographs and the copyright to use those digital images/photographs in Departmental publications/presentations,,,,
+Stamp and Coin stores,"·         The manufacture and payment for coins for ""gifting"" purposes",,,,
+
+
+UniqueRef,TRANSACTION DATE,MERCHANT CATEGORY,MERCHANT CATEGORY DESC,AMOUNT,SortFunction
+MODGPC116332,10-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,510.44,116332
+MODGPC116333,01-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,1269.6,116333
+MODGPC116334,31-Mar-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1628.56,116334
+MODGPC116335,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,9186.53,116335
+MODGPC116336,31-Mar-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1007.95,116336
+MODGPC116337,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,9186.53,116337
+MODGPC116338,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,3996,116338
+MODGPC116339,31-Mar-15,Training and Educational, SCHOOLS - DEFAULT,3240,116339
+MODGPC116340,31-Mar-15,Training and Educational, SCHOOLS - DEFAULT,3240,116340
+MODGPC116341,31-Mar-15,Mail and Courier Services, POSTAGE STAMPS,633.02,116341
+MODGPC116342,01-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,681,116342
+MODGPC116343,10-Apr-15,General Retail and Wholesale, COMBINATION CATALOG & RETAIL,1284,116343
+MODGPC116344,13-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,1665.06,116344
+MODGPC116345,08-Apr-15,Mail and Courier Services, POSTAGE STAMPS,945.33,116345
+MODGPC116346,01-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,5000,116346
+MODGPC116347,01-Apr-15,Training and Educational, SCHOOLS - DEFAULT,2549,116347
+MODGPC116348,01-Apr-15,Training and Educational, SCHOOLS - DEFAULT,3330,116348
+MODGPC116349,01-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,5000,116349
+MODGPC116350,01-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,816,116350
+MODGPC116351,31-Mar-15,Professional Services, LEGAL SERVICES ATTORNEYS,794,116351
+MODGPC116352,08-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,1296,116352
+MODGPC116353,08-Apr-15,Leisure Activities, BILLIARD/POOL ESTABLISHMENT,1600,116353
+MODGPC116354,08-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1020,116354
+MODGPC116355,08-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,1450,116355
+MODGPC116356,08-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,732,116356
+MODGPC116357,10-Apr-15,Hotels/Restaurants and Bars, BARS/TAVERNS/LOUNGES/DISCOS,960,116357
+MODGPC116358,08-Apr-15,Leisure Activities, COMMERCIAL/PRO SPORTS,1441.8,116358
+MODGPC116359,01-Apr-15,General Retail and Wholesale, SPORTS/RIDING APPAREL STORES,9769.69,116359
+MODGPC116360,02-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,3599.4,116360
+MODGPC116361,09-Apr-15,Building Materials, CONSTRUCTION MATERIALS - DEF,1599,116361
+MODGPC116362,09-Apr-15,Building Materials, CONSTRUCTION MATERIALS - DEF,1680,116362
+MODGPC116363,09-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,845.53,116363
+MODGPC116364,10-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1653.47,116364
+MODGPC116365,10-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,725.64,116365
+MODGPC116366,01-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,4348.32,116366
+MODGPC116367,02-Apr-15,General Retail and Wholesale, DEPARTMENT STORES,712.5,116367
+MODGPC116368,10-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,896.4,116368
+MODGPC116369,31-Mar-15,Statutory Bodies, GOV'T SERV - DEFAULT,927.6,116369
+MODGPC116370,07-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,1973.54,116370
+MODGPC116371,13-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,19860,116371
+MODGPC116372,13-Apr-15,Building Services, CARPENTRY,2220,116372
+MODGPC116373,09-Apr-15,Staff - Temporary Recruitment, EMPLOYMENT/TEMP HELP AGEN,660,116373
+MODGPC116374,09-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,1260,116374
+MODGPC116375,31-Mar-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,1017.6,116375
+MODGPC116376,31-Mar-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,9747.5,116376
+MODGPC116377,07-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2677.68,116377
+MODGPC116378,13-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,914.4,116378
+MODGPC116379,01-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,845.56,116379
+MODGPC116380,08-Apr-15,General Retail and Wholesale, MISC APPAREL/ACCESS STORES,4044.9,116380
+MODGPC116381,08-Apr-15,General Retail and Wholesale, MISC APPAREL/ACCESS STORES,582,116381
+MODGPC116382,31-Mar-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,1157.69,116382
+MODGPC116383,31-Mar-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,570,116383
+MODGPC116384,08-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,670.32,116384
+MODGPC116385,08-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,822,116385
+MODGPC116386,07-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,509.42,116386
+MODGPC116387,08-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1894.32,116387
+MODGPC116388,08-Apr-15,General Retail and Wholesale, HARDWARE STORES,7323.94,116388
+MODGPC116389,31-Mar-15,Statutory Bodies, GOV'T SERV - DEFAULT,3438,116389
+MODGPC116390,13-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,765.6,116390
+MODGPC116391,09-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,4200,116391
+MODGPC116392,08-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,4654.8,116392
+MODGPC116393,09-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1375.5,116393
+MODGPC116394,08-Apr-15,Cleaning Services and Supplies, LAUNDRY/CLEANING/GARMENT SV,7455.6,116394
+MODGPC116395,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4337.05,116395
+MODGPC116396,02-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1313.64,116396
+MODGPC116397,02-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,573.6,116397
+MODGPC116398,08-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,994.44,116398
+MODGPC116399,31-Mar-15,General Retail and Wholesale, HARDWARE STORES,687.12,116399
+MODGPC116400,31-Mar-15,General Retail and Wholesale, HARDWARE STORES,577.08,116400
+MODGPC116401,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,3163.92,116401
+MODGPC116402,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,3722.75,116402
+MODGPC116403,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,662.28,116403
+MODGPC116404,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4311.42,116404
+MODGPC116405,31-Mar-15,Utilities and Non Automotive Fuel, UTILITIES/ELEC/GAS/H2O/SANI,2095.08,116405
+MODGPC116406,31-Mar-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,969,116406
+MODGPC116407,02-Apr-15,Catering and Catering Supplies, CATERERS,2696.16,116407
+MODGPC116408,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2166,116408
+MODGPC116409,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,570,116409
+MODGPC116410,31-Mar-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4910.63,116410
+MODGPC116411,31-Mar-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,600,116411
+MODGPC116412,31-Mar-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,9542.66,116412
+MODGPC116413,31-Mar-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,1421.47,116413
+MODGPC116414,07-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,940.56,116414
+MODGPC116415,08-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1644,116415
+MODGPC116416,09-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,1206,116416
+MODGPC116417,13-Apr-15,Vehicles Servicing and Spares, AUTO BODY REPAIR SHOPS,613.68,116417
+MODGPC116418,09-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1512,116418
+MODGPC116419,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,721.99,116419
+MODGPC116420,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,1065,116420
+MODGPC116421,02-Apr-15,Vehicles Servicing and Spares, MOTOR VEHICLE SUPPLY/NEW PARTS,951.82,116421
+MODGPC116422,08-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,527.8,116422
+MODGPC116423,08-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,547.38,116423
+MODGPC116424,13-Apr-15,Miscellaneous Industrial/Commercial," PAINT, VARNISHES & SUPPLIES",1734.98,116424
+MODGPC116425,02-Apr-15,Mail and Courier Services, POSTAGE STAMPS,944.4,116425
+MODGPC116426,08-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,736.8,116426
+MODGPC116427,31-Mar-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,2784,116427
+MODGPC116428,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,564,116428
+MODGPC116429,01-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,520,116429
+MODGPC116430,07-Apr-15,Books and Periodicals, BOOK STORES,1500,116430
+MODGPC116431,07-Apr-15,Books and Periodicals, BOOK STORES,940,116431
+MODGPC116432,31-Mar-15,Books and Periodicals, BOOK STORES,878.93,116432
+MODGPC116433,08-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,644.93,116433
+MODGPC116434,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,684,116434
+MODGPC116435,01-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,720.36,116435
+MODGPC116436,10-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,4192,116436
+MODGPC116437,31-Mar-15,General Retail and Wholesale, VARIETY STORES,6872.99,116437
+MODGPC116438,10-Apr-15,General Retail and Wholesale, VARIETY STORES,1200,116438
+MODGPC116439,02-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,602.96,116439
+MODGPC116440,01-Apr-15,Automotive Fuel, SERVICE STATIONS,2502.89,116440
+MODGPC116441,09-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,1535.69,116441
+MODGPC116442,31-Mar-15,Statutory Bodies, GOV'T SERV - DEFAULT,777.44,116442
+MODGPC116443,31-Mar-15,Building Materials, PLUMBING/HEATING EQUIPMENT,516.77,116443
+MODGPC116444,08-Apr-15,Miscellaneous Industrial/Commercial," PAINT, VARNISHES & SUPPLIES",633.6,116444
+MODGPC116445,08-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,1365.6,116445
+MODGPC116446,13-Apr-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,810,116446
+MODGPC116447,02-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1579.48,116447
+MODGPC116448,02-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,1281.59,116448
+MODGPC116449,08-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,947.99,116449
+MODGPC116450,13-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,585.6,116450
+MODGPC116451,31-Mar-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,4800,116451
+MODGPC116452,13-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1127.42,116452
+MODGPC116453,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,600.12,116453
+MODGPC116454,09-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,507.6,116454
+MODGPC116455,13-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,1564.2,116455
+MODGPC116456,31-Mar-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,515,116456
+MODGPC116457,09-Apr-15,Mail and Courier Services, POSTAGE STAMPS,583.38,116457
+MODGPC116458,09-Apr-15,Mail and Courier Services, POSTAGE STAMPS,795.97,116458
+MODGPC116459,01-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,4986,116459
+MODGPC116460,01-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,4986,116460
+MODGPC116461,01-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,4986,116461
+MODGPC116462,31-Mar-15,Catering and Catering Supplies, CATERERS,2056.25,116462
+MODGPC116463,31-Mar-15,Training and Educational, SCHOOLS - DEFAULT,7830,116463
+MODGPC116464,01-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1107.85,116464
+MODGPC116465,02-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2779.2,116465
+MODGPC116466,07-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,995,116466
+MODGPC116467,08-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,1217.2,116467
+MODGPC116468,13-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,500,116468
+MODGPC116469,13-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,1750,116469
+MODGPC116470,10-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,950,116470
+MODGPC116471,02-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,1166.4,116471
+MODGPC116472,13-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1000.66,116472
+MODGPC116473,13-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1352.59,116473
+MODGPC116474,13-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,754.44,116474
+MODGPC116475,13-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1243.21,116475
+MODGPC116476,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,2585.78,116476
+MODGPC116477,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,869.15,116477
+MODGPC116478,31-Mar-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4516.5,116478
+MODGPC116479,01-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,500,116479
+MODGPC116480,31-Mar-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,2111.42,116480
+MODGPC116481,13-Apr-15,Automotive Fuel, SERVICE STATIONS,708.37,116481
+MODGPC116482,13-Apr-15,Automotive Fuel, SERVICE STATIONS,708.37,116482
+MODGPC116483,02-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,13015.79,116483
+MODGPC116484,10-Apr-15,Building Services, ELECTRICAL CONTRACTORS,1053.38,116484
+MODGPC116485,08-Apr-15,General Retail and Wholesale, FAMILY CLOTHING STORES,590.7,116485
+MODGPC116486,01-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,1245.34,116486
+MODGPC116487,09-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,2342.23,116487
+MODGPC116488,09-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1260,116488
+MODGPC116489,09-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",2705.59,116489
+MODGPC116490,05-Mar-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2539.15,116490
+MODGPC116491,08-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,735.6,116491
+MODGPC116492,02-Apr-15,Professional Services, MISC PERSONAL SERV - DEF,1227.24,116492
+MODGPC116493,31-Mar-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",2921.16,116493
+MODGPC116494,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2912.5,116494
+MODGPC116495,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4742.87,116495
+MODGPC116496,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4831.43,116496
+MODGPC116497,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,592.54,116497
+MODGPC116498,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,703.93,116498
+MODGPC116499,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4738.94,116499
+MODGPC116500,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4410.47,116500
+MODGPC116501,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,790.05,116501
+MODGPC116502,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2129.09,116502
+MODGPC116503,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,7857.44,116503
+MODGPC116504,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4849.06,116504
+MODGPC116505,08-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2187.8,116505
+MODGPC116506,08-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2187.8,116506
+MODGPC116507,01-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,2136,116507
+MODGPC116508,07-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1784.13,116508
+MODGPC116509,08-Apr-15,Building Materials, CONSTRUCTION MATERIALS - DEF,1022.04,116509
+MODGPC116510,08-Apr-15,General Retail and Wholesale, MISC APPAREL/ACCESS STORES,2196,116510
+MODGPC116511,08-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1186.68,116511
+MODGPC116512,08-Apr-15,Books and Periodicals, BOOK STORES,14312.95,116512
+MODGPC116513,08-Apr-15,Books and Periodicals, NEWS DEALERS/NEWSSTANDS,947.45,116513
+MODGPC116514,02-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,545,116514
+MODGPC116515,07-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,720,116515
+MODGPC116516,31-Mar-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,116516
+MODGPC116517,31-Mar-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,116517
+MODGPC116518,02-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,116518
+MODGPC116519,08-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,116519
+MODGPC116520,08-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,116520
+MODGPC116521,31-Mar-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1449.05,116521
+MODGPC116522,01-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,1489.2,116522
+MODGPC116523,07-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,750,116523
+MODGPC116524,01-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,835.68,116524
+MODGPC116525,10-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1680,116525
+MODGPC116526,31-Mar-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",5079.6,116526
+MODGPC116527,31-Mar-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",5079.6,116527
+MODGPC116528,31-Mar-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,511.04,116528
+MODGPC116529,31-Mar-15,Training and Educational, SCHOOLS - DEFAULT,4915.8,116529
+MODGPC116530,31-Mar-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,2922,116530
+MODGPC116531,31-Mar-15,Training and Educational, SCHOOLS - DEFAULT,2310.9,116531
+MODGPC116532,31-Mar-15,Training and Educational, SCHOOLS - DEFAULT,3360.9,116532
+MODGPC116533,09-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,522.11,116533
+MODGPC116534,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,525,116534
+MODGPC116535,30-Mar-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,4000,116535
+MODGPC116536,01-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,5126,116536
+MODGPC116537,02-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2627,116537
+MODGPC116538,09-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,5625,116538
+MODGPC116539,10-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,658,116539
+MODGPC116540,01-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,846,116540
+MODGPC116541,31-Mar-15,Print and Advertising, MISC PUBLISHING & PRINTING,600,116541
+MODGPC116542,31-Mar-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,1992.55,116542
+MODGPC116543,31-Mar-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,630,116543
+MODGPC116544,07-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,1420.75,116544
+MODGPC116545,08-Apr-15,Leisure Activities, SPORT/RECREATIONAL CAMPS,1056,116545
+MODGPC116546,31-Mar-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,9659.19,116546
+MODGPC116547,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1811.4,116547
+MODGPC116548,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,3862.2,116548
+MODGPC116549,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,3862.2,116549
+MODGPC116550,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,1098.94,116550
+MODGPC116551,31-Mar-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",4155.6,116551
+MODGPC116552,02-Apr-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,573.34,116552
+MODGPC116553,02-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,594,116553
+MODGPC116554,31-Mar-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4632,116554
+MODGPC116555,10-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4747.8,116555
+MODGPC116556,31-Mar-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,1977.98,116556
+MODGPC116557,02-Apr-15,General Retail and Wholesale, COMBINATION CATALOG & RETAIL,912.38,116557
+MODGPC116558,31-Mar-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,4524.02,116558
+MODGPC116559,31-Mar-15,Training and Educational, SCHOOLS - DEFAULT,4096.33,116559
+MODGPC116560,09-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1100.04,116560
+MODGPC116561,07-Apr-15,Mail Order / Direct Selling, CONTINUITY/SUBSCRIPTION MERCHT,723.96,116561
+MODGPC116562,13-Apr-15,Estate and Garden Services," NURSERIES, LAWN/GARDEN SUPPLY",824.31,116562
+MODGPC116563,02-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,1138.08,116563
+MODGPC116564,02-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1000,116564
+MODGPC116565,07-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,798.6,116565
+MODGPC116566,31-Mar-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,3456,116566
+MODGPC116567,02-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,657.6,116567
+MODGPC116568,31-Mar-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",654.29,116568
+MODGPC116569,13-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,4098.38,116569
+MODGPC116570,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,1696.32,116570
+MODGPC116571,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,950.04,116571
+MODGPC116572,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,1615.44,116572
+MODGPC116573,31-Mar-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,579.51,116573
+MODGPC116574,08-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1423,116574
+MODGPC116575,01-Apr-15,General Retail and Wholesale, MISC APPAREL/ACCESS STORES,672,116575
+MODGPC116576,13-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,955.2,116576
+MODGPC116577,01-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,2000,116577
+MODGPC116578,13-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1120.92,116578
+MODGPC116579,10-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,940.8,116579
+MODGPC116580,02-Apr-15,Miscellaneous Industrial/Commercial," PAINT, VARNISHES & SUPPLIES",680.4,116580
+MODGPC116581,10-Apr-15,General Retail and Wholesale, HARDWARE STORES,861.17,116581
+MODGPC116582,09-Apr-15,Print and Advertising, ADVERTISING SERVICES,588,116582
+MODGPC116583,09-Apr-15,Training and Educational, SCHOOLS - DEFAULT,736,116583
+MODGPC116584,07-Apr-15,Print and Advertising, ADVERTISING SERVICES,5000,116584
+MODGPC116585,09-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1920,116585
+MODGPC116586,02-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,4989.18,116586
+MODGPC116587,07-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1326.5,116587
+MODGPC116588,10-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,660,116588
+MODGPC116589,13-Apr-15,General Retail and Wholesale, WOMENS ACCESS/SPECIALTY,654,116589
+MODGPC116590,10-Apr-15,General Retail and Wholesale, TENT AND AWNING SHOPS,1536,116590
+MODGPC116591,10-Apr-15,Leisure Activities, RECREATION SERVICES,677.6,116591
+MODGPC116592,10-Apr-15,Leisure Activities, RECREATION SERVICES,708.4,116592
+MODGPC116593,09-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,550.9,116593
+MODGPC116594,09-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,683.15,116594
+MODGPC116595,13-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,794.34,116595
+MODGPC116596,01-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,519,116596
+MODGPC116597,09-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,598,116597
+MODGPC116598,31-Mar-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,1781.28,116598
+MODGPC116599,02-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,6138,116599
+MODGPC116600,13-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1160.35,116600
+MODGPC116601,13-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1410.35,116601
+MODGPC116602,08-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,3360,116602
+MODGPC116603,12-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,116603
+MODGPC116604,12-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,116604
+MODGPC116605,12-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,116605
+MODGPC116606,12-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,116606
+MODGPC116607,12-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,116607
+MODGPC116608,12-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,116608
+MODGPC116609,12-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,116609
+MODGPC116610,07-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,16147.45,116610
+MODGPC116611,08-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,89177.7,116611
+MODGPC116612,08-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,8548.43,116612
+MODGPC116613,08-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,88322.71,116613
+MODGPC116614,08-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,89123.87,116614
+MODGPC116615,08-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,47042.16,116615
+MODGPC116616,08-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,89540.89,116616
+MODGPC116617,08-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,88391.74,116617
+MODGPC116618,13-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,15787.2,116618
+MODGPC116619,07-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,2404.18,116619
+MODGPC116620,09-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2168.74,116620
+MODGPC116621,31-Mar-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,832.46,116621
+MODGPC116622,09-Apr-15,Mail Order / Direct Selling, CONTINUITY/SUBSCRIPTION MERCHT,884.5,116622
+MODGPC116623,04-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,869.7,116623
+MODGPC116624,01-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2779.2,116624
+MODGPC116625,10-Apr-15,Catering and Catering Supplies, MISC FOOD STORES - DEFAULT,560.96,116625
+MODGPC116626,01-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,2105,116626
+MODGPC116627,12-Apr-15,General Retail and Wholesale, DEPARTMENT STORES,1949,116627
+MODGPC116628,13-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1900,116628
+MODGPC116629,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,6475.2,116629
+MODGPC116630,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,810,116630
+MODGPC116631,31-Mar-15,General Retail and Wholesale, ARTIST/CRAFT SHOPS,918,116631
+MODGPC116632,01-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1495.57,116632
+MODGPC116633,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,714,116633
+MODGPC116634,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,4068,116634
+MODGPC116635,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,706.8,116635
+MODGPC116636,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,2814,116636
+MODGPC116637,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,624,116637
+MODGPC116638,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,762.34,116638
+MODGPC116639,01-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,4911.24,116639
+MODGPC116640,08-Apr-15,General Retail and Wholesale, SPORTS/RIDING APPAREL STORES,1447.68,116640
+MODGPC116641,08-Apr-15,General Retail and Wholesale, SPORTS/RIDING APPAREL STORES,2086.85,116641
+MODGPC116642,10-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,990.22,116642
+MODGPC116643,08-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1000,116643
+MODGPC116644,31-Mar-15,Mail Order / Direct Selling, CATALOG MERCHANT,985.15,116644
+MODGPC116645,13-Apr-15,Office Stationery Equipment and Su, QUICK COPY/REPRO SERVICES,1524,116645
+MODGPC116646,10-Apr-15,General Retail and Wholesale, VARIETY STORES,710.27,116646
+MODGPC116647,09-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,1429.83,116647
+MODGPC116648,07-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1000,116648
+MODGPC116649,01-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,803.4,116649
+MODGPC116650,10-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,766.8,116650
+MODGPC116651,07-Apr-15,Utilities and Non Automotive Fuel, UTILITIES/ELEC/GAS/H2O/SANI,1201.2,116651
+MODGPC116652,08-Apr-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,900,116652
+MODGPC116653,02-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,4998.65,116653
+MODGPC116654,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,806.4,116654
+MODGPC116655,31-Mar-15,Leisure Activities, RECREATION SERVICES,864,116655
+MODGPC116656,13-Apr-15,Building Services, SPEC CONTRACTORS - DEFAULT,869.76,116656
+MODGPC116657,07-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,1179.36,116657
+MODGPC116658,31-Mar-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,934.2,116658
+MODGPC116659,09-Apr-15,Financial Services, INSURANCE SALES/UNDERWRITE,1488.1,116659
+MODGPC116660,31-Mar-15,Leisure Activities, TOURIST ATTRACTIONS AND XHBT,2880,116660
+MODGPC116661,08-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,554,116661
+MODGPC116662,31-Mar-15,Print and Advertising, COMMERCIAL PHOTO/ART/GRAPH,1944,116662
+MODGPC116663,08-Apr-15,Print and Advertising, ADVERTISING SERVICES,810,116663
+MODGPC116664,31-Mar-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,2107.76,116664
+MODGPC116665,31-Mar-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,900,116665
+MODGPC116666,31-Mar-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,10702.7,116666
+MODGPC116667,31-Mar-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,21295.59,116667
+MODGPC116668,01-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,672.84,116668
+MODGPC116669,31-Mar-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1052.52,116669
+MODGPC116670,02-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4476,116670
+MODGPC116671,09-Apr-15,Building Services," HEATING, PLUMBING, AIR COND",1788,116671
+MODGPC116672,13-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,871.58,116672
+MODGPC116673,13-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,1925,116673
+MODGPC116674,31-Mar-15,General Retail and Wholesale, TENT AND AWNING SHOPS,1393,116674
+MODGPC116675,31-Mar-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,1701.41,116675
+MODGPC116676,31-Mar-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1904.94,116676
+MODGPC116677,31-Mar-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,2957.5,116677
+MODGPC116678,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,6153.16,116678
+MODGPC116679,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,3350,116679
+MODGPC116680,31-Mar-15,General Retail and Wholesale, SPORTING GOODS STORES,3205.64,116680
+MODGPC116681,31-Mar-15,General Retail and Wholesale, SPORTS/RIDING APPAREL STORES,9979.2,116681
+MODGPC116682,31-Mar-15,Print and Advertising, MISC PUBLISHING & PRINTING,3234,116682
+MODGPC116683,31-Mar-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,732,116683
+MODGPC116684,31-Mar-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,1612.08,116684
+MODGPC116685,31-Mar-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,6100,116685
+MODGPC116686,12-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,1650,116686
+MODGPC116687,02-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,2038.8,116687
+MODGPC116688,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2298,116688
+MODGPC116689,01-Apr-15,Financial Services, INSURANCE SALES/UNDERWRITE,2120,116689
+MODGPC116690,01-Apr-15,Financial Services, INSURANCE SALES/UNDERWRITE,2120,116690
+MODGPC116691,31-Mar-15,Office Stationery Equipment and Su, STATIONERY STORES,2820,116691
+MODGPC116692,13-Apr-15,Miscellaneous Industrial/Commercial, PIECE GOODS/NOTIONS/DRY GOODS,796.79,116692
+MODGPC116693,13-Apr-15,Training and Educational, SCHOOLS - DEFAULT,1446,116693
+MODGPC116694,02-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,4966.31,116694
+MODGPC116695,02-Apr-15,Building Services, ELECTRICAL CONTRACTORS,667.2,116695
+MODGPC116696,09-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,3153,116696
+MODGPC116697,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1044.84,116697
+MODGPC116698,07-Apr-15,Building Materials, PLUMBING/HEATING EQUIPMENT,1200,116698
+MODGPC116699,09-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1896,116699
+MODGPC116700,10-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,7310.25,116700
+MODGPC116701,10-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,1578,116701
+MODGPC116702,10-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,6000,116702
+MODGPC116703,10-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1120,116703
+MODGPC116704,13-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,624,116704
+MODGPC116705,08-Apr-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,3925.18,116705
+MODGPC116706,07-Apr-15,Leisure Activities, CIVIC/SOCIAL/FRATERNAL ASSC,2400,116706
+MODGPC116707,07-Apr-15,Leisure Activities, CIVIC/SOCIAL/FRATERNAL ASSC,2400,116707
+MODGPC116708,01-Apr-15,Vehicles Servicing and Spares, CAR & TRUCK DEALERS/NEW/USED,524.87,116708
+MODGPC116709,10-Apr-15,Miscellaneous Industrial/Commercial, CHEMICALS/ALLIED PRODS - DEF,860.15,116709
+MODGPC116710,02-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,554.96,116710
+MODGPC116711,13-Apr-15,Mail and Courier Services, POSTAGE STAMPS,1600.81,116711
+MODGPC116712,31-Mar-15,Office Stationery Equipment and Su, QUICK COPY/REPRO SERVICES,659,116712
+MODGPC116713,02-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1237.54,116713
+MODGPC116714,31-Mar-15,Print and Advertising, ADVERTISING SERVICES,850.8,116714
+MODGPC116715,13-Apr-15,Utilities and Non Automotive Fuel, UTILITIES/ELEC/GAS/H2O/SANI,3525.99,116715
+MODGPC116716,08-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1034.4,116716
+MODGPC116717,31-Mar-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,977.41,116717
+MODGPC116718,10-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,2158.8,116718
+MODGPC116719,09-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2187.8,116719
+MODGPC116720,09-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2187.8,116720
+MODGPC116721,09-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2187.8,116721
+MODGPC116722,09-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2187.8,116722
+MODGPC116723,30-Mar-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,3735.25,116723
+MODGPC116724,31-Mar-15,Vehicles Servicing and Spares, CAR & TRUCK DEALERS/NEW/USED,816.43,116724
+MODGPC116725,31-Mar-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1145.14,116725
+MODGPC116726,31-Mar-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,3698.56,116726
+MODGPC116727,31-Mar-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,3515.08,116727
+MODGPC116728,31-Mar-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,4406.59,116728
+MODGPC116729,31-Mar-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,4777.56,116729
+MODGPC116730,31-Mar-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1128.24,116730
+MODGPC116731,31-Mar-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,899.53,116731
+MODGPC116732,31-Mar-15,Building Services, ROOFING/SIDING/SHEET METAL,3066,116732
+MODGPC116733,31-Mar-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,899.53,116733
+MODGPC116734,31-Mar-15,Leisure Activities, COMMERCIAL/PRO SPORTS,3485.03,116734
+MODGPC116735,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,696,116735
+MODGPC116736,09-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,2131.2,116736
+MODGPC116737,13-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",675,116737
+MODGPC116738,02-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,1776.86,116738
+MODGPC116739,02-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,798.6,116739
+MODGPC116740,07-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,3871.44,116740
+MODGPC116741,31-Mar-15,General Retail and Wholesale," GIFT, CARD, NOVELTY STORES",507.6,116741
+MODGPC116742,31-Mar-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",1487.95,116742
+MODGPC116743,07-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2234.78,116743
+MODGPC116744,08-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,3639.19,116744
+MODGPC116745,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1547.2,116745
+MODGPC116746,13-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1392.58,116746
+MODGPC116747,31-Mar-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,1611,116747
+MODGPC116748,01-Apr-15,General Retail and Wholesale, VARIETY STORES,4031.04,116748
+MODGPC116749,02-Apr-15,General Retail and Wholesale, VARIETY STORES,4881.24,116749
+MODGPC116750,02-Apr-15,General Retail and Wholesale, VARIETY STORES,5064,116750
+MODGPC116751,31-Mar-15,Building Services," HEATING, PLUMBING, AIR COND",503.4,116751
+MODGPC116752,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,606,116752
+MODGPC116753,01-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,745.63,116753
+MODGPC116754,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2593.42,116754
+MODGPC116755,02-Apr-15,Building Services," HEATING, PLUMBING, AIR COND",8834.4,116755
+MODGPC116756,02-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,781.02,116756
+MODGPC116757,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2252.3,116757
+MODGPC116758,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,816.03,116758
+MODGPC116759,01-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,4374.94,116759
+MODGPC116760,09-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1248.89,116760
+MODGPC116761,08-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1035.6,116761
+MODGPC116762,10-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,644.76,116762
+MODGPC116763,13-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,4497.9,116763
+MODGPC116764,31-Mar-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,2472.91,116764
+MODGPC116765,01-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,884.16,116765
+MODGPC116766,08-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,3936,116766
+MODGPC116767,09-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,1752.22,116767
+MODGPC116768,08-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2924.6,116768
+MODGPC116769,31-Mar-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,746.35,116769
+MODGPC116770,02-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,656.12,116770
+MODGPC116771,10-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1410.35,116771
+MODGPC116772,01-Apr-15,Computer Equipment & Services, COMPUTER MAINT/SVCS - DEF,5400,116772
+MODGPC116773,07-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,2479,116773
+MODGPC116774,08-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1314,116774
+MODGPC116775,08-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,500,116775
+MODGPC116776,31-Mar-15,Miscellaneous Industrial/Commercial, TOOL HIRE,5669.8,116776
+MODGPC116777,31-Mar-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1609.84,116777
+MODGPC116778,10-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,2485.15,116778
+MODGPC116779,02-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4809.21,116779
+MODGPC116780,02-Apr-15,General Retail and Wholesale, JEWELLERY STORES,1574.69,116780
+MODGPC116781,09-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1280.4,116781
+MODGPC116782,09-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,771.12,116782
+MODGPC116783,31-Mar-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,975.6,116783
+MODGPC116784,01-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,513.6,116784
+MODGPC116785,07-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",2843.74,116785
+MODGPC116786,07-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1638.54,116786
+MODGPC116787,07-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",2837.1,116787
+MODGPC116788,02-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",2822.18,116788
+MODGPC116789,10-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",747.6,116789
+MODGPC116790,10-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",735.6,116790
+MODGPC116791,13-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1573.2,116791
+MODGPC116792,13-Apr-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,3888,116792
+MODGPC116793,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2000,116793
+MODGPC116794,08-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,855,116794
+MODGPC116795,01-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,600,116795
+MODGPC116796,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1395.05,116796
+MODGPC116797,13-Apr-15,Training and Educational, SCHOOLS - DEFAULT,2070,116797
+MODGPC116798,13-Apr-15,Training and Educational, SCHOOLS - DEFAULT,2070,116798
+MODGPC116799,10-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1176,116799
+MODGPC116800,09-Apr-15,General Retail and Wholesale, SHOE REPAIR/SHINE/HAT CLEAN,1637.5,116800
+MODGPC116801,31-Mar-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,4860,116801
+MODGPC116802,01-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,602.7,116802
+MODGPC116803,31-Mar-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,681.34,116803
+MODGPC116804,31-Mar-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,4573.8,116804
+MODGPC116805,31-Mar-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,690.53,116805
+MODGPC116806,06-Feb-15,Mail Order / Direct Selling, CATALOG MERCHANT,844.38,116806
+MODGPC116807,10-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,789.3,116807
+MODGPC116808,09-Apr-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,6336,116808
+MODGPC116809,13-Apr-15,Building Materials, GLASS/PAINT/WALLPAPER STORES,1050.62,116809
+MODGPC116810,31-Mar-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,970,116810
+MODGPC116811,13-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,870,116811
+MODGPC116812,13-Apr-15,Training and Educational, TRADE/VOCATIONAL SCHOOLS,590,116812
+MODGPC116813,13-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,630,116813
+MODGPC116814,13-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,4595,116814
+MODGPC116815,31-Mar-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,1325.98,116815
+MODGPC116816,07-Apr-15,Medical Supplies and Services, OPTICIANS,510,116816
+MODGPC116817,01-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,608.04,116817
+MODGPC116818,13-Apr-15,Medical Supplies and Services, NURSING/PERSONAL CARE FAC,5467.1,116818
+MODGPC116819,13-Apr-15,Medical Supplies and Services, NURSING/PERSONAL CARE FAC,5017.2,116819
+MODGPC116820,13-Apr-15,Medical Supplies and Services, NURSING/PERSONAL CARE FAC,5664.86,116820
+MODGPC116821,13-Apr-15,Medical Supplies and Services, NURSING/PERSONAL CARE FAC,5456.06,116821
+MODGPC116822,07-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1374.2,116822
+MODGPC116823,01-Apr-15,General Retail and Wholesale, TAILOR/SEAMSTRESS/ALTERS,1832.37,116823
+MODGPC116824,02-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,641.74,116824
+MODGPC116825,02-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,677.39,116825
+MODGPC116826,02-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,880.92,116826
+MODGPC116827,10-Apr-15,Medical Supplies and Services, OPTICIANS,702,116827
+MODGPC116828,01-Apr-15,Business Clothing and Footwear, UNIFORMS & COMMERCIAL CLOTHING,668.7,116828
+MODGPC116829,09-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,846,116829
+MODGPC116830,01-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,558,116830
+MODGPC116831,01-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,726,116831
+MODGPC116832,01-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,726,116832
+MODGPC116833,01-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,852,116833
+MODGPC116834,02-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",3541.23,116834
+MODGPC116835,02-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",5693.4,116835
+MODGPC116836,08-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,2756.4,116836
+MODGPC116837,31-Mar-15,Medical Supplies and Services, HOSPITALS,2566,116837
+MODGPC116838,01-Apr-15,General Retail and Wholesale, ARTIST/CRAFT SHOPS,955.5,116838
+MODGPC116839,13-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,10426.8,116839
+MODGPC116840,13-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,11952,116840
+MODGPC116841,30-Mar-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2760,116841
+MODGPC116842,09-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,1166.5,116842
+MODGPC116843,10-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,680.94,116843
+MODGPC116844,10-Apr-15,Office Stationery Equipment and Su, QUICK COPY/REPRO SERVICES,1663.5,116844
+MODGPC116845,02-Apr-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,3456.7,116845
+MODGPC116846,31-Mar-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,1293.6,116846
+MODGPC116847,02-Apr-15,Training and Educational, SCHOOLS - DEFAULT,2400,116847
+MODGPC116848,07-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2026.08,116848
+MODGPC116849,07-Apr-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,773.67,116849
+MODGPC116850,13-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,531.78,116850
+MODGPC116851,08-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2255,116851
+MODGPC116852,02-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,782.22,116852
+MODGPC116853,07-Apr-15,Medical Supplies and Services, DRUGS/DRUGGISTS SUNDRIES,679.92,116853
+MODGPC116854,07-Apr-15,Medical Supplies and Services, DRUGS/DRUGGISTS SUNDRIES,675.36,116854
+MODGPC116855,31-Mar-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1116,116855
+MODGPC116856,31-Mar-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,797.86,116856
+MODGPC116857,01-Apr-15,Training and Educational, SCHOOLS - DEFAULT,3300,116857
+MODGPC116858,09-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1511.02,116858
+MODGPC116859,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,780,116859
+MODGPC116860,13-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,515,116860
+MODGPC116861,08-Apr-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,3488.28,116861
+MODGPC116862,08-Apr-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,730.23,116862
+MODGPC116863,13-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,510.53,116863
+MODGPC116864,08-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1434,116864
+MODGPC116865,10-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1000,116865
+MODGPC116866,10-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,31037,116866
+MODGPC116867,02-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,550,116867
+MODGPC116868,10-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,933.64,116868
+MODGPC116869,09-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1109.05,116869
+MODGPC116870,07-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,754.78,116870
+MODGPC116871,07-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,1151.94,116871
+MODGPC116872,07-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,3786.98,116872
+MODGPC116873,01-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,537.56,116873
+MODGPC116874,08-Apr-15,Hotels/Restaurants and Bars, BARS/TAVERNS/LOUNGES/DISCOS,597.95,116874
+MODGPC116875,13-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,679.76,116875
+MODGPC116876,13-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,679.76,116876
+MODGPC116877,08-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,569.35,116877
+MODGPC116878,31-Mar-15,Professional Services, PROFESSIONAL SERVICES - DEF,2700,116878
+MODGPC116879,31-Mar-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,824.2,116879
+MODGPC116880,01-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2520,116880
+MODGPC116881,08-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,4507.2,116881
+MODGPC116882,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,1030.8,116882
+MODGPC116883,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,2613,116883
+MODGPC116884,01-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,99999,116884
+MODGPC116885,01-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,3474.6,116885
+MODGPC116886,01-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2187.8,116886
+MODGPC116887,31-Mar-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,4740,116887
+MODGPC116888,31-Mar-15,General Retail and Wholesale," GIFT, CARD, NOVELTY STORES",555.27,116888
+MODGPC116889,01-Apr-15,Miscellaneous Industrial/Commercial, WRECKING SALVAGE YARDS,1140,116889
+MODGPC116890,02-Apr-15,Training and Educational, TRADE/VOCATIONAL SCHOOLS,954,116890
+MODGPC116891,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1278,116891
+MODGPC116892,31-Mar-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,507.22,116892
+MODGPC116893,13-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,871.31,116893
+MODGPC116894,10-Apr-15,Training and Educational, SCHOOLS - DEFAULT,3499.95,116894
+MODGPC116895,08-Apr-15,Miscellaneous Industrial/Commercial," PAINT, VARNISHES & SUPPLIES",672.74,116895
+MODGPC116896,08-Apr-15,Business Clothing and Footwear, UNIFORMS & COMMERCIAL CLOTHING,1242.66,116896
+MODGPC116897,10-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,1331.82,116897
+MODGPC116898,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,6044.4,116898
+MODGPC116899,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,646.8,116899
+MODGPC116900,07-Apr-15,General Retail and Wholesale, HARDWARE STORES,1427.94,116900
+MODGPC116901,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1010.4,116901
+MODGPC116902,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1526.4,116902
+MODGPC116903,07-Apr-15,General Retail and Wholesale, HARDWARE STORES,1028.51,116903
+MODGPC116904,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1494,116904
+MODGPC116905,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,864,116905
+MODGPC116906,01-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4541.04,116906
+MODGPC116907,01-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,744.53,116907
+MODGPC116908,02-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",748.8,116908
+MODGPC116909,07-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,2777.35,116909
+MODGPC116910,01-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,16870.19,116910
+MODGPC116911,01-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,20973.96,116911
+MODGPC116912,01-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2420.46,116912
+MODGPC116913,01-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,17337.1,116913
+MODGPC116914,07-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,566.11,116914
+MODGPC116915,07-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",528,116915
+MODGPC116916,07-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",528,116916
+MODGPC116917,07-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",501.6,116917
+MODGPC116918,10-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,588,116918
+MODGPC116919,01-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,9170.88,116919
+MODGPC116920,13-Apr-15,Hotels/Restaurants and Bars, FAST FOOD RESTAURANTS,554.4,116920
+MODGPC116921,10-Apr-15,Miscellaneous Industrial/Commercial, CHEMICALS/ALLIED PRODS - DEF,805.2,116921
+MODGPC116922,07-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,4500,116922
+MODGPC116923,07-Apr-15,Freight and Storage, PUBLIC WAREHOUSING,1748.79,116923
+MODGPC116924,10-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,679.8,116924
+MODGPC116925,08-Apr-15,Medical Supplies and Services, OPTICIANS,1022.4,116925
+MODGPC116926,31-Mar-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,4400,116926
+MODGPC116927,02-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,1248.77,116927
+MODGPC116928,02-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,573.25,116928
+MODGPC116929,02-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,972,116929
+MODGPC116930,02-Apr-15,Training and Educational, SCHOOLS - DEFAULT,631.2,116930
+MODGPC116931,08-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,1729.48,116931
+MODGPC116932,13-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,5000,116932
+MODGPC116933,31-Mar-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,665.64,116933
+MODGPC116934,31-Mar-15,Telecommunication Services, TELECOMMUNICATION SERVICES,3808.62,116934
+MODGPC116935,31-Mar-15,Print and Advertising, ADVERTISING SERVICES,850,116935
+MODGPC116936,01-Apr-15,Print and Advertising, ADVERTISING SERVICES,751,116936
+MODGPC116937,31-Mar-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,4872,116937
+MODGPC116938,13-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,1440,116938
+MODGPC116939,02-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,683.8,116939
+MODGPC116940,07-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,3180,116940
+MODGPC116941,13-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1394.4,116941
+MODGPC116942,07-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1559.27,116942
+MODGPC116943,10-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1268.06,116943
+MODGPC116944,31-Mar-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,500,116944
+MODGPC116945,31-Mar-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,500,116945
+MODGPC116946,10-Apr-15,Catering and Catering Supplies, CATERERS,2418.48,116946
+MODGPC116947,31-Mar-15,Statutory Bodies, GOV'T SERV - DEFAULT,11601.6,116947
+MODGPC116948,13-Apr-15,Building Services, ELECTRICAL CONTRACTORS,3575.93,116948
+MODGPC116949,10-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,828,116949
+MODGPC116950,09-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,4213.44,116950
+MODGPC116951,31-Mar-15,General Retail and Wholesale, MUSIC STORES/PIANOS,1391.45,116951
+MODGPC116952,13-Apr-15,Building Materials, CONSTRUCTION MATERIALS - DEF,4544.4,116952
+MODGPC116953,31-Mar-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,823.2,116953
+MODGPC116954,31-Mar-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1009.2,116954
+MODGPC116955,01-Apr-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,682.08,116955
+MODGPC116956,31-Mar-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,1159.96,116956
+MODGPC116957,09-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1188,116957
+MODGPC116958,10-Apr-15,General Retail and Wholesale, PET STORES/FOOD & SUPPLY,720,116958
+MODGPC116959,13-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,501.96,116959
+MODGPC116960,07-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,509.94,116960
+MODGPC116961,07-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1413.6,116961
+MODGPC116962,09-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,736.39,116962
+MODGPC116963,31-Mar-15,Training and Educational, SCHOOLS - DEFAULT,1050,116963
+MODGPC116964,31-Mar-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,1689.6,116964
+MODGPC116965,08-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,1140,116965
+MODGPC116966,10-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1627.2,116966
+MODGPC116967,31-Mar-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1373.28,116967
+MODGPC116968,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2508,116968
+MODGPC116969,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,684,116969
+MODGPC116970,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4155.55,116970
+MODGPC116971,09-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1026,116971
+MODGPC116972,09-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2260.87,116972
+MODGPC116973,02-Apr-15,Building Services, GEN CONTRACTORS RESIDENTL/COML,1402.6,116973
+MODGPC116974,02-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,1218.03,116974
+MODGPC116975,08-Apr-15,Utilities and Non Automotive Fuel, UTILITIES/ELEC/GAS/H2O/SANI,1168.15,116975
+MODGPC116976,02-Apr-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,4934.4,116976
+MODGPC116977,09-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1586.34,116977
+MODGPC116978,09-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,960,116978
+MODGPC116979,08-Apr-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,2313.51,116979
+MODGPC116980,07-Apr-15,General Retail and Wholesale, HARDWARE STORES,1711.2,116980
+MODGPC116981,10-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1030.52,116981
+MODGPC116982,10-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,573.69,116982
+MODGPC116983,31-Mar-15,Print and Advertising, MISC PUBLISHING & PRINTING,4095,116983
+MODGPC116984,08-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,3294,116984
+MODGPC116985,01-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,8893.44,116985
+MODGPC116986,13-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,618,116986
+MODGPC116987,02-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,2295.37,116987
+MODGPC116988,02-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,2982.6,116988
+MODGPC116989,02-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,1955.1,116989
+MODGPC116990,02-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,15072.89,116990
+MODGPC116991,08-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,5184,116991
+MODGPC116992,08-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,1200,116992
+MODGPC116993,08-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,759.6,116993
+MODGPC116994,08-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,4380,116994
+MODGPC116995,01-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,21002.4,116995
+MODGPC116996,13-Apr-15,General Retail and Wholesale, HARDWARE STORES,747.1,116996
+MODGPC116997,13-Apr-15,General Retail and Wholesale, HARDWARE STORES,778.27,116997
+MODGPC116998,13-Apr-15,General Retail and Wholesale, HARDWARE STORES,17160.19,116998
+MODGPC116999,13-Apr-15,General Retail and Wholesale, HARDWARE STORES,766.66,116999
+MODGPC117000,13-Apr-15,General Retail and Wholesale, HARDWARE STORES,9499.39,117000
+MODGPC117001,13-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,14385.02,117001
+MODGPC117002,13-Apr-15,General Retail and Wholesale, HARDWARE STORES,3224.42,117002
+MODGPC117003,01-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,552.24,117003
+MODGPC117004,31-Mar-15,Training and Educational, BUSINESS/SECRETARIAL SCHOOL,1194,117004
+MODGPC117005,01-Apr-15,General Retail and Wholesale, COMBINATION CATALOG & RETAIL,2153.88,117005
+MODGPC117006,14-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,3384,117006
+MODGPC117007,24-Apr-15,Building Materials, CONSTRUCTION MATERIALS - DEF,3065.71,117007
+MODGPC117008,17-Apr-15,Building Services, MASONRY/TILE/PLASTER/INSUL,2942.08,117008
+MODGPC117009,17-Apr-15,Building Services, MASONRY/TILE/PLASTER/INSUL,534,117009
+MODGPC117010,17-Apr-15,Building Services, MASONRY/TILE/PLASTER/INSUL,770.99,117010
+MODGPC117011,23-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,1827.9,117011
+MODGPC117012,23-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,722.1,117012
+MODGPC117013,21-Apr-15,General Retail and Wholesale, FABRIC STORES,1992,117013
+MODGPC117014,21-Apr-15,General Retail and Wholesale, FABRIC STORES,1982.04,117014
+MODGPC117015,21-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1040,117015
+MODGPC117016,21-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1960,117016
+MODGPC117017,22-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1837.92,117017
+MODGPC117018,22-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1837.92,117018
+MODGPC117019,19-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",1705.5,117019
+MODGPC117020,17-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",4316.4,117020
+MODGPC117021,21-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,2371.2,117021
+MODGPC117022,21-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,2166.66,117022
+MODGPC117023,20-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,783,117023
+MODGPC117024,28-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,1800,117024
+MODGPC117025,14-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,2370,117025
+MODGPC117026,14-Apr-15,Training and Educational, SCHOOLS - DEFAULT,1215,117026
+MODGPC117027,21-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,2202.53,117027
+MODGPC117028,27-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",558.4,117028
+MODGPC117029,25-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,1000,117029
+MODGPC117030,20-Apr-15,Vehicles Servicing and Spares, CAR & TRUCK DEALERS/USED ONLY,1373.66,117030
+MODGPC117031,27-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,638.02,117031
+MODGPC117032,22-Apr-15,Financial Services, INSURANCE SALES/UNDERWRITE,3279.64,117032
+MODGPC117033,26-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,679.98,117033
+MODGPC117034,26-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,599.99,117034
+MODGPC117035,28-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,599.99,117035
+MODGPC117036,23-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1738,117036
+MODGPC117037,23-Apr-15,Training and Educational, SCHOOLS - DEFAULT,3335,117037
+MODGPC117038,23-Apr-15,Training and Educational, SCHOOLS - DEFAULT,2922,117038
+MODGPC117039,23-Apr-15,Training and Educational, SCHOOLS - DEFAULT,1573,117039
+MODGPC117040,23-Apr-15,Training and Educational, SCHOOLS - DEFAULT,805,117040
+MODGPC117041,24-Apr-15,Training and Educational, SCHOOLS - DEFAULT,4362,117041
+MODGPC117042,30-Apr-15,Training and Educational, SCHOOLS - DEFAULT,2129.4,117042
+MODGPC117043,17-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,672,117043
+MODGPC117044,14-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,1257,117044
+MODGPC117045,14-Apr-15,Leisure Activities, COMMERCIAL/PRO SPORTS,837.04,117045
+MODGPC117046,14-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,1350,117046
+MODGPC117047,14-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,1188,117047
+MODGPC117048,16-Apr-15,Leisure Activities, HEALTH & BEAUTY SPAS,712.8,117048
+MODGPC117049,17-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,2448,117049
+MODGPC117050,17-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,744,117050
+MODGPC117051,17-Apr-15,Leisure Activities, SPORT/RECREATIONAL CAMPS,720,117051
+MODGPC117052,17-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,2705.04,117052
+MODGPC117053,20-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,796,117053
+MODGPC117054,27-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,599.76,117054
+MODGPC117055,27-Apr-15,Leisure Activities, RECREATION SERVICES,1100,117055
+MODGPC117056,24-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,597.6,117056
+MODGPC117057,20-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,792,117057
+MODGPC117058,22-Apr-15,General Retail and Wholesale," HOBBY, TOY & GAME SHOPS",5330.83,117058
+MODGPC117059,21-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,621.6,117059
+MODGPC117060,23-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,1177.54,117060
+MODGPC117061,15-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,2281.67,117061
+MODGPC117062,22-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1308.76,117062
+MODGPC117063,30-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,609.13,117063
+MODGPC117064,17-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,727.92,117064
+MODGPC117065,27-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2448.92,117065
+MODGPC117066,15-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,1525.72,117066
+MODGPC117067,20-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,775.51,117067
+MODGPC117068,14-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,3770.4,117068
+MODGPC117069,29-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1000,117069
+MODGPC117070,29-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1000,117070
+MODGPC117071,16-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,512.64,117071
+MODGPC117072,22-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,794.4,117072
+MODGPC117073,22-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,846,117073
+MODGPC117074,14-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,4531.08,117074
+MODGPC117075,21-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,530,117075
+MODGPC117076,17-Apr-15,Professional Services, ACCOUNTANTS/AUDITORS/BOOKPR,1314,117076
+MODGPC117077,17-Apr-15,Professional Services, ACCOUNTANTS/AUDITORS/BOOKPR,2358,117077
+MODGPC117078,21-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,714,117078
+MODGPC117079,21-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,654,117079
+MODGPC117080,17-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,8293.5,117080
+MODGPC117081,28-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,18994.5,117081
+MODGPC117082,27-Apr-15,Building Services, CARPENTRY,1250,117082
+MODGPC117083,17-Apr-15,Catering and Catering Supplies, CATERERS,1852.58,117083
+MODGPC117084,27-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,778.78,117084
+MODGPC117085,27-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,1320,117085
+MODGPC117086,30-Apr-15,General Retail and Wholesale, MEN/BOYS CLOTHING/ACC STORES,1226.4,117086
+MODGPC117087,30-Apr-15,General Retail and Wholesale, FAMILY CLOTHING STORES,2208,117087
+MODGPC117088,27-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1026,117088
+MODGPC117089,23-Apr-15,General Retail and Wholesale, MISC APPAREL/ACCESS STORES,1029.58,117089
+MODGPC117090,21-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2282.4,117090
+MODGPC117091,22-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,624,117091
+MODGPC117092,15-Apr-15,General Retail and Wholesale, MISC APPAREL/ACCESS STORES,2711.97,117092
+MODGPC117093,20-Apr-15,General Retail and Wholesale, HARDWARE STORES,2202,117093
+MODGPC117094,27-Apr-15,General Retail and Wholesale, MISC APPAREL/ACCESS STORES,525.3,117094
+MODGPC117095,15-Apr-15,General Retail and Wholesale, DEPARTMENT STORES,584.95,117095
+MODGPC117096,29-Apr-15,Medical Supplies and Services, OPTICIANS,850,117096
+MODGPC117097,23-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,600,117097
+MODGPC117098,15-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,3514.55,117098
+MODGPC117099,28-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,9938.4,117099
+MODGPC117100,17-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,719,117100
+MODGPC117101,14-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1692.74,117101
+MODGPC117102,20-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,600,117102
+MODGPC117103,20-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,6985.79,117103
+MODGPC117104,28-Apr-15,Staff - Temporary Recruitment, EMPLOYMENT/TEMP HELP AGEN,528,117104
+MODGPC117105,20-Apr-15,Training and Educational, SCHOOLS - DEFAULT,650,117105
+MODGPC117106,28-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,9806.4,117106
+MODGPC117107,30-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,3548,117107
+MODGPC117108,23-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2400.66,117108
+MODGPC117109,24-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1609,117109
+MODGPC117110,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1068.35,117110
+MODGPC117111,28-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,594.54,117111
+MODGPC117112,24-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,688.46,117112
+MODGPC117113,24-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,2130.73,117113
+MODGPC117114,27-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1590,117114
+MODGPC117115,27-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,22650.5,117115
+MODGPC117116,27-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,984.87,117116
+MODGPC117117,27-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,989.5,117117
+MODGPC117118,29-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,1088.82,117118
+MODGPC117119,29-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,506.5,117119
+MODGPC117120,29-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,670.46,117120
+MODGPC117121,27-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,557.7,117121
+MODGPC117122,28-Apr-15,Vehicles Servicing and Spares, CAR & TRUCK DEALERS/USED ONLY,916.33,117122
+MODGPC117123,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,548.4,117123
+MODGPC117124,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1010.4,117124
+MODGPC117125,24-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,25584,117125
+MODGPC117126,21-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,53952.88,117126
+MODGPC117127,22-Apr-15,General Retail and Wholesale, HARDWARE STORES,756.48,117127
+MODGPC117128,22-Apr-15,General Retail and Wholesale, HARDWARE STORES,1968.3,117128
+MODGPC117129,22-Apr-15,General Retail and Wholesale, HARDWARE STORES,1500.84,117129
+MODGPC117130,22-Apr-15,General Retail and Wholesale, HARDWARE STORES,858.9,117130
+MODGPC117131,22-Apr-15,General Retail and Wholesale, HARDWARE STORES,577.08,117131
+MODGPC117132,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,741,117132
+MODGPC117133,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1482.24,117133
+MODGPC117134,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,814.68,117134
+MODGPC117135,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,647.64,117135
+MODGPC117136,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,3708,117136
+MODGPC117137,23-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,922.56,117137
+MODGPC117138,29-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1299.84,117138
+MODGPC117139,16-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,4991.18,117139
+MODGPC117140,17-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,2187.11,117140
+MODGPC117141,23-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,10330.86,117141
+MODGPC117142,21-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1567.1,117142
+MODGPC117143,21-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,550.8,117143
+MODGPC117144,21-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1824,117144
+MODGPC117145,20-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,689.09,117145
+MODGPC117146,17-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1543.8,117146
+MODGPC117147,17-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1995,117147
+MODGPC117148,17-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,6789,117148
+MODGPC117149,17-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,8689.92,117149
+MODGPC117150,17-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,5828.76,117150
+MODGPC117151,17-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,3258.72,117151
+MODGPC117152,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,3401.59,117152
+MODGPC117153,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1561.2,117153
+MODGPC117154,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1079.4,117154
+MODGPC117155,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1482.24,117155
+MODGPC117156,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2893.97,117156
+MODGPC117157,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,586.58,117157
+MODGPC117158,24-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,630.4,117158
+MODGPC117159,24-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1140,117159
+MODGPC117160,17-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,880.63,117160
+MODGPC117161,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1640.16,117161
+MODGPC117162,14-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",566.4,117162
+MODGPC117163,23-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,509.7,117163
+MODGPC117164,15-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,2389.32,117164
+MODGPC117165,20-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,730.37,117165
+MODGPC117166,14-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,596.4,117166
+MODGPC117167,23-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,501.02,117167
+MODGPC117168,27-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,957.96,117168
+MODGPC117169,24-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,2170.2,117169
+MODGPC117170,27-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,795.6,117170
+MODGPC117171,20-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,872.35,117171
+MODGPC117172,20-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,1122.66,117172
+MODGPC117173,22-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,826.5,117173
+MODGPC117174,16-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1076.36,117174
+MODGPC117175,17-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,2160,117175
+MODGPC117176,15-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,985.66,117176
+MODGPC117177,15-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,513.6,117177
+MODGPC117178,14-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1285.72,117178
+MODGPC117179,14-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,999.69,117179
+MODGPC117180,24-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,777.6,117180
+MODGPC117181,29-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,897.58,117181
+MODGPC117182,30-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,2340,117182
+MODGPC117183,28-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,1080,117183
+MODGPC117184,23-Apr-15,Estate and Garden Services," NURSERIES, LAWN/GARDEN SUPPLY",1602.81,117184
+MODGPC117185,20-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,617.76,117185
+MODGPC117186,30-Apr-15,General Retail and Wholesale," GIFT, CARD, NOVELTY STORES",1771.2,117186
+MODGPC117187,29-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,660,117187
+MODGPC117188,14-Apr-15,Leisure Activities, BOAT DEALERS,990,117188
+MODGPC117189,21-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,794.4,117189
+MODGPC117190,27-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,511.2,117190
+MODGPC117191,20-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,1200,117191
+MODGPC117192,22-Apr-15,Training and Educational, SCHOOLS - DEFAULT,1380,117192
+MODGPC117193,15-Apr-15,Vehicles Servicing and Spares, AUTO BODY REPAIR SHOPS,645.75,117193
+MODGPC117194,21-Apr-15,Vehicles Servicing and Spares, AUTO BODY REPAIR SHOPS,913.92,117194
+MODGPC117195,21-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,2999.22,117195
+MODGPC117196,21-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,2999.22,117196
+MODGPC117197,06-Feb-15,Estate and Garden Services," NURSERIES, LAWN/GARDEN SUPPLY",2212.28,117197
+MODGPC117198,27-Apr-15,Estate and Garden Services," NURSERIES, LAWN/GARDEN SUPPLY",737.53,117198
+MODGPC117199,30-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,687.15,117199
+MODGPC117200,24-Apr-15,Training and Educational, SCHOOLS - DEFAULT,544.2,117200
+MODGPC117201,16-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,602.91,117201
+MODGPC117202,30-Apr-15,Vehicles Servicing and Spares, MOTOR VEHICLE SUPPLY/NEW PARTS,647.23,117202
+MODGPC117203,28-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1410.35,117203
+MODGPC117204,29-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,521.74,117204
+MODGPC117205,14-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,764.78,117205
+MODGPC117206,21-Apr-15,General Retail and Wholesale, HARDWARE STORES,1571.39,117206
+MODGPC117207,27-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1406.4,117207
+MODGPC117208,15-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,4390,117208
+MODGPC117209,15-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,933.6,117209
+MODGPC117210,21-Apr-15,Cleaning Services and Supplies, LAUNDRY/CLEANING/GARMENT SV,1828.8,117210
+MODGPC117211,29-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,954.36,117211
+MODGPC117212,23-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,772.5,117212
+MODGPC117213,30-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,509.32,117213
+MODGPC117214,30-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,646.88,117214
+MODGPC117215,16-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,589.2,117215
+MODGPC117216,14-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,708,117216
+MODGPC117217,14-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,828.47,117217
+MODGPC117218,16-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,691.8,117218
+MODGPC117219,28-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1496,117219
+MODGPC117220,28-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1048.8,117220
+MODGPC117221,28-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1573.25,117221
+MODGPC117222,28-Apr-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,882.46,117222
+MODGPC117223,19-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,591,117223
+MODGPC117224,28-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,1614.94,117224
+MODGPC117225,28-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,1262.3,117225
+MODGPC117226,29-Apr-15,Leisure Activities, BOAT DEALERS,2336.59,117226
+MODGPC117227,16-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,1159.15,117227
+MODGPC117228,14-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1329,117228
+MODGPC117229,30-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,996.96,117229
+MODGPC117230,24-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,980.82,117230
+MODGPC117231,16-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1598.4,117231
+MODGPC117232,16-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1239.6,117232
+MODGPC117233,16-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1552.8,117233
+MODGPC117234,16-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1610.4,117234
+MODGPC117235,15-Apr-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,522.02,117235
+MODGPC117236,17-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,1008,117236
+MODGPC117237,30-Apr-15,General Retail and Wholesale, VARIETY STORES,600,117237
+MODGPC117238,14-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,569.33,117238
+MODGPC117239,17-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,650.56,117239
+MODGPC117240,20-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,1370.1,117240
+MODGPC117241,30-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,968.76,117241
+MODGPC117242,20-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,1081.09,117242
+MODGPC117243,28-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1578,117243
+MODGPC117244,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1410.35,117244
+MODGPC117245,15-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,576,117245
+MODGPC117246,30-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,552,117246
+MODGPC117247,26-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,536.98,117247
+MODGPC117248,26-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,599.99,117248
+MODGPC117249,26-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,539.99,117249
+MODGPC117250,17-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,1662,117250
+MODGPC117251,21-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1236.25,117251
+MODGPC117252,22-Apr-15,Auto Rental,Auto Rental,645.13,117252
+MODGPC117253,28-Apr-15,General Retail and Wholesale, RECORD STORES,840,117253
+MODGPC117254,30-Apr-15,General Retail and Wholesale, VARIETY STORES,770.53,117254
+MODGPC117255,23-Apr-15,Miscellaneous Industrial/Commercial, CHEMICALS/ALLIED PRODS - DEF,740.83,117255
+MODGPC117256,27-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,3000,117256
+MODGPC117257,22-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,827.84,117257
+MODGPC117258,28-Apr-15,Professional Services, VETERINARY SERVICES,1248.42,117258
+MODGPC117259,14-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,768,117259
+MODGPC117260,24-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,720,117260
+MODGPC117261,16-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,500,117261
+MODGPC117262,14-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,641.57,117262
+MODGPC117263,21-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,815.8,117263
+MODGPC117264,20-Apr-15,Business Clothing and Footwear, UNIFORMS & COMMERCIAL CLOTHING,782.4,117264
+MODGPC117265,24-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,2258.93,117265
+MODGPC117266,15-Apr-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,783.1,117266
+MODGPC117267,14-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,4986,117267
+MODGPC117268,14-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,2829.66,117268
+MODGPC117269,14-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,4986,117269
+MODGPC117270,27-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,2421.23,117270
+MODGPC117271,14-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1098,117271
+MODGPC117272,28-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1317.6,117272
+MODGPC117273,28-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,516.48,117273
+MODGPC117274,29-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,515,117274
+MODGPC117275,16-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1410.35,117275
+MODGPC117276,20-Apr-15,Vehicles Servicing and Spares, AUTO BODY REPAIR SHOPS,972,117276
+MODGPC117277,20-Apr-15,Vehicles Servicing and Spares, AUTO BODY REPAIR SHOPS,794.4,117277
+MODGPC117278,21-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,804.34,117278
+MODGPC117279,15-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",524.34,117279
+MODGPC117280,23-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,637.22,117280
+MODGPC117281,23-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,638.11,117281
+MODGPC117282,16-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,565.8,117282
+MODGPC117283,17-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,945,117283
+MODGPC117284,20-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,672,117284
+MODGPC117285,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,902.4,117285
+MODGPC117286,28-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,751.2,117286
+MODGPC117287,21-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,1151.04,117287
+MODGPC117288,20-Apr-15,Catering and Catering Supplies, MISC FOOD STORES - DEFAULT,887.88,117288
+MODGPC117289,20-Apr-15,Catering and Catering Supplies, MISC FOOD STORES - DEFAULT,3128.78,117289
+MODGPC117290,20-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,1672.93,117290
+MODGPC117291,21-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,720,117291
+MODGPC117292,30-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,3000,117292
+MODGPC117293,14-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,3116.88,117293
+MODGPC117294,21-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,529.18,117294
+MODGPC117295,14-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,2086.87,117295
+MODGPC117296,15-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,2086.87,117296
+MODGPC117297,27-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,5227.92,117297
+MODGPC117298,20-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,3113.56,117298
+MODGPC117299,23-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,900.2,117299
+MODGPC117300,28-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,14385,117300
+MODGPC117301,21-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1568.82,117301
+MODGPC117302,27-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,7985.76,117302
+MODGPC117303,27-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2987.1,117303
+MODGPC117304,27-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,506.5,117304
+MODGPC117305,22-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,855.26,117305
+MODGPC117306,22-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,16001.02,117306
+MODGPC117307,16-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,3347.16,117307
+MODGPC117308,30-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,846,117308
+MODGPC117309,29-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2593.1,117309
+MODGPC117310,30-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,523.65,117310
+MODGPC117311,30-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1836,117311
+MODGPC117312,29-Apr-15,Catering and Catering Supplies, CATERERS,512.11,117312
+MODGPC117313,20-Apr-15,Estate and Garden Services," NURSERIES, LAWN/GARDEN SUPPLY",991.68,117313
+MODGPC117314,17-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,10016.86,117314
+MODGPC117315,21-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,8659.24,117315
+MODGPC117316,28-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",900,117316
+MODGPC117317,20-Apr-15,Mail and Courier Services, POSTAGE STAMPS,699.78,117317
+MODGPC117318,30-Apr-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,831.9,117318
+MODGPC117319,24-Apr-15,General Retail and Wholesale, MISC HOME FURNISHING SPECIALTY,555.1,117319
+MODGPC117320,16-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,4320,117320
+MODGPC117321,27-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,2577.06,117321
+MODGPC117322,22-Apr-15,Leisure Activities, BOAT DEALERS,1033.2,117322
+MODGPC117323,23-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",1377.38,117323
+MODGPC117324,23-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",5000,117324
+MODGPC117325,17-Apr-15,Leisure Activities, BOAT DEALERS,604.6,117325
+MODGPC117326,20-Apr-15,Leisure Activities, BOAT DEALERS,2423.59,117326
+MODGPC117327,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,5652.65,117327
+MODGPC117328,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,8960.6,117328
+MODGPC117329,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,827.42,117329
+MODGPC117330,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1701.17,117330
+MODGPC117331,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,8960.6,117331
+MODGPC117332,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,7377.66,117332
+MODGPC117333,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,8960.6,117333
+MODGPC117334,14-Apr-15,General Retail and Wholesale, SHOE STORES,1317.38,117334
+MODGPC117335,22-Apr-15,Mail and Courier Services, POSTAGE STAMPS,900,117335
+MODGPC117336,14-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,2670,117336
+MODGPC117337,23-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,540,117337
+MODGPC117338,21-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,1110,117338
+MODGPC117339,23-Apr-15,Training and Educational, TRADE/VOCATIONAL SCHOOLS,1794,117339
+MODGPC117340,20-Apr-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,2471.11,117340
+MODGPC117341,21-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,11052,117341
+MODGPC117342,23-Apr-15,General Retail and Wholesale, CHILDREN/INFANTS WEAR STORES,3000,117342
+MODGPC117343,23-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1231.16,117343
+MODGPC117344,16-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,1601.26,117344
+MODGPC117345,15-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,3742.82,117345
+MODGPC117346,15-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,2413.18,117346
+MODGPC117347,20-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,2754.65,117347
+MODGPC117348,17-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,531.3,117348
+MODGPC117349,15-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,900,117349
+MODGPC117350,15-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,900,117350
+MODGPC117351,15-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,504,117351
+MODGPC117352,17-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,704.14,117352
+MODGPC117353,20-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,652.8,117353
+MODGPC117354,23-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,731.49,117354
+MODGPC117355,23-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1042.08,117355
+MODGPC117356,21-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,870.25,117356
+MODGPC117357,21-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,3177.84,117357
+MODGPC117358,29-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1230,117358
+MODGPC117359,22-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,503.5,117359
+MODGPC117360,23-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2251.39,117360
+MODGPC117361,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1775.81,117361
+MODGPC117362,27-Apr-15,Medical Supplies and Services, HEARING AID/SALES/SERVICE,588,117362
+MODGPC117363,27-Apr-15,Medical Supplies and Services, HEARING AID/SALES/SERVICE,588,117363
+MODGPC117364,14-Apr-15,Medical Supplies and Services, MEDICAL/DENTAL LABS,3673.2,117364
+MODGPC117365,14-Apr-15,Medical Supplies and Services, MEDICAL/DENTAL LABS,2853.6,117365
+MODGPC117366,14-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1245,117366
+MODGPC117367,15-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1691.04,117367
+MODGPC117368,21-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1324.8,117368
+MODGPC117369,27-Apr-15,Medical Supplies and Services, MEDICAL/DENTAL LABS,5922.72,117369
+MODGPC117370,30-Apr-15,Medical Supplies and Services, MEDICAL/DENTAL LABS,3384.96,117370
+MODGPC117371,15-Apr-15,Medical Supplies and Services, HEARING AID/SALES/SERVICE,1851.59,117371
+MODGPC117372,20-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,117372
+MODGPC117373,20-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,562.8,117373
+MODGPC117374,21-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,117374
+MODGPC117375,21-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,117375
+MODGPC117376,21-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,117376
+MODGPC117377,27-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,117377
+MODGPC117378,28-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,117378
+MODGPC117379,28-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,117379
+MODGPC117380,28-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,552,117380
+MODGPC117381,14-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1334.94,117381
+MODGPC117382,16-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,721.2,117382
+MODGPC117383,20-Apr-15,Miscellaneous Industrial/Commercial, CHEMICALS/ALLIED PRODS - DEF,1510.38,117383
+MODGPC117384,23-Apr-15,Miscellaneous Industrial/Commercial, CHEMICALS/ALLIED PRODS - DEF,500.86,117384
+MODGPC117385,28-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,610.8,117385
+MODGPC117386,28-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,805,117386
+MODGPC117387,30-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",629.4,117387
+MODGPC117388,28-Apr-15,Building Services, ELECTRICAL CONTRACTORS,1600,117388
+MODGPC117389,30-Apr-15,General Retail and Wholesale, HARDWARE STORES,933.9,117389
+MODGPC117390,27-Apr-15,Leisure Activities, BOAT DEALERS,820.69,117390
+MODGPC117391,21-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,765,117391
+MODGPC117392,21-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,934.91,117392
+MODGPC117393,20-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,837.05,117393
+MODGPC117394,20-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,2086.66,117394
+MODGPC117395,24-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,3375,117395
+MODGPC117396,29-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,4635,117396
+MODGPC117397,28-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,4000,117397
+MODGPC117398,29-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,590.4,117398
+MODGPC117399,17-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,565.9,117399
+MODGPC117400,29-Apr-15,Vehicles Servicing and Spares, CAR & TRUCK DEALERS/NEW/USED,936,117400
+MODGPC117401,16-Apr-15,Auto Rental,Auto Rental,598.92,117401
+MODGPC117402,24-Apr-15,General Retail and Wholesale, LUGGAGE/LEATHER STORES,751.73,117402
+MODGPC117403,17-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,3071.31,117403
+MODGPC117404,22-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,1527.79,117404
+MODGPC117405,27-Apr-15,General Retail and Wholesale, ARTIST/CRAFT SHOPS,601.69,117405
+MODGPC117406,20-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,531.2,117406
+MODGPC117407,20-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,664,117407
+MODGPC117408,20-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,637.44,117408
+MODGPC117409,14-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,691.46,117409
+MODGPC117410,14-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1968.72,117410
+MODGPC117411,28-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,549.42,117411
+MODGPC117412,29-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,745.36,117412
+MODGPC117413,29-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,2616,117413
+MODGPC117414,20-Apr-15,Mail Order / Direct Selling, CONTINUITY/SUBSCRIPTION MERCHT,575.28,117414
+MODGPC117415,20-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,507.54,117415
+MODGPC117416,20-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,1286.21,117416
+MODGPC117417,22-Apr-15,Training and Educational, SCHOOLS - DEFAULT,1076.4,117417
+MODGPC117418,22-Apr-15,Training and Educational, SCHOOLS - DEFAULT,1076.4,117418
+MODGPC117419,15-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,538.56,117419
+MODGPC117420,20-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1702.51,117420
+MODGPC117421,29-Apr-15,Training and Educational, SCHOOLS - DEFAULT,1794,117421
+MODGPC117422,14-Apr-15,Building Materials, CONSTRUCTION MATERIALS - DEF,3102.91,117422
+MODGPC117423,20-Apr-15,General Retail and Wholesale, COMBINATION CATALOG & RETAIL,1824.77,117423
+MODGPC117424,23-Apr-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,547.86,117424
+MODGPC117425,28-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,547.2,117425
+MODGPC117426,20-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,1271.52,117426
+MODGPC117427,20-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,5400,117427
+MODGPC117428,21-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,3021.9,117428
+MODGPC117429,22-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,977.83,117429
+MODGPC117430,28-Apr-15,Leisure Activities, TOURIST ATTRACTIONS AND XHBT,1470,117430
+MODGPC117431,28-Apr-15,Leisure Activities, TOURIST ATTRACTIONS AND XHBT,1185,117431
+MODGPC117432,20-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,813.03,117432
+MODGPC117433,27-Apr-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,2043.06,117433
+MODGPC117434,17-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,729.36,117434
+MODGPC117435,20-Apr-15,General Retail and Wholesale, TENT AND AWNING SHOPS,523.99,117435
+MODGPC117436,15-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,537.59,117436
+MODGPC117437,29-Apr-15,Building Materials, CONSTRUCTION MATERIALS - DEF,1520.22,117437
+MODGPC117438,21-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1123.63,117438
+MODGPC117439,22-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,819.38,117439
+MODGPC117440,28-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,1550.88,117440
+MODGPC117441,22-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,4832.42,117441
+MODGPC117442,22-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,1584.3,117442
+MODGPC117443,22-Apr-15,Freight and Storage, MOTOR FREIGHT CARRIERS,4832.42,117443
+MODGPC117444,29-Apr-15,General Retail and Wholesale, HARDWARE STORES,972,117444
+MODGPC117445,30-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,1640,117445
+MODGPC117446,28-Apr-15,Leisure Activities, BOAT DEALERS,3036,117446
+MODGPC117447,28-Apr-15,Leisure Activities, BOAT DEALERS,2973.6,117447
+MODGPC117448,15-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1800.84,117448
+MODGPC117449,30-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1772.95,117449
+MODGPC117450,28-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,696.26,117450
+MODGPC117451,29-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,1143.8,117451
+MODGPC117452,23-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,540,117452
+MODGPC117453,22-Apr-15,Books and Periodicals, BOOK STORES,1255.5,117453
+MODGPC117454,21-Apr-15,Building Materials, CONSTRUCTION MATERIALS - DEF,1254.71,117454
+MODGPC117455,16-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,696,117455
+MODGPC117456,23-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,2988,117456
+MODGPC117457,27-Apr-15,Cleaning Services and Supplies, LAUNDRY/CLEANING/GARMENT SV,931.94,117457
+MODGPC117458,16-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,1651.08,117458
+MODGPC117459,21-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,2320.8,117459
+MODGPC117460,21-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,2808.98,117460
+MODGPC117461,23-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,3307.2,117461
+MODGPC117462,24-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,4137.6,117462
+MODGPC117463,17-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1199.29,117463
+MODGPC117464,21-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,1440,117464
+MODGPC117465,22-Apr-15,Mail Order / Direct Selling, CONTINUITY/SUBSCRIPTION MERCHT,845.64,117465
+MODGPC117466,21-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,741.74,117466
+MODGPC117467,22-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1937.4,117467
+MODGPC117468,20-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1500,117468
+MODGPC117469,28-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1500,117469
+MODGPC117470,23-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,900,117470
+MODGPC117471,16-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1998.03,117471
+MODGPC117472,29-Apr-15,Print and Advertising, ADVERTISING SERVICES,1554,117472
+MODGPC117473,29-Apr-15,Leisure Activities, RECREATION SERVICES,2475,117473
+MODGPC117474,20-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1558.8,117474
+MODGPC117475,21-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,1110,117475
+MODGPC117476,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,4825.2,117476
+MODGPC117477,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,3144,117477
+MODGPC117478,24-Apr-15,Training and Educational, BUSINESS/SECRETARIAL SCHOOL,4248,117478
+MODGPC117479,15-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,9240,117479
+MODGPC117480,15-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,548.71,117480
+MODGPC117481,17-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,536.4,117481
+MODGPC117482,21-Apr-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,2700,117482
+MODGPC117483,29-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,701.14,117483
+MODGPC117484,14-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1478.21,117484
+MODGPC117485,23-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,713.64,117485
+MODGPC117486,17-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1538.13,117486
+MODGPC117487,22-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,902.4,117487
+MODGPC117488,16-Apr-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,520.92,117488
+MODGPC117489,23-Apr-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,1374.18,117489
+MODGPC117490,14-Apr-15,General Retail and Wholesale, SHOE STORES,2321.58,117490
+MODGPC117491,29-Apr-15,General Retail and Wholesale, DISCOUNT STORES,1143.76,117491
+MODGPC117492,30-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,1194,117492
+MODGPC117493,17-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,909,117493
+MODGPC117494,16-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,54114,117494
+MODGPC117495,20-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,63171.9,117495
+MODGPC117496,20-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,31877.1,117496
+MODGPC117497,23-Apr-15,Computer Equipment & Services, COMPUTER NETWORK/INFO SVCS,4835.51,117497
+MODGPC117498,29-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,68058,117498
+MODGPC117499,28-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,1892.71,117499
+MODGPC117500,20-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,3228,117500
+MODGPC117501,15-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1165.2,117501
+MODGPC117502,16-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,71820,117502
+MODGPC117503,21-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,18000,117503
+MODGPC117504,20-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,2367,117504
+MODGPC117505,20-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,766.56,117505
+MODGPC117506,28-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,4363.2,117506
+MODGPC117507,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,117507
+MODGPC117508,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,117508
+MODGPC117509,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,117509
+MODGPC117510,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,3360,117510
+MODGPC117511,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,3360,117511
+MODGPC117512,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,117512
+MODGPC117513,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,117513
+MODGPC117514,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,117514
+MODGPC117515,15-Apr-15,Telecommunication Services, CABLE/PAY TV SERVICES,1015.2,117515
+MODGPC117516,16-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,18035.69,117516
+MODGPC117517,26-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,678.9,117517
+MODGPC117518,14-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,872.5,117518
+MODGPC117519,14-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,774.58,117519
+MODGPC117520,17-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,752.78,117520
+MODGPC117521,24-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,3366.08,117521
+MODGPC117522,20-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",813.6,117522
+MODGPC117523,16-Apr-15,Medical Supplies and Services, HEARING AID/SALES/SERVICE,1842,117523
+MODGPC117524,24-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,1208.94,117524
+MODGPC117525,14-Apr-15,Print and Advertising, COMMERCIAL PHOTO/ART/GRAPH,1334.23,117525
+MODGPC117526,27-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,3146.15,117526
+MODGPC117527,14-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,19494,117527
+MODGPC117528,29-Apr-15,Catering and Catering Supplies, MISC FOOD STORES - DEFAULT,1319.06,117528
+MODGPC117529,23-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,3805.95,117529
+MODGPC117530,16-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,1657.26,117530
+MODGPC117531,17-Apr-15,General Retail and Wholesale, SHOE STORES,2231.94,117531
+MODGPC117532,20-Apr-15,General Retail and Wholesale, TAILOR/SEAMSTRESS/ALTERS,2759,117532
+MODGPC117533,20-Apr-15,General Retail and Wholesale, SHOE STORES,1235.66,117533
+MODGPC117534,21-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,4419.19,117534
+MODGPC117535,29-Apr-15,General Retail and Wholesale, SPORTS/RIDING APPAREL STORES,2160,117535
+MODGPC117536,29-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,4608.48,117536
+MODGPC117537,29-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,585.6,117537
+MODGPC117538,29-Apr-15,General Retail and Wholesale, HARDWARE STORES,3562.2,117538
+MODGPC117539,29-Apr-15,General Retail and Wholesale, TAILOR/SEAMSTRESS/ALTERS,948,117539
+MODGPC117540,29-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1437.6,117540
+MODGPC117541,29-Apr-15,General Retail and Wholesale, SHOE REPAIR/SHINE/HAT CLEAN,2527.61,117541
+MODGPC117542,14-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1085.28,117542
+MODGPC117543,14-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,3729.6,117543
+MODGPC117544,14-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,4116,117544
+MODGPC117545,28-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,1315.2,117545
+MODGPC117546,20-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,2397.5,117546
+MODGPC117547,28-Apr-15,Miscellaneous Industrial/Commercial," PAINT, VARNISHES & SUPPLIES",660,117547
+MODGPC117548,29-Apr-15,Miscellaneous Industrial/Commercial, MISC REPAIR SERVICES,4680,117548
+MODGPC117549,29-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1959.6,117549
+MODGPC117550,20-Apr-15,Professional Services, ACCOUNTANTS/AUDITORS/BOOKPR,942.93,117550
+MODGPC117551,20-Apr-15,Professional Services, ACCOUNTANTS/AUDITORS/BOOKPR,2919.06,117551
+MODGPC117552,30-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,930,117552
+MODGPC117553,14-Apr-15,Utilities and Non Automotive Fuel, FUEL DEALERS,551.3,117553
+MODGPC117554,28-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,563.22,117554
+MODGPC117555,15-Apr-15,Mail and Courier Services, POSTAGE STAMPS,1500,117555
+MODGPC117556,28-Apr-15,General Retail and Wholesale, DISCOUNT STORES,756.12,117556
+MODGPC117557,20-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,892.8,117557
+MODGPC117558,28-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,799.92,117558
+MODGPC117559,29-Apr-15,General Retail and Wholesale, HARDWARE STORES,957.6,117559
+MODGPC117560,27-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,784.46,117560
+MODGPC117561,28-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,634.8,117561
+MODGPC117562,17-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1197,117562
+MODGPC117563,28-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,617.76,117563
+MODGPC117564,16-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,504,117564
+MODGPC117565,30-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,3747.53,117565
+MODGPC117566,24-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,1440,117566
+MODGPC117567,21-Apr-15,Cleaning Services and Supplies, DRY CLEANERS,1398.5,117567
+MODGPC117568,23-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,560,117568
+MODGPC117569,23-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,580.2,117569
+MODGPC117570,23-Apr-15,General Retail and Wholesale, GROCERY STORES/SUPERMARKETS,2940,117570
+MODGPC117571,17-Apr-15,General Retail and Wholesale, SPORTS/RIDING APPAREL STORES,2232,117571
+MODGPC117572,22-Apr-15,General Retail and Wholesale, DEPARTMENT STORES,819.84,117572
+MODGPC117573,30-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,1031.8,117573
+MODGPC117574,15-Apr-15,Leisure Activities, RECREATION SERVICES,864,117574
+MODGPC117575,30-Apr-15,Leisure Activities, RECREATION SERVICES,1728,117575
+MODGPC117576,15-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1636.8,117576
+MODGPC117577,24-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,580,117577
+MODGPC117578,24-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,652.5,117578
+MODGPC117579,28-Apr-15,Leisure Activities, SPORT/RECREATIONAL CAMPS,4578,117579
+MODGPC117580,27-Apr-15,Building Services," HEATING, PLUMBING, AIR COND",912,117580
+MODGPC117581,16-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1120.78,117581
+MODGPC117582,22-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,1662.4,117582
+MODGPC117583,15-Apr-15,Building Services, SPEC CONTRACTORS - DEFAULT,729.6,117583
+MODGPC117584,23-Apr-15,Estate and Garden Services," NURSERIES, LAWN/GARDEN SUPPLY",2620.8,117584
+MODGPC117585,24-Apr-15,Freight and Storage, PUBLIC WAREHOUSING,748.8,117585
+MODGPC117586,24-Apr-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,569.9,117586
+MODGPC117587,20-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1780,117587
+MODGPC117588,27-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,2437.83,117588
+MODGPC117589,27-Apr-15,Leisure Activities, TOURIST ATTRACTIONS AND XHBT,800,117589
+MODGPC117590,30-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,768,117590
+MODGPC117591,14-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1346.57,117591
+MODGPC117592,21-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,26876.08,117592
+MODGPC117593,29-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,2616,117593
+MODGPC117594,15-Apr-15,Print and Advertising, COMMERCIAL PHOTO/ART/GRAPH,1920,117594
+MODGPC117595,29-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1280,117595
+MODGPC117596,30-Apr-15,Medical Supplies and Services, HEARING AID/SALES/SERVICE,599,117596
+MODGPC117597,20-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,4465.06,117597
+MODGPC117598,16-Apr-15,Mail and Courier Services, POSTAGE STAMPS,605.76,117598
+MODGPC117599,23-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1248,117599
+MODGPC117600,17-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2328.48,117600
+MODGPC117601,27-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,6559.8,117601
+MODGPC117602,16-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,11674.33,117602
+MODGPC117603,30-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,2718.2,117603
+MODGPC117604,15-Apr-15,Building Materials, PLUMBING/HEATING EQUIPMENT,3585.06,117604
+MODGPC117605,15-Apr-15,Building Materials, PLUMBING/HEATING EQUIPMENT,2403.84,117605
+MODGPC117606,24-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,2353.2,117606
+MODGPC117607,24-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,4701.6,117607
+MODGPC117608,27-Apr-15,Building Materials, PLUMBING/HEATING EQUIPMENT,1428,117608
+MODGPC117609,16-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,3043.8,117609
+MODGPC117610,15-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,1172.76,117610
+MODGPC117611,16-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,4331.16,117611
+MODGPC117612,30-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4873.44,117612
+MODGPC117613,23-Apr-15,General Retail and Wholesale, COMBINATION CATALOG & RETAIL,3984,117613
+MODGPC117614,21-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,555.78,117614
+MODGPC117615,22-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,4833.46,117615
+MODGPC117616,22-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,1425.02,117616
+MODGPC117617,22-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,3819.02,117617
+MODGPC117618,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2845.2,117618
+MODGPC117619,15-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1609.98,117619
+MODGPC117620,15-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1623.98,117620
+MODGPC117621,15-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2320.08,117621
+MODGPC117622,28-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,1575.78,117622
+MODGPC117623,15-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,957.36,117623
+MODGPC117624,23-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2387.52,117624
+MODGPC117625,20-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,816,117625
+MODGPC117626,20-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,3600,117626
+MODGPC117627,30-Apr-15,Vehicles Servicing and Spares, CAR & TRUCK DEALERS/NEW/USED,2349.43,117627
+MODGPC117628,30-Apr-15,Vehicles Servicing and Spares, CAR & TRUCK DEALERS/NEW/USED,1043.5,117628
+MODGPC117629,30-Apr-15,Vehicles Servicing and Spares, CAR & TRUCK DEALERS/NEW/USED,4395.84,117629
+MODGPC117630,23-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,2176.39,117630
+MODGPC117631,28-Apr-15,Clubs/Associations/Organisations, AUTO ASSOCIATIONS,684,117631
+MODGPC117632,22-Apr-15,Miscellaneous Industrial/Commercial, CHEMICALS/ALLIED PRODS - DEF,2144.88,117632
+MODGPC117633,30-Apr-15,Miscellaneous Industrial/Commercial, METAL SERVICE CENTERS,2479.37,117633
+MODGPC117634,30-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,507.54,117634
+MODGPC117635,15-Apr-15,Vehicles Servicing and Spares, MOTOR VEHICLE SUPPLY/NEW PARTS,1507.25,117635
+MODGPC117636,17-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,3749.16,117636
+MODGPC117637,14-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,795.6,117637
+MODGPC117638,15-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1788.44,117638
+MODGPC117639,15-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1028.4,117639
+MODGPC117640,15-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,766.8,117640
+MODGPC117641,17-Apr-15,Mail and Courier Services, POSTAGE STAMPS,1150,117641
+MODGPC117642,20-Apr-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,1590,117642
+MODGPC117643,17-Apr-15,Training and Educational, SCHOOLS - DEFAULT,2357.42,117643
+MODGPC117644,17-Apr-15,Training and Educational, SCHOOLS - DEFAULT,1309.68,117644
+MODGPC117645,23-Apr-15,Leisure Activities, RECREATION SERVICES,500,117645
+MODGPC117646,17-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,962,117646
+MODGPC117647,22-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,725.16,117647
+MODGPC117648,17-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,504,117648
+MODGPC117649,15-Apr-15,Professional Services, ESTATE AGENTS AND PROPERTY SERVICES,852,117649
+MODGPC117650,15-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,535.85,117650
+MODGPC117651,27-Apr-15,Building Materials, PLUMBING/HEATING EQUIPMENT,1200,117651
+MODGPC117652,23-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,8806.25,117652
+MODGPC117653,23-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,8139.11,117653
+MODGPC117654,28-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4579.2,117654
+MODGPC117655,28-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2664,117655
+MODGPC117656,27-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,2950,117656
+MODGPC117657,27-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,2470,117657
+MODGPC117658,15-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,3519.36,117658
+MODGPC117659,17-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,632.36,117659
+MODGPC117660,24-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,4630.25,117660
+MODGPC117661,30-Apr-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,788,117661
+MODGPC117662,21-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,2768.84,117662
+MODGPC117663,21-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,846,117663
+MODGPC117664,20-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,908.78,117664
+MODGPC117665,24-Apr-15,Training and Educational, SCHOOLS - DEFAULT,4425,117665
+MODGPC117666,24-Apr-15,Training and Educational, SCHOOLS - DEFAULT,3442.25,117666
+MODGPC117667,15-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2862,117667
+MODGPC117668,15-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,4275.6,117668
+MODGPC117669,30-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,694.02,117669
+MODGPC117670,15-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,794.4,117670
+MODGPC117671,28-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,568.97,117671
+MODGPC117672,28-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,561.19,117672
+MODGPC117673,30-Apr-15,Leisure Activities, CAMPER TRAILER DEALER,1788,117673
+MODGPC117674,14-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,916.8,117674
+MODGPC117675,20-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1056.28,117675
+MODGPC117676,22-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,807.76,117676
+MODGPC117677,27-Apr-15,Training and Educational, BUSINESS/SECRETARIAL SCHOOL,737.25,117677
+MODGPC117678,24-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,859.2,117678
+MODGPC117679,24-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2792.1,117679
+MODGPC117680,14-Apr-15,Mail and Courier Services, POSTAGE STAMPS,1912.8,117680
+MODGPC117681,24-Apr-15,Mail and Courier Services, POSTAGE STAMPS,2420.37,117681
+MODGPC117682,29-Apr-15,Mail and Courier Services, POSTAGE STAMPS,3175.42,117682
+MODGPC117683,29-Apr-15,Mail and Courier Services, POSTAGE STAMPS,3579.7,117683
+MODGPC117684,23-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1024.8,117684
+MODGPC117685,23-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",820.8,117685
+MODGPC117686,23-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",682.8,117686
+MODGPC117687,28-Apr-15,Mail and Courier Services, POSTAGE STAMPS,888,117687
+MODGPC117688,20-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1345.56,117688
+MODGPC117689,16-Apr-15,General Retail and Wholesale, SHOE REPAIR/SHINE/HAT CLEAN,500,117689
+MODGPC117690,16-Apr-15,General Retail and Wholesale, TAILOR/SEAMSTRESS/ALTERS,985.2,117690
+MODGPC117691,21-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,28075.91,117691
+MODGPC117692,28-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,1444.87,117692
+MODGPC117693,23-Apr-15,Print and Advertising, ADVERTISING SERVICES,1080,117693
+MODGPC117694,15-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,2098.8,117694
+MODGPC117695,20-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,660,117695
+MODGPC117696,23-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1070.4,117696
+MODGPC117697,24-Apr-15,Mail and Courier Services, POSTAGE STAMPS,944.4,117697
+MODGPC117698,30-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1347.24,117698
+MODGPC117699,14-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,618,117699
+MODGPC117700,23-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,911.54,117700
+MODGPC117701,14-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,529.32,117701
+MODGPC117702,14-Apr-15,Vehicles Servicing and Spares, MOTOR VEHICLE SUPPLY/NEW PARTS,12757.44,117702
+MODGPC117703,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2817.07,117703
+MODGPC117704,28-Apr-15,Leisure Activities, TRAILER PARKS/CAMPGROUNDS,1612,117704
+MODGPC117705,27-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,594,117705
+MODGPC117706,28-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,560,117706
+MODGPC117707,29-Apr-15,Building Services," HEATING, PLUMBING, AIR COND",838.69,117707
+MODGPC117708,28-Apr-15,Building Services, ELECTRICAL CONTRACTORS,938.4,117708
+MODGPC117709,22-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,846,117709
+MODGPC117710,15-Apr-15,General Retail and Wholesale, HARDWARE STORES,519.9,117710
+MODGPC117711,30-Apr-15,General Retail and Wholesale, HARDWARE STORES,1801.8,117711
+MODGPC117712,23-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,637.44,117712
+MODGPC117713,20-Apr-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,4003.78,117713
+MODGPC117714,22-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1250,117714
+MODGPC117715,21-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1727,117715
+MODGPC117716,24-Apr-15,General Retail and Wholesale, COMBINATION CATALOG & RETAIL,912.38,117716
+MODGPC117717,17-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,746.97,117717
+MODGPC117718,22-Apr-15,Building Materials, PLUMBING/HEATING EQUIPMENT,10360.27,117718
+MODGPC117719,17-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,4462.26,117719
+MODGPC117720,17-Apr-15,Building Services, ROOFING/SIDING/SHEET METAL,2856.22,117720
+MODGPC117721,17-Apr-15,Building Services, ROOFING/SIDING/SHEET METAL,2616.2,117721
+MODGPC117722,21-Apr-15,Building Services, ELECTRICAL CONTRACTORS,4736.88,117722
+MODGPC117723,24-Apr-15,Building Services, ELECTRICAL CONTRACTORS,1097.38,117723
+MODGPC117724,24-Apr-15,Building Services, ELECTRICAL CONTRACTORS,1692.2,117724
+MODGPC117725,17-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,1194,117725
+MODGPC117726,24-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,2646.86,117726
+MODGPC117727,21-Apr-15,General Retail and Wholesale, VARIETY STORES,4031.04,117727
+MODGPC117728,21-Apr-15,General Retail and Wholesale, VARIETY STORES,4881.24,117728
+MODGPC117729,28-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,2427,117729
+MODGPC117730,30-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,4780.8,117730
+MODGPC117731,15-Apr-15,Leisure Activities, BOAT DEALERS,1650,117731
+MODGPC117732,14-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",10800,117732
+MODGPC117733,16-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",2787,117733
+MODGPC117734,22-Apr-15,Leisure Activities, BOAT DEALERS,4453.66,117734
+MODGPC117735,22-Apr-15,Leisure Activities, BOAT DEALERS,3774,117735
+MODGPC117736,22-Apr-15,Leisure Activities, BOAT DEALERS,514.61,117736
+MODGPC117737,22-Apr-15,Leisure Activities, BOAT DEALERS,1149.58,117737
+MODGPC117738,22-Apr-15,Leisure Activities, BOAT DEALERS,3028.84,117738
+MODGPC117739,22-Apr-15,Leisure Activities, BOAT DEALERS,1014,117739
+MODGPC117740,22-Apr-15,Leisure Activities, BOAT DEALERS,1896,117740
+MODGPC117741,22-Apr-15,Leisure Activities, BOAT DEALERS,960,117741
+MODGPC117742,22-Apr-15,Leisure Activities, BOAT DEALERS,2184,117742
+MODGPC117743,29-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1998,117743
+MODGPC117744,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2558.4,117744
+MODGPC117745,21-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,2049.6,117745
+MODGPC117746,27-Apr-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,3254.4,117746
+MODGPC117747,16-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2996.4,117747
+MODGPC117748,22-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2518.2,117748
+MODGPC117749,22-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,1594.9,117749
+MODGPC117750,20-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,8463.17,117750
+MODGPC117751,15-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,7074.12,117751
+MODGPC117752,16-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,5171.95,117752
+MODGPC117753,21-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,2336.14,117753
+MODGPC117754,27-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,2598.55,117754
+MODGPC117755,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,916.8,117755
+MODGPC117756,14-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2131.2,117756
+MODGPC117757,23-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2460.36,117757
+MODGPC117758,28-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1776,117758
+MODGPC117759,17-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,3613.13,117759
+MODGPC117760,29-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,893.54,117760
+MODGPC117761,14-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,3478.2,117761
+MODGPC117762,22-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1209.98,117762
+MODGPC117763,28-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,533.4,117763
+MODGPC117764,30-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,696.56,117764
+MODGPC117765,28-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,865.2,117765
+MODGPC117766,28-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2036.4,117766
+MODGPC117767,27-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,4944.38,117767
+MODGPC117768,14-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,1340.3,117768
+MODGPC117769,17-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1858.8,117769
+MODGPC117770,21-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,3012,117770
+MODGPC117771,14-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,9344.64,117771
+MODGPC117772,21-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,3321,117772
+MODGPC117773,21-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,891.12,117773
+MODGPC117774,21-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2388.86,117774
+MODGPC117775,15-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4266.82,117775
+MODGPC117776,24-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,2582.3,117776
+MODGPC117777,24-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,3816,117777
+MODGPC117778,24-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4553.11,117778
+MODGPC117779,30-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,822.13,117779
+MODGPC117780,30-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4027.2,117780
+MODGPC117781,30-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4279.82,117781
+MODGPC117782,30-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,3200.08,117782
+MODGPC117783,29-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2187.8,117783
+MODGPC117784,30-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2187.8,117784
+MODGPC117785,20-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4110,117785
+MODGPC117786,30-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2187.8,117786
+MODGPC117787,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2940,117787
+MODGPC117788,15-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,1612.99,117788
+MODGPC117789,29-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,8520.05,117789
+MODGPC117790,27-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",2568.41,117790
+MODGPC117791,23-Apr-15,Vehicles Servicing and Spares, AUTO BODY REPAIR SHOPS,567.26,117791
+MODGPC117792,23-Apr-15,Vehicles Servicing and Spares, AUTO BODY REPAIR SHOPS,580.03,117792
+MODGPC117793,15-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",656.4,117793
+MODGPC117794,30-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,933.6,117794
+MODGPC117795,20-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,693.6,117795
+MODGPC117796,14-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,794.4,117796
+MODGPC117797,30-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,525,117797
+MODGPC117798,15-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,509.17,117798
+MODGPC117799,29-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,530,117799
+MODGPC117800,15-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,2355.25,117800
+MODGPC117801,15-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1059.96,117801
+MODGPC117802,17-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,893.94,117802
+MODGPC117803,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,580,117803
+MODGPC117804,24-Apr-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,1123.44,117804
+MODGPC117805,24-Apr-15,Vehicles Servicing and Spares, MISC AUTO DEALERS - DEFAULT,1123.44,117805
+MODGPC117806,24-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,855.79,117806
+MODGPC117807,20-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,530.92,117807
+MODGPC117808,21-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1932,117808
+MODGPC117809,15-Apr-15,Catering and Catering Supplies, CATERERS,1075.08,117809
+MODGPC117810,20-Apr-15,Cleaning Services and Supplies, LAUNDRY/CLEANING/GARMENT SV,852,117810
+MODGPC117811,16-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,926.88,117811
+MODGPC117812,30-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,3866,117812
+MODGPC117813,15-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,957.02,117813
+MODGPC117814,20-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,1500,117814
+MODGPC117815,16-Apr-15,General Retail and Wholesale, HARDWARE STORES,2424,117815
+MODGPC117816,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,523.2,117816
+MODGPC117817,29-Apr-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,1148.27,117817
+MODGPC117818,15-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",2090.95,117818
+MODGPC117819,29-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",650.56,117819
+MODGPC117820,22-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,553.48,117820
+MODGPC117821,29-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,2070,117821
+MODGPC117822,28-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,690.24,117822
+MODGPC117823,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2324.04,117823
+MODGPC117824,14-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,2385,117824
+MODGPC117825,20-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,1814.13,117825
+MODGPC117826,27-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4518,117826
+MODGPC117827,24-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,927.6,117827
+MODGPC117828,24-Apr-15,General Retail and Wholesale, HOUSEHOLD APPLIANCE STORES,624.12,117828
+MODGPC117829,14-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,1056.16,117829
+MODGPC117830,21-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,660,117830
+MODGPC117831,30-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,1000,117831
+MODGPC117832,30-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,1000,117832
+MODGPC117833,29-Apr-15,Business Clothing and Footwear, UNIFORMS & COMMERCIAL CLOTHING,961.45,117833
+MODGPC117834,20-Apr-15,Business Clothing and Footwear, UNIFORMS & COMMERCIAL CLOTHING,820.8,117834
+MODGPC117835,16-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,822.84,117835
+MODGPC117836,22-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2468.52,117836
+MODGPC117837,22-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2468.52,117837
+MODGPC117838,22-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,946.3,117838
+MODGPC117839,22-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2273.16,117839
+MODGPC117840,16-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",760.5,117840
+MODGPC117841,27-Apr-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,1204.2,117841
+MODGPC117842,17-Apr-15,Computer Equipment & Services, COMPUTERS/PERIPHERALS/SOFTWARE,904.14,117842
+MODGPC117843,24-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,975,117843
+MODGPC117844,17-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,4284.9,117844
+MODGPC117845,17-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,832.8,117845
+MODGPC117846,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,627.28,117846
+MODGPC117847,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,627.28,117847
+MODGPC117848,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,627.28,117848
+MODGPC117849,16-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,736.58,117849
+MODGPC117850,22-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,5113.2,117850
+MODGPC117851,22-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,5113.2,117851
+MODGPC117852,27-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,4908.24,117852
+MODGPC117853,29-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,4267.42,117853
+MODGPC117854,20-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",528,117854
+MODGPC117855,30-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,929.12,117855
+MODGPC117856,30-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,970,117856
+MODGPC117857,24-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,9360,117857
+MODGPC117858,24-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,9867.84,117858
+MODGPC117859,23-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,1176,117859
+MODGPC117860,30-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,3826.18,117860
+MODGPC117861,21-Apr-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,11520,117861
+MODGPC117862,20-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1248,117862
+MODGPC117863,23-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1800,117863
+MODGPC117864,23-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1607,117864
+MODGPC117865,20-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,3720.96,117865
+MODGPC117866,17-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,725.94,117866
+MODGPC117867,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,12000,117867
+MODGPC117868,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,10800,117868
+MODGPC117869,27-Apr-15,General Retail and Wholesale, SPORTS/RIDING APPAREL STORES,640,117869
+MODGPC117870,14-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4384.8,117870
+MODGPC117871,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,703.08,117871
+MODGPC117872,27-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,732,117872
+MODGPC117873,27-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,902,117873
+MODGPC117874,22-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,3360,117874
+MODGPC117875,20-Apr-15,Miscellaneous Industrial/Commercial, NON-DURABLE GOODS - DEFAULT,3815.34,117875
+MODGPC117876,30-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1837.69,117876
+MODGPC117877,24-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,2770.99,117877
+MODGPC117878,24-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,679.5,117878
+MODGPC117879,22-Apr-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,1404.14,117879
+MODGPC117880,21-Apr-15,Books and Periodicals, BOOK STORES,895,117880
+MODGPC117881,29-Apr-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,2304.72,117881
+MODGPC117882,17-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,624,117882
+MODGPC117883,14-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,1029.6,117883
+MODGPC117884,30-Apr-15,General Retail and Wholesale, TAILOR/SEAMSTRESS/ALTERS,1832.37,117884
+MODGPC117885,21-Apr-15,Medical Supplies and Services, NURSING/PERSONAL CARE FAC,9219.64,117885
+MODGPC117886,21-Apr-15,Medical Supplies and Services, NURSING/PERSONAL CARE FAC,7116.42,117886
+MODGPC117887,21-Apr-15,Medical Supplies and Services, NURSING/PERSONAL CARE FAC,4717.1,117887
+MODGPC117888,30-Apr-15,Medical Supplies and Services, NURSING/PERSONAL CARE FAC,9702.59,117888
+MODGPC117889,27-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",750.6,117889
+MODGPC117890,27-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,897.6,117890
+MODGPC117891,27-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,897.6,117891
+MODGPC117892,28-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,604.8,117892
+MODGPC117893,20-Apr-15,Medical Supplies and Services, OPTICIANS,605.85,117893
+MODGPC117894,20-Apr-15,Medical Supplies and Services, OPTICIANS,592.5,117894
+MODGPC117895,20-Apr-15,Medical Supplies and Services, OPTICIANS,592.5,117895
+MODGPC117896,20-Apr-15,Medical Supplies and Services, OPTICIANS,750,117896
+MODGPC117897,16-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",982.59,117897
+MODGPC117898,28-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,570.96,117898
+MODGPC117899,29-Apr-15,Medical Supplies and Services, MED/HEALTH SERVICES - DEF,503.7,117899
+MODGPC117900,15-Apr-15,Medical Supplies and Services, ORTHOPEDIC GOODS,1257.78,117900
+MODGPC117901,22-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",804,117901
+MODGPC117902,30-Apr-15,Medical Supplies and Services, HEARING AID/SALES/SERVICE,684.78,117902
+MODGPC117903,30-Apr-15,Medical Supplies and Services, ORTHOPEDIC GOODS,3122.4,117903
+MODGPC117904,17-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",951.6,117904
+MODGPC117905,21-Apr-15,Medical Supplies and Services, OPTICIANS,644.62,117905
+MODGPC117906,15-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,621,117906
+MODGPC117907,15-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,10623.6,117907
+MODGPC117908,14-Apr-15,Office Stationery Equipment and Su, OFFICE/PHOTO EQUIPMENT,547.2,117908
+MODGPC117909,24-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,2613.6,117909
+MODGPC117910,21-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,822.2,117910
+MODGPC117911,29-Apr-15,Freight and Storage, PUBLIC WAREHOUSING,968.33,117911
+MODGPC117912,16-Apr-15,General Retail and Wholesale, ART DEALERS & GALLERIES,590,117912
+MODGPC117913,22-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,570,117913
+MODGPC117914,14-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,557,117914
+MODGPC117915,20-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,1925,117915
+MODGPC117916,30-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,858,117916
+MODGPC117917,30-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,1122,117917
+MODGPC117918,27-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,1424,117918
+MODGPC117919,21-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,1988,117919
+MODGPC117920,27-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,517.5,117920
+MODGPC117921,15-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,2231,117921
+MODGPC117922,21-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,807,117922
+MODGPC117923,21-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,7368,117923
+MODGPC117924,29-Apr-15,Business Clothing and Footwear, UNIFORMS & COMMERCIAL CLOTHING,9992.09,117924
+MODGPC117925,28-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,9986.4,117925
+MODGPC117926,27-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,888,117926
+MODGPC117927,27-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1796.64,117927
+MODGPC117928,27-Apr-15,General Retail and Wholesale," HOBBY, TOY & GAME SHOPS",650.59,117928
+MODGPC117929,22-Apr-15,Leisure Activities, SPORT/RECREATIONAL CAMPS,743.66,117929
+MODGPC117930,22-Apr-15,Leisure Activities, COMMERCIAL/PRO SPORTS,578.04,117930
+MODGPC117931,21-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1555.59,117931
+MODGPC117932,14-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,553.28,117932
+MODGPC117933,17-Apr-15,Mail and Courier Services, POSTAGE STAMPS,1448.37,117933
+MODGPC117934,23-Apr-15,Mail and Courier Services, POSTAGE STAMPS,1336.37,117934
+MODGPC117935,18-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,1161.91,117935
+MODGPC117936,23-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2255,117936
+MODGPC117937,29-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,1559.98,117937
+MODGPC117938,16-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,515.28,117938
+MODGPC117939,21-Apr-15,Building Materials, LUMBER/BUILD. SUPPLY STORES,619,117939
+MODGPC117940,23-Apr-15,Catering and Catering Supplies, CATERERS,531.42,117940
+MODGPC117941,23-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,2305.2,117941
+MODGPC117942,30-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,557.33,117942
+MODGPC117943,21-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",536.4,117943
+MODGPC117944,15-Apr-15,Miscellaneous Industrial/Commercial, HARDWARE EQUIPMENT/SUPPLIES,2183.16,117944
+MODGPC117945,23-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,658.8,117945
+MODGPC117946,15-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,504,117946
+MODGPC117947,16-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,515,117947
+MODGPC117948,15-Apr-15,Hotels/Restaurants and Bars, BARS/TAVERNS/LOUNGES/DISCOS,542.36,117948
+MODGPC117949,30-Apr-15,Vehicles Servicing and Spares, AUTO SERVICE SHOPS/NON DEALER,1800,117949
+MODGPC117950,27-Apr-15,Hotels/Restaurants and Bars, BARS/TAVERNS/LOUNGES/DISCOS,622.4,117950
+MODGPC117951,27-Apr-15,Building Services, SPEC CONTRACTORS - DEFAULT,907.2,117951
+MODGPC117952,24-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,30001.75,117952
+MODGPC117953,28-Apr-15,Books and Periodicals, BOOKS/PERIODICALS/NEWSPAPERS,945.95,117953
+MODGPC117954,17-Apr-15,Building Materials, PLUMBING/HEATING EQUIPMENT,596.2,117954
+MODGPC117955,29-Apr-15,Building Materials, PLUMBING/HEATING EQUIPMENT,588.07,117955
+MODGPC117956,28-Apr-15,Catering and Catering Supplies, CANDY/NUT/CONFECTION STORE,1200,117956
+MODGPC117957,15-Apr-15,General Retail and Wholesale, HARDWARE STORES,510.67,117957
+MODGPC117958,17-Apr-15,General Retail and Wholesale, HARDWARE STORES,720,117958
+MODGPC117959,15-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,4953,117959
+MODGPC117960,15-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,4871.2,117960
+MODGPC117961,15-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1404.72,117961
+MODGPC117962,15-Apr-15,General Retail and Wholesale, MISC SPECIALTY RETAIL,906.67,117962
+MODGPC117963,15-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1412.4,117963
+MODGPC117964,15-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,4767.55,117964
+MODGPC117965,15-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,4953,117965
+MODGPC117966,17-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,3224.67,117966
+MODGPC117967,28-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,3205.2,117967
+MODGPC117968,28-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,646,117968
+MODGPC117969,14-Apr-15,Professional Services, ESTATE AGENTS AND PROPERTY SERVICES,652.67,117969
+MODGPC117970,18-Apr-15,Professional Services, MISC PERSONAL SERV - DEF,514.98,117970
+MODGPC117971,18-Apr-15,Professional Services, MISC PERSONAL SERV - DEF,514.98,117971
+MODGPC117972,18-Apr-15,Professional Services, MISC PERSONAL SERV - DEF,514.98,117972
+MODGPC117973,30-Apr-15,Professional Services, ACCOUNTANTS/AUDITORS/BOOKPR,1243.6,117973
+MODGPC117974,28-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,999,117974
+MODGPC117975,23-Apr-15,Hotels/Restaurants and Bars, BARS/TAVERNS/LOUNGES/DISCOS,650,117975
+MODGPC117976,29-Apr-15,Telecommunication Services, TELECOMMUNICATION EQUIPMENT,519.95,117976
+MODGPC117977,14-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,576.33,117977
+MODGPC117978,17-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,505.73,117978
+MODGPC117979,17-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,4816.8,117979
+MODGPC117980,28-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1073.9,117980
+MODGPC117981,16-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,1625,117981
+MODGPC117982,23-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,611,117982
+MODGPC117983,29-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",1000,117983
+MODGPC117984,29-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",1000,117984
+MODGPC117985,21-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,690.3,117985
+MODGPC117986,15-Apr-15,General Retail and Wholesale, ARTIST/CRAFT SHOPS,528,117986
+MODGPC117987,14-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,11059.62,117987
+MODGPC117988,21-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,1864.44,117988
+MODGPC117989,30-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,1604.76,117989
+MODGPC117990,30-Apr-15,General Retail and Wholesale, MISC GENERAL MERCHANDISE,1864.44,117990
+MODGPC117991,30-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,803.36,117991
+MODGPC117992,22-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1170,117992
+MODGPC117993,17-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,1320,117993
+MODGPC117994,21-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,1551.6,117994
+MODGPC117995,28-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,915,117995
+MODGPC117996,15-Apr-15,General Retail and Wholesale, ELECTRONICS STORES,793.99,117996
+MODGPC117997,31-Mar-15,General Retail and Wholesale, ELECTRONICS STORES,17814.83,117997
+MODGPC117998,27-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,846,117998
+MODGPC117999,17-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,6480,117999
+MODGPC118000,15-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1068.71,118000
+MODGPC118001,20-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,11336.4,118001
+MODGPC118002,20-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,15000,118002
+MODGPC118003,28-Apr-15,General Retail and Wholesale," GIFT, CARD, NOVELTY STORES",941.55,118003
+MODGPC118004,22-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,594,118004
+MODGPC118005,21-Apr-15,Training and Educational, TRADE/VOCATIONAL SCHOOLS,894,118005
+MODGPC118006,21-Apr-15,Training and Educational, TRADE/VOCATIONAL SCHOOLS,4296,118006
+MODGPC118007,29-Apr-15,Books and Periodicals, BOOK STORES,1356.28,118007
+MODGPC118008,15-Apr-15,Books and Periodicals, BOOK STORES,924.9,118008
+MODGPC118009,22-Apr-15,Books and Periodicals, BOOK STORES,1920,118009
+MODGPC118010,16-Apr-15,Clubs/Associations/Organisations, CHARITABLE/SOC SERVICE ORGS,1886,118010
+MODGPC118011,15-Apr-15,General Retail and Wholesale, ART DEALERS & GALLERIES,2504.15,118011
+MODGPC118012,19-Apr-15,General Retail and Wholesale," HOBBY, TOY & GAME SHOPS",1584,118012
+MODGPC118013,28-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,593.46,118013
+MODGPC118014,29-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1600,118014
+MODGPC118015,16-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,2312.83,118015
+MODGPC118016,22-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,760,118016
+MODGPC118017,23-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,3981.44,118017
+MODGPC118018,29-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,599.2,118018
+MODGPC118019,29-Apr-15,Miscellaneous Industrial/Commercial," PAINT, VARNISHES & SUPPLIES",2081.16,118019
+MODGPC118020,22-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1770.45,118020
+MODGPC118021,28-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,3865.53,118021
+MODGPC118022,14-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,814.6,118022
+MODGPC118023,21-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1397.59,118023
+MODGPC118024,14-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,1581.42,118024
+MODGPC118025,24-Apr-15,Office Stationery Equipment and Su, STATIONERY STORES,825.54,118025
+MODGPC118026,22-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,820.9,118026
+MODGPC118027,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2454.8,118027
+MODGPC118028,21-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,500.9,118028
+MODGPC118029,24-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1260,118029
+MODGPC118030,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,739.96,118030
+MODGPC118031,22-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1730,118031
+MODGPC118032,21-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1190.75,118032
+MODGPC118033,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1116,118033
+MODGPC118034,23-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,3105,118034
+MODGPC118035,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4663.5,118035
+MODGPC118036,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,975.07,118036
+MODGPC118037,27-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,686.2,118037
+MODGPC118038,30-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,5848.21,118038
+MODGPC118039,28-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,6095.27,118039
+MODGPC118040,28-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,2099.63,118040
+MODGPC118041,28-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,3903.32,118041
+MODGPC118042,29-Apr-15,General Retail and Wholesale, DRAPERY & UPHOLSTERY STORES,17383.09,118042
+MODGPC118043,30-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",1140,118043
+MODGPC118044,14-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,554.18,118044
+MODGPC118045,28-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,929.52,118045
+MODGPC118046,28-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,603.6,118046
+MODGPC118047,28-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,757.01,118047
+MODGPC118048,17-Apr-15,Hotels/Restaurants and Bars, FAST FOOD RESTAURANTS,693,118048
+MODGPC118049,28-Apr-15,Hotels/Restaurants and Bars, FAST FOOD RESTAURANTS,1485,118049
+MODGPC118050,30-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,4400,118050
+MODGPC118051,27-Apr-15,Business Clothing and Footwear, UNIFORMS & COMMERCIAL CLOTHING,1397.9,118051
+MODGPC118052,28-Apr-15,General Retail and Wholesale, MENS/WOMENS CLOTHING STORES,1993.8,118052
+MODGPC118053,29-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",2067.6,118053
+MODGPC118054,21-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,1887.6,118054
+MODGPC118055,20-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,3130.44,118055
+MODGPC118056,14-Apr-15,Miscellaneous Industrial/Commercial, DURABLE GOODS - DEFAULT,5265.65,118056
+MODGPC118057,24-Apr-15,Leisure Activities, TOURIST ATTRACTIONS AND XHBT,1072.5,118057
+MODGPC118058,16-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,2018.56,118058
+MODGPC118059,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,5000,118059
+MODGPC118060,20-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,3000,118060
+MODGPC118061,28-Apr-15,Training and Educational, TRADE/VOCATIONAL SCHOOLS,1546.8,118061
+MODGPC118062,30-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2779.2,118062
+MODGPC118063,30-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2779.2,118063
+MODGPC118064,18-Apr-15,Computer Equipment & Services, COMPUTER NETWORK/INFO SVCS,1575,118064
+MODGPC118065,23-Apr-15,Computer Equipment & Services, COMPUTER NETWORK/INFO SVCS,1025.4,118065
+MODGPC118066,30-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,985.44,118066
+MODGPC118067,24-Apr-15,Telecommunication Services, TELECOMMUNICATION SERVICES,2416.92,118067
+MODGPC118068,23-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,857.5,118068
+MODGPC118069,23-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,1498.2,118069
+MODGPC118070,23-Apr-15,Mail Order / Direct Selling, CATALOG MERCHANT,553.2,118070
+MODGPC118071,15-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1512,118071
+MODGPC118072,28-Apr-15,Building Services, SPEC CONTRACTORS - DEFAULT,944.2,118072
+MODGPC118073,21-Apr-15,Cleaning Services and Supplies, LAUNDRY/CLEANING/GARMENT SV,1076.4,118073
+MODGPC118074,17-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,1617.49,118074
+MODGPC118075,28-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,2729.93,118075
+MODGPC118076,28-Apr-15,Vehicles Servicing and Spares, AUTOMOTIVE PARTS STORES,514.87,118076
+MODGPC118077,22-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2779.2,118077
+MODGPC118078,14-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,500,118078
+MODGPC118079,14-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,500,118079
+MODGPC118080,27-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,500,118080
+MODGPC118081,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1126.8,118081
+MODGPC118082,29-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1126.8,118082
+MODGPC118083,20-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1197.6,118083
+MODGPC118084,28-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2960.4,118084
+MODGPC118085,14-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,6630,118085
+MODGPC118086,23-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,625,118086
+MODGPC118087,16-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,2679.65,118087
+MODGPC118088,20-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,3945,118088
+MODGPC118089,28-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,3800,118089
+MODGPC118090,28-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,7000,118090
+MODGPC118091,23-Apr-15,Building Services, CARPENTRY,4801.54,118091
+MODGPC118092,21-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,804,118092
+MODGPC118093,30-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1298.4,118093
+MODGPC118094,14-Apr-15,Cleaning Services and Supplies, DRY CLEANERS,746.21,118094
+MODGPC118095,16-Apr-15,General Retail and Wholesale, MUSIC STORES/PIANOS,3384.3,118095
+MODGPC118096,30-Apr-15,General Retail and Wholesale, TENT AND AWNING SHOPS,2805.66,118096
+MODGPC118097,17-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2945.42,118097
+MODGPC118098,16-Apr-15,Business Clothing and Footwear, UNIFORMS & COMMERCIAL CLOTHING,725.27,118098
+MODGPC118099,29-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1605.76,118099
+MODGPC118100,29-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,1993.2,118100
+MODGPC118101,21-Apr-15,Professional Services, ARCHITECTURAL/ENG/SURVEY,602.64,118101
+MODGPC118102,23-Apr-15,General Retail and Wholesale, CAMERA & PHOTO SUPPLY STORE,1374.94,118102
+MODGPC118103,16-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,2454,118103
+MODGPC118104,24-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,573.6,118104
+MODGPC118105,20-Apr-15,General Retail and Wholesale, FABRIC STORES,528.39,118105
+MODGPC118106,22-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,537.6,118106
+MODGPC118107,15-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,2880.4,118107
+MODGPC118108,21-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1041.69,118108
+MODGPC118109,21-Apr-15,Professional Services, PROFESSIONAL SERVICES - DEF,2760,118109
+MODGPC118110,23-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,3000,118110
+MODGPC118111,20-Apr-15,Computer Equipment & Services, COMPUTER SOFTWARE STORES,1917.6,118111
+MODGPC118112,29-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,3105.6,118112
+MODGPC118113,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,886.8,118113
+MODGPC118114,16-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,525,118114
+MODGPC118115,17-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,784.75,118115
+MODGPC118116,29-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,627.28,118116
+MODGPC118117,30-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,31986,118117
+MODGPC118118,14-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,766.8,118118
+MODGPC118119,23-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1028.4,118119
+MODGPC118120,14-Apr-15,Vehicles Servicing and Spares, MOTOR VEHICLE SUPPLY/NEW PARTS,5378.4,118120
+MODGPC118121,15-Apr-15,Vehicles Servicing and Spares, MOTOR VEHICLE SUPPLY/NEW PARTS,5378.4,118121
+MODGPC118122,15-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,1011.8,118122
+MODGPC118123,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2710.8,118123
+MODGPC118124,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1140,118124
+MODGPC118125,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,570,118125
+MODGPC118126,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2158.8,118126
+MODGPC118127,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1973.16,118127
+MODGPC118128,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,684,118128
+MODGPC118129,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,609.32,118129
+MODGPC118130,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,3644.88,118130
+MODGPC118131,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1973.16,118131
+MODGPC118132,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,855,118132
+MODGPC118133,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1824,118133
+MODGPC118134,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1425,118134
+MODGPC118135,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4507.86,118135
+MODGPC118136,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,4104,118136
+MODGPC118137,28-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,1911.38,118137
+MODGPC118138,23-Apr-15,Catering and Catering Supplies, CATERERS,1413.25,118138
+MODGPC118139,15-Apr-15,General Retail and Wholesale, BICYCLE SHOPS/SALES/SERVICE,895.56,118139
+MODGPC118140,28-Apr-15,Office Stationery Equipment and Su, STATIONERY/OFFICE SUPPLIES,700,118140
+MODGPC118141,22-Apr-15,Print and Advertising, MISC PUBLISHING & PRINTING,1287,118141
+MODGPC118142,15-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,1485.57,118142
+MODGPC118143,28-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,1083.3,118143
+MODGPC118144,15-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2268,118144
+MODGPC118145,15-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2350.69,118145
+MODGPC118146,15-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,2567.67,118146
+MODGPC118147,20-Apr-15,General Retail and Wholesale, SHOE STORES,1835.39,118147
+MODGPC118148,27-Apr-15,General Retail and Wholesale, SHOE STORES,995.22,118148
+MODGPC118149,21-Apr-15,General Retail and Wholesale, PET STORES/FOOD & SUPPLY,1489.95,118149
+MODGPC118150,16-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,531.2,118150
+MODGPC118151,21-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,531.2,118151
+MODGPC118152,21-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,531.2,118152
+MODGPC118153,22-Apr-15,Medical Supplies and Services, OPTICIANS,850,118153
+MODGPC118154,20-Apr-15,Cleaning Services and Supplies, CLEAN/MAINT/JANITORAL SERV,800.12,118154
+MODGPC118155,29-Apr-15,Computer Equipment & Services, COMPUTER PROGRAM/SYS DESIGN,758.91,118155
+MODGPC118156,15-Apr-15,General Retail and Wholesale, HARDWARE STORES,781.2,118156
+MODGPC118157,28-Apr-15,Mail Order / Direct Selling, OTHER DIRECT MARKETERS,747,118157
+MODGPC118158,20-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,1728,118158
+MODGPC118159,15-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,720,118159
+MODGPC118160,15-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,546.24,118160
+MODGPC118161,15-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,531.26,118161
+MODGPC118162,16-Apr-15,Miscellaneous Industrial/Commercial, TOOL HIRE,586.56,118162
+MODGPC118163,16-Apr-15,Hotels/Restaurants and Bars, RESTAURANTS,1867.56,118163
+MODGPC118164,15-Apr-15,Utilities and Non Automotive Fuel, UTILITIES/ELEC/GAS/H2O/SANI,1483.89,118164
+MODGPC118165,17-Apr-15,Utilities and Non Automotive Fuel, UTILITIES/ELEC/GAS/H2O/SANI,1000.06,118165
+MODGPC118166,24-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,5000,118166
+MODGPC118167,24-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,3396.32,118167
+MODGPC118168,24-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,5000,118168
+MODGPC118169,29-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,5000,118169
+MODGPC118170,29-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,5000,118170
+MODGPC118171,29-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,3396.32,118171
+MODGPC118172,27-Apr-15,Training and Educational, COLLEGES/UNIV/JC/PROFESSION,580.52,118172
+MODGPC118173,14-Apr-15,General Retail and Wholesale, SPORTING GOODS STORES,1476.6,118173
+MODGPC118174,14-Apr-15,Leisure Activities," MARINAS, SERVICE & SUPPLY",1438.81,118174
+MODGPC118175,23-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,962,118175
+MODGPC118176,27-Apr-15,Leisure Activities, MEMBER CLUBS/SPORT/REC/GOLF,625,118176
+MODGPC118177,15-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,682.5,118177
+MODGPC118178,16-Apr-15,Medical Supplies and Services," LABORATORY, MEDICAL AND HOSPITAL EQUIPMENT",4071.48,118178
+MODGPC118179,29-Apr-15,Miscellaneous Industrial/Commercial, COMMERCIAL EQUIPMENT - DEFAULT,1008,118179
+MODGPC118180,30-Apr-15,Training and Educational, TRADE/VOCATIONAL SCHOOLS,1794,118180
+MODGPC118181,28-Apr-15,Print and Advertising, COMMERCIAL PHOTO/ART/GRAPH,561.47,118181
+MODGPC118182,22-Apr-15,Miscellaneous Industrial/Commercial, BUSINESS SERVICES - DEFAULT,635.17,118182
+MODGPC118183,14-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,1194,118183
+MODGPC118184,28-Apr-15,Clubs/Associations/Organisations, MEMBER ORGANIZATIONS - DEF,506,118184
+MODGPC118185,16-Apr-15,Professional Services, MGMT/CONSULT/PUBLIC REL SER,2038.8,118185
+MODGPC118186,22-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,5558.4,118186
+MODGPC118187,17-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,10893.6,118187
+MODGPC118188,17-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,30390,118188
+MODGPC118189,20-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,968.36,118189
+MODGPC118190,20-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1451.94,118190
+MODGPC118191,27-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,1120.8,118191
+MODGPC118192,17-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,26700,118192
+MODGPC118193,17-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,2976,118193
+MODGPC118194,17-Apr-15,Miscellaneous Industrial/Commercial, INDUSTRIAL SUPPLIES - DEF,9216,118194
+MODGPC118195,30-Apr-15,Office Stationery Equipment and Su, COMMERCIAL FURNITURE,544.14,118195
+MODGPC118196,13-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,627.6,118196
+MODGPC118197,15-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,14913.6,118197
+MODGPC118198,15-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,2652,118198
+MODGPC118199,15-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,6276,118199
+MODGPC118200,20-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,3413.16,118200
+MODGPC118201,20-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,2295.11,118201
+MODGPC118202,22-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,30000,118202
+MODGPC118203,22-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,1918.25,118203
+MODGPC118204,22-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,30000,118204
+MODGPC118205,22-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,23958,118205
+MODGPC118206,27-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,6224.28,118206
+MODGPC118207,27-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,30000,118207
+MODGPC118208,20-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,30000,118208
+MODGPC118209,20-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,4440,118209
+MODGPC118210,20-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,1558.8,118210
+MODGPC118211,20-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,5934.77,118211
+MODGPC118212,20-Apr-15,Personal Services, DETECTIVE/PROTECTIVE AGEN,13238.42,118212
+MODGPC118213,16-Apr-15,General Retail and Wholesale, FURNITURE/EQUIP STORES,11088,118213
+MODGPC118214,14-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,4761.6,118214
+MODGPC118215,14-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,696,118215
+MODGPC118216,14-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,5328,118216
+MODGPC118217,14-Apr-15,Statutory Bodies, GOV'T SERV - DEFAULT,2649.6,118217
+MODGPC118218,28-Apr-15,Building Materials, ELECTRICAL PARTS/EQUIPMENT,529.68,118218

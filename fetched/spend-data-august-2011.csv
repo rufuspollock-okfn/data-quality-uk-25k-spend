@@ -1,10 +1,10 @@
 Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling,Line Description
-ECGD,ECGD,02-Aug-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,61687,"≈Å91,959.00",Business Rates for ECGD's premises
-ECGD,ECGD,08-Aug-11,BSIC Projects,BSIC Projects,Logica UK Limited,61709,"≈Å22,514.64",Charges to upgrade ECGD's business systems
-ECGD,ECGD,08-Aug-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,61709,"≈Å88,200.00",Operation and Maintenance of ECGD's IT Infrastucture
-ECGD,ECGD,18-Aug-11,BSIC Projects,BSIC Projects,Logica UK Limited,61785,"≈Å66,060.00",Charges to facilitate off site transistion
-ECGD,ECGD,22-Aug-11,Legal Fees transactions,(DAB) GCO: Legal Serv - Admin,Baker & McKenzie (London),61792,"≈Å34,835.34",Buyer Credit Advice
-ECGD,ECGD,25-Aug-11,Capital Computers,(DAB) FG ID: Admin Costs,JCOM UK Limited,61820,"≈Å27,974.00",Purchase of management security software (LogRhythm products)
+ECGD,ECGD,02-Aug-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,61687,"£91,959.00",Business Rates for ECGD's premises
+ECGD,ECGD,08-Aug-11,BSIC Projects,BSIC Projects,Logica UK Limited,61709,"£22,514.64",Charges to upgrade ECGD's business systems
+ECGD,ECGD,08-Aug-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,61709,"£88,200.00",Operation and Maintenance of ECGD's IT Infrastucture
+ECGD,ECGD,18-Aug-11,BSIC Projects,BSIC Projects,Logica UK Limited,61785,"£66,060.00",Charges to facilitate off site transistion
+ECGD,ECGD,22-Aug-11,Legal Fees transactions,(DAB) GCO: Legal Serv - Admin,Baker & McKenzie (London),61792,"£34,835.34",Buyer Credit Advice
+ECGD,ECGD,25-Aug-11,Capital Computers,(DAB) FG ID: Admin Costs,JCOM UK Limited,61820,"£27,974.00",Purchase of management security software (LogRhythm products)
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,

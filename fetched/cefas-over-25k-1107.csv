@@ -1,7 +1,7 @@
 Department family(T),Entity,Date,Expense type,Expense area,Supplier Name,Transaction Number,Amount
-DEFRA,Cefas,01/07/2011,Lab Consumables,Corporate,Barclaycard,20020112,"≈Å121,876.68"
-DEFRA,Cefas,13/07/2011,Management Charges,Corporate,DEFRA RECEIPTS,20020182,"≈Å80,000.00"
-DEFRA,Cefas,13/07/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20020336,"≈Å641,144.30"
-DEFRA,Cefas,13/07/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20020336,"≈Å234,380.39"
-DEFRA,Cefas,22/07/2011,Lab Services,Environment & Ecosystems,IVM Institute for Environmental Studies,20020537,"≈Å70,790.09"
-DEFRA,Cefas,28/07/2011,Assets Under Construction,Corporate,Dimension Data Visual Communications Ltd,20019909,"≈Å29,286.60"
+DEFRA,Cefas,01/07/2011,Lab Consumables,Corporate,Barclaycard,20020112,"£121,876.68"
+DEFRA,Cefas,13/07/2011,Management Charges,Corporate,DEFRA RECEIPTS,20020182,"£80,000.00"
+DEFRA,Cefas,13/07/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20020336,"£641,144.30"
+DEFRA,Cefas,13/07/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20020336,"£234,380.39"
+DEFRA,Cefas,22/07/2011,Lab Services,Environment & Ecosystems,IVM Institute for Environmental Studies,20020537,"£70,790.09"
+DEFRA,Cefas,28/07/2011,Assets Under Construction,Corporate,Dimension Data Visual Communications Ltd,20019909,"£29,286.60"

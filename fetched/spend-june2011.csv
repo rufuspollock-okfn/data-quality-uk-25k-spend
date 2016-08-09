@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Budget Holder,Expense Area,Supplier Name,Transactions Number, Amount (Âœ) ,VAT Registration Number
+Department Family,Entity,Payment Date,Expense Type,Budget Holder,Expense Area,Supplier Name,Transactions Number, Amount (œ) ,VAT Registration Number
 FCO,FCO,13-Jun-11,Information Systems Maintenance,17155,DG CHANGE & DELIVERY,3M UNITED KINGDOM PLC,1019107,"61,687.50",
 FCO,FCO,13-Jun-11,VAT (Input) (Oracle Sub-Ledger Control Account),0,NON CASH & UNALLOCATED COSTS,3M UNITED KINGDOM PLC,1019107,"12,337.50",
 FCO,FCO,30-Jun-11,Training Course: Fees,18819,DG CHANGE & DELIVERY,ASHRIDGE MANAGEMENT COLLEGE,1020576,"24,000.00",

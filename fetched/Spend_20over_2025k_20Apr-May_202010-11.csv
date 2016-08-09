@@ -1,4 +1,4 @@
 Department Family,Entity,Date,Expense Type,Expense Reason,Expense Area,Supplier,Transaction Number,Amount,VAT Registration No
-Scotland Office,SO1,01/04/2010,IT equipment - Purchase,Recharge for IT equipment,Corporate & Constitutional - Edinburgh,Scottish Government,21451,"≈Å33,717.07",888 8425 51
-Scotland Office,SO1,14/04/2010,Rates,Yearly Payment of Rates,Corporate & Constitutional - Edinburgh,City of Edinburgh Council,317957210,"≈Å57,960.00",
-Scotland Office,SO1,01/04/2010,Rates,Yearly Payment of Rates,Corporate & Constitutional - London,City of Westminster,12,"≈Å179,980.27",
+Scotland Office,SO1,01/04/2010,IT equipment - Purchase,Recharge for IT equipment,Corporate & Constitutional - Edinburgh,Scottish Government,21451,"£33,717.07",888 8425 51
+Scotland Office,SO1,14/04/2010,Rates,Yearly Payment of Rates,Corporate & Constitutional - Edinburgh,City of Edinburgh Council,317957210,"£57,960.00",
+Scotland Office,SO1,01/04/2010,Rates,Yearly Payment of Rates,Corporate & Constitutional - London,City of Westminster,12,"£179,980.27",

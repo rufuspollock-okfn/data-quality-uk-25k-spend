@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (≈Å) ,VAT Registration Number
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£) ,VAT Registration Number
 FCO,FCO,17-Nov-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,ECOFYS/AZURE INTERNATIONAL TECHNOLOGY AND DEVELOPMENT BEIJING LIMITED,1243557,"42,852.68",
 FCO,FCO,19-Nov-10,General Information Services,DG CHANGE & DELIVERY,BULLET MARKETING LTD,1003504,"26,572.00",
 FCO,FCO,19-Nov-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,BULLET MARKETING LTD,1003504,"4,650.10",

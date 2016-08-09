@@ -1,4 +1,4 @@
 Department family(T),Entity(T),Pay date,Expense type(T),Expense area(T),Supplier,Supplier(T),TransNo,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
-DEFRA,Cefas,01/08/2011,Lab Consumables,Corporate,202007,Barclaycard,20020574,"≈Å72,846",Statement dated 17/07/11,TS17 6YG,Large,,50001B,Administration
-DEFRA,Cefas,26/08/2011,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20021971,"≈Å684,956",Recharge of BCP Capital Costs March 2011,YO1 7PX,Large,,73000,Administration
-DEFRA,Cefas,31/08/2011,Lab Consumables,Corporate,202007,Barclaycard,20021974,"≈Å82,567",Statement dated 17/08/11,TS17 6YG,Large,,50001B,Administration
+DEFRA,Cefas,01/08/2011,Lab Consumables,Corporate,202007,Barclaycard,20020574,"£72,846",Statement dated 17/07/11,TS17 6YG,Large,,50001B,Administration
+DEFRA,Cefas,26/08/2011,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20021971,"£684,956",Recharge of BCP Capital Costs March 2011,YO1 7PX,Large,,73000,Administration
+DEFRA,Cefas,31/08/2011,Lab Consumables,Corporate,202007,Barclaycard,20021974,"£82,567",Statement dated 17/08/11,TS17 6YG,Large,,50001B,Administration

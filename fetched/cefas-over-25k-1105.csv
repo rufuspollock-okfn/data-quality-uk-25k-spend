@@ -1,3 +1,3 @@
 Department family(T),Entity(T),Pay date,Expense type(T),Expense area(T),Supplier,Supplier(T),TransNo,Amount
-DEFRA,Cefas,03/05/2011,Lab Consumables,Corporate,202007,Barclaycard,20017022,"≈Å94,710.28"
-DEFRA,Cefas,27/05/2011,Professional Services Technical Subcontracts (original research),Environment & Ecosystems,201882,TNS Opinion,20018503,"≈Å37,693.46"
+DEFRA,Cefas,03/05/2011,Lab Consumables,Corporate,202007,Barclaycard,20017022,"£94,710.28"
+DEFRA,Cefas,27/05/2011,Professional Services Technical Subcontracts (original research),Environment & Ecosystems,201882,TNS Opinion,20018503,"£37,693.46"

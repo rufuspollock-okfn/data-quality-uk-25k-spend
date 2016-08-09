@@ -1,520 +1,795 @@
-Department Family,Entity,Transaction Date,Expense Type,Expense Area,Supplier Name,Transaction Number,Amount,VAT Registration Number
-DFID,DFID,12/05/2010,Technical & Advisory services,East and Central Africa,KPMG EAST AFRICA LTD,400098103,550000,
-DFID,DFID,12/05/2010,Technical & Advisory services,East and Central Africa,KPMG EAST AFRICA LTD,400098136,127372,
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,SA INSTITUTE OF INTERNATIONAL AFFAIRS,400097899,51818.91,
-DFID,DFID,12/05/2010,Technical & Advisory services,Asia Division,TRIBAL HELM CORPORATION LTD,400098070,210939.26,
-DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,8458.39,
-DFID,DFID,12/05/2010,Accomodation costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,44.64,
-DFID,DFID,12/05/2010,Accomodation costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,63.24,
-DFID,DFID,12/05/2010,Shared Services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,16.69,
-DFID,DFID,12/05/2010,Accomodation costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,7049.71,
-DFID,DFID,12/05/2010,Accomodation costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,7506.45,
-DFID,DFID,12/05/2010,Energy Costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,733.02,
-DFID,DFID,12/05/2010,Energy Costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,220.87,
-DFID,DFID,12/05/2010,"Property Repairs, Maintenance & Alterations","Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,6.51,
-DFID,DFID,12/05/2010,Office Equipment,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,177.07,
-DFID,DFID,12/05/2010,Communications,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,13.69,
-DFID,DFID,12/05/2010,Communications,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,11.25
-DFID,DFID,12/05/2010,Communications,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,395.3
-DFID,DFID,12/05/2010,"Printing, Stationary & Postage","Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,137.07
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,106.97
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,259.96
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,253.61
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,345.28
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,105.66
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,255.96
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,255.96
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,204.6
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,203.42
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,217.13
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,204.6
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,75.44
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,547.74
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,85.56
-DFID,DFID,12/05/2010,Other Admin Costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,10.16
-DFID,DFID,12/05/2010,Other Admin Costs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400097923,50.34
-DFID,DFID,12/05/2010,Technical & Advisory services,Asia Division,MOTT MACDONALD INTERNATIONAL,400098066,50963.92
-DFID,DFID,12/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400098210,941985.75
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,INTERNATIONAL INSTITUTE FOR ENVIRO,400098201,28430.79
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",SEARCH FOR COMMON GROUND,400097831,195000
-DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,3094.79
-DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,99.15
-DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,118.51
-DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,37.54
-DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,60.23
-DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,68.22
-DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,41.98
-DFID,DFID,12/05/2010,Shared Services,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,2210.99
-DFID,DFID,12/05/2010,Accomodation costs,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,14559.67
-DFID,DFID,12/05/2010,Other Admin Costs,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,309.78
-DFID,DFID,12/05/2010,Other Admin Costs,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,76.9
-DFID,DFID,12/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,131.14
-DFID,DFID,12/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,52488.11
-DFID,DFID,12/05/2010,Aid to international organisations,West and Southern Africa,UNOPS (ACCESS SUPPORT TEAM PROJECT),400097935,1090165
-DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,738.33
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,School for Life,400097739,75565.25
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,GUTTMACHER  INSTITUTE,400097960,478049.02
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,GUTTMACHER  INSTITUTE,400097960,-239024.51
-DFID,DFID,12/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400098190,34107.85
-DFID,DFID,12/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400098190,4804.59
-DFID,DFID,12/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400098190,503.1
-DFID,DFID,12/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400098190,1063.1
-DFID,DFID,12/05/2010,Communications,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,61.3
-DFID,DFID,12/05/2010,Medical & Health Supplies/Services,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,44.64
-DFID,DFID,12/05/2010,Medical & Health Supplies/Services,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,74.4
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,757.31
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,314.16
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,345.53
-DFID,DFID,12/05/2010,Other Admin Costs,Human Resources Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,168.13
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",SAVE THE CHILDREN,400097779,44053
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",WORLD VISION UNITED KINGDOM,400097846,162921
-DFID,DFID,12/05/2010,Communications,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400097923,454.22
-DFID,DFID,12/05/2010,Technical & Advisory services,International Relations Division,TRIBAL HELM CORPORATION LTD,400098196,128439.43
-DFID,DFID,12/05/2010,Technical & Advisory services,International Relations Division,TRIBAL HELM CORPORATION LTD,400098196,14682.11
-DFID,DFID,12/05/2010,Technical & Advisory services,International Relations Division,OXFORD POLICY MANAGEMENT,400098101,156414
-DFID,DFID,12/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400098127,420935
-DFID,DFID,12/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400098127,255856.96
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Communications Division,THE CROWN AGENTS,400097785,27829.82
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Western Asia and Stabilisation Division,PIDE-PSDE,400097919,38781.25
-DFID,DFID,12/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,FOREIGN AND COMMONWEALTH OFFICE,400097923,357.45
-DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,1102.12
-DFID,DFID,12/05/2010,Technical & Advisory services,West and Southern Africa,PKF (UK) LLP,400098126,114027.3
-DFID,DFID,12/05/2010,Technical & Advisory services,West and Southern Africa,HLSP LTD,400098324,1070492.77
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,ALAFA,400097958,233027
-DFID,DFID,12/05/2010,Aid to civil society organisations / NGOs,Asia Division,CARITAS SWITZERLAND,400097868,39890.14
-DFID,DFID,12/05/2010,Accomodation costs,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098208,87457.71
-DFID,DFID,12/05/2010,Accomodation costs,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098208,111614.6
-DFID,DFID,12/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400097961,193.42
-DFID,DFID,12/05/2010,Aid to international organisations,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",IBRD HSBC T,400097913,1564000
-DFID,DFID,13/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,AATF,400098146,195325.89
-DFID,DFID,13/05/2010,Aid to civil society organisations / NGOs,Asia Division,INTERNATIONAL INSTITUTE FOR ENVIRO,400098092,55469
-DFID,DFID,13/05/2010,Aid to other bilateral donors,Asia Division,IBRD HSBC T,400098062,2300000
-DFID,DFID,13/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",INTERNATIONAL HIV/AIDS ALLIANCE,400098320,118905
-DFID,DFID,13/05/2010,Technical & Advisory services,Asia Division,MOTT MACDONALD INTERNATIONAL,400098455,-25126.2
-DFID,DFID,13/05/2010,Aid to civil society organisations / NGOs,Asia Division,The Carter Center,400098179,115601.8
-DFID,DFID,13/05/2010,Research & Development,Policy and Research Directorate,LONDON SCHOOL OF HYGIENE AND TR,400098334,160838.76
-DFID,DFID,13/05/2010,Technical & Advisory services,East and Central Africa,LIVERPOOL ASSOCIATES IN TROP. HEALTH,400098318,147819.33
-DFID,DFID,13/05/2010,Aid to partner government,West and Southern Africa,THE CROWN AGENTS,400098406,1800000
-DFID,DFID,13/05/2010,Aid to other bilateral donors,Western Asia and Stabilisation Division,UNDP CONTRIBUTIONS ACCOUNT,400098162,692968
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,ONE WORLD,400098194,30008
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,ONE WORLD,400098198,31911
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,ONE WORLD,400098200,41188
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,ONE WORLD,400098388,41856
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,RE-ACTION,400099310,101298.4
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,TRIBAL HELM CORPORATION LTD,400098316,36206.31
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,GRM INTERNATIONAL LTD,400098329,114128.75
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,LIVERPOOL ASSOCIATES IN TROP. HEALTH,400098331,30710.58
-DFID,DFID,13/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400098317,51113.19
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Asia Division,INTERNATIONAL RESCUE COMMITTEE UK,400098384,262996
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Asia Division,INTERNATIONAL RESCUE COMMITTEE UK,400098384,-131498
-DFID,DFID,14/05/2010,Research & Development,Policy and Research Directorate,Natural Environment Research Council,400098905,64600
-DFID,DFID,14/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098511,4800
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",CONCILIATION RESOURCES (IWPR),400098378,177988
-DFID,DFID,14/05/2010,Technical & Advisory services,West and Southern Africa,EFFECTIVE DEVELOPMENT GROUP (EDG),400098582,98854.86
-DFID,DFID,14/05/2010,Technical & Advisory services,East and Central Africa,THE CROWN AGENTS,400098848,28381.02
-DFID,DFID,14/05/2010,Technical & Advisory services,East and Central Africa,THE CROWN AGENTS,400098851,30531.4
-DFID,DFID,14/05/2010,Technical & Advisory services,West and Southern Africa,HLSP LIMITED,400098630,66790.53
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,OXFAM,400098274,78368
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,KPMG DEVELOPMENT SERVICE,400098254,933853.23
-DFID,DFID,14/05/2010,Research & Development,Policy and Research Directorate,BRITISH COUNCIL,400099397,152980
-DFID,DFID,14/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098511,54000
-DFID,DFID,14/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098532,37202.67
-DFID,DFID,14/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098532,3282.01
-DFID,DFID,14/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400098652,795353.3
-DFID,DFID,14/05/2010,Aid to international organisations,Asia Division,UNCTAD,400098403,901699.31
-DFID,DFID,14/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE INTERNATIONAL COMMITTEE OF THE RED CROSS (ICRC),400098398,1000000
-DFID,DFID,14/05/2010,Technical & Advisory services,Asia Division,GRM INTERNATIONAL LTD,400098509,93623.51
-DFID,DFID,14/05/2010,Technical & Advisory services,West and Southern Africa,PRICEWATERHOUSECOOPERS AFRICA,400098321,81163
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,EFInA,400098301,346751.31
-DFID,DFID,14/05/2010,Technical & Advisory services,West and Southern Africa,GRM INTERNATIONAL LTD,400098576,127568.97
-DFID,DFID,14/05/2010,Technical & Advisory services,Communications Division,CHRISTIAN AID,400098566,288108.05
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Communications Division,THE CROWN AGENTS,400098241,83004.5
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,Western Asia and Stabilisation Division,INTERNATIONAL MEDICAL CORPS (UK),400098256,260015
-DFID,DFID,14/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,THE CROWN AGENTS,400098511,96200
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",TRANSPARENCY INTERNATIONAL (UK),400098393,90675
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,ONE WORLD ACTION,400098371,166861.58
-DFID,DFID,14/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,International Food PolicyResearch Institute (IFRI,400098252,94546.19
-DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,7185.95
-DFID,DFID,17/05/2010,Technical & Advisory services,Policy and Research Directorate,HAREWELLE INTERNATIONAL LIMITED,400098867,33491.85
-DFID,DFID,17/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098542,4
-DFID,DFID,17/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098542,15496.55
-DFID,DFID,17/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,813.85
-DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,1099.35
-DFID,DFID,17/05/2010,Technical & Advisory services,Policy and Research Directorate,UNIVERSITY OF BIRMINGHAM,400098787,163874.34
-DFID,DFID,17/05/2010,Accomodation costs,Human Resources Division,SOUTH LANARKSHIRE COUNCIL,400098883,207414
-DFID,DFID,17/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098751,33746.48
-DFID,DFID,17/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400098751,1089.68
-DFID,DFID,17/05/2010,Aid to civil society organisations / NGOs,Asia Division,CARE INTERNATIONAL,400098655,357598
-DFID,DFID,17/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400098542,1307.78
-DFID,DFID,17/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400098613,276.95
-DFID,DFID,17/05/2010,Technical & Advisory services,Business Solutions Division Level,LOGICACMG UK LTD.,400098801,43754
-DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,4136.71
-DFID,DFID,17/05/2010,Emergency / Humanitarian Assistance,West and Southern Africa,National Disaster Management Institute (INGC),400098663,500000
-DFID,DFID,17/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,SAVE THE CHILDREN UK,400098660,53334
-DFID,DFID,17/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400098788,59041.69
-DFID,DFID,17/05/2010,Technical & Advisory services,Policy and Research Directorate,CAB INTERNATIONAL,400098631,32771.36
-DFID,DFID,17/05/2010,Technical & Advisory services,Policy and Research Directorate,WRENmedia,400098637,21650.52
-DFID,DFID,17/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",OXFAM,400098636,67462
-DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098542,138.46
-DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,-95.24
-DFID,DFID,17/05/2010,Technical & Advisory services,West and Southern Africa,Cowater International Inc.,400098817,39911.11
-DFID,DFID,17/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400098784,111887.71
-DFID,DFID,17/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Argos Georgia Limited,400098871,313969.86
-DFID,DFID,17/05/2010,Aid to international organisations,East and Central Africa,UNOPS,400098504,1000000
-DFID,DFID,17/05/2010,Technical & Advisory services,East and Central Africa,ADAM SMITH INTERNATIONAL  LTD,400098854,259938.31
-DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098542,11210.76
-DFID,DFID,17/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400098613,924.65
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Asia Division,Hogg Robinson Group,6000020,5548.8
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Business Solutions Division Level,Hogg Robinson Group,6000020,10878.67
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Communications Division,Hogg Robinson Group,6000020,13281.01
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,East and Central Africa,Hogg Robinson Group,6000020,6625.18
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Evaluation Department,Hogg Robinson Group,6000020,4788.57
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Finance and Corporate Performance Division,Hogg Robinson Group,6000020,6632.05
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Human Resources Division,Hogg Robinson Group,6000020,11421.94
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Internal Audit,Hogg Robinson Group,6000020,-957.45
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Finance Division,Hogg Robinson Group,6000020,17451.7
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Relations Division,Hogg Robinson Group,6000020,13011.42
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Policy and Research Directorate,Hogg Robinson Group,6000020,48410.43
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000020,22067.21
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Top Management Group,Hogg Robinson Group,6000020,15485.34
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,West and Southern Africa,Hogg Robinson Group,6000020,12902.67
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,Hogg Robinson Group,6000020,34153.38
-DFID,DFID,17/05/2010,Staff training & Conferences,Asia Division,Hogg Robinson Group,6000020,249.7
-DFID,DFID,17/05/2010,Staff training & Conferences,Business Solutions Division Level,Hogg Robinson Group,6000020,584.29
-DFID,DFID,17/05/2010,Staff training & Conferences,Finance and Corporate Performance Division,Hogg Robinson Group,6000020,298.99
-DFID,DFID,17/05/2010,Staff training & Conferences,Human Resources Division,Hogg Robinson Group,6000020,70.68
-DFID,DFID,17/05/2010,Staff training & Conferences,Internal Audit,Hogg Robinson Group,6000020,118.58
-DFID,DFID,17/05/2010,Staff training & Conferences,International Relations Division,Hogg Robinson Group,6000020,637.07
-DFID,DFID,17/05/2010,Staff training & Conferences,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000020,50.76
-DFID,DFID,17/05/2010,Staff training & Conferences,West and Southern Africa,Hogg Robinson Group,6000020,3404.05
-DFID,DFID,17/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,Hogg Robinson Group,6000020,384.1
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Asia Division,Hogg Robinson Group,6000021,12094.7
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Business Solutions Division Level,Hogg Robinson Group,6000021,17272.98
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Communications Division,Hogg Robinson Group,6000021,2772.95
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,East and Central Africa,Hogg Robinson Group,6000021,32347.77
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Evaluation Department,Hogg Robinson Group,6000021,5135.53
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Finance and Corporate Performance Division,Hogg Robinson Group,6000021,12126.7
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Human Resources Division,Hogg Robinson Group,6000021,18438.51
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Internal Audit,Hogg Robinson Group,6000021,8411.55
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Finance Division,Hogg Robinson Group,6000021,6932.71
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Relations Division,Hogg Robinson Group,6000021,23162.87
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Policy and Research Directorate,Hogg Robinson Group,6000021,90308.51
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000021,31462.33
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Top Management Group,Hogg Robinson Group,6000021,20527.73
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,West and Southern Africa,Hogg Robinson Group,6000021,44989.78
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,Hogg Robinson Group,6000021,106419.16
-DFID,DFID,17/05/2010,Staff training & Conferences,Asia Division,Hogg Robinson Group,6000021,1092.68
-DFID,DFID,17/05/2010,Staff training & Conferences,Business Solutions Division Level,Hogg Robinson Group,6000021,839.73
-DFID,DFID,17/05/2010,Staff training & Conferences,East and Central Africa,Hogg Robinson Group,6000021,501.33
-DFID,DFID,17/05/2010,Staff training & Conferences,Evaluation Department,Hogg Robinson Group,6000021,339.64
-DFID,DFID,17/05/2010,Staff training & Conferences,Finance and Corporate Performance Division,Hogg Robinson Group,6000021,1066.36
-DFID,DFID,17/05/2010,Staff training & Conferences,Human Resources Division,Hogg Robinson Group,6000021,939.49
-DFID,DFID,17/05/2010,Staff training & Conferences,Internal Audit,Hogg Robinson Group,6000021,383.4
-DFID,DFID,17/05/2010,Staff training & Conferences,International Relations Division,Hogg Robinson Group,6000021,905.45
-DFID,DFID,17/05/2010,Staff training & Conferences,Policy and Research Directorate,Hogg Robinson Group,6000021,1549.46
-DFID,DFID,17/05/2010,Staff training & Conferences,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000021,783.66
-DFID,DFID,17/05/2010,Staff training & Conferences,West and Southern Africa,Hogg Robinson Group,6000021,1211.1
-DFID,DFID,17/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,Hogg Robinson Group,6000021,-25.01
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Asia Division,Hogg Robinson Group,6000019,8371.42
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Business Solutions Division Level,Hogg Robinson Group,6000019,10725.43
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Communications Division,Hogg Robinson Group,6000019,6996.58
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,East and Central Africa,Hogg Robinson Group,6000019,6084.29
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Evaluation Department,Hogg Robinson Group,6000019,1339.79
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Finance and Corporate Performance Division,Hogg Robinson Group,6000019,8281.41
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Human Resources Division,Hogg Robinson Group,6000019,4364.34
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Internal Audit,Hogg Robinson Group,6000019,271.36
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Finance Division,Hogg Robinson Group,6000019,4454.26
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,International Relations Division,Hogg Robinson Group,6000019,9435.65
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Policy and Research Directorate,Hogg Robinson Group,6000019,36793.01
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000019,11999.01
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Top Management Group,Hogg Robinson Group,6000019,18793.48
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,West and Southern Africa,Hogg Robinson Group,6000019,7167.14
-DFID,DFID,17/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,Hogg Robinson Group,6000019,26330.02
-DFID,DFID,17/05/2010,Staff training & Conferences,Business Solutions Division Level,Hogg Robinson Group,6000019,1191.6
-DFID,DFID,17/05/2010,Staff training & Conferences,Finance and Corporate Performance Division,Hogg Robinson Group,6000019,1958.32
-DFID,DFID,17/05/2010,Staff training & Conferences,Policy and Research Directorate,Hogg Robinson Group,6000019,185.42
-DFID,DFID,17/05/2010,Staff training & Conferences,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000019,1579.31
-DFID,DFID,17/05/2010,Staff training & Conferences,West and Southern Africa,Hogg Robinson Group,6000019,379.11
-DFID,DFID,18/05/2010,FCO Post Account,Western Asia and Stabilisation Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,47.51
-DFID,DFID,18/05/2010,Technical & Advisory services,Asia Division,TURNER & TOWNSEND,400099065,105241.85
-DFID,DFID,18/05/2010,Aid to international organisations,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",CARIBBEAN COMMUNITY SECRETARIAT,400098906,70055
-DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,2797.61
-DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,1524.22
-DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,3493.97
-DFID,DFID,18/05/2010,FCO Post Account,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,26.65
-DFID,DFID,18/05/2010,FCO Post Account,West and Southern Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,5977.12
-DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,3095.1
-DFID,DFID,18/05/2010,FCO Post Account,West and Southern Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,174.36
-DFID,DFID,18/05/2010,FCO Post Account,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,850.1
-DFID,DFID,18/05/2010,FCO Post Account,West and Southern Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,114390.22
-DFID,DFID,18/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,838.6
-DFID,DFID,18/05/2010,FCO Post Account,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,12408.48
-DFID,DFID,18/05/2010,FCO Post Account,East and Central Africa,FOREIGN AND COMMONWEALTH OFFICE,400098862,2261.38
-DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,MEDECINS  SANS FRONTIERES,400098868,640708
-DFID,DFID,18/05/2010,Technical & Advisory services,East and Central Africa,THE CROWN AGENTS,400098855,136643.8
-DFID,DFID,18/05/2010,Aid to international organisations,Policy and Research Directorate,International Monetary Fund (GBP),400098882,500000
-DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,267351.62
-DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,39570
-DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,12813.67
-DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,155576.63
-DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,5296.2
-DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,2108.76
-DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,6815
-DFID,DFID,18/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099269,3306.73
-DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,THE GLOBAL FORUM ON MSM AND HIV,400098731,98201.82
-DFID,DFID,18/05/2010,Technical & Advisory services,Asia Division,Best Practices Foundation,400098709,30401.39
-DFID,DFID,18/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400098862,720.45
-DFID,DFID,18/05/2010,Hardware,Business Solutions Division Level,CARILLION COMMUNICATIONS LTD,400099115,66713.3
-DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,Banja La Mtsogolo,400098776,250000
-DFID,DFID,18/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400098862,255.69
-DFID,DFID,18/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400098862,825.17
-DFID,DFID,18/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400098862,565.05
-DFID,DFID,18/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400098862,36087.97
-DFID,DFID,18/05/2010,Aid to partner government,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400099108,3000000
-DFID,DFID,18/05/2010,Technical & Advisory services,West and Southern Africa,CHEMONICS,400099244,234043.42
-DFID,DFID,18/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400099243,49558.76
-DFID,DFID,18/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,HLSP LIMITED,400098900,29203
-DFID,DFID,18/05/2010,FCO Post Account,Western Asia and Stabilisation Division,FOREIGN AND COMMONWEALTH OFFICE,400098862,995.64
-DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,PACT INC,400098795,428360.95
-DFID,DFID,18/05/2010,Technical & Advisory services,East and Central Africa,KPMG EAST AFRICA LTD,400099146,43159
-DFID,DFID,18/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,International Centre for Trade and Sustainable Development,400098786,150000
-DFID,DFID,19/05/2010,Technical & Advisory services,Asia Division,Harewelle International Limited.,400099350,140227.51
-DFID,DFID,19/05/2010,Aid to civil society organisations / NGOs,Asia Division,Harewelle International Limited.,400099350,372937.14
-DFID,DFID,19/05/2010,Technical & Advisory services,West and Southern Africa,DAI EUROPE LIMITED,400099362,174583.52
-DFID,DFID,19/05/2010,Technical & Advisory services,West and Southern Africa,CARE INTERNATIONAL,400099324,25527.09
-DFID,DFID,19/05/2010,Technical & Advisory services,Policy and Research Directorate,OVERSEAS DEVELOPMENT INSTITUTE,400099368,51683.92
-DFID,DFID,19/05/2010,Aid to international organisations,Policy and Research Directorate,IFPRI,400099048,54448.94
-DFID,DFID,19/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,IMPERIAL COLLEGE LONDON,400099016,47380.17
-DFID,DFID,19/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400099337,4551143.91
-DFID,DFID,19/05/2010,Shared Services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400099205,10668.86
-DFID,DFID,19/05/2010,Technical & Advisory services,International Relations Division,ECOTEC RESEARCH AND CONSULTING LTD,400099360,81680
-DFID,DFID,19/05/2010,Technical & Advisory services,West and Southern Africa,UNDP Representative,400099135,44000
-DFID,DFID,19/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,MONASO,400098969,68412.74
-DFID,DFID,19/05/2010,Medical & Health Supplies/Services,West and Southern Africa,THE CROWN AGENTS,400099367,149161.96
-DFID,DFID,19/05/2010,Technical & Advisory services,West and Southern Africa,HTSPE LTD,400099498,-34176.67
-DFID,DFID,19/05/2010,Aid to partner government,West and Southern Africa,THE CROWN AGENTS,400099352,150000
-DFID,DFID,19/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,Soul City,400099103,330761
-DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099444,1938688.12
-DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099445,5123356.98
-DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099441,2369309.42
-DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099441,-1579539.42
-DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099442,3106340.03
-DFID,DFID,20/05/2010,Donor Replenishment of funding,International Finance Division,AFRICAN  DEVELOPMENT BANK GROUP,400099446,13114650
-DFID,DFID,20/05/2010,Research & Development,Policy and Research Directorate,NRI LTD.,400099572,25000
-DFID,DFID,20/05/2010,Technical & Advisory services,Asia Division,EMERGING MARKETS GROUP,400099526,64599.11
-DFID,DFID,20/05/2010,Technical & Advisory services,Asia Division,EMERGING MARKETS GROUP,400099527,69265.41
-DFID,DFID,20/05/2010,Aid to international organisations,Asia Division,WORLD HEALTH  ORGANISATION,400099250,129000
-DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",CARE INTERNATIONAL,400099715,254002.86
-DFID,DFID,20/05/2010,Technical & Advisory services,Evaluation Department,SAANA CONSULTING LTD,400099569,33141.37
-DFID,DFID,20/05/2010,Technical & Advisory services,Evaluation Department,SAANA CONSULTING LTD,400099569,10471.01
-DFID,DFID,20/05/2010,Technical & Advisory services,Evaluation Department,SAANA CONSULTING LTD,400099569,-10471.01
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,818208.19
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,42300
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,4025
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,29700
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,154577.72
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,5282.8
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,10418.36
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400099531,7837.25
-DFID,DFID,20/05/2010,Technical & Advisory services,Policy and Research Directorate,UNIVERSITY COLLEGE LONDON (FEES),400099582,105468.31
-DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",TEARFUND,400099395,97298.16
-DFID,DFID,20/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400099412,985252.21
-DFID,DFID,20/05/2010,Hardware,Business Solutions Division Level,CAPITA  IT SERVICES,400099593,771.22
-DFID,DFID,20/05/2010,Hardware,Business Solutions Division Level,CAPITA  IT SERVICES,400099593,26353.87
-DFID,DFID,20/05/2010,Aid to partner government,East and Central Africa,THE CROWN AGENTS,400099564,82812.04
-DFID,DFID,20/05/2010,Aid to partner government,West and Southern Africa,THE CROWN AGENTS,400099613,35000
-DFID,DFID,20/05/2010,Staff training & Conferences,West and Southern Africa,The World Bank (EFO),400099430,50000
-DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Asia Division,Dalit NGO Federation (DNF),400099366,54346.23
-DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Asia Division,Madhesh Community Mediation Project,400099422,73314.27
-DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Asia Division,SNV Netherlands Development Organisation (Nepal),400099434,45000
-DFID,DFID,20/05/2010,Technical & Advisory services,West and Southern Africa,Cambridge  Education Limited,400099357,1045924.87
-DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Communications Division,THE CROWN AGENTS,400099407,37416.6
-DFID,DFID,20/05/2010,Accomodation costs,Human Resources Division,CITY OF WESTMINSTER,400099443,2013992.38
-DFID,DFID,20/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",UNIVERSITY OF BIRMINGHAM,400099542,26144.93
-DFID,DFID,20/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",UNIVERSITY OF BIRMINGHAM,400099542,8914.73
-DFID,DFID,20/05/2010,Technical & Advisory services,International Relations Division,Deposit Insurance Agency - Social Inclusion,400099404,72500.85
-DFID,DFID,20/05/2010,Technical & Advisory services,West and Southern Africa,NATHAN EME LTD,400099523,10023.61
-DFID,DFID,20/05/2010,Technical & Advisory services,West and Southern Africa,NATHAN EME LTD,400099523,16951.6
-DFID,DFID,20/05/2010,Technical & Advisory services,West and Southern Africa,Masdar (UK) Limited,400099519,132778.23
-DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,Communications Division,Global Campaign for Education,400099700,103400
-DFID,DFID,20/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,RED R,400099389,207267.8
-DFID,DFID,21/05/2010,Emergency / Humanitarian Assistance,West and Southern Africa,World Food  Programme,400100139,750000
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,AFRICAN MONITOR,400099570,53236
-DFID,DFID,21/05/2010,Technical & Advisory services,Asia Division,BMB MOTT  MACDONALD,400099716,658020.81
-DFID,DFID,21/05/2010,Emergency / Humanitarian Assistance,Asia Division,UNDP CONTRIBUTIONS ACCOUNT,400099626,125000
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Asia Division,DANISH REFUGEE COUNCIL,400100051,168090
-DFID,DFID,21/05/2010,Technical & Advisory services,Finance and Corporate Performance Division,INSTITUTE OF PUBLIC FINANCE LTD (IPF,400099634,27974.38
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,NIKE FOUNDATION,400099617,456125.1
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Asia Division,CHRISTIAN AID,400100088,178775.88
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Asia Division,Oxfam (India) Trust,400100011,459515.19
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Asia Division,SKILLSHARE INTERNATIONAL,400100022,54844
-DFID,DFID,21/05/2010,Software,Business Solutions Division Level,ICM Business Continuity Services Ltd,400099847,61805.97
-DFID,DFID,21/05/2010,Software,Business Solutions Division Level,LOGICACMG UK LTD.,400098876,111501.75
-DFID,DFID,21/05/2010,Software,Business Solutions Division Level,LOGICACMG UK LTD.,400098877,125582.5
-DFID,DFID,21/05/2010,Technical & Advisory services,West and Southern Africa,Salephera Enterprises and Investments Ltd,400099503,32830.46
-DFID,DFID,21/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400099728,44637.31
-DFID,DFID,21/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,HTSPE LTD,400099620,86088.03
-DFID,DFID,21/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,HTSPE LTD,400099620,-40475.77
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Western Asia and Stabilisation Division,Rural Support Programmes Network (RSPN),400099603,700198
-DFID,DFID,21/05/2010,Technical & Advisory services,Human Resources Division,TURNER & TOWNSEND,400100140,28787.5
-DFID,DFID,21/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,COFFEY INTERNATIONAL DEVELOPMENT LTD,400099723,754.34
-DFID,DFID,21/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,COFFEY INTERNATIONAL DEVELOPMENT LTD,400099723,30000
-DFID,DFID,21/05/2010,Staff training & Conferences,Western Asia and Stabilisation Division,COFFEY INTERNATIONAL DEVELOPMENT LTD,400099723,30000
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,World Federation of Science Journalists (GBP),400099608,76853.92
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,FinMark  TRUST,400099522,140045.33
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,TEARFUND,400099641,707214
-DFID,DFID,21/05/2010,Aid to civil society organisations / NGOs,International Relations Division,UNESCO,400099552,109705
-DFID,DFID,24/05/2010,Aid to other bilateral donors,Asia Division,UNDP CONTRIBUTIONS ACCOUNT,400099741,1900000
-DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Asia Division,WESTMINSTER FOUNDATION FOR DEMOCRACY,400100006,29709.94
-DFID,DFID,24/05/2010,Aid to other bilateral donors,Asia Division,UNDP CONTRIBUTIONS ACCOUNT,400099741,1600000
-DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Asia Division,SAVE THE CHILDREN,400100688,100000
-DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,La Benevolencija,400099865,52019
-DFID,DFID,24/05/2010,Technical & Advisory services,Asia Division,MOTT MACDONALD INTERNATIONAL,400100007,33124.59
-DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,CHRISTIAN AID,400099848,283573
-DFID,DFID,24/05/2010,Technical & Advisory services,Evaluation Department,ITAD LTD,400099943,78051.73
-DFID,DFID,24/05/2010,Technical & Advisory services,Evaluation Department,ITAD LTD,400100016,83785.02
-DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,OVERSEAS DEVELOPMENT INSTITUTE,400100082,158338.4
-DFID,DFID,24/05/2010,Research & Development,Policy and Research Directorate,University Of Oxford,400100096,154489.66
-DFID,DFID,24/05/2010,Communications,Business Solutions Division Level,BT BACS PAYMENTS,400100221,24506.42
-DFID,DFID,24/05/2010,Communications,Business Solutions Division Level,BT BACS PAYMENTS,400100221,2570.31
-DFID,DFID,24/05/2010,Hardware,Business Solutions Division Level,HEWLETT PACKARD,400100078,51912.19
-DFID,DFID,24/05/2010,Hardware,Business Solutions Division Level,HEWLETT PACKARD,400100078,-1
-DFID,DFID,24/05/2010,Technical & Advisory services,East and Central Africa,NATIONAL SCHOOL OF GOVERNMENT,400099869,26442.4
-DFID,DFID,24/05/2010,Aid to international organisations,East and Central Africa,UNDP CONTRIBUTIONS ACCOUNT,400099738,2616000
-DFID,DFID,24/05/2010,Technical & Advisory services,West and Southern Africa,GRM INTERNATIONAL LTD,400100072,90094.38
-DFID,DFID,24/05/2010,Technical & Advisory services,Communications Division,CHRISTIAN AID,400099994,500232.44
-DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Communications Division,SKILLSHARE INTERNATIONAL,400099691,40000
-DFID,DFID,24/05/2010,Technical & Advisory services,Western Asia and Stabilisation Division,OXFORD POLICY MANAGEMENT,400099992,69197.47
-DFID,DFID,24/05/2010,"Property Repairs, Maintenance & Alterations",Human Resources Division,PLANNED MAINTENANCE ENGINEERING LTD,400099840,41724.25
-DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,ASSOCIATION OF COMMONWEALTH UNIVER,400099854,44000
-DFID,DFID,24/05/2010,Technical & Advisory services,East and Central Africa,MAXWELL STAMP PLC,400100094,45698.9
-DFID,DFID,24/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FLACSO-Chile,400099778,33196.11
-DFID,DFID,24/05/2010,Technical & Advisory services,West and Southern Africa,BRITISH COUNCIL,400099868,165249.77
-DFID,DFID,24/05/2010,Aid to international organisations,Policy and Research Directorate,ACICI/AITIC (AGENCY FOR INTERNATIONAL TRADE INFORMATION AND COOPERATION),400100554,86688
-DFID,DFID,24/05/2010,Technical & Advisory services,West and Southern Africa,PKF (UK) LLP,400099969,45383
-DFID,DFID,24/05/2010,Technical & Advisory services,West and Southern Africa,PKF (UK) LLP,400099970,113178.26
-DFID,DFID,25/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400100312,2000000
-DFID,DFID,25/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,CENTER FOR CLEAN AIR POLICY,400100126,66419.37
-DFID,DFID,25/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,THE INSTITUTE FOR STATE EFFECTIVENESS,400100150,52523.05
-DFID,DFID,25/05/2010,Research & Development,Policy and Research Directorate,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,400100280,76838.34
-DFID,DFID,25/05/2010,Technical & Advisory services,Policy and Research Directorate,HEALTH PARTNERS INTERNATIONAL,400100255,313962.43
-DFID,DFID,25/05/2010,Technical & Advisory services,Policy and Research Directorate,THE CROWN AGENTS,400100128,29280.86
-DFID,DFID,25/05/2010,Aid to civil society organisations / NGOs,Asia Division,WaterAid  (INDIA),400100124,98317
-DFID,DFID,25/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400100279,3171910.58
-DFID,DFID,25/05/2010,Aid to partner government,Asia Division,THE CROWN AGENTS,400100279,-1585955.29
-DFID,DFID,25/05/2010,Aid to partner government,West and Southern Africa,THE CROWN AGENTS,400100149,2000000
-DFID,DFID,25/05/2010,Technical & Advisory services,Asia Division,RTI INTERNATIONAL,400100236,83390.56
-DFID,DFID,25/05/2010,Technical & Advisory services,West and Southern Africa,ABT ASSOCIATES INC,400100267,548805.46
-DFID,DFID,25/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400100147,1795.86
-DFID,DFID,25/05/2010,Medical & Health Supplies/Services,West and Southern Africa,THE CROWN AGENTS,400100147,59862
-DFID,DFID,25/05/2010,Aid to partner government,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400100310,221525.92
-DFID,DFID,25/05/2010,Aid to international organisations,East and Central Africa,World Food  Programme,400100162,20000000
-DFID,DFID,26/05/2010,Technical & Advisory services,East and Central Africa,ADAM SMITH INTERNATIONAL  LTD,400100529,53880.77
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,EISA,400100278,302069.39
-DFID,DFID,26/05/2010,Technical & Advisory services,Asia Division,BMB MOTT  MACDONALD,400100621,56681.57
-DFID,DFID,26/05/2010,Aid to international organisations,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",ECLAC (ECONOMIC COMMISSION FOR LATIN AMERICA AND THE CARIBBEAN),400100271,250000
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,INTERNATIONAL RESCUE COMMITTEE UK,400100286,1247494
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,INTERNATIONAL RESCUE COMMITTEE UK,400100401,3165987
-DFID,DFID,26/05/2010,Aid to international organisations,Evaluation Department,THE WORLD BANK (CHINA),400100394,29142.38
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,CHRISTIAN AID,400100713,55718
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,FinMark  TRUST,400100718,38025.31
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,LIVERPOOL SCHOOL OF TROPICAL MEDICINE,400100416,444974.9
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",DEVELOPMENT INITIATIVES,400100365,45474
-DFID,DFID,26/05/2010,Communications,Business Solutions Division Level,OGC BUYING SOLUTIONS,400100391,153864.9
-DFID,DFID,26/05/2010,Aid to other bilateral donors,West and Southern Africa,THE CROWN AGENTS,400100604,4000000
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,Finance and Corporate Performance Division,CMI MICHELSEN INSTITUTE,400100708,33333
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,West and Southern Africa,CONCERN UNIVERSAL,400100327,78270.13
-DFID,DFID,26/05/2010,Technical & Advisory services,West and Southern Africa,ADAM SMITH INTERNATIONAL  LTD,400100569,302515.89
-DFID,DFID,26/05/2010,Purchase of Vehicles,West and Southern Africa,THE CROWN AGENTS,400100587,69109.83
-DFID,DFID,26/05/2010,Aid to international organisations,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",CARIBBEAN COMMUNITY CLIMATE CHANGE CENTER,400100397,110000
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,Communications Division,THE CROWN AGENTS,400100577,27742.73
-DFID,DFID,26/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,TRADES UNION CONGRESS,400100205,300000
-DFID,DFID,26/05/2010,Aid to other bilateral donors,West and Southern Africa,Government  of the Federal Republic of Germany,400100329,2000000
-DFID,DFID,26/05/2010,Technical & Advisory services,East and Central Africa,ADAM SMITH INTERNATIONAL  LTD,400100537,39293.17
-DFID,DFID,27/05/2010,Emergency / Humanitarian Assistance,Asia Division,THE CROWN AGENTS,400100751,142716.45
-DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,East and Central Africa,CATHOLIC RELIEF  SERVICES,400100650,340551.84
-DFID,DFID,27/05/2010,Technical & Advisory services,Policy and Research Directorate,Sustainable Development Capital LLP,400100743,50000
-DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",The Carter Center,400100631,75000
-DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,Asia Division,OXFAM,400100640,180000
-DFID,DFID,27/05/2010,Technical & Advisory services,West and Southern Africa,PRICEWATERHOUSECOOPERS,400100742,178391.1
-DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,Population Council,400100641,235219.28
-DFID,DFID,27/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400100832,34107.85
-DFID,DFID,27/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400100832,4804.59
-DFID,DFID,27/05/2010,Accomodation costs,Human Resources Division,ROK CONSTRUCTION,400100832,503.1
-DFID,DFID,27/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",THE CROWN AGENTS,400100749,86825.45
-DFID,DFID,27/05/2010,Technical & Advisory services,Asia Division,PRICEWATERHOUSECOOPERS DEVELOPMENT,400100739,38000
-DFID,DFID,27/05/2010,Technical & Advisory services,Asia Division,SOCIETY FOR PARTICIPATORY RESEARCH,400100561,51841.06
-DFID,DFID,27/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400100741,5006.13
-DFID,DFID,27/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400100745,2962.4
-DFID,DFID,27/05/2010,Medical & Health Supplies/Services,West and Southern Africa,THE CROWN AGENTS,400100741,106415.74
-DFID,DFID,27/05/2010,Purchase of Vehicles,West and Southern Africa,THE CROWN AGENTS,400100745,34248
-DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,Global Development Network,400100623,240000
-DFID,DFID,27/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,PANOS LONDON,400100610,84615
-DFID,DFID,27/05/2010,Technical & Advisory services,East and Central Africa,ADAM SMITH INTERNATIONAL  LTD,400100533,222931.37
-DFID,DFID,27/05/2010,Aid to international organisations,West and Southern Africa,UNAIDS,400100913,190000
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Asia Division,Hogg Robinson Group,6000022,18382.66
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Business Solutions Division Level,Hogg Robinson Group,6000022,12561
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Communications Division,Hogg Robinson Group,6000022,932.04
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,East and Central Africa,Hogg Robinson Group,6000022,7610.22
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Evaluation Department,Hogg Robinson Group,6000022,-260.33
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Finance and Corporate Performance Division,Hogg Robinson Group,6000022,11425.93
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Human Resources Division,Hogg Robinson Group,6000022,17390.23
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Internal Audit,Hogg Robinson Group,6000022,63.34
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,International Finance Division,Hogg Robinson Group,6000022,-1396.97
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,International Relations Division,Hogg Robinson Group,6000022,5761.24
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Policy and Research Directorate,Hogg Robinson Group,6000022,29030.22
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000022,35294.67
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Top Management Group,Hogg Robinson Group,6000022,4791.86
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,West and Southern Africa,Hogg Robinson Group,6000022,19841.56
-DFID,DFID,27/05/2010,Staff Business Travel and Subsistence,Western Asia and Stabilisation Division,Hogg Robinson Group,6000022,21258.09
-DFID,DFID,27/05/2010,Staff training & Conferences,Asia Division,Hogg Robinson Group,6000022,1409.37
-DFID,DFID,27/05/2010,Staff training & Conferences,Business Solutions Division Level,Hogg Robinson Group,6000022,446.73
-DFID,DFID,27/05/2010,Staff training & Conferences,Evaluation Department,Hogg Robinson Group,6000022,286.53
-DFID,DFID,27/05/2010,Staff training & Conferences,Finance and Corporate Performance Division,Hogg Robinson Group,6000022,360.72
-DFID,DFID,27/05/2010,Staff training & Conferences,Human Resources Division,Hogg Robinson Group,6000022,203.67
-DFID,DFID,27/05/2010,Staff training & Conferences,International Relations Division,Hogg Robinson Group,6000022,3616.85
-DFID,DFID,27/05/2010,Staff training & Conferences,Policy and Research Directorate,Hogg Robinson Group,6000022,354.15
-DFID,DFID,27/05/2010,Staff training & Conferences,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",Hogg Robinson Group,6000022,577.04
-DFID,DFID,27/05/2010,Staff training & Conferences,West and Southern Africa,Hogg Robinson Group,6000022,335.74
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,94857.23
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,24032.34
-DFID,DFID,28/05/2010,Aid to international organisations,Asia Division,THE WORLD BANK (CHINA),400101542,1020257.5
-DFID,DFID,28/05/2010,FCO Post Account,Policy and Research Directorate,FOREIGN AND COMMONWEALTH OFFICE,400100756,662.11
-DFID,DFID,28/05/2010,Technical & Advisory services,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",HLSP LTD,400100967,28214.77
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100717,11514
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,3024.92
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100756,25447.53
-DFID,DFID,28/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400100717,9451.46
-DFID,DFID,28/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400100756,14416.55
-DFID,DFID,28/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,4813.73
-DFID,DFID,28/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,4785.2
-DFID,DFID,28/05/2010,FCO Post Account,Asia Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,1832.52
-DFID,DFID,28/05/2010,Aid to international organisations,West and Southern Africa,The World  Bank IBRD,400104898,73649.48
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,710.8
-DFID,DFID,28/05/2010,Aid to civil society organisations / NGOs,Policy and Research Directorate,The Carter Center,400100699,500000
-DFID,DFID,28/05/2010,FCO Post Account,Policy and Research Directorate,FOREIGN AND COMMONWEALTH OFFICE,400100698,1754.37
-DFID,DFID,28/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400100698,1296.28
-DFID,DFID,28/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400100717,3313.01
-DFID,DFID,28/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400100747,1394.87
-DFID,DFID,28/05/2010,FCO Post Account,Business Solutions Division Level,FOREIGN AND COMMONWEALTH OFFICE,400100756,465.84
-DFID,DFID,28/05/2010,Technical & Advisory services,East and Central Africa,WHO (GENEVA),400100721,3408510
-DFID,DFID,28/05/2010,Technical & Advisory services,West and Southern Africa,Management Sciences for Health,400100944,34758
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,8126.88
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,1177.66
-DFID,DFID,28/05/2010,Technical & Advisory services,Asia Division,HAREWELLE INTERNATIONAL LIMITED,400100884,34774.82
-DFID,DFID,28/05/2010,Technical & Advisory services,West and Southern Africa,THE CROWN AGENTS,400100930,6083.06
-DFID,DFID,28/05/2010,Medical & Health Supplies/Services,West and Southern Africa,THE CROWN AGENTS,400100930,209760.7
-DFID,DFID,28/05/2010,Debt Relief,International Relations Division,EUROPEAN INVESTMENT BANK,400100897,56230.74
-DFID,DFID,28/05/2010,FCO Post Account,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",FOREIGN AND COMMONWEALTH OFFICE,400100756,387.73
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,850.73
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,511.67
-DFID,DFID,28/05/2010,Technical & Advisory services,West and Southern Africa,OPTIONS CONSULTANCY SERVICES LIMITED,400101592,68263.44
-DFID,DFID,28/05/2010,Technical & Advisory services,Communications Division,EC GROUP,400100951,16591.6
-DFID,DFID,28/05/2010,Technical & Advisory services,Communications Division,EC GROUP,400100951,64566.98
-DFID,DFID,28/05/2010,Technical & Advisory services,East and Central Africa,COFFEY INTERNATIONAL DEVELOPMENT LTD,400100882,88329.16
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,3236.9
-DFID,DFID,28/05/2010,FCO Post Account,International Relations Division,FOREIGN AND COMMONWEALTH OFFICE,400100747,190.18
-DFID,DFID,28/05/2010,FCO Post Account,Finance and Corporate Performance Division,FOREIGN AND COMMONWEALTH OFFICE,400100698,584.82
-DFID,DFID,30/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",AIR CHARTER SERVICE PLC,400100920,68336.6
-DFID,DFID,30/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",AIR CHARTER SERVICE PLC,400100924,68326.65
-DFID,DFID,30/05/2010,Emergency / Humanitarian Assistance,"Security & Humanitarian, Middle East, Caribbean & Overseas Territories Division",AIR CHARTER SERVICE PLC,400100925,68326.65
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount
+Home Office,Home Office,13/05/2010,"Science, Technical & Research.Social Research",CPG - Crime & Policing Group,MATRIX RESEARCH AND CONSULTANCY LTD,1715492,"35,177.15"
+Home Office,Home Office,14/05/2010,Grant,CPG - Crime & Policing Group,HAMPSHIRE POLICE AUTHORITY 1 (G),372696,"67,571.34"
+Home Office,Home Office,14/05/2010,"IT, Broadcasting & Telecomms.IT Run Costs other -Prog",CPG - Crime & Policing Group,ALTIUS CONSULTING LTD,1673343,"30,667.50"
+Home Office,Home Office,17/05/2010,Grant,CPG - Crime & Policing Group,KIRKLEES METROPOLITAN COUNCIL 2 (G,377374,"30,000.00"
+Home Office,Home Office,17/05/2010,Grant,CPG - Crime & Policing Group,SAFE ISLAND SARC(G),377342,"26,290.00"
+Home Office,Home Office,17/05/2010,Grant,CPG - Crime & Policing Group,ISA (G),376650,"1,399,400.00"
+Home Office,Home Office,17/05/2010,Grant,CPG - Crime & Policing Group,SECURITY INDUSTRY AUTHORITY 1 (G),365122,"38,073.00"
+Home Office,Home Office,17/05/2010,Lab & Scientific Equip (FA).Laboratory & scientific equip,CPG - Crime & Policing Group,CONCATENO UK LIMITED,1716679,"174,802.40"
+Home Office,Home Office,18/05/2010,IT & Telecoms Components.Computer Equip (FA),CPG - Crime & Policing Group,HEWLETT PACKARD,1702110,"264,080.08"
+Home Office,Home Office,19/05/2010,Defense & Law Enforcement.Police Liaison Officers,CPG - Crime & Policing Group,DEVON & CORNWALL POLICE AUTHORITY,1718078,"45,000.00"
+Home Office,Home Office,19/05/2010,Grant,CPG - Crime & Policing Group,NOTTINGHAMSHIRE POLICE AUTHORITY 2,380930,"30,000.00"
+Home Office,Home Office,19/05/2010,Grant,CPG - Crime & Policing Group,MERSEYSIDE POLICE AUTHORITY 1 (G),380930,"97,623.56"
+Home Office,Home Office,19/05/2010,Management & Admin Serv.Temporary Manager Staff - PROG,CPG - Crime & Policing Group,DERBYSHIRE POLICE AUTHORITY,1718109,"30,076.85"
+Home Office,Home Office,20/05/2010,Grant,CPG - Crime & Policing Group,MERSEYSIDE POLICE AUTHORITY 1 (G),380930-1,"35,000.00"
+Home Office,Home Office,20/05/2010,Grant,CPG - Crime & Policing Group,LEICESTERSHIRE CONSTABULARY 1 (G),380930,"35,000.00"
+Home Office,Home Office,20/05/2010,Grant,CPG - Crime & Policing Group,DURHAM POLICE AUTHORITY 1 (G),380930,"35,000.00"
+Home Office,Home Office,20/05/2010,Grant,CPG - Crime & Policing Group,DEVON & CORNWALL CONSTABULARY (G),380930,"35,000.00"
+Home Office,Home Office,20/05/2010,Grant,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE AUTHORITY 1,380930,"47,500.00"
+Home Office,Home Office,20/05/2010,Grant,CPG - Crime & Policing Group,LANCASHIRE POLICE AUTHORITY 1 (G),380930,"60,000.00"
+Home Office,Home Office,20/05/2010,Grant,CPG - Crime & Policing Group,NEIGHBOURHOOD AND HOMEWATCH NETWOR,2010-11Q1,"45,000.00"
+Home Office,Home Office,20/05/2010,Laboratory & Scientific Equip.Dimension measuring equip,CPG - Crime & Policing Group,CONCATENO UK LIMITED,1720790,"45,855.32"
+Home Office,Home Office,20/05/2010,Laboratory & Scientific Equip.Dimension measuring equip,CPG - Crime & Policing Group,CONCATENO UK LIMITED,1697627,"46,305.11"
+Home Office,Home Office,20/05/2010,ESTATES AND FACILITIES.ESTATES & FACILITIES,CPG - Crime & Policing Group,LAMBERT SMITH HAMPTON,1720723,"140,828.45"
+Home Office,Home Office,21/05/2010,Education & Training Services.Training Dev External - PROG,CPG - Crime & Policing Group,SAFETY NET ASSOCIATES LTD,1721539,"27,909.19"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,EPPING FOREST DISTRICT COUNCIL (G),380904,"50,000.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,LANCASHIRE POLICE AUTHORITY 1 (G),382704,"52,818.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,CAMBRIDGESHIRE POLICE AUTHORITY 1,382704,"61,864.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,BEDFORDSHIRE POLICE AUTHORITY 1 (G,382704,"78,922.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,NORTHAMPTONSHIRE POLICE 1 (G),382704,"83,646.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,AVON & SOMERSET POLICE AUTHORITY 1,382704,"94,452.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,HUMBERSIDE POLICE AUTHORITY 1,382704,"179,916.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,THAMES VALLEY POLICE AUTHORITY 1 (,382704,"185,296.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,NORTHUMBRIA POLICE (G),382704,"212,190.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,NOTTINGHAMSHIRE POLICE AUTHORITY 2,382704,"249,855.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,MERSEYSIDE POLICE AUTHORITY 1 (G),382704,"259,506.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,SOUTH YORKSHIRE POLICE AUTHORITY 1,382704,"311,152.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,WEST YORKSHIRE POLICE (G),382704,"487,769.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,GREATER MANCHESTER POLICE AUTHORIT,382704,"608,558.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,SOUTH WALES POLICE AUTHORITY 1 (G),382704,"90,799.00"
+Home Office,Home Office,21/05/2010,Grant,CPG - Crime & Policing Group,SEFTON BOROUGH COUNCIL (G),380902,"55,000.00"
+Home Office,Home Office,24/05/2010,"Associations, Clubs & Orgs.Professional Associations",CPG - Crime & Policing Group,ROYAL MINT,1718309,"381,786.87"
+Home Office,Home Office,24/05/2010,"IT, Broadcasting & Telecomms.IT Run Costs other -Prog",CPG - Crime & Policing Group,ALTIUS CONSULTING LTD,1720733,"31,754.38"
+Home Office,Home Office,24/05/2010,"IT, Broadcasting & Telecomms.IT Run Costs other -Prog",CPG - Crime & Policing Group,ALTIUS CONSULTING LTD,1720735,"31,966.78"
+Home Office,Home Office,24/05/2010,"IT, Broadcasting & Telecomms.IT Running Cost - Maint - PROG",CPG - Crime & Policing Group,FUJITSU SERVICES LTD,1705319,"43,026.15"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,WEST MIDLANDS POLICE AUTHORITY 1 (,380906,"228,598.94"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,ROYAL BOROUGH OF KINGSTON-UPON-THA,386126,"29,441.59"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,DORSET COUNTY COUNCIL 1 (G),386126,"40,194.76"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,MILTON KEYNES COUNCIL 1,386126,"41,584.55"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,SOUTHEND ON SEA BOROUGH COUNCI (G),386126,"42,362.80"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,BOURNEMOUTH BOROUGH COUNCIL 1 (G),386126,"49,778.90"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,CORPORATION OF LONDON (G),386126,"68,582.29"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,SOMERSET COUNTY COUNCIL 1 (G),386126,"74,816.97"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,CORN &ISLES OF SCILLY PRIMARY CARE,386126,"77,648.77"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,BRIGHTON & HOVE COUNCIL (G),386126,"81,151.36"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,GLOUCESTERSHIRE PCT,386126,"85,974.32"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,CUMBRIA COUNTY COUNCIL 1 (G),386126,"86,263.58"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,WEST SUSSEX COUNTY COUNCIL 1 (G),386126,"86,858.45"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,EAST SUSSEX COUNTY COUNCIL 1 (G),386126,"89,686.09"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,CAMBRIDGESHIRE COUNTY COUNCIL (G),386126,"90,523.67"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,DERBY CITY COUNCIL COMMUNITY SAFET,386126,"106,842.68"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,GATESHEAD PCT,386126,"149,154.82"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,HAMPSHIRE COUNTY COUNCIL 1 (G),386126,"152,846.06"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,STOCKPORT METRO BOROUGH COUNCIL (G,386126,"159,398.62"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,SALFORD CITY COUNCIL (G),386126,"166,332.13"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,ROTHERAM PCT,386126,"170,864.22"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,PETERBOROUGH DAT (G),386126,"172,879.26"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,STOCKTON ON TEES BOROUGH COUNCIL 1,386126,"174,808.63"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,SUNDERLAND PCT,386126,"186,100.62"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,NORTHAMPTONSHIRE COUNTY COUNCIL 2,386126,"240,570.54"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,LONDON BOROUGH OF HAMMERSMITH & FU,386126,"253,962.46"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,BOLTON MBC 1 (G),386126,"257,545.79"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,KIRKLEES PCT (G),386126,"272,799.67"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,LONDON BOROUGH OF NEWHAM (G),386126,"331,822.47"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,LONDON BOROUGH OF HACKNEY 1,386126,"367,772.04"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,SOUTHWARK PCT,386126,"389,916.04"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,MANCHESTER CITY COUNCIL 2 (G),386126,"627,558.45"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,SOUTH WALES POLICE AUTHORITY 1 (G),380906,"277,589.93"
+Home Office,Home Office,25/05/2010,Grant,CPG - Crime & Policing Group,SOCA (G),380906,"346,063.19"
+Home Office,Home Office,25/05/2010,Professional & Admin Services.Consultancy - Advice - ADMN,CPG - Crime & Policing Group,HUW JONES,1713644,"30,000.00"
+Home Office,Home Office,25/05/2010,Professional & Admin Services.Consultancy - Advice - PROG,CPG - Crime & Policing Group,FAST FUTURE RESEARCH LIMITED,1717563,"37,253.38"
+Home Office,Home Office,25/05/2010,Professional & Admin Services.Consultancy - Advice - PROG,CPG - Crime & Policing Group,FAST FUTURE RESEARCH LIMITED,1717566,"37,253.38"
+Home Office,Home Office,25/05/2010,"Professional & Admin Services.Corporate, Business IT Service",CPG - Crime & Policing Group,STERIA UK,1711370,"42,311.75"
+Home Office,Home Office,25/05/2010,"Transport, Storage & Mail Serv.Rail Passenger Transport- PROG",CPG - Crime & Policing Group,DORSET POLICE AUTHORITY,1722331,"49,647.15"
+Home Office,Home Office,25/05/2010,"Transport, Storage & Mail Serv.Rail Passenger Transport- PROG",CPG - Crime & Policing Group,SURREY POLICE AUTHORITY,1722303,"157,630.42"
+Home Office,Home Office,26/05/2010,Grant,CPG - Crime & Policing Group,NPIA (G),375172,"45,000,000.00"
+Home Office,Home Office,26/05/2010,"Science, Technical & Research.Social Research",CPG - Crime & Policing Group,NATIONAL CENTRE FOR SOCIAL RESEARCH,1722500,"32,500.00"
+Home Office,Home Office,27/05/2010,Management & Admin Serv.Temp IT Syst / Db Admin - PROG,CPG - Crime & Policing Group,CRIMINAL RECORDS BUREAU,1666909,"1,804,058.00"
+Home Office,Home Office,27/05/2010,News and publicity services.Press release services - PROG,CPG - Crime & Policing Group,BSI 360 LTD,1709171,"87,341.50"
+Home Office,Home Office,28/05/2010,IT & Telecoms Components.Computer Equip  (FA),CPG - Crime & Policing Group,CABLE & WIRELESS,1682052,"161,443.83"
+Home Office,CRB - Criminal Records Bureau,18/05/2010,PNC Charges,CRB - Criminal Records Bureau,NPIA,14159    6,"144,458.37"
+Home Office,CRB - Criminal Records Bureau,18/05/2010,Police costs per check,CRB - Criminal Records Bureau,Nottinghamshire Police Authori,14159    5,"184,501.71"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Thames Valley Police Authority,14173    42,"190,196.67"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Cheshire Police Authority,14173    9,"170,152.19"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,West Mercia Police Fund,14173    45,"127,838.47"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Greater Manchester Police,14173    18,"115,250.91"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Essex Police Authority Revenue,14173    16,"87,894.91"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,KENT CONSTABULARY,14173    23,"77,724.21"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Derbyshire Police Authority,14173    11,"69,695.81"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Hampshire Police Authority,14173    20,"66,175.95"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,North Yorkshire Police Authori,14173    31,"64,179.02"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Cambridgeshire Police Auth,14173    4,"59,333.71"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Lancashire Police Authority,14173    24,"57,203.42"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Leicestershire Police Authorit,14173    25,"55,303.06"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Bedfordshire Police,14173    2,"53,000.23"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Surrey Police Authority,14173    40,"50,782.34"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Gwent Police Authority,14173    19,"45,329.93"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Lincolnshire Police Authority,14173    26,"41,316.40"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Staffordshire Police Authority,14173    38,"38,562.16"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,South Yorkshire Police,14173    37,"37,796.12"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Northants Police Authority,14173    29,"34,119.12"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Cumbria Police Authority Main,14173    10,"33,891.35"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Disclosure Scotland,14173    36,"32,428.15"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Suffolk Police Authority,14173    39,"32,405.30"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Northumbria Police,14173    30,"31,843.50"
+Home Office,CRB - Criminal Records Bureau,21/05/2010,Police costs per check,CRB - Criminal Records Bureau,Durham Police Authority,14173    14,"31,179.49"
+Home Office,CRB - Criminal Records Bureau,28/05/2010,Publicity & Advertising - Literature,CRB - Criminal Records Bureau,MORI,14204    7,"69,228.06"
+Home Office,Home Office,12/05/2010,Travel & Food & Lodging.Travel facilitation,PFD*,CARLSON WAGONLIT TRAVEL,1713503,"130,712.00"
+Home Office,Home Office,12/05/2010,FLEET.VEHICLE MANAGEMENT,PFD*,LEX AUTOLEASE LTD,1713509,"150,802.10"
+Home Office,Home Office,13/05/2010,Professional & Admin Services.SBS PFI û Infra & Helpdesk,CD - Commercial Directorate,HM PRISON SERVICE,1705406,"30,786.18"
+Home Office,Home Office,13/05/2010,ESTATES AND FACILITIES.ESTATES & FACILITIES,PFD*,ANNES GATE PROPERTY PLC,1714800,"62,533.95"
+Home Office,Home Office,13/05/2010,ESTATES AND FACILITIES.ESTATES & FACILITIES,PFD*,ANNES GATE PROPERTY PLC,1714796,"37,856.00"
+Home Office,Home Office,14/05/2010,Professional & Admin Services.Consultancy - Advice - PROG,Performance & Finance Directorate,KPMG,1715615,"367,836.34"
+Home Office,Home Office,14/05/2010,Professional & Admin Services.Consultancy - Advice - PROG,Performance & Finance Directorate,KPMG,1716467,"64,565.78"
+Home Office,Home Office,14/05/2010,"Science, Technical & Research.Social Research","Research, Dev & Statistics",THE NOTTINGHAM TRENT UNIVERSITY,1716618,"72,027.82"
+Home Office,Home Office,14/05/2010,"IT, Broadcasting & Telecomms.IT Running Cost - Maint - PROG",SSD - Shared Service Directorate,ATOS ORIGIN IT SERVICES UK LIMITED,1689132,"93,008.30"
+Home Office,Home Office,14/05/2010,"IT, Broadcasting & Telecomms.IT Running Cost - Maint - PROG",SSD - Shared Service Directorate,ATOS ORIGIN IT SERVICES UK LIMITED,1689127,"79,101.00"
+Home Office,Home Office,17/05/2010,Management & Admin Serv.Management support services,CD - Commercial Directorate,SPECIALIST COMPUTER CENTRES PLC,1677965,"373,887.35"
+Home Office,Home Office,17/05/2010,MARKETING & COMMS.CONFERENCES AND EVENTS,PFD*,NYS CORPORATE LTD,1716733,"158,866.83"
+Home Office,Home Office,17/05/2010,ESTATES AND FACILITIES.RENT & RATES,"Research, Dev & Statistics",DTZ DEBENHAM TIE LEUNG LTD,1714881,"30,524.59"
+Home Office,Home Office,17/05/2010,Management & Admin Serv.Temp IT N/w Specialists - ADMN,SSD - Shared Service Directorate,ADVANTAGE TECHNICAL RESOURCING,1690949,"112,993.17"
+Home Office,Home Office,17/05/2010,"Science, Technical & Research.Computer services - PROG",SSD - Shared Service Directorate,ATOS ORIGIN IT SERVICES UK LIMITED,1700832,"35,795.82"
+Home Office,Home Office,17/05/2010,"Transport, Storage & Mail Serv.Document Storage Serv - ADMN",SSD - Shared Service Directorate,TNT UK LIMITED,1715629,"204,057.50"
+Home Office,Home Office,18/05/2010,Travel & Food & Lodging.Travel facilitation,PFD*,CARLSON WAGONLIT TRAVEL,1718369,"184,104.66"
+Home Office,Home Office,19/05/2010,"Editorial, Design & Graphics.Fact checking services - ADMN",Communications,THE NEWSPAPER LICENSING AGENCY,1719717,"35,636.27"
+Home Office,Home Office,19/05/2010,"Science, Technical & Research.Social Research","Research, Dev & Statistics",UNIVERSITY OF LEEDS,1719370,"32,012.80"
+Home Office,Home Office,21/05/2010,Published Products.Electronic publication & music,Communications,KAINOS,1721471,"29,394.98"
+Home Office,Home Office,21/05/2010,"IT, Broadcasting & Telecomms.Call management systems - ADMN",SSD - Shared Service Directorate,HM PRISON SERVICE,1721616,"620,758.38"
+Home Office,Home Office,24/05/2010,FLEET.VEHICLE MANAGEMENT,PFD*,ENTERPRISE RENT-A-CAR UK LTD,1722900,"33,698.43"
+Home Office,Home Office,24/05/2010,"IT, Broadcasting & Telecomms.IT Running Cost - Maint - PROG",SSD - Shared Service Directorate,ATOS ORIGIN IT SERVICES UK LIMITED,1702132,"2,155,590.59"
+Home Office,Home Office,24/05/2010,Management & Admin Serv.Temp IT N/w Specialists - ADMN,SSD - Shared Service Directorate,ADVANTAGE TECHNICAL RESOURCING,1719642,"33,808.98"
+Home Office,Home Office,25/05/2010,Travel & Food & Lodging.Travel facilitation,PFD*,CARLSON WAGONLIT TRAVEL,1723916,"186,227.79"
+Home Office,Home Office,25/05/2010,"Transport, Storage & Mail Serv.Fuel & Vehicle Supp Serv- PROG",PFD*,ARVAL UK LTD,1723923,"63,725.18"
+Home Office,Home Office,26/05/2010,PROFESSIONAL SERVICES.EDUCATION & TRAINING,PFD*,MANCHESTER BUSINESS SCHOOL WORLDWIDE,1368091,"52,652.41"
+Home Office,Home Office,26/05/2010,PROFESSIONAL SERVICES.EDUCATION & TRAINING,PFD*,MANCHESTER BUSINESS SCHOOL WORLDWIDE,1368078,"48,348.39"
+Home Office,Home Office,26/05/2010,PROFESSIONAL SERVICES.EDUCATION & TRAINING,PFD*,MANCHESTER BUSINESS SCHOOL WORLDWIDE,1368150,"36,472.46"
+Home Office,Home Office,27/05/2010,IT & Telecommunications.IT & Telecommunications,SSD - Shared Service Directorate,MORSE,1698741,"234,936.55"
+Home Office,Home Office,27/05/2010,"IT, Broadcasting & Telecomms.Maintenance - PROG",SSD - Shared Service Directorate,SERCO  LTD,1706473,"615,067.85"
+Home Office,Home Office,28/05/2010,Published Products.Electronic publication & music,Communications,DEPARTMENT FOR COMMUNITIES & LOCAL GOVERNMENT,1725160,"27,000.00"
+Home Office,Home Office,28/05/2010,IT & Telecommunications.IT & Telecommunications,Group Human Resources,FUJITSU SERVICES (ALCEDO) LTD,1711064,"63,129.34"
+Home Office,Home Office,28/05/2010,"OGDs, COUNCILS & POLICE AUTHORITIES.OGD",PFD*,CRIMINAL RECORDS BUREAU,1727063,"3,668,536.03"
+Home Office,Home Office,28/05/2010,"IT, Broadcasting & Telecomms.Sirius-Business Projects- PROG",SSD - Shared Service Directorate,FUJITSU SERVICES (ALCEDO) LTD,1711108,"7,718,728.22"
+Home Office,Home Office,14/05/2010,Education & Training Services,Group HR,NATIONAL SCHOOL OF GOVERNMENT,F438562,"560,045.00"
+Home Office,Home Office,26/05/2010,Security & Safety Services,Group HR,FCO SERVICES,6020548,"71,369.50"
+Home Office,IPCC - Independent Police Complaints Commission,18/05/2010,Facilities,IPCC - Independent Police Complaints Commission,Acropolis Properties Ltd,RCT0032403,"26,961.84"
+Home Office,IPCC - Independent Police Complaints Commission,25/05/2010,IT,IPCC - Independent Police Complaints Commission,STERIA,RCT0032546,"335,341.01"
+Home Office,IPS - Identity & Passport Service,14/05/2010,Consultancy & Professional Ser,IPS - Identity & Passport Service,Steria Limited,133958,"83,529.58"
+Home Office,IPS - Identity & Passport Service,14/05/2010,IT Development,IPS - Identity & Passport Service,IBM UNITED KINGDOM LIMITED,133945,"11,814,707.25"
+Home Office,IPS - Identity & Passport Service,14/05/2010,Other Government Departments,IPS - Identity & Passport Service,HOME OFFICE - AFU CASH MANAGEM,133944,"292,829.37"
+Home Office,IPS - Identity & Passport Service,14/05/2010,Passport Printing,IPS - Identity & Passport Service,Security Printing Systems Ltd,133942,"1,505,243.11"
+Home Office,IPS - Identity & Passport Service,18/05/2010,Consultancy & Professional Ser,IPS - Identity & Passport Service,ERNST & YOUNG LLP,133983,"466,854.41"
+Home Office,IPS - Identity & Passport Service,18/05/2010,Contracted Staff,IPS - Identity & Passport Service,TAC TPS LIMITED,134005,"35,606.74"
+Home Office,IPS - Identity & Passport Service,18/05/2010,IT Services,IPS - Identity & Passport Service,Computercenter HQ,133976,"190,678.04"
+Home Office,IPS - Identity & Passport Service,18/05/2010,Passport Printing,IPS - Identity & Passport Service,Security Printing Systems Ltd,133988,"820,736.34"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Consultancy & Professional Ser,IPS - Identity & Passport Service,DELOITTE MCS LTD,134029,"488,277.89"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Consultancy & Professional Ser,IPS - Identity & Passport Service,ERNST & YOUNG LLP,134032,"505,149.00"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Contracted Staff,IPS - Identity & Passport Service,Capita Resourcing Ltd,134017,"45,144.38"
+Home Office,IPS - Identity & Passport Service,21/05/2010,IT Development,IPS - Identity & Passport Service,Thales,134062,"1,301,801.30"
+Home Office,IPS - Identity & Passport Service,21/05/2010,IT Services,IPS - Identity & Passport Service,Computercenter HQ,134024,"85,985.32"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Occupational Health Management,IPS - Identity & Passport Service,Health Management Ltd,134038,"133,515.37"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Other Government Departments,IPS - Identity & Passport Service,Dept For Work and Pensions,134030,"53,613.76"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Other Government Departments,IPS - Identity & Passport Service,HOME OFFICE - AFU CASH MANAGEM,134041,"745,626.50"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Passport Printing,IPS - Identity & Passport Service,Security Printing Systems Ltd,134039,"1,648,343.62"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Publicity & Advertising,IPS - Identity & Passport Service,Central Office of Information,134019,"71,327.75"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Software & Licenses,IPS - Identity & Passport Service,CSC COMPUTER SCIENCES LTD,134027,"1,123,564.04"
+Home Office,IPS - Identity & Passport Service,21/05/2010,Train/Air Travel,IPS - Identity & Passport Service,CAPITA BUSINESS TRAVEL,134018,"26,688.92"
+Home Office,IPS - Identity & Passport Service,25/05/2010,Passport Printing,IPS - Identity & Passport Service,Security Printing Systems Ltd,134085,"48,735.62"
+Home Office,IPS - Identity & Passport Service,25/05/2010,Passports - Secure Mail,IPS - Identity & Passport Service,SECURE MAIL SERVICES LIMITED,134100,"626,971.23"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Accommodation,IPS - Identity & Passport Service,Benefits Agency,134110,"111,276.83"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Accommodation,IPS - Identity & Passport Service,MAPELEY ACQUISITION Co (2) LTD,134200,"174,337.10"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Consultancy & Professional Ser,IPS - Identity & Passport Service,PA Consulting Group,134204,"69,967.16"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Contact Centre,IPS - Identity & Passport Service,MM TELEPERFORMANCE,134201,"844,761.68"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Contracted Staff,IPS - Identity & Passport Service,Capita Resourcing Ltd,134117,"33,638.90"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Hotels,IPS - Identity & Passport Service,Expotel Hotel Reservations Ltd,134136,"64,600.55"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Other Government Departments,IPS - Identity & Passport Service,Dept For Work and Pensions,134123,"337,407.02"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Passport Printing,IPS - Identity & Passport Service,De La Rue International Ltd,134122,"38,081.75"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Passport Printing,IPS - Identity & Passport Service,Security Printing Systems Ltd,134196,"1,735,906.87"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Publicity & Advertising,IPS - Identity & Passport Service,Central Office of Information,134118,"80,102.90"
+Home Office,IPS - Identity & Passport Service,28/05/2010,Train/Air Travel,IPS - Identity & Passport Service,Harry Weeks Executive Travel,134195,"149,311.68"
+Home Office,ISA - Independent Safeguarding Authority,26/05/2010,Equipment Hire,ISA - Independent Safeguarding Authority,The Home Office,2305,"33,329.84"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,GPC Procurement cards,0,Barclaycard Business HMG,1900055271,"148,782.55"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,Land and Buildings maintenance,Resources Directorate,Mansell Construction Servs Limited,1900055348,"51,081.72"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,ICTS,Siemens Enterprise Comm Ltd,5100039470,"22,339.99"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,ICTS,Siemens Enterprise Comm Ltd,5100039470,-339.99
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,ICTS,Siemens Enterprise Comm Ltd,5100039470,"203,740.68"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,ICTS,Siemens Enterprise Comm Ltd,5100039470,-740.68
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,Other consultancy,People & Development Directorate,Tribal,5100040415,"100,000.00"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,Other consultancy,People & Development Directorate,Tribal,5100040415,"17,500.00"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,ICTS,Siemens Enterprise Comm Ltd,5100040944,"27,370.00"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,ICTS,Siemens Enterprise Comm Ltd,5100041000,"-27,730.00"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,"11,345.68"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,198.55
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,"22,780.21"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,398.65
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,"15,341.83"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,268.48
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,"65,370.03"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,"1,143.97"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,"1,588.64"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,FM Costs,Resources Directorate,The Home Office,5100041152,27.81
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,People & Development Directorate,Specialist Computer Centres PLC,5100041536,"50,000.00"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,People & Development Directorate,Specialist Computer Centres PLC,5100041536,"8,750.00"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,People & Development Directorate,Specialist Computer Centres PLC,5100041536,"1,125.00"
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,People & Development Directorate,Specialist Computer Centres PLC,5100041536,196.88
+Home Office,NPIA - National Policing Improvement Agency,12/05/2010,IT Managed Services,ICTS,Specialist Computer Centres PLC,5100041603,"38,373.14"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1700003159,"-3,137.98"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,1700003159,"-6,362.29"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,1700003159,"-7,184.82"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,1700003159,"-10,353.54"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1900054925,"3,137.98"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,1900054925,"6,362.29"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,1900054925,"7,184.82"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,1900054925,"10,353.54"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1900054925,"3,135.72"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1900054925,"3,572.79"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1900054925,"3,192.89"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1900054925,"3,135.72"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1900054925,"3,192.89"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1900054925,"1,700.45"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,1900054925,"3,192.90"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055297,"9,780.95"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Personnel Services Plc,1900055297,"4,324.00"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Personnel Services Plc,1900055297,"1,407.65"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,970.7
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Personnel Services Plc,1900055297,936.1
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Personnel Services Plc,1900055297,"1,930.71"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,768.01
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,626.15
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,790.22
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,195.58"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,588.32"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,115.89"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,198.08"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,404.76
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,082.22"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,522.99"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,655.82
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,969.88"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,332.35
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,715.00"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"6,859.99"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"1,040.90"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055297,865.89
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055297,877.59
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055297,"1,638.18"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"8,898.04"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,"3,561.25"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,981.73
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055297,696.23
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055297,"2,861.72"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055297,"1,170.12"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055298,586.84
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Employment plc,1900055298,714.54
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055298,539.7
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055298,923.15
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055298,840.03
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Operations Directorate,Reed Employment plc,1900055298,487.32
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055298,"1,799.53"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055298,747.13
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055298,501.29
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055298,"1,799.53"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,531.57
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,467.56
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,717.44
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,560.3
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,580.81
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,378.61
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,589.02
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,687.49
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,533.83
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,"1,377.68"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,455.42
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055298,692.23
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055298,410.56
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055298,958.59
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Employment plc,1900055298,588.24
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055298,"1,526.29"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055298,588.95
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055298,"2,002.85"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055298,526.63
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055298,889.56
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055298,489.46
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055298,708.33
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055298,355.14
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,ICTS,Reed Employment plc,1900055298,517.16
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055298,595.34
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055298,467.41
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,GPC Procurement cards,0,Capita Business Travel,1900055395,22.57
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,People & Development Directorate,Virgin Media Business Limited,1900055402,"39,843.12"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"10,990.98"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,572.7
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"6,941.70"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,104.1
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"64,788.84"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"2,302.32"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"34,708.32"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"4,242.12"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,381.8
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"43,192.56"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"1,534.88"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"25,040.60"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"4,942.50"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,"3,663.66"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039510,190.9
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,ICTS,Specialist Computer Centres PLC,5100040918,"32,999.75"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,ICTS,Specialist Computer Centres PLC,5100040918,582.61
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,ICTS,Specialist Computer Centres PLC,5100040918,"1,259.05"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT equipment <£5000,ICTS,Specialist Computer Centres PLC,5100040918,22.04
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,IT software,ICTS,SunGard Public Sector Ltd,5100041268,"62,712.00"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041730,"1,951.00"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041730,281
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041730,0.58
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041730,25.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041730,25.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041730,162.17
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041730,419.73
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041730,272
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,"7,346.92"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,771.25
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,"1,972.72"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,272
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041730,"4,368.83"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041730,281.58
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041730,426.09
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041730,"1,013.79"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041730,272
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,"4,115.50"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,720.21
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,281.58
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,49.28
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,57.08
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,9.99
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,25.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,4.51
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,404.27
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,70.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,958.56
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,167.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,272
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041730,47.59
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041733,"1,951.00"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041733,281.58
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041733,25.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041733,25.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041733,162.17
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041733,419.73
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,Operations Directorate,Metropolitan Police Authority Londo,5100041733,272
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,"7,346.92"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,771.25
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,"1,785.30"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Other secondees - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,272
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041733,"4,368.83"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041733,281.58
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041733,426.09
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041733,"1,013.79"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,Policing Policy and Practice Directorate ,Metropolitan Police Authority Londo,5100041733,272
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,"4,115.50"
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,720.21
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,281.58
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,49.28
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,57.08
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,9.99
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,25.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,4.51
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,404.27
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,70.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,958.56
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,167.75
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,272
+Home Office,NPIA - National Policing Improvement Agency,14/05/2010,Seconded officer - Basic salaries,People & Development Directorate,Metropolitan Police Authority Londo,5100041733,47.59
+Home Office,NPIA - National Policing Improvement Agency,17/05/2010,IT Hire of equipment,ICTS,Cable & Wireless Communications,1900055439,"23,529.69"
+Home Office,NPIA - National Policing Improvement Agency,17/05/2010,IT equipment <£5000,Operations Directorate,Link Microtek Ltd,5100041767,"22,500.00"
+Home Office,NPIA - National Policing Improvement Agency,17/05/2010,IT equipment <£5000,Operations Directorate,Link Microtek Ltd,5100041767,40
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Telephone charges,ICTS,BT Plc,1900054799,"37,794.71"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Telephone charges,ICTS,BT Plc,1900054799,363.94
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Land and Buildings maintenance,Resources Directorate,Mansell Construction Servs Limited,1900055084,"170,530.56"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Land and Buildings maintenance,Resources Directorate,Mansell Construction Servs Limited,1900055086,"154,026.52"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Land and Buildings maintenance,Resources Directorate,Drivers Jonas,1900055525,"117,500.00"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Fixtures fittings and office equipment <£5000,Resources Directorate,Hobart UK,5100039853,"7,637.50"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Fixtures fittings and office equipment <£5000,Resources Directorate,Hobart UK,5100039853,"21,252.24"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039992,"104,162.60"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,IT Information Support,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039992,"14,172.56"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100039992,100
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100040311,"14,838,305.75"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100040312,"226,057.22"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100040693,"226,057.22"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100040695,"14,838,305.75"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100041029,"26,040.65"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,IT equipment <£5000,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100041029,54
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,IT Information Support,Policing Policy and Practice Directorate ,Specialist Computer Centres PLC,5100041029,"3,550.49"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,The Home Office,5100041538,"42,000.00"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,The Home Office,5100041538,735
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"180,125.56"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"3,105.42"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"59,025.13"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"1,017.61"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"67,539.76"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"1,164.40"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"2,460.71"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,42.42
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"141,973.10"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041813,"2,447.66"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,IT Managed Services,ICTS,Airwave Solutions Ltd,5100041814,"6,250,000.00"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Land and Buildings maintenance,Resources Directorate,Reliance Integrated Services Ltd,5100041888,"171,033.00"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Land and Buildings maintenance,Resources Directorate,Reliance Integrated Services Ltd,5100041888,"2,993.08"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Land and Buildings maintenance,Resources Directorate,Reliance Integrated Services Ltd,5100041888,"20,055.00"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Land and Buildings maintenance,Resources Directorate,Reliance Integrated Services Ltd,5100041888,350.96
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Fixtures fittings and office equipment <£5000,Resources Directorate,Hobart UK,5100041889,"-7,637.50"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Fixtures fittings and office equipment <£5000,Resources Directorate,Hobart UK,5100041889,"-20,328.97"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Fixtures fittings and office equipment <£5000,Resources Directorate,Hobart UK,5100041889,-923.27
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Fixtures fittings and office equipment <£5000,Resources Directorate,Hobart UK,5100041890,"26,750.49"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Fixtures fittings and office equipment <£5000,Resources Directorate,Hobart UK,5100041890,"2,139.25"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,IT Managed Services,ICTS,Siemens Enterprise Comm Ltd,5100041915,"148,500.00"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100041933,"-14,838,305.75"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100041935,"-226,057.22"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100041936,"-226,057.22"
+Home Office,NPIA - National Policing Improvement Agency,19/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100041937,"-14,838,305.75"
+Home Office,NPIA - National Policing Improvement Agency,25/05/2010,Land and Buildings maintenance,Resources Directorate,BBI Controls Limited,1900055195,"52,279.16"
+Home Office,NPIA - National Policing Improvement Agency,25/05/2010,Land and Buildings maintenance,Resources Directorate,Matrix Control Solutions Limited,1900055550,"66,100.80"
+Home Office,NPIA - National Policing Improvement Agency,25/05/2010,Land and Buildings maintenance,Resources Directorate,G.W Interiors,1900055644,"28,172.46"
+Home Office,NPIA - National Policing Improvement Agency,25/05/2010,Management consultancy,Policing Policy and Practice Directorate ,Gartner UK Ltd,5100041866,"22,400.00"
+Home Office,NPIA - National Policing Improvement Agency,25/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041885,"37,970.28"
+Home Office,NPIA - National Policing Improvement Agency,25/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041885,664.48
+Home Office,NPIA - National Policing Improvement Agency,25/05/2010,IT consultancy,Policing Policy and Practice Directorate ,Steria Ltd,5100042014,"60,171.74"
+Home Office,NPIA - National Policing Improvement Agency,25/05/2010,IT Information Support,Policing Policy and Practice Directorate ,Steria Ltd,5100042017,"76,781.25"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Land and Buildings maintenance,Resources Directorate,Atkins Ltd,1900054097,"34,700.39"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Personnel Services Plc,1900055432,"1,407.65"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,550.06
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Personnel Services Plc,1900055432,936.1
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Personnel Services Plc,1900055432,"5,792.12"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,496.74
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,621.64
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,947.15
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,635.33
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,891.31
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,779.7
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,898.13
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,"10,547.71"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,"1,969.88"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,301.32
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,"1,372.00"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,"2,743.99"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055432,345.19
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055432,351.04
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055432,"1,638.17"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,"9,706.95"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,675.26
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,681.62
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055432,"2,489.70"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055432,936.1
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055432,438.7
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055673,791.14
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Employment plc,1900055673,714.54
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055673,529.22
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055673,951.08
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Operations Directorate,Reed Employment plc,1900055673,425.86
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055673,820.47
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055673,571.13
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055673,501.29
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055673,"1,439.63"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,712.11
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055673,460.99
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,467.56
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,721.98
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,457.7
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,556.2
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,378.61
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,589.02
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,732.64
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,514.64
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,404.2
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Employment plc,1900055673,687.98
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Policing Policy and Practice Directorate ,Reed Employment plc,1900055673,467.54
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,488.07
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055673,268.44
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,897.4
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Employment plc,1900055673,588.24
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,"1,526.29"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,588.95
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,"1,349.20"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,991.18
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,"1,011.90"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,708.33
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055673,188.85
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055673,470.97
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,269.03
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,"2,501.66"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Employment plc,1900055673,495.85
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Employment plc,1900055673,417.67
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Personnel Services Plc,1900055681,"3,891.60"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Personnel Services Plc,1900055681,"1,759.56"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,People & Development Directorate,Reed Personnel Services Plc,1900055681,"1,081.00"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,931.87
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Personnel Services Plc,1900055681,"1,170.13"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Personnel Services Plc,1900055681,"3,217.84"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,596.93
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,600.57
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,853.99
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,"1,588.32"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,"1,080.81"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,"1,064.96"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,418.25
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,903.71
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,"2,572.24"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,651.39
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Personnel Services Plc,1900055681,"2,369.05"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,"2,462.35"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,327.91
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,"1,715.00"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,"2,743.99"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055681,432.95
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055681,438.8
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,CEO Directorate,Reed Personnel Services Plc,1900055681,"2,059.42"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055681,"1,867.52"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,914.2
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,Resources Directorate,Reed Personnel Services Plc,1900055681,613.46
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055681,"2,861.72"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,Agency staff,ICTS,Reed Personnel Services Plc,1900055681,"1,170.11"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,IT consultancy,Operations Directorate,Airwave Solutions Ltd,5100041064,"400,964.00"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041483,"183,230.98"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041483,"60,042.74"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041483,"68,704.16"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041483,"2,503.13"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Reliance Integrated Services Ltd,5100041483,"144,420.76"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Wyboston Lakes Ltd,5100041494,"55,501.41"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Wyboston Lakes Ltd,5100041494,971.27
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Wyboston Lakes Ltd,5100041623,"95,669.78"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,FM Costs,Resources Directorate,Wyboston Lakes Ltd,5100041623,"16,742.21"
+Home Office,NPIA - National Policing Improvement Agency,26/05/2010,IT Managed Services,ICTS,Airwave Solutions Ltd,5100041977,"700,000.00"
+Home Office,NPIA - National Policing Improvement Agency,27/05/2010,Land and Buildings maintenance,Resources Directorate,BBI Controls Limited,1900055122,"135,125.00"
+Home Office,NPIA - National Policing Improvement Agency,27/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100041939,"224,932.61"
+Home Office,NPIA - National Policing Improvement Agency,27/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100041940,"14,764,483.34"
+Home Office,NPIA - National Policing Improvement Agency,27/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100041941,"224,932.61"
+Home Office,NPIA - National Policing Improvement Agency,27/05/2010,Airwave Core Service Charge,Operations Directorate,Airwave Solutions Ltd,5100041942,"14,764,483.34"
+Home Office,Home Office,14/05/2010,"Science, Technical & Research.Computer services - ADMN",OSCT - Office of Security and Counter-Terrorism,CABLE & WIRELESS,1699750,"42,931.27"
+Home Office,Home Office,17/05/2010,IT & Telecommunications.IT & Telecommunications,OSCT - Office of Security and Counter-Terrorism,HEWLETT PACKARD,1700910,"269,662.50"
+Home Office,Home Office,17/05/2010,Storage & Mail Services.Messenger & Reception Services,OSCT - Office of Security and Counter-Terrorism,CT CENTRE (MOD) T/A DSTL,1716655,"93,233.01"
+Home Office,Home Office,18/05/2010,IT & Telecommunications.IT & Telecommunications,OSCT - Office of Security and Counter-Terrorism,HEWLETT PACKARD,1702108,"31,043.50"
+Home Office,Home Office,19/05/2010,Grant,OSCT - Office of Security and Counter-Terrorism,"ACPO OF ENGLAND, WALES AND NORTHER",379812,"202,871.30"
+Home Office,Home Office,24/05/2010,Professional & Admin Services.Consultant - Imp & Del - ADMN,OSCT - Office of Security and Counter-Terrorism,AMTEC CONSULTING GROUP,1706116,"39,068.75"
+Home Office,Home Office,27/05/2010,Grant,OSCT - Office of Security and Counter-Terrorism,MINISTRY OF DEFENCE (G),378922,"1,469,400.00"
+Home Office,Home Office,27/05/2010,Grant,OSCT - Office of Security and Counter-Terrorism,MINISTRY OF DEFENCE (G),378922-1,"1,125,000.00"
+Home Office,Home Office,28/05/2010,IT & Telecommunications.IT & Telecommunications,OSCT - Office of Security and Counter-Terrorism,HEWLETT PACKARD,1709806,"2,264,622.26"
+Home Office,Home Office,31/05/2010,Grant,OSCT - Office of Security and Counter-Terrorism,CITY OF LONDON POLICE AUTHORITY (G,391780,"55,481.00"
+Home Office,SIA - Security Industry Authority,12/05/2010,Licensing costs,Licensing,CRB,CCRB01,"231,275.00"
+Home Office,SIA - Security Industry Authority,19/05/2010,Office Services ,Office Services,Competiton Commssion,CCOM20,"46,995.01"
+Home Office,SIA - Security Industry Authority,26/05/2010,Legal Costs ,Licensing,Kingsley Napley,CKIN02,"75,962.23"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Corporate Services,SERCO,39744,"82,062.27"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Investment Board,SERCO,39744,"19,133.97"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Corporate Services,SERCO,39746,"79,125.16"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Investment Board,SERCO,39746,"19,129.81"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Property Plant & Equipment,Projects,DRIVERS JONAS DELOITTE,39788,"47,000.00"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Property Plant & Equipment,Projects,DRIVERS JONAS DELOITTE,39803,"41,125.00"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Corporate Services,BT RETAIL GLOBAL BILLING,39828,"138,633.12"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Corporate Services,BT RETAIL GLOBAL BILLING,39845,"25,659.08"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Corporate Services,BT RETAIL GLOBAL BILLING,39851,"33,013.25"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Investment Board,AXIOS SYSTEMS PLC,39891,"40,390.63"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Investment Board,AXIOS SYSTEMS PLC,39894,"25,850.00"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Projects,LOGICA UK LTD,39897,"52,252.25"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Salaries and Allowances - temporarily employed,Intervention,REED EMPLOYMENT PLC,39902,"12,352.74"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Salaries and Allowances - temporarily employed,Enforcement,REED EMPLOYMENT PLC,39902,"3,779.80"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Salaries and Allowances - temporarily employed,Intelligence,REED EMPLOYMENT PLC,39902,525.04
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Salaries and Allowances - temporarily employed,Corporate Services,REED EMPLOYMENT PLC,39902,"12,138.01"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Salaries and Allowances - temporarily employed,CEOP,REED EMPLOYMENT PLC,39902,"7,855.52"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Salaries and Allowances - temporarily employed,Investment Board,REED EMPLOYMENT PLC,39902,"1,633.67"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Property Plant & Equipment,Projects,LOGICA UK LTD,39908,"56,221.53"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Property Plant & Equipment,Projects,LOGICA UK LTD,39910,"177,385.16"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Property Plant & Equipment,Investment Board,DRIVERS JONAS DELOITTE,39912,"68,795.07"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Property Plant & Equipment,Investment Board,CSSC SPORTS & LEISURE,39922,"34,831.51"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Salaries and Allowances - temporarily employed,Corp Finance,CAPITA BUSINESS SERVICES LTD,39941,"37,012.50"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Corporate Services,L-3 COMMUNICATIONS ASA LTD,39977,"220,321.90"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,IT Expenses,Investment Board,SERCO,39981,"120,309.43"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Property Plant & Equipment,Investment Board,SERCO,39982,"52,229.71"
+Home Office,SOCA - Serious Organised Crime Agency,12/05/2010,Property Plant & Equipment,Investment Board,SERCO,39983,"242,003.61"
+Home Office,SOCA - Serious Organised Crime Agency,13/05/2010,Property Plant & Equipment,Investment Board,CABLE & WIRELESS COMMS.,40018,"275,911.19"
+Home Office,SOCA - Serious Organised Crime Agency,13/05/2010,Property Plant & Equipment,Investment Board,SERCO,40044,"90,679.54"
+Home Office,SOCA - Serious Organised Crime Agency,13/05/2010,IT Expenses,Investment Board,CAPITA BUSINESS SERVICES LTD,40047,"30,671.03"
+Home Office,SOCA - Serious Organised Crime Agency,13/05/2010,IT Expenses,Investment Board,CAPITA BUSINESS SERVICES LTD,40052,"238,856.40"
+Home Office,SOCA - Serious Organised Crime Agency,17/05/2010,PFI Contract Charges,Corporate Services,SERCO,40230,"2,034,343.75"
+Home Office,SOCA - Serious Organised Crime Agency,17/05/2010,Premises,Corporate Services,KIER BUILDING SERVICES,40254,"48,424.88"
+Home Office,SOCA - Serious Organised Crime Agency,17/05/2010,IT Expenses,CEOP,MICROSOFT LTD,40432,"59,690.00"
+Home Office,SOCA - Serious Organised Crime Agency,18/05/2010,Premises,Corporate Services,KIER BUILDING SERVICES,40451,"57,687.80"
+Home Office,SOCA - Serious Organised Crime Agency,18/05/2010,IT Expenses,Corporate Services,CAPITA BUSINESS SERVICES LTD,40456,"454,921.27"
+Home Office,SOCA - Serious Organised Crime Agency,18/05/2010,Professional Services and Fees,Projects,BDO STOY HAYWARD,40530,"52,347.37"
+Home Office,SOCA - Serious Organised Crime Agency,18/05/2010,Property Plant & Equipment,Investment Board,WATES INTERIORS LTD,40558,"126,688.50"
+Home Office,SOCA - Serious Organised Crime Agency,18/05/2010,Property Plant & Equipment,Investment Board,WATES INTERIORS LTD,40559,"189,175.00"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Indirect Employee Costs,Corporate Services,PENNA BARKERS,40607,"33,346.58"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Indirect Employee Costs,Corporate Services,PENNA BARKERS,40608,"192,239.97"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,Investment Board,BADENOCH & CLARK LIMITED,40646,"38,270.62"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,Corp Finance,BADENOCH & CLARK LIMITED,40646,"28,313.27"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,Projects,BADENOCH & CLARK LIMITED,40646,"35,424.20"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,PFI Contract Charges,Corporate Services,SERCO,40655,"553,542.63"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,PFI Contract Charges,Investment Board,SERCO,40655,"567,430.00"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Operational and Communications Costs,Intelligence,HOME OFFICE PAY & SUPER'N SERV,40656,"65,800.75"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Property Plant & Equipment,Projects,DRIVERS JONAS DELOITTE,40659,"47,000.00"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,Intervention,REED EMPLOYMENT PLC,40711,"11,851.92"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,Enforcement,REED EMPLOYMENT PLC,40711,"3,732.52"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,Intelligence,REED EMPLOYMENT PLC,40711,525.04
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,Corporate Services,REED EMPLOYMENT PLC,40711,"11,629.84"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,CEOP,REED EMPLOYMENT PLC,40711,"5,077.16"
+Home Office,SOCA - Serious Organised Crime Agency,19/05/2010,Salaries and Allowances - temporarily employed,Investment Board,REED EMPLOYMENT PLC,40711,"2,242.95"
+Home Office,SOCA - Serious Organised Crime Agency,21/05/2010,"Accommodation, Subsistence & General Expenses",Intervention,BARCLAYCARD,40892,"94,463.83"
+Home Office,SOCA - Serious Organised Crime Agency,21/05/2010,"Accommodation, Subsistence & General Expenses",Enforcement,BARCLAYCARD,40892,"39,707.68"
+Home Office,SOCA - Serious Organised Crime Agency,21/05/2010,"Accommodation, Subsistence & General Expenses",Intelligence,BARCLAYCARD,40892,"42,172.48"
+Home Office,SOCA - Serious Organised Crime Agency,21/05/2010,"Accommodation, Subsistence & General Expenses",Projects,BARCLAYCARD,40892,"26,908.49"
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2010,IT Expenses,Corporate Services,SCC PLC,41080,"39,621.73"
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2010,IT Expenses,Projects,L-3 COMMUNICATIONS ASA LTD,41102,"59,746.40"
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2010,Office Equipment & Repairs,Corporate Services,CANON (UK) LTD,41173,"51,884.52"
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2010,Office and General Expenses,Corporate Services,OFFICE DEPOT UK LTD,41174,"67,970.24"
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2010,IT Expenses,Investment Board,SERCO,41228,"170,268.56"
+Home Office,SOCA - Serious Organised Crime Agency,25/05/2010,Operational and Communications Costs,Intelligence,HOME OFFICE PAY & SUPER'N SERV,41259,"64,400.75"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Professional Services and Fees,Investment Board,DELOITTE MCS,41287,"31,007.08"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Operational and Communications Costs,Corporate Services,OGC BUYING SOLUTIONS,41307,"333,517.42"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Salaries and Allowances - temporarily employed,Intervention,REED EMPLOYMENT PLC,41336,"12,486.25"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Salaries and Allowances - temporarily employed,Enforcement,REED EMPLOYMENT PLC,41336,"3,608.98"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Salaries and Allowances - temporarily employed,Intelligence,REED EMPLOYMENT PLC,41336,"2,683.16"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Salaries and Allowances - temporarily employed,Corporate Services,REED EMPLOYMENT PLC,41336,"14,479.15"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Salaries and Allowances - temporarily employed,Central & Hosted Services,REED EMPLOYMENT PLC,41336,"1,087.77"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Salaries and Allowances - temporarily employed,CEOP,REED EMPLOYMENT PLC,41336,"3,744.97"
+Home Office,SOCA - Serious Organised Crime Agency,26/05/2010,Grants to Forces & Other public sector bodies,Corp Finance,KENT POLICE AUTHORITY,41377,"1,200,000.00"
+Home Office,SOCA - Serious Organised Crime Agency,27/05/2010,Professional Services and Fees,Investment Board,FIELD FISHER WATERHOUSE LLP,41456,"26,791.12"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Defense & Law Enforcement.Police Liaison Officers,UKBA - UK Borders Agency,LEICESTERSHIRE CONSTABULARY,1711257,"38,316.12"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Management & Admin Serv.Temp IT N/w Specialists - PROG,UKBA - UK Borders Agency,TRIBAL CONSULTING LTD,1693608,"26,619.63"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,YMCA GLASGOW,1714414,"498,440.61"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,ANGEL GROUP,1713527,"444,434.35"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,ANGEL GROUP,1713525,"193,056.89"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,ANGEL GROUP,1713528,"128,791.43"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1711321,"512,904.15"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,THE GEO GROUP UK LTD,1711149,"557,160.43"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1711325,"427,010.28"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,THE GEO GROUP UK LTD,1711363,"857,395.15"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,SERCO  LTD,1690064,"44,735.26"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,SERCO  LTD,1659238,"41,950.72"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,SERCO  LTD,1659231,"38,600.96"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,SERCO  LTD,1659225,"28,206.50"
+Home Office,UKBA - UK Borders Agency,12/05/2010,"Public Order, Security, Safety.PORT AUTHORITY DETENTION",UKBA - UK Borders Agency,HARWICH INTL PORT LTD,1697937,"41,556.34"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1713243,"217,265.11"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Professional & Admin Services.Business admin services,UKBA - UK Borders Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),9300077089,"63,717.36"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Professional & Admin Services.Business admin services,UKBA - UK Borders Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),9300077090,"46,823.00"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Professional & Admin Services.Business admin services,UKBA - UK Borders Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),9300077088,"56,955.73"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Professional & Admin Services.Business admin services,UKBA - UK Borders Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),9300077092,"68,444.81"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Professional & Admin Services.Business admin services,UKBA - UK Borders Agency,DRIVER AND VEHICLE LICENSING AGENCY (DVLA),9300077091,"432,375.67"
+Home Office,UKBA - UK Borders Agency,12/05/2010,Professional & Admin Services,UKBA - UK Borders Agency,DEPARTMENT FOR INTERNATIONAL DEVELOPMENT 001,80004041,"63,414.02"
+Home Office,UKBA - UK Borders Agency,13/05/2010,Defense & Law Enforcement.Police Liaison Officers,UKBA - UK Borders Agency,WEST YORKSHIRE POLICE AUTHORITY,1711946,"101,714.00"
+Home Office,UKBA - UK Borders Agency,13/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,PRIORITY PROPERTIES NORTH WEST,1712063,"701,805.34"
+Home Office,UKBA - UK Borders Agency,13/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,HAPPY HOMES UK LTD,1714607,"649,594.43"
+Home Office,UKBA - UK Borders Agency,13/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,MANCHESTER CITY COUNCIL,1714588,"608,829.66"
+Home Office,UKBA - UK Borders Agency,13/05/2010,Professional & Admin Services.Corp Business IT Serv - ADMN,UKBA - UK Borders Agency,MOTT MACDONALD,1713520,"29,375.00"
+Home Office,UKBA - UK Borders Agency,13/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,SERCO  LTD,1697310,"856,921.10"
+Home Office,UKBA - UK Borders Agency,13/05/2010,"Public Order, Security, Safety.Domestic Escort Services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1711038,"1,450,731.38"
+Home Office,UKBA - UK Borders Agency,13/05/2010,"Public Order, Security, Safety.Domestic Escort Services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1711034,"1,411,772.28"
+Home Office,UKBA - UK Borders Agency,14/05/2010,"Building, Construction Service.Build a new structure (FA)",UKBA - UK Borders Agency,INTERSERVE PROJECT SERVICES LIMITED,1715701,"993,292.13"
+Home Office,UKBA - UK Borders Agency,14/05/2010,"IT, Broadcasting & Telecomms.Software - PROG",UKBA - UK Borders Agency,BUNDESDRUCKEREI GMBH,1715434,"43,000.00"
+Home Office,UKBA - UK Borders Agency,14/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,GLASGOW CITY COUNCIL,1716403,"845,428.09"
+Home Office,UKBA - UK Borders Agency,14/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,NEWCASTLE CITY COUNCIL,1715599,"634,471.23"
+Home Office,UKBA - UK Borders Agency,14/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,METROPOLITAN SUPPORT TRUST (EAST MIDLANDS),1713471,"385,362.00"
+Home Office,UKBA - UK Borders Agency,14/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,NORTHERN IRELAND HOUSING EXEC,1716578,"160,663.32"
+Home Office,UKBA - UK Borders Agency,14/05/2010,Politics & Civic Affairs.REFUGEE PROG. SECT 95,UKBA - UK Borders Agency,UNITED PROPERTY MANAGEMENT,1712240,"390,425.81"
+Home Office,UKBA - UK Borders Agency,14/05/2010,"Public Order, Security, Safety.Confinement Surveillance",UKBA - UK Borders Agency,SERCO  LTD,1697715,"110,713.67"
+Home Office,UKBA - UK Borders Agency,14/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1709984,"85,965.00"
+Home Office,UKBA - UK Borders Agency,14/05/2010,OGD RFT,UKBA - UK Borders Agency,TREASURY SOLICITOR CLIENT MONIES,AH616,"171,341.50"
+Home Office,UKBA - UK Borders Agency,14/05/2010,OGD RFT,UKBA - UK Borders Agency,TREASURY SOLICITOR CLIENT MONIES,AH615,"85,927.45"
+Home Office,UKBA - UK Borders Agency,15/05/2010,Grant,UKBA - UK Borders Agency,LONDON BOROUGH TOWER HAMLETS (G),366086,"36,500.00"
+Home Office,UKBA - UK Borders Agency,15/05/2010,Grant,UKBA - UK Borders Agency,LONDON BOROUGH OF HARINGEY 1 (G),356860,"42,500.00"
+Home Office,UKBA - UK Borders Agency,15/05/2010,Grant,UKBA - UK Borders Agency,LONDON BOROUGH OF HAMMERSMITH & FU,362102,"49,800.00"
+Home Office,UKBA - UK Borders Agency,15/05/2010,Grant,UKBA - UK Borders Agency,LONDON BOROUGH OF HILLINGDON 1 (G),356860,"402,800.00"
+Home Office,UKBA - UK Borders Agency,15/05/2010,Grant,UKBA - UK Borders Agency,CITY AND COUNTY OF SWANSEA 1 (G),365536,"43,120.50"
+Home Office,UKBA - UK Borders Agency,17/05/2010,"Building, Construction Service.Build a new structure (FA)",UKBA - UK Borders Agency,THE GEO GROUP UK LTD,1713629,"35,196.22"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Education & Training Services.Training Dev External - ADMN,UKBA - UK Borders Agency,NPIA (National Policing Improvement Agency),1713747,"28,800.00"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Grant,UKBA - UK Borders Agency,OISC (G),372766,"339,750.00"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Politics & Civic Affairs.Displaced pers.assistance,UKBA - UK Borders Agency,SODEXHO PASS LTD,1709894,"1,129,831.03"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,UNITED PROPERTY MANAGEMENT,1712235,"755,656.82"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Politics & Civic Affairs.Property tax,UKBA - UK Borders Agency,LONDON BOROUGH OF HILLINGDON,1715425,"620,620.00"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Politics & Civic Affairs.Refugee repatriation.serv,UKBA - UK Borders Agency,G4S JUSTICE SERVICES LTD - AIM,1713662,"285,543.81"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Professional & Admin Services.Consultant - Imp & Del - ADMN,UKBA - UK Borders Agency,ICMPD,1645607,"40,027.00"
+Home Office,UKBA - UK Borders Agency,17/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,THE GEO GROUP UK LTD,1714520,"68,040.04"
+Home Office,UKBA - UK Borders Agency,17/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,THE GEO GROUP UK LTD,1713626,"29,618.67"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Borders Agency,WELSH REFUGEE COUNCIL,1716818,"30,753.30"
+Home Office,UKBA - UK Borders Agency,17/05/2010,"Transport, Storage & Mail Serv.Mailing Mail Del Serv - PROG",UKBA - UK Borders Agency,SECURE MAIL SERVICES LTD (SMS),1713166,"28,999.20"
+Home Office,UKBA - UK Borders Agency,17/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1711098,"136,960.00"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Borders Agency,SODEXHO PASS LTD,1702085,"384,843.20"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Management & Admin Serv.Temp IT N/w Specialists - PROG,UKBA - UK Borders Agency,ADVANTAGE TECHNICAL RESOURCING,1714653,"27,441.36"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Politics & Civic Affairs.Displaced pers.assistance,UKBA - UK Borders Agency,SODEXHO PASS LTD,1710744,"253,614.49"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Politics & Civic Affairs.REFUGEE PROG. SECT 95,UKBA - UK Borders Agency,LIVERPOOL CITY COUNCIL,1716567,"283,009.57"
+Home Office,UKBA - UK Borders Agency,18/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1711994,"1,245,958.42"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1718046,"154,368.80"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1718050,"66,022.64"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1711109,"57,200.00"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1711112,"45,055.00"
+Home Office,UKBA - UK Borders Agency,18/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1713182,"33,025.25"
+Home Office,UKBA - UK Borders Agency,19/05/2010,"Editorial, Design & Graphics.Advertising-non recruit - ADMN",UKBA - UK Borders Agency,FRONTIER ECONOMICS LTD,1678373,"48,468.75"
+Home Office,UKBA - UK Borders Agency,19/05/2010,"OGD's, Councils & Police Authorities",UKBA - UK Borders Agency,BIRMINGHAM CITY COUNCIL,1719278,"40,240.00"
+Home Office,UKBA - UK Borders Agency,19/05/2010,Professional & Admin Services.Clerical & Admin Staff - ADMN,UKBA - UK Borders Agency,TRIBAL CONSULTING LTD,1706543,"26,479.21"
+Home Office,UKBA - UK Borders Agency,19/05/2010,Public Order.Voluntary Assisted Return,UKBA - UK Borders Agency,CITIBANK INTERNATIONAL PLC,1720659,"125,000.00"
+Home Office,UKBA - UK Borders Agency,19/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1719728,"112,792.42"
+Home Office,UKBA - UK Borders Agency,19/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1719732,"48,549.83"
+Home Office,UKBA - UK Borders Agency,19/05/2010,OGD RFT,UKBA - UK Borders Agency,TREASURY SOLICITOR CLIENT MONIES,AH617,"125,883.42"
+Home Office,UKBA - UK Borders Agency,20/05/2010,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Borders Agency,SODEXHO PASS LTD,1709727,"382,262.24"
+Home Office,UKBA - UK Borders Agency,20/05/2010,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Borders Agency,SODEXHO PASS LTD,1712314,"57,687.39"
+Home Office,UKBA - UK Borders Agency,20/05/2010,Defense & Law Enforcement.Police Liaison Officers,UKBA - UK Borders Agency,HUMBERSIDE POLICE AUTHORITY,1718411,"33,343.71"
+Home Office,UKBA - UK Borders Agency,20/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,REFUGEE COUNCIL,1716847,"30,753.23"
+Home Office,UKBA - UK Borders Agency,20/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,REFUGEE COUNCIL,1716849,"25,983.00"
+Home Office,UKBA - UK Borders Agency,20/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1711125,"1,003,464.09"
+Home Office,UKBA - UK Borders Agency,20/05/2010,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Borders Agency,IDENTITY & PASSPORTS SERVICE,1720778,"30,766.35"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Grant,UKBA - UK Borders Agency,YORKSHIRE & HUMBERSIDE CONSORT (G),382010,"39,717.25"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Grant,UKBA - UK Borders Agency,THURROCK COUNCIL 1 (G),378298,"81,996.03"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Grant,UKBA - UK Borders Agency,LONDON BOROUGH OF HARINGEY 1 (G),362098,"486,890.44"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Grant,UKBA - UK Borders Agency,LONDON BOROUGH OF BARKING & DAGENH,378302,"518,396.00"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Grant,UKBA - UK Borders Agency,HERTFORDSHIRE COUNTY COUNCIL 1 (G),379780,"27,000.00"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Grant,UKBA - UK Borders Agency,LEEDS CITY COUNCIL 1 (G),379780,"59,800.00"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Management & Admin Serv.Temp IT N/w Specialists - PROG,UKBA - UK Borders Agency,QEDIS CONSULTING,1713538,"59,821.01"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Office Equip and Consumables.Multifunction Equip - ADMN,UKBA - UK Borders Agency,FRANCOTYP-POSTALIA LIMITED,1721815,"40,000.00"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Politics & Civic Affairs.REFUGEE PROG. SECT 95,UKBA - UK Borders Agency,CITY AND COUNTY OF SWANSEA,1722369,"61,690.94"
+Home Office,UKBA - UK Borders Agency,21/05/2010,Professional & Admin Services.Personnel Recruit Serv - PROG,UKBA - UK Borders Agency,PENNA PLC,1711222,"31,534.35"
+Home Office,UKBA - UK Borders Agency,21/05/2010,"Public Order, Security, Safety.Confinement Surveillance",UKBA - UK Borders Agency,HM PRISON SERVICE,1721561,"137,126.60"
+Home Office,UKBA - UK Borders Agency,24/05/2010,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Borders Agency,IBM DIRECT UNITED KINGDOM LTD,1719896,"1,116,503.80"
+Home Office,UKBA - UK Borders Agency,24/05/2010,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Borders Agency,IBM DIRECT UNITED KINGDOM LTD,1719935,"498,604.20"
+Home Office,UKBA - UK Borders Agency,24/05/2010,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Borders Agency,IBM DIRECT UNITED KINGDOM LTD,1719936,"364,937.38"
+Home Office,UKBA - UK Borders Agency,24/05/2010,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Borders Agency,IBM DIRECT UNITED KINGDOM LTD,1719933,"29,572.40"
+Home Office,UKBA - UK Borders Agency,24/05/2010,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Borders Agency,COMPUTACENTER (UK) LTD,1689770,"25,967.50"
+Home Office,UKBA - UK Borders Agency,24/05/2010,Management & Admin Serv.Temporary Manager Staff - PROG,UKBA - UK Borders Agency,INTERIM PERFORMERS LTD,1708812,"81,345.25"
+Home Office,UKBA - UK Borders Agency,24/05/2010,Politics & Civic Affairs.Displaced pers.assistance,UKBA - UK Borders Agency,SODEXHO PASS LTD,1714534,"1,142,088.36"
+Home Office,UKBA - UK Borders Agency,24/05/2010,Professional & Admin Services.Business admin services - PROG,UKBA - UK Borders Agency,ADVANTAGE TECHNICAL RESOURCING,1719678,"28,538.40"
+Home Office,UKBA - UK Borders Agency,24/05/2010,Professional & Admin Services.Consultancy - Advice - PROG,UKBA - UK Borders Agency,SPECIALIST COMPUTER CENTRES PLC,1669198,"35,844.26"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1698488,"553,246.24"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1680645,"609,424.70"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1703124,"546,626.66"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1674316,"321,692.88"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1680908,"231,991.46"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1711041,"104,190.49"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1671222,"89,534.10"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1680037,"71,126.63"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1655842,"42,581.21"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1703125,"42,322.82"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1674319,"41,759.41"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1671218,"38,468.26"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1698806,"37,725.37"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1713702,"37,341.51"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.Escorting services",UKBA - UK Borders Agency,G4S CARE & JUSTICE SERVICES (UK) LTD,1674323,"36,274.02"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Public Order, Security, Safety.PORT AUTHORITY DETENTION",UKBA - UK Borders Agency,DOVER HARBOUR BOARD,1723152,"165,052.31"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Science, Technical & Research.Computer services - PROG",UKBA - UK Borders Agency,FINCORE LTD,1720642,"61,481.88"
+Home Office,UKBA - UK Borders Agency,24/05/2010,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Borders Agency,MM TELEPERFORMANCE LTD T/A TELEPERFORMANCE,1699656,"79,302.66"
+Home Office,UKBA - UK Borders Agency,24/05/2010,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Borders Agency,SIEMENS BUSINESS SERVICES LTD,1705516,"95,320.27"
+Home Office,UKBA - UK Borders Agency,24/05/2010,"Transport, Storage & Mail Serv.Fuel & Vehicle Supp Serv- PROG",UKBA - UK Borders Agency,INCHCAPE FLEET SOLUTIONS LTD,1719951,"49,458.30"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,LONDON BOROUGH OF HARROW 1 (G),383506,"31,400.00"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,LONDON BOROUGH OF SOUTHWARK 1 (G),386086,"132,400.00"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,SOLIHULL MBC,383506,"138,500.00"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,EAST OF ENGLAND REGIONAL ASSEMBLY,386102,"25,699.50"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,EAST MIDLANDS REGIONAL LOCAL GOVER,386102,"30,372.00"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,WEST MIDLANDS LOCAL GOVERNMENT ASS,386102,"39,717.25"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,NEWCASTLE CITY COUNCIL (G),386674,"35,044.75"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,LIVERPOOL CITY COUNCIL 1 (G),386676-1,"33,497.35"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Grant,UKBA - UK Borders Agency,LIVERPOOL CITY COUNCIL 1 (G),386676,"80,875.63"
+Home Office,UKBA - UK Borders Agency,25/05/2010,IT & Telecoms Components.Computer Equip  (FA),UKBA - UK Borders Agency,ATOS ORIGIN IT SERVICES UK LIMITED,1667971,"175,032.70"
+Home Office,UKBA - UK Borders Agency,25/05/2010,IT & Telecoms Components.Computer Equip  (FA),UKBA - UK Borders Agency,ATOS ORIGIN IT SERVICES UK LIMITED,1690614,"175,032.70"
+Home Office,UKBA - UK Borders Agency,25/05/2010,"Public Order, Security Service.Detention Services Contracts",UKBA - UK Borders Agency,SERCO  LTD,1708669,"28,647.99"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1723032,"168,108.22"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1723039,"69,363.34"
+Home Office,UKBA - UK Borders Agency,25/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1723035,"45,486.60"
+Home Office,UKBA - UK Borders Agency,25/05/2010,OGD RFT,UKBA - UK Borders Agency,TREASURY SOLICITOR CLIENT MONIES,AH622,"493,149.74"
+Home Office,UKBA - UK Borders Agency,26/05/2010,Defense & Law Enforcement.Police Liaison Officers,UKBA - UK Borders Agency,LEICESTERSHIRE CONSTABULARY,1723197,"36,306.30"
+Home Office,UKBA - UK Borders Agency,26/05/2010,"Editorial, Design & Graphics.Advertising-non recruit - ADMN",UKBA - UK Borders Agency,EPOLICY LTD,1711347,"33,681.38"
+Home Office,UKBA - UK Borders Agency,26/05/2010,Storage & Mail Services.Messenger & Reception Services,UKBA - UK Borders Agency,LEEDS CITY COUNCIL,1722911,"37,707.12"
+Home Office,UKBA - UK Borders Agency,26/05/2010,REPATRIATION SERVICES.ESCORT SERVICES,UKBA - UK Borders Agency,IOM INTERNATIONAL ORGANIZATION FOR MIGRATION,1724860,"383,661.00"
+Home Office,UKBA - UK Borders Agency,26/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1725072,"57,403.71"
+Home Office,UKBA - UK Borders Agency,26/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1725075,"34,594.38"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Borders Agency,SODEXHO PASS LTD,1713708,"367,940.36"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Borders Agency,SODEXHO PASS LTD,1719264,"354,919.58"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Financial & Insurance Services.Banking & Monetary Serv - PROG,UKBA - UK Borders Agency,STREAMLINE,1711116,"29,372.65"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Grant,UKBA - UK Borders Agency,MANCHESTER CITY COUNCIL 2 (G),INV8500241214-1,"58,676.05"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Grant,UKBA - UK Borders Agency,MANCHESTER CITY COUNCIL 2 (G),INV8500241214,"220,000.00"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Grant,UKBA - UK Borders Agency,BRITISH REFUGEE COUNCIL 2,INV0004898-1,"84,175.67"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Grant,UKBA - UK Borders Agency,BRITISH REFUGEE COUNCIL 2,RTN0000882,"-84,175.67"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Politics & Civic Affairs.Displaced pers.assistance,UKBA - UK Borders Agency,SODEXHO PASS LTD,1719440,"1,088,930.84"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Politics & Civic Affairs.Human aid & relief Sect 4,UKBA - UK Borders Agency,LEEDS CITY COUNCIL,1723792,"1,175,549.38"
+Home Office,UKBA - UK Borders Agency,27/05/2010,Politics & Civic Affairs.REFUGEE PROG. SECT 95,UKBA - UK Borders Agency,UNITED PROPERTY MANAGEMENT,1712221,"677,823.45"
+Home Office,UKBA - UK Borders Agency,28/05/2010,Asylum Provision.Asylum serv Sect4Vouchers,UKBA - UK Borders Agency,PRIORITY PROPERTIES NORTH WEST,1699030,"51,761.50"
+Home Office,UKBA - UK Borders Agency,28/05/2010,Defense & Law Enforcement.Police Liaison Officers,UKBA - UK Borders Agency,SOUTH YORKSHIRE POLICE,1720663,"38,271.66"
+Home Office,UKBA - UK Borders Agency,28/05/2010,Defense & Law Enforcement.Police Liaison Officers,UKBA - UK Borders Agency,GREATER MANCHESTER POLICE,1727816,"28,526.40"
+Home Office,UKBA - UK Borders Agency,28/05/2010,Grant,UKBA - UK Borders Agency,INTERNATIONAL SOCIAL SERVICE (G),391036,"32,868.00"
+Home Office,UKBA - UK Borders Agency,28/05/2010,Grant,UKBA - UK Borders Agency,REFUGEE ACTION (G),390482,"536,986.00"
+Home Office,UKBA - UK Borders Agency,28/05/2010,IT & Telecoms Components.Computer Equip (FA),UKBA - UK Borders Agency,SPECIALIST COMPUTER CENTRES PLC,1690363,"29,879.08"
+Home Office,UKBA - UK Borders Agency,28/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1726602,"186,765.00"
+Home Office,UKBA - UK Borders Agency,28/05/2010,Asylum Services.Public Expense Removals,UKBA - UK Borders Agency,CARLSON WAGONLIT TRAVEL,1725757,"70,906.22"
+Home Office,UKBA - UK Borders Agency,31/05/2010,OGD RFT,UKBA - UK Borders Agency,OSAG - OFFICE OF THE ADVOCATE GENERAL,95006912,"107,407.78"

@@ -237,7 +237,10 @@ def get_datafile_data(package, resource):
 
     datafile['publisher_id'] = package.get('organization', {}).get('name', '')
     datafile['schema'] = SCHEMA
-    datafile['period_id'] = period.get_period(datafile['title'], datafile['data'])
+    for possible_name in  ['created', 'created_at', 'date_released', 'date']:
+        datafile['created_at'] = resource.get(possible_name, '') or package.get(possible_name, '')
+        if datafile['created_at']:
+            break
     return datafile
 
 
@@ -249,7 +252,6 @@ def get_datafiles(package, publishers):
 
     """
     datafiles = []
-
     # Scrape only ministerial departments data
     package_publisher = package.get('organization', {}).get('name', '')
     for publisher in publishers:
@@ -259,7 +261,6 @@ def get_datafiles(package, publishers):
 
                 if datafile['format'] in ['csv', 'excel', '']:
                     datafiles.append(datafile)
-
     return datafiles
 
 def make_csv(csvfile, fieldnames, dataset):
@@ -318,7 +319,8 @@ def make_datafiles_csv(csvfile, publishers):
     print('Scraped: ' + str(len(resources)) + ' sources.')
 
     # Make datafiles csv file.
-    fieldnames = ['id', 'publisher_id', 'title', 'data', 'format', 'last_modified', 'period_id', 'schema']
+    fieldnames = ['id', 'publisher_id', 'title', 'data', 'format', 'last_modified',
+                  'schema', 'created_at']
     print('Making ' + csvfile + '...')
     unique_resources = {v['data']:v for v in resources}.values()
     make_csv(csvfile, fieldnames, unique_resources)
