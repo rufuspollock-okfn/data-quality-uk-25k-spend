@@ -3,5 +3,6 @@
   "pitch": "How are government departments living up to their commitments to publish timely, high quality data on spending?",
   "context": "The UK government has clear documentation for the publication of over 25k spend data ([see this document published by HM Treasury](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/198197/Guidance_for_publishing_spend_over__25k.pdf)). Using this, we've identified all 25k spend documents published on [data.gov.uk](https://data.gov.uk), and assessed them according to the following criteria:\n\n- Are the tabular data files accessible at the provided URL?\n- Are the tabular data files themselves structurally valid?\n- Do the data files conform to the HM Treasury regulations for publishing 25K spend data?",
   "admin": "info@okfn.org",
-  "validator_url": "https://goodtables.okfnlabs.org/api/run"
+  "validator_url": "https://goodtables.okfnlabs.org/api/run",
+  "last_updated": "2016-08-31 07:46:31 GMT"
 }

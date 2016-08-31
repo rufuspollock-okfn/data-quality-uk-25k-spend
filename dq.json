@@ -8,12 +8,8 @@
   "performance_file": "performance.csv",
   "remotes": ["origin"],
   "branch": "master",
-  "assess_timeliness": true,
-  "timeliness":{
-	"timeliness_strategy": ["title", "data"],
-	"extract_period": true
-  },
-  "scoring_algorithm": 2,
+  "assess_timeliness": false,
+  "timeliness": {},
   "goodtables": {
     "goodtables_web": "http://goodtables.okfnlabs.org",
     "arguments": {
