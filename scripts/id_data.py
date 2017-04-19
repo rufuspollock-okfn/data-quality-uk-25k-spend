@@ -28,7 +28,7 @@ PUBLISHER_FILEPATH = os.path.join(DATA_DIR, 'publishers.csv')
 SOURCE_FILEPATH = os.path.join(DATA_DIR, 'sources.csv')
 
 # Schema for spending files.
-SCHEMA = 'https://raw.githubusercontent.com/okfn/goodtables/master/examples/hmt/spend-publishing-schema.json'
+SCHEMA = 'https://cdn.rawgit.com/frictionlessdata/goodtables-py/v1.0.0-alpha8/data/hmt/spend-publishing-schema.json'
 
 def import_dataset(url):
     """Return CKAN dataset.
@@ -95,26 +95,31 @@ def get_organization_data(organization):
         publisher['homepage'] = 'http://data.gov.uk/publisher/' + publisher['id']
     else:
         publisher['homepage'] = ''
-    if organization.get('extras'):
-        extras = organization.get('extras')
-        for extra in extras:
-            if extra.get('key') == 'category':
-                publisher['type'] = extra.get('value', '')
-            elif extra.get('key') == 'contact-name':
-                publisher['contact'] = extra.get('value', '')
-            elif extra.get('key') == 'contact-email':
-                publisher['email'] = re.sub('mailto:|email ', '', extra.get('value', ''))
-    if organization.get('groups'):
-        groups = organization.get('groups')
-        parent = [group.get('name')]
-        for group in groups:
-            if parent and group.get('name'):
-                parent += ' / ' + group.get('name')
-            elif group.get('name'):
-                parent += group.get('name')
-        publisher['parent_id'] = parent
+    for extra in organization.get('extras', []):
+        if extra.get('key') == 'category':
+            publisher['type'] = extra.get('value', '')
+        elif extra.get('key') == 'contact-name':
+            publisher['contact'] = extra.get('value', '')
+        elif extra.get('key') == 'contact-email':
+            publisher['email'] = re.sub('mailto:|email ', '', extra.get('value', ''))
+    organization_groups = get_organization_groups(organization)
+    if len(organization_groups) == 1:
+        publisher['parent_id'] = organization_groups[0]
+    else:
+        publisher['parent_id'] = ''
 
     return publisher
+
+def get_organization_groups(organization):
+    """Recursively find the most general groups the organization is part of."""
+    parent_groups = []
+    for group in organization.get('groups', []):
+        if group.get('groups'):
+            parent_group = get_organization_groups(group)
+        else:
+            parent_group = group['name']
+        parent_groups.append(parent_group)
+    return parent_groups
 
 def relevant_publishers(filepath=os.path.join(DATA_DIR, 'publisher_lookup.csv')):
     """Define the list of publishers for which data is wanted
@@ -272,7 +277,7 @@ def make_csv(csvfile, fieldnames, dataset):
 
     """
     with open(csvfile, mode='w+t', encoding='utf-8') as data:
-        writer = csv.DictWriter(data, fieldnames=fieldnames)
+        writer = csv.DictWriter(data, fieldnames=fieldnames, lineterminator=os.linesep)
         writer.writeheader()
         for element in dataset:
             writer.writerow(element)

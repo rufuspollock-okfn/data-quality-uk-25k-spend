@@ -1,7 +1,7 @@
 id,title,type,homepage,contact,email,parent_id
 attorney-generals-office,Attorney General's Office,ministerial-department,http://data.gov.uk/publisher/attorney-generals-office,AGO Correspondence Unit,correspondance@attorneygeneral.gsi.gov.uk,
 cabinet-office,Cabinet Office,ministerial-department,http://data.gov.uk/publisher/cabinet-office,Cabinet Office transparency,co-transparency@cabinetoffice.gov.uk,
-department-for-business-innovation-and-skills,"Department for Business, Innovation and Skills",ministerial-department,http://data.gov.uk/publisher/department-for-business-innovation-and-skills,Transparency Team,transparency@bis.gsi.gov.uk,
+department-for-business-innovation-and-skills,"Department for Business, Innovation and Skills",ministerial-department,http://data.gov.uk/publisher/department-for-business-innovation-and-skills,Transparency and Open Data,transparency@beis.gov.uk,department-for-business-energy-and-industrial-strategy
 department-for-communities-and-local-government,Department for Communities and Local Government,ministerial-department,http://data.gov.uk/publisher/department-for-communities-and-local-government,,contactus@communities.gsi.gov.uk,
 department-for-culture-media-and-sport,"Department for Culture, Media and Sport",ministerial-department,http://data.gov.uk/publisher/department-for-culture-media-and-sport,DCMS Enquiries,enquiries@culture.gsi.gov.uk,
 department-for-education,Department for Education,ministerial-department,http://data.gov.uk/publisher/department-for-education,www.education.gov.uk/ contact,http://www.education.gov.uk/help/contactus,
@@ -9,7 +9,7 @@ department-for-environment-food-and-rural-affairs,"Department for Environment, F
 department-for-international-development,Department for International Development,ministerial-department,http://data.gov.uk/publisher/department-for-international-development,,enquiry@dfid.gov.uk,
 department-for-transport,Department for Transport,ministerial-department,http://data.gov.uk/publisher/department-for-transport,Information Handling Team,informationhandling@dft.gsi.gov.uk,
 department-for-work-and-pensions,Department for Work and Pensions,ministerial-department,http://data.gov.uk/publisher/department-for-work-and-pensions,,freedom-of-information-request@dwp.gsi.gov.uk,
-department-of-energy-and-climate-change,Department of Energy and Climate Change,ministerial-department,http://data.gov.uk/publisher/department-of-energy-and-climate-change,,catherine.harding@decc.gsi.gov.uk,
+department-of-energy-and-climate-change,Department of Energy and Climate Change,ministerial-department,http://data.gov.uk/publisher/department-of-energy-and-climate-change,Transparency and Open Data,transparency@beis.gov.uk,department-for-business-energy-and-industrial-strategy
 department-of-health,Department of Health,ministerial-department,http://data.gov.uk/publisher/department-of-health,Department of Health Contact,http://www.info.doh.gov.uk/contactus.nsf/memo?openform,
 foreign-and-commonwealth-office,Foreign and Commonwealth Office,ministerial-department,http://data.gov.uk/publisher/foreign-and-commonwealth-office,FCO Transparency Unit,transparency.unit@fco.gsi.gov.uk,
 hm-treasury,HM Treasury,ministerial-department,http://data.gov.uk/publisher/hm-treasury,,public.enquiries@hm-treasury.gsi.gov.uk,
