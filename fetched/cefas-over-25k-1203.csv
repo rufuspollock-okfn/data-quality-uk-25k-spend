@@ -1,34 +1,34 @@
 Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number, Amount ,Description,Supplier postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
-DEFRA,Cefas,02/03/2012,Assets Under Construction,Monitoring and Programme Management,Berthold Technologies (UK) Ltd,20029086," ≈Å26,914.00 ",Planchet counter,AL5 4UT,Large,N/A,67401,Programme
-DEFRA,Cefas,02/03/2012,Assets Under Construction,Monitoring and Programme Management,Leica Geosystems Ltd,20028021," ≈Å47,495.00 ",Global Navigations Satellite System (GS1),MK5 8LB,Large,N/A,RV003,Programme
-DEFRA,Cefas,09/03/2012,Facilities Management,Corporate,DEFRA RECEIPTS,20029277," ≈Å67,337.66 ",Facilities Management recharge Feb 12,Y01 7PX,Large,N/A,72100,Administration
-DEFRA,Cefas,09/03/2012,Assets Under Construction,Corporate,DEFRA RECEIPTS,20029277," ≈Å71,834.61 ",Facilities Management recharge Feb 12,Y01 7PX,Large,N/A,51002,Administration
-DEFRA,Cefas,09/03/2012,Assets Under Construction,Corporate,DEFRA RECEIPTS,20029277," ≈Å28,825.94 ",Facilities Management recharge Feb 12,Y01 7PX,Large,N/A,51000,Administration
-DEFRA,Cefas,09/03/2012,VAT Settlement,Corporate,DEFRA RECEIPTS,20029549," ≈Å387,858.36 ",Quarter 3 VAT,Y01 7PX,Large,N/A,50000,Administration
-DEFRA,Cefas,09/03/2012,Data Collection Services,Monitoring and Programme Management,D DOYLE,20029562," ≈Å55,849.21 ",Charter of Marine Fisheries Vessel Benaiah,BT34 4FA,SME,N/A,C3300,Programme
-DEFRA,Cefas,09/03/2012,Technical Services,Aquatic Health & Hygiene,UNIVERSITY OF EXETER,20029243," ≈Å46,065.00 ",Fees for UK-Japan Research Collaboration on Endocrine Disrupters in the Aquatic Environment,EX4 4QJ,University,N/A,C5046,Programme
-DEFRA,Cefas,16/03/2012,Consultancy,Corporate,DEFRA RECEIPTS,20029569," ≈Å46,666.67 ",Legal Services,Y01 7PX,Large,N/A,75100,Administration
-DEFRA,Cefas,16/03/2012,Technical Services,Aquatic Health & Hygiene,UNIVERSITY OF EXETER,20029744," ≈Å29,396.50 ",Fees for UK-Japan Research Collaboration on Endocrine Disrupters in the Aquatic Environment,EX4 4QJ,University,N/A,C5046,Programme
-DEFRA,Cefas,16/03/2012,Lab Consumables,Environment & Ecosystems,CEFAS TECHNOLOGY LTD,20029695," ≈Å29,064.00 ",G5 DATA Storage Tag (DST) long life variant,NR33 0HT,SME,N/A,C5443,Programme
-DEFRA,Cefas,23/03/2012,Technical Services,Monitoring and Programme Management,4H-JENA ENGINEERING GmbH,20029779," ≈Å29,195.62 ",Prototype unit for litter/plankton and passive sampling onboard Research Vessel (RV) Cefas Endeavour,,SME,N/A,DP240,Programme
-DEFRA,Cefas,23/03/2012,Lab Services,Monitoring and Programme Management,MARINE ECOLOGICAL SURVEYS LTD,20030167," ≈Å46,900.00 ",Macrobenthic samples,BA1 2NH,Large,N/A,C5433,Programme
-DEFRA,Cefas,23/03/2012,Data Collection Services,Aquatic Health & Hygiene,UNIVERSITY OF STIRLING,20030266," ≈Å27,000.00 ",Funding for PhD studentship,FK9 4LA,University,N/A,C3388,Programme
-DEFRA,Cefas,23/03/2012,Assets Under Construction,Environment & Ecosystems,Shimadzu,20027586," ≈Å25,718.97 ",Autosampler,MK12 5RE,Large,N/A,67407,Programme
-DEFRA,Cefas,23/03/2012,Data Collection Services,Monitoring and Programme Management,EGS (International) Ltd,20030275," ≈Å44,100.00 ",Mobilisation of vessel,GU35 9QE,Large,N/A,C5650,Programme
-DEFRA,Cefas,23/03/2012,Data Collection Services,Aquatic Health & Hygiene,UNIVERSITY OF SURREY,20029836," ≈Å36,504.26 ",Assessment of sources of faecal contamination,GU2 7XH,University,N/A,DP274,Programme
-DEFRA,Cefas,23/03/2012,Charters,Environment & Ecosystems,AFBI,20030183," ≈Å26,316.00 ",Research Vessel Corystes 3 days hire,BT9 5PX,Large,N/A,E5304,Programme
-DEFRA,Cefas,23/03/2012,Data Collection Services,Monitoring and Programme Management,AFBI,20030184," ≈Å128,065.58 ",Marine Conservation Zones Survey,BT9 5PX,Large,N/A,C5650,Programme
-DEFRA,Cefas,23/03/2012,Vehicle Long Term Leasing,Aquatic Health & Hygiene,Lex Autolease Ltd,20030168," ≈Å26,126.40 ",5 x Honda Accord Diesel Tourer for the period 01/03/12 ¬ñ 28/02/13.,BL9 8RT,Large,N/A,FA001,Administration
-DEFRA,Cefas,30/03/2012,Lab Services,Monitoring and Programme Management,Thomson Unicomarine,20030239," ≈Å42,990.00 ",Faunal analysis,SG6 1LW,Large,N/A,C5433,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,JUBILEE FISHING CO LTD,20030338," ≈Å41,496.00 ",Pollack survey 95%,,SME,N/A,C3300,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EGS (International) Ltd,20030625," ≈Å241,560.00 ",Multibeam survey,GU35 9QE,Large,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EGS (International) Ltd,20030704," ≈Å101,700.00 ",Multibeam survey,GU35 9QE,Large,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EGS (International) Ltd,20030638," ≈Å173,433.60 ",Marine Conservation Zones Surveys ,GU35 9QE,Large,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Assets Under Construction,Aquatic Health & Hygiene,WATERS LTD,20030525," ≈Å90,799.50 ",Waters Xevo system 50%,WD6 3SZ,Large,N/A,66400,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EMU LTD,20030702," ≈Å40,588.20 ",Mobilisation and demobilisation of survey operations for Defra rMCZ project,SO32 2EJ,SME,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EMU LTD,20030700," ≈Å114,618.60 ",Marine Conservation Zones project,SO32 2EJ,SME,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20030528," ≈Å63,851.88 ",Mobilisation of Research Vessel Prince Madog,CH62 3NY,SME,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20030677," ≈Å75,507.46 ",Mobilisation of Research Vessel Prince Madog- re-invoice,CH62 3NY,SME,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20030699," ≈Å139,610.70 ",Mobilisation of vessel,CH62 3NY,SME,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,TITAN ENVIRONMENTAL SURVEYS LTD,20030627," ≈Å39,761.00 ",Marine Conservation Zones Survey,CF32 OQP,Large,N/A,C5650,Programme
-DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,TITAN ENVIRONMENTAL SURVEYS LTD,20030628," ≈Å42,784.00 ",Marine Conservation Zones Survey ,CF32 OQP,Large,N/A,C5650,Programme
+DEFRA,Cefas,02/03/2012,Assets Under Construction,Monitoring and Programme Management,Berthold Technologies (UK) Ltd,20029086," £26,914.00 ",Planchet counter,AL5 4UT,Large,N/A,67401,Programme
+DEFRA,Cefas,02/03/2012,Assets Under Construction,Monitoring and Programme Management,Leica Geosystems Ltd,20028021," £47,495.00 ",Global Navigations Satellite System (GS1),MK5 8LB,Large,N/A,RV003,Programme
+DEFRA,Cefas,09/03/2012,Facilities Management,Corporate,DEFRA RECEIPTS,20029277," £67,337.66 ",Facilities Management recharge Feb 12,Y01 7PX,Large,N/A,72100,Administration
+DEFRA,Cefas,09/03/2012,Assets Under Construction,Corporate,DEFRA RECEIPTS,20029277," £71,834.61 ",Facilities Management recharge Feb 12,Y01 7PX,Large,N/A,51002,Administration
+DEFRA,Cefas,09/03/2012,Assets Under Construction,Corporate,DEFRA RECEIPTS,20029277," £28,825.94 ",Facilities Management recharge Feb 12,Y01 7PX,Large,N/A,51000,Administration
+DEFRA,Cefas,09/03/2012,VAT Settlement,Corporate,DEFRA RECEIPTS,20029549," £387,858.36 ",Quarter 3 VAT,Y01 7PX,Large,N/A,50000,Administration
+DEFRA,Cefas,09/03/2012,Data Collection Services,Monitoring and Programme Management,D DOYLE,20029562," £55,849.21 ",Charter of Marine Fisheries Vessel Benaiah,BT34 4FA,SME,N/A,C3300,Programme
+DEFRA,Cefas,09/03/2012,Technical Services,Aquatic Health & Hygiene,UNIVERSITY OF EXETER,20029243," £46,065.00 ",Fees for UK-Japan Research Collaboration on Endocrine Disrupters in the Aquatic Environment,EX4 4QJ,University,N/A,C5046,Programme
+DEFRA,Cefas,16/03/2012,Consultancy,Corporate,DEFRA RECEIPTS,20029569," £46,666.67 ",Legal Services,Y01 7PX,Large,N/A,75100,Administration
+DEFRA,Cefas,16/03/2012,Technical Services,Aquatic Health & Hygiene,UNIVERSITY OF EXETER,20029744," £29,396.50 ",Fees for UK-Japan Research Collaboration on Endocrine Disrupters in the Aquatic Environment,EX4 4QJ,University,N/A,C5046,Programme
+DEFRA,Cefas,16/03/2012,Lab Consumables,Environment & Ecosystems,CEFAS TECHNOLOGY LTD,20029695," £29,064.00 ",G5 DATA Storage Tag (DST) long life variant,NR33 0HT,SME,N/A,C5443,Programme
+DEFRA,Cefas,23/03/2012,Technical Services,Monitoring and Programme Management,4H-JENA ENGINEERING GmbH,20029779," £29,195.62 ",Prototype unit for litter/plankton and passive sampling onboard Research Vessel (RV) Cefas Endeavour,,SME,N/A,DP240,Programme
+DEFRA,Cefas,23/03/2012,Lab Services,Monitoring and Programme Management,MARINE ECOLOGICAL SURVEYS LTD,20030167," £46,900.00 ",Macrobenthic samples,BA1 2NH,Large,N/A,C5433,Programme
+DEFRA,Cefas,23/03/2012,Data Collection Services,Aquatic Health & Hygiene,UNIVERSITY OF STIRLING,20030266," £27,000.00 ",Funding for PhD studentship,FK9 4LA,University,N/A,C3388,Programme
+DEFRA,Cefas,23/03/2012,Assets Under Construction,Environment & Ecosystems,Shimadzu,20027586," £25,718.97 ",Autosampler,MK12 5RE,Large,N/A,67407,Programme
+DEFRA,Cefas,23/03/2012,Data Collection Services,Monitoring and Programme Management,EGS (International) Ltd,20030275," £44,100.00 ",Mobilisation of vessel,GU35 9QE,Large,N/A,C5650,Programme
+DEFRA,Cefas,23/03/2012,Data Collection Services,Aquatic Health & Hygiene,UNIVERSITY OF SURREY,20029836," £36,504.26 ",Assessment of sources of faecal contamination,GU2 7XH,University,N/A,DP274,Programme
+DEFRA,Cefas,23/03/2012,Charters,Environment & Ecosystems,AFBI,20030183," £26,316.00 ",Research Vessel Corystes 3 days hire,BT9 5PX,Large,N/A,E5304,Programme
+DEFRA,Cefas,23/03/2012,Data Collection Services,Monitoring and Programme Management,AFBI,20030184," £128,065.58 ",Marine Conservation Zones Survey,BT9 5PX,Large,N/A,C5650,Programme
+DEFRA,Cefas,23/03/2012,Vehicle Long Term Leasing,Aquatic Health & Hygiene,Lex Autolease Ltd,20030168," £26,126.40 ",5 x Honda Accord Diesel Tourer for the period 01/03/12 ñ 28/02/13.,BL9 8RT,Large,N/A,FA001,Administration
+DEFRA,Cefas,30/03/2012,Lab Services,Monitoring and Programme Management,Thomson Unicomarine,20030239," £42,990.00 ",Faunal analysis,SG6 1LW,Large,N/A,C5433,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,JUBILEE FISHING CO LTD,20030338," £41,496.00 ",Pollack survey 95%,,SME,N/A,C3300,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EGS (International) Ltd,20030625," £241,560.00 ",Multibeam survey,GU35 9QE,Large,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EGS (International) Ltd,20030704," £101,700.00 ",Multibeam survey,GU35 9QE,Large,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EGS (International) Ltd,20030638," £173,433.60 ",Marine Conservation Zones Surveys ,GU35 9QE,Large,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Assets Under Construction,Aquatic Health & Hygiene,WATERS LTD,20030525," £90,799.50 ",Waters Xevo system 50%,WD6 3SZ,Large,N/A,66400,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EMU LTD,20030702," £40,588.20 ",Mobilisation and demobilisation of survey operations for Defra rMCZ project,SO32 2EJ,SME,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,EMU LTD,20030700," £114,618.60 ",Marine Conservation Zones project,SO32 2EJ,SME,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20030528," £63,851.88 ",Mobilisation of Research Vessel Prince Madog,CH62 3NY,SME,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20030677," £75,507.46 ",Mobilisation of Research Vessel Prince Madog- re-invoice,CH62 3NY,SME,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20030699," £139,610.70 ",Mobilisation of vessel,CH62 3NY,SME,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,TITAN ENVIRONMENTAL SURVEYS LTD,20030627," £39,761.00 ",Marine Conservation Zones Survey,CF32 OQP,Large,N/A,C5650,Programme
+DEFRA,Cefas,30/03/2012,Data Collection Services,Monitoring and Programme Management,TITAN ENVIRONMENTAL SURVEYS LTD,20030628," £42,784.00 ",Marine Conservation Zones Survey ,CF32 OQP,Large,N/A,C5650,Programme

@@ -1,10 +1,10 @@
 Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling,Line Description
-ECGD,ECGD,02-Dec-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,62362,"≈Å75,198.00",Business Rates
-ECGD,ECGD,06-Dec-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,62364,"≈Å91,160.00",Operation and Maintenance of ECGD's IT Intrastructure
-ECGD,ECGD,12-Dec-11,Agency Staff,(DAB) Others HRD PP: Admin Costs,CV Channel Ltd,62404,"≈Å23,200.00",COGNOS Specialist Contractor
-ECGD,ECGD,20-Dec-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,62462,"≈Å612,500.00",Quarterly Rent for ECGD's Premises
-ECGD,ECGD,20-Dec-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,62462,"≈Å263,328.50",Quarterly Service Charge
-ECGD,ECGD,20-Dec-11,Capital Computers,(DAB) FG ID: Admin Costs,JCOM UK Limited,62483,"≈Å61,259.48",New Storage Area Network server (SAN)
+ECGD,ECGD,02-Dec-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,62362,"£75,198.00",Business Rates
+ECGD,ECGD,06-Dec-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,62364,"£91,160.00",Operation and Maintenance of ECGD's IT Intrastructure
+ECGD,ECGD,12-Dec-11,Agency Staff,(DAB) Others HRD PP: Admin Costs,CV Channel Ltd,62404,"£23,200.00",COGNOS Specialist Contractor
+ECGD,ECGD,20-Dec-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,62462,"£612,500.00",Quarterly Rent for ECGD's Premises
+ECGD,ECGD,20-Dec-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,62462,"£263,328.50",Quarterly Service Charge
+ECGD,ECGD,20-Dec-11,Capital Computers,(DAB) FG ID: Admin Costs,JCOM UK Limited,62483,"£61,259.48",New Storage Area Network server (SAN)
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,

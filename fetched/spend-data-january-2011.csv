@@ -1,7 +1,7 @@
 Department,Entitiy,Input Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling
-ECGD,ECGD,04-Jan-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,60184,"≈Å83,379.00"
-ECGD,ECGD,14-Jan-11,Legal fees administration,(DAB) GCO: Legal Serv - Admin,Clyde and Co LLP,60266,"≈Å37,794.22"
-ECGD,ECGD,24-Jan-11,BSIC Projects,BSIC Projects,Logica UK Limited,60335,"≈Å13,885.36"
-ECGD,ECGD,24-Jan-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,60335,"≈Å122,237.09"
-ECGD,ECGD,24-Jan-11,IT Non Project Expenditure,(DAB) FG ID: Admin Costs,Logica UK Limited,60335,"≈Å3,200.00"
-ECGD,ECGD,28-Jan-11,Legal fees administration,(DAB) GCO: Legal Serv - Admin,Clyde and Co LLP,60361,"≈Å28,161.58"
+ECGD,ECGD,04-Jan-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,60184,"£83,379.00"
+ECGD,ECGD,14-Jan-11,Legal fees administration,(DAB) GCO: Legal Serv - Admin,Clyde and Co LLP,60266,"£37,794.22"
+ECGD,ECGD,24-Jan-11,BSIC Projects,BSIC Projects,Logica UK Limited,60335,"£13,885.36"
+ECGD,ECGD,24-Jan-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,60335,"£122,237.09"
+ECGD,ECGD,24-Jan-11,IT Non Project Expenditure,(DAB) FG ID: Admin Costs,Logica UK Limited,60335,"£3,200.00"
+ECGD,ECGD,28-Jan-11,Legal fees administration,(DAB) GCO: Legal Serv - Admin,Clyde and Co LLP,60361,"£28,161.58"

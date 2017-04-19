@@ -1,9 +1,9 @@
 Department family(T),Entity(T),Pay date,Expense type(T),Expense area(T),Supplier,TransNo, Amount ,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
-DEFRA,Cefas,03/10/2011,Lab Consumables,Corporate,Barclaycard,20023285,"≈Å82,314.50",GPC transactions 18 August to 17 September,TS17 6YG,Large,N/A,50001B,Administration
-DEFRA,Cefas,07/10/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20023424,"≈Å47,962.79",Defra Recharge to cover costs relating to the purchase of an Ozon treatment plant,YO1 7PX,Large,N/A,51000,Administration
-DEFRA,Cefas,07/10/2011,ICT Maintence & Support,Corporate,COMPUTACENTER UK LTD,20023234,"≈Å44,161.95",3rd Party Software Installation and Support,AL10 9TW,Large,N/A,74200G,Programme
-DEFRA,Cefas,14/10/2011,Utilised provisions for early depar...,Corporate,DEFRA RECEIPTS,20023553,"≈Å219,170.45",Defra Recharge,YO1 7PX,Large,N/A,51000,Administration
-DEFRA,Cefas,14/10/2011,Data Collection Services,Monitoring and Programme Management,LOCKERS TRAWLERS LTD,20023575,"≈Å47,880.00",Fisheries Science Partnership 2011/12- Vessel Charter (Modified Commerical trawl),YO22 4PU,SME,N/A,C3300A,Programme
-DEFRA,Cefas,14/10/2011,Data Collection Services,Monitoring and Programme Management,INTERFISH LIMITED,20023576,"≈Å48,324.60",vessel charter -  western sole survey FSP,PL4 0RW,SME,N/A,C3300A,Programme
-DEFRA,Cefas,24/10/2011,ICT Maintence & Support,Corporate,Unit4 Business Software Ltd,20023799,"≈Å32,551.23",Agresso technical support 01/08/11 - 31/07/12,BS20 0PX,Large,N/A,74200D,Administration
-DEFRA,Cefas,31/10/2011,Lab Consumables,Corporate,Barclaycard,20024374,"≈Å117,538.96",GPC transactions September 18 to 17 October 2011,TS17 6YG,Large,N/A,50001B,Administration
+DEFRA,Cefas,03/10/2011,Lab Consumables,Corporate,Barclaycard,20023285,"£82,314.50",GPC transactions 18 August to 17 September,TS17 6YG,Large,N/A,50001B,Administration
+DEFRA,Cefas,07/10/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20023424,"£47,962.79",Defra Recharge to cover costs relating to the purchase of an Ozon treatment plant,YO1 7PX,Large,N/A,51000,Administration
+DEFRA,Cefas,07/10/2011,ICT Maintence & Support,Corporate,COMPUTACENTER UK LTD,20023234,"£44,161.95",3rd Party Software Installation and Support,AL10 9TW,Large,N/A,74200G,Programme
+DEFRA,Cefas,14/10/2011,Utilised provisions for early depar...,Corporate,DEFRA RECEIPTS,20023553,"£219,170.45",Defra Recharge,YO1 7PX,Large,N/A,51000,Administration
+DEFRA,Cefas,14/10/2011,Data Collection Services,Monitoring and Programme Management,LOCKERS TRAWLERS LTD,20023575,"£47,880.00",Fisheries Science Partnership 2011/12- Vessel Charter (Modified Commerical trawl),YO22 4PU,SME,N/A,C3300A,Programme
+DEFRA,Cefas,14/10/2011,Data Collection Services,Monitoring and Programme Management,INTERFISH LIMITED,20023576,"£48,324.60",vessel charter -  western sole survey FSP,PL4 0RW,SME,N/A,C3300A,Programme
+DEFRA,Cefas,24/10/2011,ICT Maintence & Support,Corporate,Unit4 Business Software Ltd,20023799,"£32,551.23",Agresso technical support 01/08/11 - 31/07/12,BS20 0PX,Large,N/A,74200D,Administration
+DEFRA,Cefas,31/10/2011,Lab Consumables,Corporate,Barclaycard,20024374,"£117,538.96",GPC transactions September 18 to 17 October 2011,TS17 6YG,Large,N/A,50001B,Administration

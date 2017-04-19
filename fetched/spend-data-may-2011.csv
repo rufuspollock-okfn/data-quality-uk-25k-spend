@@ -1,8 +1,8 @@
 Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling,Description 
-ECGD,ECGD,03-May-11,Fixed IT charges,(DAB) FG ID: Admin Costs,IBM United Kingdom Ltd,61088,"≈Å52,591.00",Subscription to Cognos Business Intelligence and Performance Management Software
-ECGD,ECGD,09-May-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,61133,"≈Å91,959.00",Business rates for ECGD's premises
-ECGD,ECGD,16-May-11,Trad Exp Environmental Impact Analys,(DAB)BG Business Division 3,Environ,61194,"≈Å28,410.79",Provision of Secondee to the Environmental Advisory Unit
-ECGD,ECGD,24-May-11,BSIC Projects,BSIC Projects,Logica UK Limited,61261,"≈Å5,000.00",Charge to resolve an issue with ECGD's data warehouse system.
-ECGD,ECGD,24-May-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,61261,"≈Å122,237.09",Operation and Maintenance of ECGD's IT Infrastructure
-ECGD,ECGD,24-May-11,IT Non Project Expenditure,(DAB) FG ID: Admin Costs,Logica UK Limited,61261,≈Å500.00,Charge for moves above agreed monthly allowance
-ECGD,ECGD,24-May-11,Legal Fees claims,(DAB) GCO: Legal Serv - Admin,Clyde and Co LLP,61272,"≈Å28,869.24",Provision of claims advice
+ECGD,ECGD,03-May-11,Fixed IT charges,(DAB) FG ID: Admin Costs,IBM United Kingdom Ltd,61088,"£52,591.00",Subscription to Cognos Business Intelligence and Performance Management Software
+ECGD,ECGD,09-May-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,61133,"£91,959.00",Business rates for ECGD's premises
+ECGD,ECGD,16-May-11,Trad Exp Environmental Impact Analys,(DAB)BG Business Division 3,Environ,61194,"£28,410.79",Provision of Secondee to the Environmental Advisory Unit
+ECGD,ECGD,24-May-11,BSIC Projects,BSIC Projects,Logica UK Limited,61261,"£5,000.00",Charge to resolve an issue with ECGD's data warehouse system.
+ECGD,ECGD,24-May-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,61261,"£122,237.09",Operation and Maintenance of ECGD's IT Infrastructure
+ECGD,ECGD,24-May-11,IT Non Project Expenditure,(DAB) FG ID: Admin Costs,Logica UK Limited,61261,£500.00,Charge for moves above agreed monthly allowance
+ECGD,ECGD,24-May-11,Legal Fees claims,(DAB) GCO: Legal Serv - Admin,Clyde and Co LLP,61272,"£28,869.24",Provision of claims advice

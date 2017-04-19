@@ -1,12 +1,12 @@
 Department,Entity,Date,Expense type,Expense Area,Supplier Name,Transaction Number,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Number,Expenditure type
-Defra,Fera,03/04/2012,Estates Charges (Swm),Finance And Corporate Services,DTZ,69621,"≈Å287,890.11",Dtz,B4 6AJ,,N/A,!,Administration
-Defra,Fera,04/04/2012,Rates,Finance And Corporate Services,Ryedale District Council,69627,"≈Å33,586.99",Ryedale District Council,YO17 7ZN,,N/A,!,Administration
-Defra,Fera,04/04/2012,Direct Subcontractors,Policy & Regulation,Health and Safety Laboratory,69623,"≈Å34,748.40",(Bioslurries) Development And ,SK17 9JN,,N/A,W8JO1000,Administration
-Defra,Fera,11/04/2012,Prepayment Postal Visa Card,Finance And Corporate Services,National Westminster Bank plc,69883,"≈Å173,229.71",National Westminster Bank Plc,SS1 9AJ,,N/A,!,Administration
-Defra,Fera,12/04/2012,Scientific Eq: Capital At Cost,Operations Directorate,*Thermo Fisher Scientific,67581,"≈Å113,400.00",Gc-Ms/Ms As Per Quotation 1248,RG21 6YH,,N/A,!,Administration
-Defra,Fera,13/04/2012,Direct Subcontractors,Policy & Regulation,NIAB,69616,"≈Å35,960.70",Inv 29343 Innovation Projects ,CB3 0LE,,N/A,W8CB1000,Administration
-Defra,Fera,17/04/2012,Scientific Eq: Capital At Cost,Operations Directorate,Analytik UK,67851,"≈Å78,960.00",Quote#: Q467-141211 - Disc Cen,CB24 4AA,,N/A,!,Administration
-Defra,Fera,18/04/2012,Direct Subcontractors,Operations Directorate,Forest Research,70221,"≈Å31,504.83",T5ut - Add As A New Line On Ex,GU10 4LH,,N/A,T5UT3000,Administration
-Defra,Fera,19/04/2012,Direct Subcontractors,Operations Directorate,Innoventors Ltd,70311,"≈Å34,767.11",Delivery Of Subcontract: Plann,YO32 2ZB,,N/A,T4OZ3060,Administration
-Defra,Fera,19/04/2012,Direct Subcontractors,Operations Directorate,Innoventors Ltd,70313,"≈Å31,673.97",Delivery Of Subcontract: Logis,YO32 2ZB,,N/A,T4OZ3010,Administration
-Defra,Fera,25/04/2012,Scientific Equipment Maintenan,Operations Directorate,Waters Ltd,70231,"≈Å36,190.56",Waters Service Contract  For P,WD6 3SZ,,N/A,!,Administration
+Defra,Fera,03/04/2012,Estates Charges (Swm),Finance And Corporate Services,DTZ,69621,"£287,890.11",Dtz,B4 6AJ,,N/A,!,Administration
+Defra,Fera,04/04/2012,Rates,Finance And Corporate Services,Ryedale District Council,69627,"£33,586.99",Ryedale District Council,YO17 7ZN,,N/A,!,Administration
+Defra,Fera,04/04/2012,Direct Subcontractors,Policy & Regulation,Health and Safety Laboratory,69623,"£34,748.40",(Bioslurries) Development And ,SK17 9JN,,N/A,W8JO1000,Administration
+Defra,Fera,11/04/2012,Prepayment Postal Visa Card,Finance And Corporate Services,National Westminster Bank plc,69883,"£173,229.71",National Westminster Bank Plc,SS1 9AJ,,N/A,!,Administration
+Defra,Fera,12/04/2012,Scientific Eq: Capital At Cost,Operations Directorate,*Thermo Fisher Scientific,67581,"£113,400.00",Gc-Ms/Ms As Per Quotation 1248,RG21 6YH,,N/A,!,Administration
+Defra,Fera,13/04/2012,Direct Subcontractors,Policy & Regulation,NIAB,69616,"£35,960.70",Inv 29343 Innovation Projects ,CB3 0LE,,N/A,W8CB1000,Administration
+Defra,Fera,17/04/2012,Scientific Eq: Capital At Cost,Operations Directorate,Analytik UK,67851,"£78,960.00",Quote#: Q467-141211 - Disc Cen,CB24 4AA,,N/A,!,Administration
+Defra,Fera,18/04/2012,Direct Subcontractors,Operations Directorate,Forest Research,70221,"£31,504.83",T5ut - Add As A New Line On Ex,GU10 4LH,,N/A,T5UT3000,Administration
+Defra,Fera,19/04/2012,Direct Subcontractors,Operations Directorate,Innoventors Ltd,70311,"£34,767.11",Delivery Of Subcontract: Plann,YO32 2ZB,,N/A,T4OZ3060,Administration
+Defra,Fera,19/04/2012,Direct Subcontractors,Operations Directorate,Innoventors Ltd,70313,"£31,673.97",Delivery Of Subcontract: Logis,YO32 2ZB,,N/A,T4OZ3010,Administration
+Defra,Fera,25/04/2012,Scientific Equipment Maintenan,Operations Directorate,Waters Ltd,70231,"£36,190.56",Waters Service Contract  For P,WD6 3SZ,,N/A,!,Administration

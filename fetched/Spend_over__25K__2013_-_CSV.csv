@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (≈Å) 
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£) 
 FCO,FCO,08-Apr-13,Information Systems Maintenance,DG CHANGE & DELIVERY,3M UNITED KINGDOM PLC,1072887,"61,687.50"
 FCO,FCO,08-Apr-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,3M UNITED KINGDOM PLC,1072887,"12,337.50"
 FCO,FCO,04-Apr-13,Non-Capital Expenditure Re: IT Projects (Oracle Projects Control Account),DG FINANCE,BRAVOSOLUTION UK LTD,1072568,"27,426.00"
@@ -27,7 +27,7 @@ FCO,FCO,10-Apr-13,Rental Payments - non residential,DG CHANGE & DELIVERY,GRAHAM 
 FCO,FCO,25-Apr-13,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,EDENRED,2000574,"39,700.00"
 FCO,FCO,25-Apr-13,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,EDENRED,2000574,794
 FCO,FCO,25-Apr-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,EDENRED,2000574,158.8
-FCO,FCO,03-Apr-13,Construction Project more than ≈Å10k,#N/A,SG ELECTRICAL SOLUTIONS,1072534,"42,231.86"
+FCO,FCO,03-Apr-13,Construction Project more than £10k,#N/A,SG ELECTRICAL SOLUTIONS,1072534,"42,231.86"
 FCO,FCO,05-Apr-13,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,ABUJA METROPOLITAN MANAGEMENT COUNCIL,700005271,"36,228.96"
 FCO,FCO,10-Apr-13,Inward visits to the UK and UK Conferences,#N/A,M INTEGRATED SOLUTIONS,1073146,"125,000.00"
 FCO,FCO,10-Apr-13,Inward visits to the UK and UK Conferences,#N/A,M INTEGRATED SOLUTIONS,1073146,"25,000.00"
@@ -482,21 +482,21 @@ FCO,FCO,26-Apr-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNA
 FCO,FCO,26-Apr-13,Language Tuition: Essential,DG CHANGE & DELIVERY,LANGUAGE SERVICES DIRECT,1074608,-24
 FCO,FCO,26-Apr-13,Language Tuition: Course materials,DG CHANGE & DELIVERY,LANGUAGE SERVICES DIRECT,1074608,24
 FCO,FCO,04-Apr-13,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD (FORM WES),1072594,"40,852.85"
-FCO,FCO,10-Apr-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"10,134.98"
-FCO,FCO,10-Apr-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"9,170.00"
-FCO,FCO,10-Apr-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"1,984.00"
-FCO,FCO,10-Apr-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"4,500.00"
-FCO,FCO,10-Apr-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"4,104.42"
-FCO,FCO,10-Apr-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"9,170.00"
-FCO,FCO,10-Apr-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"1,984.00"
-FCO,FCO,10-Apr-13,Construction Project more than ≈Å10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"4,500.00"
+FCO,FCO,10-Apr-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"10,134.98"
+FCO,FCO,10-Apr-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"9,170.00"
+FCO,FCO,10-Apr-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"1,984.00"
+FCO,FCO,10-Apr-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"4,500.00"
+FCO,FCO,10-Apr-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"4,104.42"
+FCO,FCO,10-Apr-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"9,170.00"
+FCO,FCO,10-Apr-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"1,984.00"
+FCO,FCO,10-Apr-13,Construction Project more than £10k,#N/A,COGENT ELECTRICAL SERVICES LTD (FORM WES),1073037,"4,500.00"
 FCO,FCO,23-Apr-13,Programme Spend (Oracle Projects Control Account),DG POLITICAL,SAFERWORLD,1074271,"150,754.00"
 FCO,FCO,22-Apr-13,Training Courses,DG CHANGE & DELIVERY,SHL GROUP LTD,1074059,"33,000.00"
 FCO,FCO,22-Apr-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,SHL GROUP LTD,1074059,"6,600.00"
 FCO,FCO,17-Apr-13,Programme Spend (Oracle Projects Control Account),DG POLITICAL,MINISTRY OF JUSTICE,4003026,"30,000.00"
 FCO,FCO,17-Apr-13,Programme Spend (Oracle Projects Control Account),DG POLITICAL,MINISTRY OF JUSTICE,4003026,"2,432.00"
 FCO,FCO,17-Apr-13,Programme Spend (Oracle Projects Control Account),DG POLITICAL,MINISTRY OF JUSTICE,4003026,"4,246.00"
-FCO,FCO,24-Apr-13,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,HERMAN MILLER LTD,1074350,"136,811.00"
+FCO,FCO,24-Apr-13,Construction Project more than £10k,DG CHANGE & DELIVERY,HERMAN MILLER LTD,1074350,"136,811.00"
 FCO,FCO,24-Apr-13,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HERMAN MILLER LTD,1074350,"27,362.20"
 FCO,FCO,19-Apr-13,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,1812686,"65,490,038.21"
 FCO,FCO,05-Apr-13,Programme Spend (Oracle Projects Control Account),DG POLITICAL,UNITED NATIONS,5000684,"1,200,000.00"

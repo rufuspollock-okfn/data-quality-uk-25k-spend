@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (≈Å) 
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£) 
 FCO,FCO,31-Dec-12,General Information Services,DG CHANGE & DELIVERY,BULLET MARKETING LTD,1063433,"26,666.00"
 FCO,FCO,31-Dec-12,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,BULLET MARKETING LTD,1063433,"5,333.20"
 FCO,FCO,28-Dec-12,Rental Payments - non residential,DG CHANGE & DELIVERY,GRAHAM DACRE AKA DACRE PROPERTY HOLDINGS,1063401,"12,479.50"
@@ -1248,7 +1248,7 @@ FCO,FCO,13-Dec-12,Water Residential,#N/A,ISS FACILITY SERVICES LTD FCO OP - POE,
 FCO,FCO,13-Dec-12,Electricity Residential,#N/A,ISS FACILITY SERVICES LTD FCO OP - POE,9000377,17.26
 FCO,FCO,13-Dec-12,Water Residential,#N/A,ISS FACILITY SERVICES LTD FCO OP - POE,9000377,1.33
 FCO,FCO,13-Dec-12,Electricity Residential,#N/A,ISS FACILITY SERVICES LTD FCO OP - POE,9000377,17.26
-FCO,FCO,11-Dec-12,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,DTZ BARNICKE LIMITED,94951,"67,257.20"
+FCO,FCO,11-Dec-12,Construction Project more than £10k,DG CHANGE & DELIVERY,DTZ BARNICKE LIMITED,94951,"67,257.20"
 FCO,FCO,21-Dec-12,Programme Spend (Oracle Projects Control Account),DG POLITICAL,ARTICLE 19,1063125,"26,963.86"
 FCO,FCO,17-Dec-12,Programme Spend (Oracle Projects Control Account),DG POLITICAL,MOWGLI FOUNDATION,1062682,"28,232.00"
 FCO,FCO,20-Dec-12,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,"KURIHARA (THAILAND) CO., LTD.",600000385,"106,915.24"
@@ -1557,7 +1557,7 @@ FCO,FCO,17-Dec-12,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,IN
 FCO,FCO,17-Dec-12,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1004000,655.79
 FCO,FCO,17-Dec-12,FM Interserve Overseas Reclaimable Tax,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1004000,858.19
 FCO,FCO,14-Dec-12,Information Systems Implementation,DG CENTRAL GROUP,INTERSERVE FM LTD,1062591,"26,151.07"
-FCO,FCO,14-Dec-12,Construction Project more than ≈Å10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1062591,"223,877.30"
+FCO,FCO,14-Dec-12,Construction Project more than £10k,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1062591,"223,877.30"
 FCO,FCO,14-Dec-12,FM Interserve Works,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1062591,"39,725.68"
 FCO,FCO,14-Dec-12,Building Mechanical and Engineering Services,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1062591,"143,847.79"
 FCO,FCO,14-Dec-12,Inward visits to the UK and UK Conferences,DG CHANGE & DELIVERY,INTERSERVE FM LTD,1062591,"36,067.41"

@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (ÂŁ)
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£)
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,COGENT ELECTRICAL SERVICES LTD,1164926,"62,794.99"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1164949,"55,103.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Jun-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1164949,"9,643.03"

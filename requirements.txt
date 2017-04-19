@@ -1,2 +1,2 @@
-git+https://github.com/okfn/data-quality-cli.git@master#egg=data-quality-cli
+git+https://github.com/okfn/data-quality-cli.git@fix/freeze-dependencies#egg=data-quality-cli
 requests

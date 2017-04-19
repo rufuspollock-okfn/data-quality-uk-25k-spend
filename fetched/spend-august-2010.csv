@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (ÂŁ)
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£)
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GILBERT-ASH FITOUT LIMITED,1169438,"113,083.55"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Aug-10,Assets Under Construction (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,GILBERT-ASH FITOUT LIMITED,1169438,"19,789.62"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,03-Aug-10,IT/IS Consultancy,DG CENTRAL GROUP,INTUITY CONSULTING LIMITED,1169450,"15,920.00"
@@ -258,8 +258,8 @@ Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme 
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Information Systems Maintenance,DG CENTRAL GROUP,SYMANTEC LIRIC LTD,1170301,"186,555.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,13-Aug-10,Programme Spend (Oracle Projects Control Account),DG EUROPE AND GLOBALISATION,THE CARBON TRUST,1170305,"27,150.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,BRITISH COUNCIL,1008432,"46,378.42"
-Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Information Systems Under ĂÂŁ3000,DG CENTRAL GROUP,BRITISH TELECOM  PLC,1170364,"86,094.00"
-Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Information Systems Under ĂÂŁ3000,DG CENTRAL GROUP,BRITISH TELECOM  PLC,1170364,"15,066.45"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Information Systems Under Â£3000,DG CENTRAL GROUP,BRITISH TELECOM  PLC,1170364,"86,094.00"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Information Systems Under Â£3000,DG CENTRAL GROUP,BRITISH TELECOM  PLC,1170364,"15,066.45"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Programme Spend (Oracle Projects Control Account),DG POLITICAL,COFFEY INTERNATIONAL DEVELOPMENT,1170377,"108,356.31"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,Inward Visits/Uk Conferences,DG CHANGE & DELIVERY,THE QUEEN ELIZABETH II CONFERENCE CENTRE,1170480,"135,927.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,17-Aug-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,THE QUEEN ELIZABETH II CONFERENCE CENTRE,1170480,"23,787.23"

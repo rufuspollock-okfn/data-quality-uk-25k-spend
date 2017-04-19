@@ -1,4 +1,4 @@
-Department,Entity,Date,Expense Type,Expense Area,Supplier,Post Code,Transaction Number,Payment Description,Total ≈Å
+Department,Entity,Date,Expense Type,Expense Area,Supplier,Post Code,Transaction Number,Payment Description,Total £
 Ministry of Defence,Ministry of Defence,14/02/2012,IT and communication services,Central TLB,OFFICE OF COMMUNICATIONS (OFCOM),SE1 9HA,901531,Line + telephone rental including commercial charge for use of radio frequencies,"40,259,600.00"
 Ministry of Defence,Ministry of Defence,16/02/2012,Property leases,Defence Infrastructure Organisation ,ASPIRE DEFENCE LIMITED,SP9 7QD,902245,Property dwellings private finance initiative - service concession arrangement service charge,"20,249,024.29"
 Ministry of Defence,Ministry of Defence,17/02/2012,"Purchase of munitions, other inventory or fuel",Defence Equipment & Support,HESS ENERGY TRADING CO (U K) LTD,SW1X 7HY,2000014829,Raw materials and consumable aviation fuel inventory purchased,"13,561,976.72"
@@ -65,7 +65,7 @@ Ministry of Defence,Ministry of Defence,28/02/2012,Purchase of buildings and mil
 Ministry of Defence,Ministry of Defence,13/02/2012,Service and civilian recruitment,Air Command,CENTRAL OFFICE OF INFORMATION,SE1 7DU,900763,Service recruitment excluding recruitment related external assistance,"1,319,985.00"
 Ministry of Defence,Ministry of Defence,09/02/2012,Estate management,Defence Infrastructure Organisation ,DEBUT SERVICES (SOUTH WEST)LIMITED,BA1 5AB,899597,Estate core services charge,"1,311,946.08"
 Ministry of Defence,Ministry of Defence,17/02/2012,Payment of utilities,Defence Infrastructure Organisation ,SSE ENERGY SUPPLY LIMITED,PH1 3AQ,903247,Utilities consumed - electricity,"1,280,859.24"
-Ministry of Defence,Ministry of Defence,03/02/2012,Dilapidation charges¬† ,Defence Equipment & Support,NAMSA,,5000071481,Other provisions payment against provision,"1,216,900.58"
+Ministry of Defence,Ministry of Defence,03/02/2012,Dilapidation charges† ,Defence Equipment & Support,NAMSA,,5000071481,Other provisions payment against provision,"1,216,900.58"
 Ministry of Defence,Ministry of Defence,10/02/2012,Purchase of buildings and military equipment ,Defence Infrastructure Organisation ,DEBUT SERVICES LIMITED,B75 7RL,900222,Fiscal asset under construction - capital in year addition,"1,215,548.76"
 Ministry of Defence,Ministry of Defence,08/02/2012,Development costs for military equipment,Defence Equipment & Support,FUJITSU SERVICES LIMITED,TW18 3BF,898976,Intangible fiscal asset  - in year capital addition,"1,202,851.39"
 Ministry of Defence,Ministry of Defence,15/02/2012,Transport hire charges,Land Forces,BUSVERKEHR OSTWESTFALEN GMBH,,5000072301,Transport other hire charge,"1,195,872.67"
@@ -717,7 +717,7 @@ Ministry of Defence,Ministry of Defence,20/02/2012,RMC Engineering + Tech Invent
 Ministry of Defence,Ministry of Defence,23/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,MAN DIESEL & TURBO UK LIMITED,SK7 5BP,905094,Equipment support non-project costs,"71,251.00"
 Ministry of Defence,Ministry of Defence,28/02/2012,Spend on Inventory - General,Defence Equipment & Support,HESCO BASTION LTD,LS9 0NP,906755,Spend on Inventory - General,"71,204.40"
 Ministry of Defence,Ministry of Defence,09/02/2012,Spend on Inventory - General,Defence Equipment & Support,HESCO BASTION LTD,LS9 0NP,899719,Spend on Inventory - General,"71,204.40"
-Ministry of Defence,Council of Reserve Forces and Cadets Associations,09/02/2012,Reactive¬†Maintenance¬†¬ñ¬†Emergencies,Estates Management,SOUTHBAY CIVILS,,40339,Works - civil estate,"71,162.11"
+Ministry of Defence,Council of Reserve Forces and Cadets Associations,09/02/2012,Reactive†Maintenance†ñ†Emergencies,Estates Management,SOUTHBAY CIVILS,,40339,Works - civil estate,"71,162.11"
 Ministry of Defence,Ministry of Defence,17/02/2012,Purchase of buildings and military equipment ,Defence Infrastructure Organisation ,BABCOCK DYNCORP LIMITED,PE28 2EA,902834,Fiscal asset under construction - capital in year addition,"70,977.60"
 Ministry of Defence,Ministry of Defence,29/02/2012,Payment of utilities,Defence Infrastructure Organisation ,STADTWERKE GUETERSLOH GMBH,,5000073325,Utilities consumed - gas,"70,840.83"
 Ministry of Defence,Ministry of Defence,08/02/2012,Spend on Inventory - General,Defence Equipment & Support,BABCOCK MARINE (ROSYTH) LTD,KY11 2YD,898823,Spend on Inventory - General,"70,818.86"
@@ -833,7 +833,7 @@ Ministry of Defence,Ministry of Defence,16/02/2012,Food and clothing,Defence Inf
 Ministry of Defence,Defence Support Group,24/02/2012,Electricity,Business Stream 1,SCOTTISH HYDRO- ELECTRIC,,10154393,,"60,449.30"
 Ministry of Defence,Ministry of Defence,22/02/2012,Externally delivered education and training,Land Forces,WAY BEYOND OUTDOOR EVENTS,,5000072789,External military training ,"60,250.00"
 Ministry of Defence,Ministry of Defence,23/02/2012,Spend on Inventory - General,Defence Equipment & Support,SIGMA SECURITY DEVICES LIMITED,CT17 9DA,905257,Spend on Inventory - General,"60,050.40"
-Ministry of Defence,Ministry of Defence,09/02/2012,General services and support,Navy Command,CURTIS BROWN GROUP LTD,SW1Y 4SP,899590,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"60,000.00"
+Ministry of Defence,Ministry of Defence,09/02/2012,General services and support,Navy Command,CURTIS BROWN GROUP LTD,SW1Y 4SP,899590,Purchase of defence support equipment below capitalisation threshold of £25k.,"60,000.00"
 Ministry of Defence,Ministry of Defence,29/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,DEVONPORT ROYAL DOCKYARD LIMITED,PL1 4SG,907141,Equipment support non-project costs,"59,963.68"
 Ministry of Defence,Ministry of Defence,21/02/2012,Purchase of inventory and services ,Defence Equipment & Support,GIB OIL LIMITED,,3000006624,Consumption of oils and lubricants inventory,"59,852.32"
 Ministry of Defence,Ministry of Defence,29/02/2012,Payment of utilities,Defence Infrastructure Organisation ,STADTWERKE GUETERSLOH GMBH,,5000073325,Utilities consumed - electricity,"59,783.33"
@@ -867,7 +867,7 @@ Ministry of Defence,Ministry of Defence,02/02/2012,Design services and minor equ
 Ministry of Defence,Ministry of Defence,24/02/2012,IT and communication services,Defence Equipment & Support,L.A. INTERNATIONAL COMPUTER  CONSULTANTS LIMITED,ST1 5UB,905668,Information technology services,"57,619.45"
 Ministry of Defence,Ministry of Defence,03/02/2012,Development costs for military equipment,Defence Equipment & Support,GENERAL DYNAMICS UNITED KINGDOM LIMITED,NP12 4AA,897407,Intangible fiscal asset  - in year capital addition,"57,581.24"
 Ministry of Defence,Ministry of Defence,24/02/2012,Spend on Inventory - General,Defence Equipment & Support,LAND ROVER,LE9 9JT,905669,Spend on Inventory - General,"57,504.00"
-Ministry of Defence,Council of Reserve Forces and Cadets Associations,27/02/2012,Planned¬†Maintenance¬†¬ñ¬†Life¬†Cycle,Estates Management,FIVE ZERO SERVICES LIMITED T/A IN-PHASE ELECTRICAL SERVICES,,8851,Works - civil estate,"57,498.00"
+Ministry of Defence,Council of Reserve Forces and Cadets Associations,27/02/2012,Planned†Maintenance†ñ†Life†Cycle,Estates Management,FIVE ZERO SERVICES LIMITED T/A IN-PHASE ELECTRICAL SERVICES,,8851,Works - civil estate,"57,498.00"
 Ministry of Defence,Ministry of Defence,13/02/2012,Estate management,Defence Infrastructure Organisation ,URS INFRASTRUCTURE & ENVIRONMENT UK LIMITED,RG21 7PP,166819,Works - estate management,"57,497.07"
 Ministry of Defence,Ministry of Defence,23/02/2012,Transport hire charges,Defence Equipment & Support,BABCOCK LAND (WHITEFLEET MANAGEMENT) LIMITED,BH23 6BS,904839,Transport other operating lease,"57,412.24"
 Ministry of Defence,Ministry of Defence,23/02/2012,Fees for professional services,Navy Command,HP ENTERPRISE SERVICES DEFENCE & SECURITY UK LIMITED,RG27 9XA,905025,Fees for professional services excluding legal fees,"57,356.00"
@@ -1041,7 +1041,7 @@ Ministry of Defence,Ministry of Defence,16/02/2012,Medical treatment & stores an
 Ministry of Defence,Ministry of Defence,15/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,GE AVIATION SYSTEMS LIMITED,GL52 8SF,901877,Equipment support non-project costs,"44,859.71"
 Ministry of Defence,Defence Science and Technology Laboratory,03/02/2012,Sub Contracted Work,Operations,BAE SYSTEMS (OPERATIONS) LIMITED,,V - 9000139802 - 00126680,,"44,747.28"
 Ministry of Defence,Ministry of Defence,02/02/2012,Payment of utilities,Command Joint Operations,GB OILS LIMITED,FK5 4RB,896858,Utilities consumed - heating oil,"44,706.18"
-Ministry of Defence,Council of Reserve Forces and Cadets Associations,02/02/2012,Planned¬†Maintenance¬†¬ñ¬†Life¬†Cycle,Estates Management,FIVE ZERO SERVICES LIMITED T/A IN-PHASE ELECTRICAL SERVICES,,8386,Works - civil estate,"44,700.00"
+Ministry of Defence,Council of Reserve Forces and Cadets Associations,02/02/2012,Planned†Maintenance†ñ†Life†Cycle,Estates Management,FIVE ZERO SERVICES LIMITED T/A IN-PHASE ELECTRICAL SERVICES,,8386,Works - civil estate,"44,700.00"
 Ministry of Defence,Ministry of Defence,29/02/2012,Fuel for military use,Central TLB,ARVAL UK LTD,SN5 6PE,907027,Oil and lubricants consumed excluding those from the inventory system,"44,603.75"
 Ministry of Defence,Defence Science and Technology Laboratory,24/02/2012,Materials & Equipment,Operations,CEDAR AUDIO LIMITED,,V - 9000140459 - 00129053,,"44,500.00"
 Ministry of Defence,Ministry of Defence,27/02/2012,Purchase of buildings and military equipment ,Defence Infrastructure Organisation ,WYG MANAGEMENT SERVICES LIMITED,L2 6RE,906588,Fiscal asset under construction - capital in year addition,"44,439.66"
@@ -1067,7 +1067,7 @@ Ministry of Defence,Ministry of Defence,20/02/2012,Purchase of inventory and ser
 Ministry of Defence,Defence Science and Technology Laboratory,17/02/2012,Sub Contracted Work,Operations,ORDNANCE TEST SOLUTIONS LIMITED,,V - 9000140217 - 00128100,,"43,542.00"
 Ministry of Defence,Ministry of Defence,08/02/2012,Spend on Inventory - General,Defence Equipment & Support,THALES UK LIMITED,RH10 9HA,899344,Spend on Inventory - General,"43,459.52"
 Ministry of Defence,Ministry of Defence,01/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,UNDERHILL ENGINEERING LTD,PL6 7LQ,896648,Equipment support non-project costs,"43,437.00"
-Ministry of Defence,Ministry of Defence,10/02/2012,General services and support,Central TLB,BUNDESAMT FUR WEHRTECHNIK UND  BESCHAFFUNG,,5000071942,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"43,333.33"
+Ministry of Defence,Ministry of Defence,10/02/2012,General services and support,Central TLB,BUNDESAMT FUR WEHRTECHNIK UND  BESCHAFFUNG,,5000071942,Purchase of defence support equipment below capitalisation threshold of £25k.,"43,333.33"
 Ministry of Defence,Ministry of Defence,09/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,CASSIDIAN TEST & SERVICES LIMITED,BH21 7PE,899557,Equipment support non-project costs,"43,331.00"
 Ministry of Defence,Ministry of Defence,03/02/2012,Research and development,Defence Equipment & Support,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897339,Research and development excluding defence science and technology laboratory,"43,297.78"
 Ministry of Defence,Ministry of Defence,07/02/2012,Spend on Inventory - General,Land Forces,FORBO FLOORING UK LIMITED,DE5 3NT,898461,Spend on Inventory - General,"43,252.53"
@@ -1283,7 +1283,7 @@ Ministry of Defence,Ministry of Defence,17/02/2012,Estate management,Defence Inf
 Ministry of Defence,Ministry of Defence,27/02/2012,Preparation of land & buildings for disposal,Defence Infrastructure Organisation ,CORPS OF COMMISSIONAIRES  MANAGEMENT LIMITED,RH10 9WE,906097,Works in aid of disposal,"35,244.92"
 Ministry of Defence,Defence Science and Technology Laboratory,28/02/2012,Repairs & Maintenance,Infrastructure,SERCO LIMITED,,V - 9000140535 - 00129826,,"35,232.95"
 Ministry of Defence,Defence Science and Technology Laboratory,03/02/2012,Professional Services,Operations,CRANFIELD UNIVERSITY,,V - 9000139828 - 00127668,,"35,226.00"
-Ministry of Defence,Ministry of Defence,03/02/2012,General services and support,Land Forces,LIFE FITNESS (U K) LTD,CB7 4UB,897480,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"35,165.33"
+Ministry of Defence,Ministry of Defence,03/02/2012,General services and support,Land Forces,LIFE FITNESS (U K) LTD,CB7 4UB,897480,Purchase of defence support equipment below capitalisation threshold of £25k.,"35,165.33"
 Ministry of Defence,Ministry of Defence,13/12/2011,Food and clothing,Defence Equipment & Support,ALPHA FINE FOODS,,170,Cost of food purchases,"35,160.80"
 Ministry of Defence,Ministry of Defence,23/02/2012,Spend on Inventory - General,Defence Equipment & Support,UNITED TOOL DISTRIBUTORS LTD,M32 0NB,905345,Spend on Inventory - General,"35,159.17"
 Ministry of Defence,Defence Science and Technology Laboratory,03/02/2012,Sub Contracted Work,Programme Office,ROLLS ROYCE PLC,,V - 9000139815 - 00125989,,"35,152.00"
@@ -1370,10 +1370,10 @@ Ministry of Defence,Defence Science and Technology Laboratory,03/02/2012,Profess
 Ministry of Defence,Defence Science and Technology Laboratory,28/02/2012,Sub Contracted Research,Programme Office,QINETIQ LIMITED,,V - 9000140534 - 00129210,,"32,679.84"
 Ministry of Defence,Ministry of Defence,08/02/2012,Spend on Inventory - General,Defence Equipment & Support,RFD BEAUFORT LIMITED,CH41 1HQ,899254,Spend on Inventory - General,"32,645.50"
 Ministry of Defence,Ministry of Defence,14/02/2012,Spend on Inventory - General,Defence Equipment & Support,HATZ GREAT BRITAIN LTD,LE10 3BP,901437,Spend on Inventory - General,"32,624.52"
-Ministry of Defence,Ministry of Defence,03/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897339,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"32,586.76"
+Ministry of Defence,Ministry of Defence,03/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897339,Purchase of defence support equipment below capitalisation threshold of £25k.,"32,586.76"
 Ministry of Defence,Ministry of Defence,27/02/2012,Estate management,Defence Infrastructure Organisation ,COMPASS CONTRACT SERVICES (U K)LIMITED,B45 9PZ,906092,Estate + facilities management services - accommodation inventory + service,"32,579.51"
 Ministry of Defence,Ministry of Defence,10/02/2012,Fuel for military use,Air Command,WORLD FUEL SERVICES EUROPE  LTD.,SW1E 5BH,2000014767,Bulk aviation fuel consumed,"32,550.64"
-Ministry of Defence,Council of Reserve Forces and Cadets Associations,13/02/2012,Statutory¬†&¬†Mandatory¬†Works,Estates Management,J TOMLINSON LTD,,3075,Works - civil estate,"32,545.08"
+Ministry of Defence,Council of Reserve Forces and Cadets Associations,13/02/2012,Statutory†&†Mandatory†Works,Estates Management,J TOMLINSON LTD,,3075,Works - civil estate,"32,545.08"
 Ministry of Defence,Ministry of Defence,08/02/2012,Fees for professional services,Navy Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,898904,Fees for professional services excluding legal fees,"32,418.95"
 Ministry of Defence,Ministry of Defence,06/02/2012,"Purchase of major spares armaments, medical & general stores",Defence Equipment & Support,ROCKWELL COLLINS UK LIMITED,RG6 1LA,898153,Capital spares engineering and technical inventory fiscal capital in year addition,"32,400.00"
 Ministry of Defence,Ministry of Defence,08/02/2012,"Transportation of personnel, freight and travel expenses",Navy Command,RAIL SETTLEMENT PLAN LIMITED,SG1 2YN,899248,Military short term detached duty,"32,369.90"
@@ -1433,7 +1433,7 @@ Ministry of Defence,Ministry of Defence,29/02/2012,Rent and rates,Defence Infras
 Ministry of Defence,Ministry of Defence,15/02/2012,Purchase of inventory and services ,Land Forces,AAH PHARMACEUTICALS LTD,CV2 2TX,901655,Consumption of medical dental and veterinary inventory,"30,691.34"
 Ministry of Defence,Ministry of Defence,08/02/2012,Spend on Inventory - General,Defence Equipment & Support,ITURRI SA,OX16 3TA,3000006588,Spend on Inventory - General,"30,650.76"
 Ministry of Defence,Ministry of Defence,29/02/2012,Payment of utilities,Defence Equipment & Support,SSE ENERGY SUPPLY LIMITED,PH1 3AQ,907553,Utilities consumed - electricity,"30,643.99"
-Ministry of Defence,Council of Reserve Forces and Cadets Associations,16/02/2012,Statutory¬†&¬†Mandatory¬†Inspections,Estates Management,J TOMLINSON LTD,,3185-3306,Works - civil estate,"30,604.86"
+Ministry of Defence,Council of Reserve Forces and Cadets Associations,16/02/2012,Statutory†&†Mandatory†Inspections,Estates Management,J TOMLINSON LTD,,3185-3306,Works - civil estate,"30,604.86"
 Ministry of Defence,Ministry of Defence,29/02/2012,"Transportation of personnel, freight and travel expenses",Defence Equipment & Support,PALLETWAYS (U K) LTD,WS13 8NE,907450,Freight movement costs,"30,571.50"
 Ministry of Defence,Ministry of Defence,21/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,QINETIQ LIMITED,PO12 2AG,904146,Equipment support project costs,"30,532.00"
 Ministry of Defence,Ministry of Defence,02/02/2012,Spend on Inventory - General,Defence Equipment & Support,SOUTHCOMBE BROTHERS LTD,TA14 6QD,897064,Spend on Inventory - General,"30,529.69"
@@ -1467,7 +1467,7 @@ Ministry of Defence,Ministry of Defence,24/02/2012,Purchase of inventory and ser
 Ministry of Defence,Ministry of Defence,16/02/2012,Externally delivered education and training,Navy Command,MARITIME SECURITY SOLUTIONS  LIMITED,GL16 8NX,902491,External military training ,"29,766.65"
 Ministry of Defence,Ministry of Defence,03/02/2012,Externally delivered education and training,Land Forces,MARTIN GOODSON,LD3 7RZ,897494,External military training - training area charges,"29,755.55"
 Ministry of Defence,Ministry of Defence,23/02/2012,Fees for professional services,Land Forces,CERTES COMPUTING LTD,B46 1HQ,904914,Fees for professional services excluding legal fees,"29,722.59"
-Ministry of Defence,Council of Reserve Forces and Cadets Associations,29/01/2012,Planned¬†Maintenance¬†¬ñ¬†Life¬†Cycle,Estates Management,GED BUILDING LIMITED,,5969,Works - civil estate,"29,718.00"
+Ministry of Defence,Council of Reserve Forces and Cadets Associations,29/01/2012,Planned†Maintenance†ñ†Life†Cycle,Estates Management,GED BUILDING LIMITED,,5969,Works - civil estate,"29,718.00"
 Ministry of Defence,Ministry of Defence,06/02/2012,Medical treatment & stores and welfare services,Command Joint Operations,ALLIANCE MEDICAL LIMITED,CV34 6DA,897788,Medical-non hospital treatment,"29,600.67"
 Ministry of Defence,Ministry of Defence,24/02/2012,Purchase of inventory and services ,Land Forces,AAH PHARMACEUTICALS LTD,CV2 2TX,905398,Consumption of medical dental and veterinary inventory,"29,573.85"
 Ministry of Defence,Ministry of Defence,02/02/2012,Payment of utilities,Defence Infrastructure Organisation ,SSE ENERGY SUPPLY LIMITED,PO9 5DD,897069,Utilities consumed - electricity,"29,454.24"
@@ -1578,7 +1578,7 @@ Ministry of Defence,Ministry of Defence,06/02/2012,Payment of utilities,Defence 
 Ministry of Defence,Ministry of Defence,02/02/2012,Payment of utilities,Defence Infrastructure Organisation ,TOTAL GAS & POWER LIMITED,RH1 1RX,897110,Utilities consumed - gas,"26,452.55"
 Ministry of Defence,Ministry of Defence,01/02/2012,Spend on Inventory - General,Defence Equipment & Support,PLANET PLATFORMS LIMITED,WF2 0XG,896537,Spend on Inventory - General,"26,445.62"
 Ministry of Defence,Defence Science and Technology Laboratory,14/02/2012,Capital Asset expenditure,Operations,DESIGN ENVIRONMENTAL LIMITED,,V - 9000140091 - 00121341,,"26,439.00"
-Ministry of Defence,Ministry of Defence,02/02/2012,General services and support,Land Forces,TECHNOGYM U K LIMITED,RG12 8PE,897089,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"26,429.40"
+Ministry of Defence,Ministry of Defence,02/02/2012,General services and support,Land Forces,TECHNOGYM U K LIMITED,RG12 8PE,897089,Purchase of defence support equipment below capitalisation threshold of £25k.,"26,429.40"
 Ministry of Defence,Ministry of Defence,27/02/2012,Food and clothing,Defence Equipment & Support,SEYNTEX NV,CH61 1BE,906475,Cost of purchasing and repairing clothing,"26,429.04"
 Ministry of Defence,Ministry of Defence,16/02/2012,Estate management,Air Command,SAFESKYS LTD,HP11 1LT,902673,Estate + facilities management services - accommodation inventory + service,"26,397.25"
 Ministry of Defence,Ministry of Defence,16/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,MARSHALL OF CAMBRIDGE AEROSPACE LIMITED,CB5 8RX,902493,Equipment support non-project costs,"26,393.00"
@@ -1599,7 +1599,7 @@ Ministry of Defence,Defence Science and Technology Laboratory,17/02/2012,Energy 
 Ministry of Defence,Ministry of Defence,08/02/2012,Externally delivered education and training,Air Command,STAFFORDSHIRE UNIVERSITY,ST18 0AD,899322,External military training ,"26,010.00"
 Ministry of Defence,Defence Science and Technology Laboratory,21/02/2012,Sub Contracted Work,Operations,SYSTEMS ENGINEERING & ASSESSMENT LIMITED,,V - 9000140295 - 00126948,,"26,000.00"
 Ministry of Defence,Ministry of Defence,16/02/2012,Spend on Inventory - General,Defence Equipment & Support,SELEX GALILEO LTD,SS14 3EL,902688,Spend on Inventory - General,"25,991.99"
-Ministry of Defence,Council of Reserve Forces and Cadets Associations,17/02/2012,Planned¬†Maintenance¬†¬ñ¬†Life¬†Cycle,Estates Management,CEDAR CONSTRUCTION SOUTHERN,,8936,Works - civil estate,"25,981.18"
+Ministry of Defence,Council of Reserve Forces and Cadets Associations,17/02/2012,Planned†Maintenance†ñ†Life†Cycle,Estates Management,CEDAR CONSTRUCTION SOUTHERN,,8936,Works - civil estate,"25,981.18"
 Ministry of Defence,Ministry of Defence,15/02/2012,Spend on Inventory - General,Defence Equipment & Support,METCONNECT LTD,OL9 7LD,901962,Spend on Inventory - General,"25,935.84"
 Ministry of Defence,Ministry of Defence,29/02/2012,Payment of utilities,Command Joint Operations,SSE ENERGY SUPPLY LIMITED,PH1 3AQ,907553,Utilities consumed - electricity,"25,926.32"
 Ministry of Defence,Ministry of Defence,10/02/2012,Estate management,Defence Infrastructure Organisation ,PENTALVER TRANSPORT LTD,SO15 1AW,900499,Works - estate management,"25,900.80"
@@ -1701,7 +1701,7 @@ Ministry of Defence,Defence Science and Technology Laboratory,17/02/2012,Sub Con
 Ministry of Defence,Ministry of Defence,21/02/2012,IT and communication services,Command Joint Operations,CYPRUS TELECOMMUNICATIONS AUTHORITY,,5000072677,Line + telephone rental including commercial charge for use of radio frequencies,"23,014.71"
 Ministry of Defence,Ministry of Defence,08/02/2012,Estate management,Air Command,ARAMARK LTD,LS16 6QY,898801,Estate + facilities management services - accommodation inventory + service,"23,011.52"
 Ministry of Defence,Ministry of Defence,06/02/2012,Development costs for military equipment,Defence Equipment & Support,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897904,Intangible fiscal asset  - in year capital addition,"23,008.37"
-Ministry of Defence,Ministry of Defence,27/02/2012,General services and support,Land Forces,LIFE FITNESS (U K) LTD,CB7 4UB,906258,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"23,002.98"
+Ministry of Defence,Ministry of Defence,27/02/2012,General services and support,Land Forces,LIFE FITNESS (U K) LTD,CB7 4UB,906258,Purchase of defence support equipment below capitalisation threshold of £25k.,"23,002.98"
 Ministry of Defence,Ministry of Defence,06/02/2012,Food and clothing,Defence Infrastructure Organisation ,AVENANCE PLC,SK11 6ET,897812,Cost of clothing and textile services received,"22,912.40"
 Ministry of Defence,Ministry of Defence,07/02/2012,Transport hire charges,Central TLB,BABCOCK LAND (WHITEFLEET MANAGEMENT) LIMITED,BH23 6BS,898325,Transport other operating lease,"22,835.67"
 Ministry of Defence,Defence Support Group,16/02/2012,Electricity,Business Stream 2,EDF ENERGY LTD,,10153506,,"22,814.60"
@@ -1806,7 +1806,7 @@ Ministry of Defence,Ministry of Defence,27/02/2012,Spend on Inventory - General,
 Ministry of Defence,Ministry of Defence,08/02/2012,Fees for professional services,Command Joint Operations,SERCO LIMITED,RG27 9UY,899288,Fees for professional services excluding legal fees,"19,473.21"
 Ministry of Defence,Ministry of Defence,24/02/2012,Purchase of inventory and services ,Command Joint Operations,BOC LIMITED,M28 2UT,905481,Consumption of engineering and technical inventory,"19,351.34"
 Ministry of Defence,Ministry of Defence,14/02/2012,Purchase of inventory and services ,Defence Equipment & Support,XMA LTD,NG11 7EP,901647,Cost of other material consumed,"19,261.09"
-Ministry of Defence,Ministry of Defence,06/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897904,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"19,204.23"
+Ministry of Defence,Ministry of Defence,06/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897904,Purchase of defence support equipment below capitalisation threshold of £25k.,"19,204.23"
 Ministry of Defence,Ministry of Defence,24/02/2012,Purchase of inventory and services ,Land Forces,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,905466,Cost of other material consumed,"19,130.97"
 Ministry of Defence,Ministry of Defence,17/02/2012,Payment of utilities,Land Forces,GB OILS LIMITED,FK5 4RB,902980,Utilities consumed - heating oil,"19,090.68"
 Ministry of Defence,Ministry of Defence,07/02/2012,Purchase of inventory and services ,Air Command,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,898337,Cost of other material consumed,"19,050.67"
@@ -2393,7 +2393,7 @@ Ministry of Defence,Ministry of Defence,23/02/2012,Spend on Inventory - General,
 Ministry of Defence,Ministry of Defence,21/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,BABCOCK LAND (WHITEFLEET MANAGEMENT) LIMITED,BH23 6BS,903905,Equipment support non-project costs,"4,306.63"
 Ministry of Defence,Ministry of Defence,20/02/2012,Fees for professional services,Land Forces,HONEYBEERECRUITMENT.COM LTD,TW12 1PD,903536,Fees for professional services excluding legal fees,"4,298.35"
 Ministry of Defence,Ministry of Defence,07/02/2012,Purchase of inventory and services ,Defence Infrastructure Organisation ,XMA LTD,NG11 7EP,898760,Cost of other material consumed,"4,287.79"
-Ministry of Defence,Ministry of Defence,15/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,901788,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"4,268.93"
+Ministry of Defence,Ministry of Defence,15/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,901788,Purchase of defence support equipment below capitalisation threshold of £25k.,"4,268.93"
 Ministry of Defence,Ministry of Defence,27/02/2012,IT and communication services,Command Joint Operations,XEROX (UK) LIMITED,BN13 1QG,906590,Computer equipment costing below the capitalisation threshold,"4,268.00"
 Ministry of Defence,Ministry of Defence,17/02/2012,Fees for professional services,Air Command,CRIMINAL RECORDS BUREAU,L69 3JA,902912,Fees for professional services excluding legal fees,"4,268.00"
 Ministry of Defence,Ministry of Defence,24/02/2012,Design services and minor equipment purchases,Central TLB,S MACNEILLIE & SON LIMITED,WS2 8LD,905837,Equipment support non-project costs,"4,267.92"
@@ -2537,7 +2537,7 @@ Ministry of Defence,Ministry of Defence,16/02/2012,Spend on Inventory - General,
 Ministry of Defence,Ministry of Defence,17/02/2012,Payment of utilities,Defence Infrastructure Organisation ,E.ON UK PLC,NG1 9AH,902952,Utilities consumed - electricity,"2,923.60"
 Ministry of Defence,Ministry of Defence,09/02/2012,Estate management,Defence Infrastructure Organisation ,ASPIRE DEFENCE LIMITED,SP9 7QD,899472,Works - estate management,"2,913.33"
 Ministry of Defence,Ministry of Defence,16/02/2012,Spend on Inventory - General,Navy Command,REXEL UK LTD,EN6 9EB,902656,Spend on Inventory - General,"2,913.12"
-Ministry of Defence,Ministry of Defence,06/02/2012,General services and support,Air Command,CANON (UK) LIMITED,RH2 8BF,897857,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"2,904.10"
+Ministry of Defence,Ministry of Defence,06/02/2012,General services and support,Air Command,CANON (UK) LIMITED,RH2 8BF,897857,Purchase of defence support equipment below capitalisation threshold of £25k.,"2,904.10"
 Ministry of Defence,Ministry of Defence,20/02/2012,Transport hire charges,Air Command,BABCOCK LAND (WHITEFLEET MANAGEMENT) LIMITED,BH23 6BS,903356,Transport other operating lease,"2,901.15"
 Ministry of Defence,Ministry of Defence,22/02/2012,Purchase of inventory and services ,Air Command,UNIPART GROUP LIMITED,B37 7YE,904731,Cost of other material consumed,"2,884.89"
 Ministry of Defence,Ministry of Defence,29/02/2012,"Transportation of personnel, freight and travel expenses",Air Command,RAIL SETTLEMENT PLAN LIMITED,SG1 2YN,907480,Civilian short term detached duty,"2,871.20"
@@ -2618,7 +2618,7 @@ Ministry of Defence,Ministry of Defence,29/02/2012,Estate management,Defence Inf
 Ministry of Defence,Ministry of Defence,09/02/2012,Property leases,Land Forces,ASPIRE DEFENCE LIMITED,SP9 7QD,899472,Property dwellings private finance initiative - service concession arrangement service charge,"2,400.00"
 Ministry of Defence,Ministry of Defence,20/02/2012,Estate management,Command Joint Operations,SERCO LIMITED,RG27 9UY,903762,Works - estate management,"2,376.72"
 Ministry of Defence,Ministry of Defence,17/02/2012,Fees for professional services,Command Joint Operations,CRIMINAL RECORDS BUREAU,L69 3JA,902912,Fees for professional services excluding legal fees,"2,376.00"
-Ministry of Defence,Ministry of Defence,22/02/2012,General services and support,Command Joint Operations,EQUIPMENT HIRE SERVICES LTD,OL9 7AH,904427,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"2,364.02"
+Ministry of Defence,Ministry of Defence,22/02/2012,General services and support,Command Joint Operations,EQUIPMENT HIRE SERVICES LTD,OL9 7AH,904427,Purchase of defence support equipment below capitalisation threshold of £25k.,"2,364.02"
 Ministry of Defence,Ministry of Defence,14/02/2012,Purchase of inventory and services ,Navy Command,XMA LTD,NG11 7EP,901647,Cost of other material consumed,"2,359.35"
 Ministry of Defence,Ministry of Defence,07/02/2012,Purchase of inventory and services ,Land Forces,BOC LIMITED,M28 2UT,898347,Consumption of engineering and technical inventory,"2,337.03"
 Ministry of Defence,Ministry of Defence,03/02/2012,Medical treatment & stores and welfare services,Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013342,Schools + community relations initiatives,"2,323.21"
@@ -2837,7 +2837,7 @@ Ministry of Defence,Ministry of Defence,28/02/2012,"Transportation of personnel,
 Ministry of Defence,Ministry of Defence,28/02/2012,"Transportation of personnel, freight and travel expenses",Defence Equipment & Support,ROYAL BRUNEI AIRLINES SDN BHD,,906899,Movement of service personnel,"1,291.73"
 Ministry of Defence,Ministry of Defence,27/02/2012,"Transportation of personnel, freight and travel expenses",Defence Infrastructure Organisation ,ROYAL BRUNEI AIRLINES SDN BHD,,906448,Military air travel costs for short term detached duty,"1,291.73"
 Ministry of Defence,Ministry of Defence,08/02/2012,Purchase of inventory and services ,Defence Equipment & Support,BOC LIMITED,M28 2UT,898843,Consumption of engineering and technical inventory,"1,289.34"
-Ministry of Defence,Ministry of Defence,06/02/2012,General services and support,Land Forces,CANON (UK) LIMITED,RH2 8BF,897857,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"1,283.84"
+Ministry of Defence,Ministry of Defence,06/02/2012,General services and support,Land Forces,CANON (UK) LIMITED,RH2 8BF,897857,Purchase of defence support equipment below capitalisation threshold of £25k.,"1,283.84"
 Ministry of Defence,Ministry of Defence,23/02/2012,"Adminstration, claims, compensation and awards",Land Forces,CANON (UK) LIMITED,RH2 8BF,904898,Cost of claims/compensation and related expenses against MOD,"1,283.75"
 Ministry of Defence,Ministry of Defence,20/02/2012,Purchase of inventory and services ,Air Command,C F ANDERSON & SON LIMITED,C06 1HD,903399,Consumption of general inventory,"1,261.92"
 Ministry of Defence,Ministry of Defence,24/02/2012,Rental of plant and machinery,Central TLB,CANON (UK) LIMITED,RH2 8BF,905502,Plant + machinery operating lease,"1,257.57"
@@ -2883,7 +2883,7 @@ Ministry of Defence,Ministry of Defence,24/02/2012,Food and clothing,Air Command
 Ministry of Defence,Ministry of Defence,23/02/2012,Food and clothing,Air Command,SODEXO LTD,M50 0AL,905264,Cost of food services,"1,096.92"
 Ministry of Defence,Ministry of Defence,15/02/2012,Spend on Inventory - General,Air Command,JOSEPH GLEAVE & SON LTD,M32 0NB,901932,Spend on Inventory - General,"1,093.51"
 Ministry of Defence,Ministry of Defence,24/02/2012,Purchase of inventory and services ,Defence Infrastructure Organisation ,CANON (UK) LIMITED,RH2 8BF,905502,Cost of other material consumed,"1,088.78"
-Ministry of Defence,Ministry of Defence,29/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,907134,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,"1,087.22"
+Ministry of Defence,Ministry of Defence,29/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,907134,Purchase of defence support equipment below capitalisation threshold of £25k.,"1,087.22"
 Ministry of Defence,Ministry of Defence,20/02/2012,Purchase of inventory and services ,Defence Infrastructure Organisation ,XMA LTD,NG11 7EP,903862,Cost of other material consumed,"1,085.05"
 Ministry of Defence,Ministry of Defence,07/02/2012,Estate management,Air Command,CANON (UK) LIMITED,RH2 8BF,898364,Estate + facilities management services - accommodation inventory + service,"1,082.21"
 Ministry of Defence,Ministry of Defence,27/02/2012,Purchase of inventory and services ,Land Forces,GE MEDICAL SYSTEMS INFORMATION TECHNOLOGIES (UK) LIMITED,AL9 5EN,906178,Consumption of medical dental and veterinary inventory,"1,080.00"
@@ -3070,7 +3070,7 @@ Ministry of Defence,Ministry of Defence,27/02/2012,Food and clothing,Air Command
 Ministry of Defence,Ministry of Defence,08/02/2012,Purchase of inventory and services ,Navy Command,BOC LIMITED,M28 2UT,898843,Consumption of engineering and technical inventory,583.93
 Ministry of Defence,Ministry of Defence,01/02/2012,"Transportation of personnel, freight and travel expenses",Command Joint Operations,PENTALVER TRANSPORT LTD,SO15 1AW,896532,Freight movement costs,580.32
 Ministry of Defence,Ministry of Defence,07/02/2012,Official entertainment and hospitality,Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013363,Entertainment + hospitality,577.87
-Ministry of Defence,Ministry of Defence,24/02/2012,General services and support,Air Command,CANON (UK) LIMITED,RH2 8BF,905502,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,577.42
+Ministry of Defence,Ministry of Defence,24/02/2012,General services and support,Air Command,CANON (UK) LIMITED,RH2 8BF,905502,Purchase of defence support equipment below capitalisation threshold of £25k.,577.42
 Ministry of Defence,Ministry of Defence,27/02/2012,Spend on Inventory - General,Land Forces,TURNER VIRR & CO. LTD,LS25 2DY,906551,Spend on Inventory - General,571.07
 Ministry of Defence,Ministry of Defence,02/02/2012,Fees for professional services,Defence Equipment & Support,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,896813,The provision of advice and assistance relating to the strategy of an organisation,569.46
 Ministry of Defence,Ministry of Defence,24/02/2012,Design services and minor equipment purchases,Air Command,CANON (UK) LIMITED,RH2 8BF,905502,Equipment support project costs,569.11
@@ -3155,7 +3155,7 @@ Ministry of Defence,Ministry of Defence,13/02/2012,Purchase of inventory and ser
 Ministry of Defence,Ministry of Defence,07/02/2012,Administration,Central TLB,CANON (UK) LIMITED,RH2 8BF,898364,General administration,417.58
 Ministry of Defence,Ministry of Defence,13/02/2012,"Transportation of personnel, freight and travel expenses",Navy Command,SODEXO LTD,M50 0AL,901168,Military short term detached duty,415.59
 Ministry of Defence,Ministry of Defence,07/02/2012,Purchase of inventory and services ,Land Forces,XMA LTD,NG11 7EP,898760,Other materal consumed on exercises,414.53
-Ministry of Defence,Ministry of Defence,23/02/2012,General services and support,Air Command,CANON (UK) LIMITED,RH2 8BF,904898,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,413.96
+Ministry of Defence,Ministry of Defence,23/02/2012,General services and support,Air Command,CANON (UK) LIMITED,RH2 8BF,904898,Purchase of defence support equipment below capitalisation threshold of £25k.,413.96
 Ministry of Defence,Ministry of Defence,06/02/2012,Payment of utilities,Central TLB,TOTAL GAS & POWER LIMITED,RH1 1RX,898243,Utilities consumed - gas,413.15
 Ministry of Defence,Ministry of Defence,15/02/2012,Building maintenance and accommodation stores,Defence Equipment & Support,SODEXO LTD,M50 0AL,902133,Building maintenance accommodation inventory,411.76
 Ministry of Defence,Ministry of Defence,23/02/2012,"Transportation of personnel, freight and travel expenses",Navy Command,SODEXO LTD,M50 0AL,905264,Military short term detached duty,411.17
@@ -3245,7 +3245,7 @@ Ministry of Defence,Ministry of Defence,20/02/2012,Transport hire charges,Defenc
 Ministry of Defence,Ministry of Defence,15/02/2012,Design services and minor equipment purchases,Navy Command,BABCOCK LAND (WHITEFLEET MANAGEMENT) LIMITED,BH23 6BS,901702,Equipment support non-project costs,322.7
 Ministry of Defence,Ministry of Defence,15/02/2012,Spend on Inventory - General,Command Joint Operations,JOSEPH GLEAVE & SON LTD,M32 0NB,901932,Spend on Inventory - General,322.32
 Ministry of Defence,Ministry of Defence,07/02/2012,Fuel for military use,Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013362,Oil and lubricants consumed excluding those from the inventory system,321.5
-Ministry of Defence,Ministry of Defence,01/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,896353,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,320.58
+Ministry of Defence,Ministry of Defence,01/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,896353,Purchase of defence support equipment below capitalisation threshold of £25k.,320.58
 Ministry of Defence,Ministry of Defence,20/02/2012,Transport hire charges,Command Joint Operations,BABCOCK LAND (WHITEFLEET MANAGEMENT) LIMITED,BH23 6BS,903356,Transport other operating lease,320.25
 Ministry of Defence,Ministry of Defence,06/02/2012,IT and communication services,Central TLB,NSSLGLOBAL LIMITED,RH1 3DR,898096,Line + telephone rental including commercial charge for use of radio frequencies,315.9
 Ministry of Defence,Ministry of Defence,06/02/2012,IT and communication services,Air Command,CANON (UK) LIMITED,RH2 8BF,897857,Computer equipment costing below the capitalisation threshold,313.91
@@ -3269,7 +3269,7 @@ Ministry of Defence,Ministry of Defence,03/02/2012,Design services and minor equ
 Ministry of Defence,Ministry of Defence,13/02/2012,"Transportation of personnel, freight and travel expenses",Air Command,MARSHALL OF CAMBRIDGE AEROSPACE LIMITED,CB5 8RX,900953,Aircraft landing fees,290
 Ministry of Defence,Ministry of Defence,03/02/2012,Purchase of inventory and services ,Navy Command,XMA LTD,NG11 7EP,897768,Cost of other material consumed,288.52
 Ministry of Defence,Ministry of Defence,07/02/2012,Official entertainment and hospitality,Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013364,Entertainment + hospitality,284.23
-Ministry of Defence,Ministry of Defence,24/02/2012,General services and support,Central TLB,CANON (UK) LIMITED,RH2 8BF,905502,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,280.31
+Ministry of Defence,Ministry of Defence,24/02/2012,General services and support,Central TLB,CANON (UK) LIMITED,RH2 8BF,905502,Purchase of defence support equipment below capitalisation threshold of £25k.,280.31
 Ministry of Defence,Ministry of Defence,15/02/2012,Food and clothing,Land Forces,ARAMARK LTD,LS16 6QY,901687,Cost of clothing and textile services received,279.52
 Ministry of Defence,Ministry of Defence,02/02/2012,Purchase of inventory and services ,Command Joint Operations,AAH PHARMACEUTICALS LTD,CV2 2TX,896682,Consumption of medical dental and veterinary inventory,279.43
 Ministry of Defence,Ministry of Defence,28/02/2012,Purchase of inventory and services ,Land Forces,XMA LTD,NG11 7EP,906984,Other materal consumed on exercises,279.04
@@ -3293,7 +3293,7 @@ Ministry of Defence,Ministry of Defence,06/02/2012,Purchase of inventory and ser
 Ministry of Defence,Ministry of Defence,07/02/2012,"Transportation of personnel, freight and travel expenses",Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013362,Movement of service personnel,256.1
 Ministry of Defence,Ministry of Defence,13/02/2012,"Transportation of personnel, freight and travel expenses",Command Joint Operations,RAIL SETTLEMENT PLAN LIMITED,SG1 2YN,901123,Civilian short term detached duty,254.2
 Ministry of Defence,Ministry of Defence,13/02/2012,"Transportation of personnel, freight and travel expenses",Defence Equipment & Support,RAIL SETTLEMENT PLAN LIMITED,SG1 2YN,901123,Civilian short term detached duty,253.4
-Ministry of Defence,Ministry of Defence,27/02/2012,General services and support,Defence Equipment & Support,CANON (UK) LIMITED,RH2 8BF,906063,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,249.93
+Ministry of Defence,Ministry of Defence,27/02/2012,General services and support,Defence Equipment & Support,CANON (UK) LIMITED,RH2 8BF,906063,Purchase of defence support equipment below capitalisation threshold of £25k.,249.93
 Ministry of Defence,Ministry of Defence,24/02/2012,"Transportation of personnel, freight and travel expenses",Air Command,SODEXO LTD,M50 0AL,905863,Military short term detached duty,249.85
 Ministry of Defence,Ministry of Defence,01/02/2012,Transport hire charges,Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013319,Transport other hire charge,248.34
 Ministry of Defence,Ministry of Defence,17/02/2012,Estate management,Air Command,AVENANCE PLC,SK11 6ET,902828,Estate + facilities management services - accommodation inventory + service,247.97
@@ -3317,7 +3317,7 @@ Ministry of Defence,Ministry of Defence,21/02/2012,Design services and minor equ
 Ministry of Defence,Ministry of Defence,24/02/2012,IT and communication services,Land Forces,CANON (UK) LIMITED,RH2 8BF,905502,Computer equipment costing below the capitalisation threshold,234
 Ministry of Defence,Ministry of Defence,02/02/2012,Estate management,Defence Equipment & Support,SODEXO LTD,M50 0AL,897058,Estate + facilities management services - accommodation inventory + service,232.73
 Ministry of Defence,Ministry of Defence,20/02/2012,"Transportation of personnel, freight and travel expenses",Defence Infrastructure Organisation ,RAIL SETTLEMENT PLAN LIMITED,SG1 2YN,903733,Civilian short term detached duty,229.5
-Ministry of Defence,Ministry of Defence,20/02/2012,General services and support,Land Forces,CANON (UK) LIMITED,RH2 8BF,5000072564,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,228.44
+Ministry of Defence,Ministry of Defence,20/02/2012,General services and support,Land Forces,CANON (UK) LIMITED,RH2 8BF,5000072564,Purchase of defence support equipment below capitalisation threshold of £25k.,228.44
 Ministry of Defence,Ministry of Defence,22/02/2012,Purchase of inventory and services ,Land Forces,BOC LIMITED,M28 2UT,904326,Consumption of engineering and technical inventory,228.12
 Ministry of Defence,Ministry of Defence,29/02/2012,Design services and minor equipment purchases,Land Forces,LEASEDRIVE VELO RENTAL  MANAGEMENT LIMITED,RG40 3GA,907313,Equipment support non-project costs,228
 Ministry of Defence,Ministry of Defence,09/02/2012,Estate management,Defence Infrastructure Organisation ,ASPIRE DEFENCE LIMITED,SP9 7QD,899472,Estate core services charge,227.4
@@ -3356,22 +3356,22 @@ Ministry of Defence,Ministry of Defence,23/02/2012,Purchase of inventory and ser
 Ministry of Defence,Ministry of Defence,20/02/2012,Design services and minor equipment purchases,Central TLB,BABCOCK LAND (WHITEFLEET MANAGEMENT) LIMITED,BH23 6BS,903356,Equipment support non-project costs,184.92
 Ministry of Defence,Ministry of Defence,01/02/2012,"Transportation of personnel, freight and travel expenses",Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013319,Civilian short term detached duty,183.98
 Ministry of Defence,Ministry of Defence,23/02/2012,IT and communication services,Defence Equipment & Support,CANON (UK) LIMITED,RH2 8BF,904898,IT Services -internal costs,182.54
-Ministry of Defence,Ministry of Defence,03/02/2012,General services and support,Navy Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897339,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,182.29
+Ministry of Defence,Ministry of Defence,03/02/2012,General services and support,Navy Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897339,Purchase of defence support equipment below capitalisation threshold of £25k.,182.29
 Ministry of Defence,Ministry of Defence,14/02/2012,IT and communication services,Air Command,NSSLGLOBAL LIMITED,RH1 3DR,901527,Line + telephone rental including commercial charge for use of radio frequencies,181.38
 Ministry of Defence,Ministry of Defence,22/02/2012,Medical treatment & stores and welfare services,Land Forces,EQUIPMENT HIRE SERVICES LTD,OL9 7AH,904427,Welfare services including sports equipment and ministers of religion.,181.31
 Ministry of Defence,Ministry of Defence,06/02/2012,Purchase of inventory and services ,Defence Infrastructure Organisation ,XMA LTD,NG11 7EP,898282,Cost of other material consumed,180.7
 Ministry of Defence,Ministry of Defence,27/02/2012,Design services and minor equipment purchases,Central TLB,BABCOCK LAND (WHITEFLEET MANAGEMENT) LIMITED,BH23 6BS,906013,Equipment support non-project costs,178.08
 Ministry of Defence,Ministry of Defence,07/02/2012,Design services and minor equipment purchases,Defence Equipment & Support,CANON (UK) LIMITED,RH2 8BF,898364,Equipment support non-project costs,177.94
 Ministry of Defence,Ministry of Defence,09/02/2012,Administration,Navy Command,ROYAL MAIL GROUP LIMITED,S49 1HQ,899942,General administration,177.68
-Ministry of Defence,Ministry of Defence,16/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,902345,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,176.99
-Ministry of Defence,Ministry of Defence,20/02/2012,General services and support,Central TLB,CANON (UK) LIMITED,RH2 8BF,5000072564,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,176.3
+Ministry of Defence,Ministry of Defence,16/02/2012,General services and support,Air Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,902345,Purchase of defence support equipment below capitalisation threshold of £25k.,176.99
+Ministry of Defence,Ministry of Defence,20/02/2012,General services and support,Central TLB,CANON (UK) LIMITED,RH2 8BF,5000072564,Purchase of defence support equipment below capitalisation threshold of £25k.,176.3
 Ministry of Defence,Ministry of Defence,29/02/2012,Administration,Command Joint Operations,SERCO LIMITED,RG27 9UY,907527,General administration,175.33
-Ministry of Defence,Ministry of Defence,17/02/2012,General services and support,Air Command,XEROX (UK) LIMITED,BN13 1QG,903306,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,174.47
+Ministry of Defence,Ministry of Defence,17/02/2012,General services and support,Air Command,XEROX (UK) LIMITED,BN13 1QG,903306,Purchase of defence support equipment below capitalisation threshold of £25k.,174.47
 Ministry of Defence,Ministry of Defence,22/02/2012,Food and clothing,Land Forces,SODEXO LTD,M50 0AL,904680,Cost of food purchases,171.76
 Ministry of Defence,Ministry of Defence,16/02/2012,"Transportation of personnel, freight and travel expenses",Land Forces,DHL GLOBAL FORWARDING (UK)  LIMITED,TW18 4BP,902355,Freight movement costs,170.2
 Ministry of Defence,Ministry of Defence,01/02/2012,"Transportation of personnel, freight and travel expenses",Defence Infrastructure Organisation ,PENTALVER TRANSPORT LTD,SO15 1AW,896532,Freight movement costs,169.26
 Ministry of Defence,Ministry of Defence,08/02/2012,Estate management,Central TLB,SODEXO LTD,M50 0AL,899304,Estate + facilities management services - accommodation inventory + service,167.61
-Ministry of Defence,Ministry of Defence,07/02/2012,General services and support,Defence Equipment & Support,CANON (UK) LIMITED,RH2 8BF,898364,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,166.22
+Ministry of Defence,Ministry of Defence,07/02/2012,General services and support,Defence Equipment & Support,CANON (UK) LIMITED,RH2 8BF,898364,Purchase of defence support equipment below capitalisation threshold of £25k.,166.22
 Ministry of Defence,Ministry of Defence,29/02/2012,IT and communication services,Defence Infrastructure Organisation ,BT PAYMENT SERVICES LIMITED,DH98 1BT,907075,Line + telephone rental including commercial charge for use of radio frequencies,165.6
 Ministry of Defence,Ministry of Defence,07/02/2012,Payment of utilities,Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013364,Utilities consumed - gas,164.78
 Ministry of Defence,Ministry of Defence,01/02/2012,Design services and minor equipment purchases,Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013319,Equipment support non-project costs,164.64
@@ -3432,7 +3432,7 @@ Ministry of Defence,Ministry of Defence,20/02/2012,"Transportation of personnel,
 Ministry of Defence,Ministry of Defence,07/02/2012,Food and clothing,Navy Command,TURNER VIRR & CO. LTD,LS25 2DY,898748,Cost of purchasing and repairing clothing,110.21
 Ministry of Defence,Ministry of Defence,21/02/2012,Purchase of inventory and services ,Command Joint Operations,AAH PHARMACEUTICALS LTD,CV2 2TX,903867,Consumption of medical dental and veterinary inventory,109.15
 Ministry of Defence,Ministry of Defence,09/02/2012,Spend on Inventory - General,Air Command,CARWOOD MOTOR UNITS LTD,CV3 2RQ,899555,Spend on Inventory - General,108.94
-Ministry of Defence,Ministry of Defence,07/02/2012,General services and support,Air Command,XMA LTD,NG11 7EP,898760,Purchase of defence equipment below capitalisation threshold of ≈Å25k.,106.09
+Ministry of Defence,Ministry of Defence,07/02/2012,General services and support,Air Command,XMA LTD,NG11 7EP,898760,Purchase of defence equipment below capitalisation threshold of £25k.,106.09
 Ministry of Defence,Ministry of Defence,06/02/2012,Design services and minor equipment purchases,Defence Infrastructure Organisation ,CANON (UK) LIMITED,RH2 8BF,897857,Equipment support non-project costs,104.82
 Ministry of Defence,Ministry of Defence,01/02/2012,Official entertainment and hospitality,Central TLB,FOREIGN & COMMONWEALTH OFFICE,MK10 1PX,'200000013319,Entertainment + hospitality,104.57
 Ministry of Defence,Ministry of Defence,23/02/2012,Medical treatment & stores and welfare services,Land Forces,NHS BLOOD AND TRANSPLANT,LS15 7TW,905135,Medical-non hospital treatment,103.42
@@ -3497,9 +3497,9 @@ Ministry of Defence,Ministry of Defence,07/02/2012,Design services and minor equ
 Ministry of Defence,Ministry of Defence,22/02/2012,Estate management,Defence Equipment & Support,COMPASS CONTRACT SERVICES (U K)LIMITED,B45 9PZ,904375,Estate + facilities management services - accommodation inventory + service,57.57
 Ministry of Defence,Ministry of Defence,20/02/2012,Purchase of inventory and services ,Defence Equipment & Support,BOC LIMITED,M28 2UT,903377,Consumption of engineering and technical inventory,55.8
 Ministry of Defence,Ministry of Defence,07/02/2012,"Transportation of personnel, freight and travel expenses",Command Joint Operations,TAL INTERNATIONAL CONTAINER CORPORATION,RM13 8EU,898725,Freight movement costs,55.8
-Ministry of Defence,Ministry of Defence,03/02/2012,General services and support,Land Forces,CANON (UK) LIMITED,RH2 8BF,897281,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,54.07
+Ministry of Defence,Ministry of Defence,03/02/2012,General services and support,Land Forces,CANON (UK) LIMITED,RH2 8BF,897281,Purchase of defence support equipment below capitalisation threshold of £25k.,54.07
 Ministry of Defence,Ministry of Defence,10/02/2012,"Transportation of personnel, freight and travel expenses",Land Forces,SODEXO LTD,M50 0AL,900562,Military short term detached duty,53.87
-Ministry of Defence,Ministry of Defence,06/02/2012,General services and support,Defence Equipment & Support,CANON (UK) LIMITED,RH2 8BF,897857,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,52.74
+Ministry of Defence,Ministry of Defence,06/02/2012,General services and support,Defence Equipment & Support,CANON (UK) LIMITED,RH2 8BF,897857,Purchase of defence support equipment below capitalisation threshold of £25k.,52.74
 Ministry of Defence,Ministry of Defence,21/02/2012,Food and clothing,Air Command,COMPASS CONTRACT SERVICES (U K)LIMITED,B45 9PZ,903978,Cost of clothing and textile services received,52.54
 Ministry of Defence,Ministry of Defence,29/02/2012,Administration,Navy Command,PALLETWAYS (U K) LTD,WS13 8NE,907450,General administration,51.11
 Ministry of Defence,Ministry of Defence,17/02/2012,Estate management,Land Forces,AVENANCE PLC,SK11 6ET,902828,Estate + facilities management services - accommodation inventory + service,51.08
@@ -3549,7 +3549,7 @@ Ministry of Defence,Ministry of Defence,16/02/2012,Purchase of inventory and ser
 Ministry of Defence,Ministry of Defence,06/02/2012,Fees for professional services,Navy Command,DEFENCE SCIENCE & TECHNOLOGY LABORATORY,PO14 9HL,897904,Fees for professional services excluding legal fees,26.97
 Ministry of Defence,Ministry of Defence,14/02/2012,Purchase of inventory and services ,Land Forces,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,901336,Other materal consumed on exercises,26.89
 Ministry of Defence,Ministry of Defence,02/02/2012,Spend on Inventory - General,Air Command,TRY & LILLY LIMITED,L3 8HE,897114,Spend on Inventory - General,26.26
-Ministry of Defence,Ministry of Defence,02/02/2012,General services and support,Air Command,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,896738,Purchase of defence support equipment below capitalisation threshold of ≈Å25k.,24.45
+Ministry of Defence,Ministry of Defence,02/02/2012,General services and support,Air Command,BANNER BUSINESS SERVICES LIMITED,NR3 1PD,896738,Purchase of defence support equipment below capitalisation threshold of £25k.,24.45
 Ministry of Defence,Ministry of Defence,10/02/2012,Administration,Land Forces,SODEXO LTD,M50 0AL,900562,General administration,24
 Ministry of Defence,Ministry of Defence,03/02/2012,"Transportation of personnel, freight and travel expenses",Navy Command,SODEXO LTD,M50 0AL,897654,Military short term detached duty,23.8
 Ministry of Defence,Ministry of Defence,22/02/2012,Estate management,Air Command,COMPASS CONTRACT SERVICES (U K)LIMITED,B45 9PZ,904375,Estate + facilities management services - accommodation inventory + service,23.48
