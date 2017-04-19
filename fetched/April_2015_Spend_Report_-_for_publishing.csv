@@ -47,7 +47,7 @@ FCO,FCO,15/04/2015,"5,024,991","49,006.55",HOTELLINE ,Meals
 FCO,FCO,21/04/2015,"5,025,740","66,265.87",TOYOTA EAST AFRICA LTD,Recharge Suspense Account (Oracle PA Control Account)
 FCO,FCO,14/04/2015,"5,026,020","49,170.99",NI CO OPERATION OVERSEAS NI CO LTD,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,14/04/2015,"5,026,027","32,156.41",NI CO OPERATION OVERSEAS NI CO LTD,Programme Spend (Oracle Projects Control Account)
-FCO,FCO,14/04/2015,"5,026,124","28,436.60",ENTERPRISES GENERALES LEGLISE S.A.,Construction Project more than ÂŁ10k
+FCO,FCO,14/04/2015,"5,026,124","28,436.60",ENTERPRISES GENERALES LEGLISE S.A.,Construction Project more than £10k
 FCO,FCO,14/04/2015,"5,026,174","28,380.14",SUPPLY PLUS,Estates - Other Machinery and Equipment
 FCO,FCO,16/04/2015,"5,026,395","30,000",ROYAL AGRICULTURAL COLLEGE,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,14/04/2015,"5,026,406","42,000",NINIAN SOLUTIONS LIMITED,IT/IS Consultancy
@@ -80,7 +80,7 @@ FCO,FCO,17/04/2015,"5,028,556","116,924.50",BROOKINGS DOHA CENTER,Programme Spen
 FCO,FCO,17/04/2015,"5,028,578","76,504",BAE SYSTEMS APPLIED INTELLIGENCE LIMITED,Specialist Contractors
 FCO,FCO,16/04/2015,"5,028,680","46,847.41",FENIX INSIGHT LTD,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,22/04/2015,"5,028,848","259,511.20",INTERSERVE FM LTD,Assets Under Construction (Oracle PA Control Account)
-FCO,FCO,16/04/2015,"5,028,861","30,050.54",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
+FCO,FCO,16/04/2015,"5,028,861","30,050.54",INTERSERVE FM LTD,Construction Project more than £10k
 FCO,FCO,20/04/2015,"5,028,918","431,074.90",ISS FACILITY SERVICES LTD FCO OP,FM Interserve BES Maintenance
 FCO,FCO,20/04/2015,"5,028,922","55,345.24",ISS FACILITY SERVICES LTD FCO OP,FM Interserve BES Maintenance
 FCO,FCO,20/04/2015,"5,028,927","28,425.71",ISS FACILITY SERVICES LTD FCO OP,FM Interserve BES Maintenance
@@ -98,8 +98,8 @@ FCO,FCO,20/04/2015,"5,028,968","99,029.04",ISS FACILITY SERVICES LTD FCO OP,FM I
 FCO,FCO,20/04/2015,"5,028,970","48,415.07",ISS FACILITY SERVICES LTD FCO OP,FM Interserve BES Maintenance
 FCO,FCO,20/04/2015,"5,028,971","46,931.87",ISS FACILITY SERVICES LTD FCO OP,FM Interserve BES Maintenance
 FCO,FCO,20/04/2015,"5,028,977","25,920.63",ISS FACILITY SERVICES LTD FCO OP,FM Interserve BES Maintenance
-FCO,FCO,17/04/2015,"5,028,991","41,873.43",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
-FCO,FCO,17/04/2015,"5,029,020","49,346.18",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
+FCO,FCO,17/04/2015,"5,028,991","41,873.43",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,17/04/2015,"5,029,020","49,346.18",INTERSERVE FM LTD,Construction Project more than £10k
 FCO,FCO,16/04/2015,"5,029,099","30,420",POWER ELECTRICS GENERATORS LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,16/04/2015,"5,029,102","146,391.30",POWER ELECTRICS GENERATORS LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,17/04/2015,"5,029,167","539,799",BAE SYSTEMS APPLIED INTELLIGENCE LIMITED,Specialist Contractors
@@ -148,13 +148,13 @@ FCO,FCO,23/04/2015,"5,037,254","194,289.20",COMPUTACENTER UK LTD,Assets Under Co
 FCO,FCO,23/04/2015,"5,037,259","248,726.40",COMPUTACENTER UK LTD,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,23/04/2015,"5,037,384","50,000",ORGANISATION FOR ECONOMIC CO OPERATION AND DEVELOPMENT OECD,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,27/04/2015,"5,037,440","455,801",ARTEOS GMBH,"Electricity Non-Residential, Estates - Other Machinery and Equipment, Pfi : Public/Private Partnership Consultants Fees Non-Residential, Waste Disposal, Water Residential"
-FCO,FCO,24/04/2015,"5,038,210","552,407",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
-FCO,FCO,24/04/2015,"5,038,212","42,811.21",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
-FCO,FCO,27/04/2015,"5,038,214","26,434.72",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
-FCO,FCO,24/04/2015,"5,038,215","55,601.40",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
-FCO,FCO,24/04/2015,"5,038,217","28,139.93",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
-FCO,FCO,27/04/2015,"5,038,222","57,585.09",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
-FCO,FCO,24/04/2015,"5,038,224","27,747.05",INTERSERVE FM LTD,Construction Project more than ÂŁ10k
+FCO,FCO,24/04/2015,"5,038,210","552,407",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,24/04/2015,"5,038,212","42,811.21",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,27/04/2015,"5,038,214","26,434.72",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,24/04/2015,"5,038,215","55,601.40",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,24/04/2015,"5,038,217","28,139.93",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,27/04/2015,"5,038,222","57,585.09",INTERSERVE FM LTD,Construction Project more than £10k
+FCO,FCO,24/04/2015,"5,038,224","27,747.05",INTERSERVE FM LTD,Construction Project more than £10k
 FCO,FCO,27/04/2015,"5,038,232","51,452.86",ISS FACILITY SERVICES LTD FCO OP - POE,"Bank Charges (Oracle Cash Management Control Account), Electricity Non-Residential, Electricity Residential, Gas Residential, Property Maintenance Overseas Non Residential, Property Maintenance Overseas Residential, Rental Payments - residential, Telephone Call Charges, Water Residential"
 FCO,FCO,27/04/2015,"5,038,233","70,880.92",ISS FACILITY SERVICES LTD FCO OP - POE,
 FCO,FCO,27/04/2015,"5,038,234","1,151,705",ISS FACILITY SERVICES LTD FCO OP - POE,
@@ -177,7 +177,7 @@ FCO,FCO,24/04/2015,"5,038,956","35,678",ROYAL BOTANIC GARDENS EDINBURGH,Programm
 FCO,FCO,24/04/2015,"5,039,019","73,597",NATIONAL DEMOCRATIC INSTITUTE,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,24/04/2015,"5,039,107","30,528",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,24/04/2015,"5,039,111","31,241.51",FCO SERVICES,IT/IS Consultancy
-FCO,FCO,24/04/2015,"5,039,124","35,718.07",FCO SERVICES,Information Systems Under ÂŁ3000 (non-capitalised)
+FCO,FCO,24/04/2015,"5,039,124","35,718.07",FCO SERVICES,Information Systems Under £3000 (non-capitalised)
 FCO,FCO,24/04/2015,"5,039,146","-85,909.09",CAPITA GROUP PLC,"HR, Training and Education Consultancy"
 FCO,FCO,24/04/2015,"5,039,182","680,000",WESTMINSTER FOUNDATION FOR DEMOCRACY,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,24/04/2015,"5,039,218","143,041",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
@@ -193,7 +193,7 @@ FCO,FCO,24/04/2015,"5,039,511","42,017.83",FCO SERVICES,Assets Under Constructio
 FCO,FCO,27/04/2015,"5,040,698","29,400",OECD,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,24/04/2015,"5,040,825","25,533.64",ALISA INTERNATIONAL,Rental Payments - residential
 FCO,FCO,27/04/2015,"5,040,905","30,000",FUJITSU SERVICES LIMITED,IT/IS Consultancy
-FCO,FCO,27/04/2015,"5,041,358","25,289.46",EXTRASPACE SOLUTIONS,Construction Project more than ÂŁ10k
+FCO,FCO,27/04/2015,"5,041,358","25,289.46",EXTRASPACE SOLUTIONS,Construction Project more than £10k
 FCO,FCO,27/04/2015,"5,041,534","89,931",SIREN ASSOCIATES LTD,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,27/04/2015,"5,042,197","28,380",NERC NATURAL ENVIRONMENT RESEARCH COUNCIL,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,28/04/2015,"5,042,262","42,482.77",BAKER TILLY BUSINESS SERVICES LTD,Specialist Contractors
@@ -212,7 +212,7 @@ FCO,FCO,29/04/2015,"5,043,920","105,963.60",HEALIX INTERNATIONAL LTD,Fco Healthc
 FCO,FCO,29/04/2015,"5,043,928","203,050",MICROSOFT LIMITED,IT/IS Consultancy
 FCO,FCO,29/04/2015,"5,043,942","91,740.20",CONCERN WORLDWIDE,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,29/04/2015,"5,043,955","31,980.71",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
-FCO,FCO,29/04/2015,"5,043,968","153,695.70",FCO SERVICES,Construction Project more than ÂŁ10k
+FCO,FCO,29/04/2015,"5,043,968","153,695.70",FCO SERVICES,Construction Project more than £10k
 FCO,FCO,28/04/2015,"5,043,987","39,393.94",ASSOCIATION OF MIDDLE EAST STUDIES,Programme Spend (Oracle Projects Control Account)
 FCO,FCO,29/04/2015,"5,043,989","77,000",FCO SERVICES,Assets Under Construction (Oracle PA Control Account)
 FCO,FCO,29/04/2015,"5,044,048","268,877",NI CO OPERATION OVERSEAS NI CO LTD,Programme Spend (Oracle Projects Control Account)

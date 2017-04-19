@@ -1,0 +1,202 @@
+Department,Entity,Date,Expense Type,Expense Area,Supplier ,Transaction Number,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type,Vat Registration Num
+DEFRA,DEFRA,03/05/2016,Gas,Chief Operating Officer DG,Corona Energy,11028871,68992,SITE 281 GAS 01/03/2016 to 01/04/2016  A/C Site 281,WD17 1JW,,,B2810000,Expense,
+DEFRA,DEFRA,03/05/2016,Evidence Non R&D,Environment and Rural DG Group,Kings College London,SINV1234448,26358,PO 342822 CONTRACT REF RMP 13569 01 JAN TO 31 MAR 2016,SE1 8WA,,AQ0643,0,Expense,
+DEFRA,DEFRA,03/05/2016,Grant-in Aid Payments,Environment and Rural DG Group,Royal Botanic Gardens Kew,KEWGIA011617290416,3050000,PO 383105 PAYMENT OF RBG KEW GRANT IN AID MAY 2016,TW9 3AB,,GIA,0,Expense,
+DEFRA,DEFRA,03/05/2016,Gas,Chief Operating Officer DG,Corona Energy,11028883,34089.71,SITE 087 GAS 01/03/2016 to 01/04/2016  A/C Site 087,WD17 1JW,,,B0870000,Expense,
+DEFRA,DEFRA,03/05/2016,Business Rates,Chief Operating Officer DG,Capita Property & Infrastructure Ltd,CAPFR126,494709.75,CHAPS PAYMENT- DEFRA CAPITA FUNDING REQUEST INVOICE NO - CAPFR126,EC2V 7NQ,,,0,Expense,
+DEFRA,DEFRA,03/05/2016,Gas,Chief Operating Officer DG,Corona Energy,11028858,49193.28,SITE 087 GAS 01/03/2016 to 01/04/2016  A/C 20404458/10,WD17 1JW,,,B0870000,Expense,
+DEFRA,DEFRA,03/05/2016,Gas,Chief Operating Officer DG,Corona Energy,11035744,70745.5,SITE 087 GAS 01/03/2016 to 01/04/2016  A/C 20404458/1,WD17 1JW,,,B0870000,Expense,
+DEFRA,DEFRA,03/05/2016,Evidence Non R&D,"Strategy, International, Food and Farming DG Group",University Of Nottingham,7717862,234401,PO 352254 CORE ACTIVITY,NG7 2RD,,10992,0,Expense,
+DEFRA,DEFRA,03/05/2016,Other Current Payments (Evidence R&D),Environment and Rural DG Group,University Of East Anglia,1103999,233370.5,PO 381397 DEFRA DEMONSTRATION,NR4 7TJ,,LM0304,0,Expense,
+DEFRA,DEFRA,03/05/2016,Work package/WPO Implementation,Chief Operating Officer DG,IBM United Kingdom Ltd,5804160274,26279.55,PO 372640 APR 14G-010 01.01.16 TO 22.01.16,GU1 2LD,SME,10040,PITF0600,Expense,
+DEFRA,DEFRA,03/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",Traffic International,110416,29767,PO 377223 REF 22-010 Q1 APR 2016 - JUNE 2016 DARWIN GRANT CLAIM FORM,CB3 0DL,,,DARWDFID,Expense,
+DEFRA,DEFRA,03/05/2016,Computer & IT Services,Chief Operating Officer DG,Atos IT Services UK Ltd,5584209902,124268.4,PO 382286 GENESIS AMSSSI TRANSITION,WV10 6UH,,22928,0,Expense,
+DEFRA,DEFRA,03/05/2016,FM Projects Non Capital Works,Chief Operating Officer DG,Interserve (Facilities Mngmnt) Ltd,FI00053151,270852.14,PO 377869 SBEWS SWM CONTRACT BILLING FOR COMPLETED BCP WORKS ON DEFRA ESTATE,BS32 4NH,,10040,0,Expense,
+DEFRA,DEFRA,03/05/2016,Other Current Payments E,"Strategy, International, Food and Farming DG Group",A H D B,180025187,55000,PO 377610 PROJECT MANAGEMENT AND SERVER HOSTING AND SOFTWARE LICENSES,CV8 2TL,,17019,AHDB0002,Expense,
+DEFRA,DEFRA,04/05/2016,Grant-in Aid Payments,Environment and Rural DG Group,Natural England,260416,8000000,PO 383096 MAY GRANT IN AID,YO1 7PX,,GIA,0,Expense,
+DEFRA,DEFRA,04/05/2016,Grant-in Aid Payments,"Strategy, International, Food and Farming DG Group",Marine Management Organisation,280416,1000000,PO 383175 MAY GRANT AID PAYMENT,NE4 7YH,,GIA,0,Expense,
+DEFRA,DEFRA,04/05/2016,Grant-in Aid Payments,Environment and Rural DG Group,Environment Agency,EAGIAMAY2016,15000000,PO 383148 EA FLOOD DEFENCE GIA MAY 2016,BS1 5AH,,GIA,0,Expense,
+DEFRA,DEFRA,04/05/2016,International Subscriptions (Foreign Payments),"Strategy, International, Food and Farming DG Group",National Measurement Office,E018058,46103,PO 381538 PAYMENT FOR THE IMPLEMENTATION OF MOU,TW11 0JZ,,FDP,NAGOYAPI,Expense,
+DEFRA,DEFRA,04/05/2016,Other Current Payments (GB),"Strategy, International, Food and Farming DG Group",Food Standards Agency,1703468,25924.18,PO 378400 FS317 OTHER SERVICES ENGLAND & WALES,YO1 2YX,,IGS,ABPO0001,Expense,
+DEFRA,DEFRA,04/05/2016,Other Current Payments (GB),"Strategy, International, Food and Farming DG Group",Food Standards Agency,1703439,26772.72,PO 378400 FS317 OTHER SERVICES,YO1 2YX,,IGS,ABPO0001,Expense,
+DEFRA,DEFRA,04/05/2016,Evidence Non R&D,"Strategy, International, Food and Farming DG Group",Food Standards Agency,1703479,39524.79,PO 377907 Q4 JAN - MAR 2016 FS901 BRAINSTEM SURVEY SAMPLES,YO1 2YX,,FDP,TSE001CA,Expense,
+DEFRA,DEFRA,04/05/2016,Security Services (C),Chief Operating Officer DG,Home Office,1130422,68835,PO 383021 CONTRIBUTION TO GSZ FY 15/16,SW1P 4DF,,IGS,0,Expense,
+DEFRA,DEFRA,04/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",C E F A S,70416,49362,"PO 383613,  DARWIN REF NO - DPLUS045, CLAIM PERIOD 01 APRIL 2016 TO 30 JUNE 2016",NR33 0HT,SME,23064,DARWPLUS,Expense,
+DEFRA,DEFRA,05/05/2016,Redfern Suspense,Central Finance Group,Redfern Travel Ltd,042016REDFERN,-262766.88,TO CREATE I-EXPENSE FOR REDFERN BILL POST SOP,BD1 3AZ,SME,,0,Asset,
+DEFRA,DEFRA,06/05/2016,Clearing Construction in Progress (Building Works),Chief Operating Officer DG,IBM United Kingdom Ltd,5804160926,26609.44,PO 379380 APR 15D-001 01.04.2016 TO 30.04.2016,GU1 2LD,SME,10040,B177P003,Asset,
+DEFRA,DEFRA,06/05/2016,Overhead Incidental Expenses,Chief Operating Officer DG,Vodafone Ltd,79596233,42000,"PO 383640, VODAFONE BILL",RG14 5FF,,21901,0,Expense,
+DEFRA,DEFRA,06/05/2016,Other Current Payments E,"Strategy, International, Food and Farming DG Group",University Of Reading,113538,31361.25,PO 371105 NFC GC0147 APR 2016 PAYMENT,RG6 6AH,,GC0146,PGR00001,Expense,
+DEFRA,DEFRA,06/05/2016,Evidence Non R&D,"Strategy, International, Food and Farming DG Group",Animal and Plant Health Agency,5000081140,48345.57,PO 377904 LAB SURVEILLANCE - FALLEN STOCK DEC 15,YO1 7PX,SME,FDP,0,Expense,
+DEFRA,DEFRA,06/05/2016,Other Current Payments (Evidence R&D),Environment and Rural DG Group,Ricardo-A E A Ltd,6163987,46496.88,PO 351104 CORE WORK UNDERTAKEN FOR THE NAEI AQPI APR 2016,OX11 0QR,,AQ0726,AQRDXXXX,Expense,
+DEFRA,DEFRA,06/05/2016,Other Current Payments E,Environment and Rural DG Group,Dorset County Council,1800616402,2250000,PO383576 SETTLEMENT PORTLAND COASTAL STRIP,DT1 1XJ,,,0,Expense,
+DEFRA,DEFRA,06/05/2016,AR Refunds,Chief Operating Officer DG,Department Of Energy and Climate Change,6.05E+13,76543.5,DEPT OF ENERGY & CLIMATE CHANGE,YO1 7PX,SME,,0,Asset,
+DEFRA,DEFRA,06/05/2016,Clearing Construction in Progress (I.T.),Chief Operating Officer DG,Sopra Steria Ltd,100089379,207990,PO 383217 COUNTRYSIDE STEWARDSHIP,HP2 7AH,,CAP582,CAPDFA02,Asset,
+DEFRA,DEFRA,06/05/2016,Training - Learning & Development,Chief Operating Officer DG,Cabinet Office,250014417,65361.6,PO 382253 16.02.2016 - 31.03.2016 PSYCHOMETRIC REPORT,FY5 3TA,,IGS,0,Expense,
+DEFRA,DEFRA,06/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",Stop Ivory,2016003,281384.06,"PO 382381, FLIGHT INTERNATIONAL",WC1R 4QD,SME,22906,IWTXXXXX,Expense,
+DEFRA,DEFRA,06/05/2016,Overhead Incidental Expenses,Chief Operating Officer DG,Vodafone Ltd,79596228,47022,"PO 383640, VODAFONE BILL",RG14 5FF,,21901,0,Expense,
+DEFRA,DEFRA,06/05/2016,Overhead Incidental Expenses,Chief Operating Officer DG,Vodafone Ltd,79596230,47022,"PO 383640, VODAFONE BILL",RG14 5FF,,21901,0,Expense,
+DEFRA,DEFRA,06/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",Environmental Investigation Agency (UK) Ltd,140416,27014.25,"PO 383609, DARWIN REF NO - IWT030, CLAIM PERIOD 01 APRIL 2016 TOI 30 JUNE 2016",N1 0NY,SME,23115,IWTXXXXX,Expense,
+DEFRA,DEFRA,06/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",Zoological Society Of London,180416,42636.5,"PO 383608 DARWIN REF NO - IWT031, CLAIM PERIOD 01 APRIL 2016 TOI 30 JUNE 2016",NW1 4RY,,23116,IWTXXXXX,Expense,
+DEFRA,DEFRA,06/05/2016,Other Current Payments (Evidence R&D),"Strategy, International, Food and Farming DG Group",Rothamsted Research Ltd,INV104920,80051,PO 366945 PROJECT SS314,AL5 2JQ,,SCF0102,0,Expense,
+DEFRA,DEFRA,06/05/2016,Evidence Non R&D,"Strategy, International, Food and Farming DG Group",Animal and Plant Health Agency,5000081141,51721.32,PO 377904 LAB SURVEILLANCE - FALLEN STOCK JAN 16,YO1 7PX,SME,FDP,0,Expense,
+DEFRA,DEFRA,06/05/2016,FM Projects Non Capital Works,Chief Operating Officer DG,Fera Science Limited,6138007945,58968,PO 382719 FR/000378 IT SUPPORT FOR EASTER SHUTDOWN WORK,YO41 1LZ,,20350,B2810000,Expense,
+DEFRA,DEFRA,06/05/2016,Estates Professional Fees & Services,Chief Operating Officer DG,Smiths Gore,100316,30621.12,PO 372079 SALE OF ARTHUR RICKWOOD,DG1 1DG,SME,21089,0,Expense,
+DEFRA,DEFRA,06/05/2016,Application Services/Applications Delivery,Chief Operating Officer DG,IBM United Kingdom Ltd,5804160560,72568.42,PO 375126 APR 14F 005 1.4.16 TO 30.4.16,GU1 2LD,SME,10040,0,Expense,
+DEFRA,DEFRA,06/05/2016,Other Current Payments (GB),"Strategy, International, Food and Farming DG Group",O S P A R Commission,151115,266824.85,PO 381064 CONVENTION FOR PROTECTION OF MARINE ENVIRONMENT REF: OCC/14,WC2A 2JQ,SME,FDP,0,Expense,
+DEFRA,DEFRA,06/05/2016,Grant-in Aid Payments,Environment and Rural DG Group,Joint Nature Conservation Committee,260416,672000,PO 383315 GRANT IN AID PAYMENT FOR JNCC - MAY 2016,PE1 1JY,SME,GIA,0,Expense,
+DEFRA,DEFRA,06/05/2016,Overhead Incidental Expenses,Chief Operating Officer DG,Vodafone Ltd,79596232,47022,"PO 383640, VODAFONE BILL",RG14 5FF,,21901,0,Expense,
+DEFRA,DEFRA,06/05/2016,Work package/WPO Implementation,Chief Operating Officer DG,IBM United Kingdom Ltd,5804161183,30205.2,"PO 371933,  APR 14G-007-11, 04/03/2016 TO 25/03/2016",GU1 2LD,SME,10040,PTRS0800,Expense,
+DEFRA,DEFRA,06/05/2016,Software Services/Non-Standard Software,Chief Operating Officer DG,IBM United Kingdom Ltd,5801160370,25046.12,"PO 374759,  APR 14-075, 30/10/2015 TO 27/11/2015",GU1 2LD,SME,10040,CAPDFA08,Expense,
+DEFRA,DEFRA,06/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",Chagos Conservation Trust,150316,35061,"PO 383620, DARWIN REF NO - DPLUS041, CLAIM PERIOD 01 APRIL 2016 TO 30 JUNE 2016",SE5 8AL,SME,23060,DARWPLUS,Expense,
+DEFRA,DEFRA,06/05/2016,Other Current Payments (Evidence R&D),"Strategy, International, Food and Farming DG Group",University of Huddersfield HEC,5047401,30000,PO 383103 FOO319,HD1 3DH,,FO0319,SFFS0003,Expense,
+DEFRA,DEFRA,06/05/2016,Work package/WPO Implementation,Chief Operating Officer DG,IBM United Kingdom Ltd,5804160210,43004.6,PO 379980 FROM 01/04/2016 TO 30/04/2016,GU1 2LD,SME,10040,PTRS6000,Expense,
+DEFRA,DEFRA,06/05/2016,Clearing Construction in Progress (Building Works),Chief Operating Officer DG,IBM United Kingdom Ltd,5804160212,111121.8,PO 380092 APR 15D 002 SIGNED ACCEPTANCE 01.04.16 TO 30.04.16,GU1 2LD,SME,10040,B129P007,Asset,
+DEFRA,DEFRA,06/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",R U S I Trading Ltd,170316,39746,"PO 383612, DARWIN REF NO - IWT021, QTR - 1, CLAIM PERIOD 01 APRIL 2016 TOI 30 JUNE 2016",SW1A 2ET,SME,23106,IWTXXXXX,Expense,
+DEFRA,DEFRA,06/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",Tusk Trust,240316,52341,PO 383605 REF NO. IWT032 Q1 APR 2016 - JUN 2016 ADVANCE CLAIM,SP8 4AA,SME,23117,IWTXXXXX,Expense,
+DEFRA,DEFRA,06/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",R S P B,2.30E+12,31530.75,"PO 383615, DARWIN REF NO - DPLUS053, CLAIM PERIOD 01 APRIL 2016 TO 30 JUNE 2016",SG19 2DL,,23072,DARWPLUS,Expense,
+DEFRA,DEFRA,06/05/2016,Current Grants E,"Strategy, International, Food and Farming DG Group",Tusk Trust,2.40E+12,97095,"PO 240316, DARWIN REF NO - IWT024, QTR 1, CLAIM PERIOD - 01 APRIL 2016 TO 30 JUNE 2016",SP8 4AA,SME,23109,IWTXXXXX,Expense,
+DEFRA,DEFRA,06/05/2016,Training - Learning & Development,Chief Operating Officer DG,C I P S,242682,53700,"PO 382683 COURSE FEE FOR INDUCTION, TUITION MODULES 1-5",PE9 3NZ,SME,22922,0,Expense,
+DEFRA,DEFRA,06/05/2016,IT Maintenance,Chief Operating Officer DG,Specialist Computer Centres,OPM144858,29411.34,PO 380630 CONSULTANCY,B11 2LE,SME,CAP471,CAPDFA07,Expense,
+DEFRA,DEFRA,10/05/2016,Other Current Payments (Evidence R&D),Environment and Rural DG Group,University Of Exeter,GHB0126477,68414.1,"PO 363252 SP1311 MILESTONE 8, 9 OBJECTIVE 2.2-2.4",EX4 4QJ,,SP1311,0,Expense,
+DEFRA,DEFRA,10/05/2016,Overhead Incidental Expenses,Chief Operating Officer DG,Shared Services Connected Ltd,100002734,131096.4,PO 377864 ORACLE LICENCE FEE YEAR 2 SCHEDULE 7 LINE TOTAL CLOUD,HP2 7AH,,27761096,0,Expense,
+DEFRA,DEFRA,10/05/2016,IT Software,Chief Operating Officer DG,Specialist Computer Centres,OPM148645,36495.58,PO 380483 CONSULTANCY,B11 2LE,SME,CAP473,CAPDFA07,Expense,
+DEFRA,DEFRA,10/05/2016,Clearing Construction in Progress (I.T.),Chief Operating Officer DG,Specialist Computer Centres,OPM150060,38908.18,PO 380849 CONSULTANCY,B11 2LE,SME,CAP580,CAPDFA02,Asset,
+DEFRA,DEFRA,10/05/2016,Agency temps - secretarial,Chief Operating Officer DG,H H R UK Ltd,DEFRAAPR16001,145383.6,PO382999 1ST APR TO 29 APR 16 MILESTONE 18,W1H 1DP,SME,23007,SOPD1314,Expense,
+DEFRA,DEFRA,10/05/2016,Payments to Agencies GB,"Strategy, International, Food and Farming DG Group",Fera Science Limited,6138007853,311079.6,PO 383418 APR SPECIALIST FACILITIES SERVICES CALL OFF INVOICE FOR FY 2016/17,YO41 1LZ,,IGS,0,Expense,
+DEFRA,DEFRA,10/05/2016,Evidence Non R&D,"Strategy, International, Food and Farming DG Group",Fera Science Limited,6138008081,520035.9,PO 383564 APR 2016 PLANT & BEE HEALTH SERVICES FOR FY 2016/17,YO41 1LZ,,IGS,0,Expense,
+DEFRA,DEFRA,10/05/2016,Clearing Construction in Progress (I.T.),Chief Operating Officer DG,Specialist Computer Centres,OPM147630,30061.5,PO 380849 CONSULTANCY,B11 2LE,SME,CAP500,CAPDFA02,Asset,
+DEFRA,DEFRA,10/05/2016,Evidence Non R&D,Environment and Rural DG Group,Jacobs UK Ltd,B206880024,25156.69,"PO 376959,  PROFESSIONAL SERVICE RELATING TO  WASTE DATA FLOW 2015-17",RG41 5TU,,BRAVO 21119,0,Expense,
+DEFRA,DEFRA,10/05/2016,Other Current Payments E,"Strategy, International, Food and Farming DG Group",University Of Reading,112520,28653.42,PO 371105 LONG TERM HOUSING MAINTENANCE,RG6 6AH,,GC0146,PGR00001,Expense,
+DEFRA,DEFRA,10/05/2016,Advisory Services,Chief Operating Officer DG,Shared Services Connected Ltd,100002876,270340.99,"PO 366914,  CHARGES FOR SERVICE BETWEEN 01/05/2016 TO 31/05/2016",HP2 7AH,,ecm_4524,0,Expense,
+DEFRA,DEFRA,10/05/2016,IT Software,Chief Operating Officer DG,M D S Technologies Ltd,5182,104689.24,"PO 382016,  PHYSICAL SERVERS AND STORAGE",SN14 0GX,SME,CAP502,CAPDFA08,Expense,
+DEFRA,DEFRA,10/05/2016,Other Current Payments (Evidence R&D),"Strategy, International, Food and Farming DG Group",University Of Reading,ERS-572358-54691,52050.66,AC0122 - Optimising the efficiency of dietary nitrogen use to reduce emissions and waste in dairy systems -  University of Reading - May 16,RG6 6AH,,,SFFS0005,Expense,
+DEFRA,DEFRA,10/05/2016,Redfern Suspense,Central Finance Group,Redfern Travel Ltd,122916,262766.88,122916 DEFRA APRIL 2016 BILL,BD1 3AZ,SME,,0,Asset,
+DEFRA,DEFRA,10/05/2016,Current grants to charitable bodies,Environment and Rural DG Group,Waste & Resources Action Programme,May-16,998933,"PO 383138,  CLAIM FROM GRANT FUNDING WRAP",OX16 0AH,,2080263009,0,Expense,
+DEFRA,DEFRA,10/05/2016,Other Current Payments (Evidence R&D),Environment and Rural DG Group,Cranfield University,ERS-572575-54685,30780.68,SP1621  May 16/17,MK43 0AL,,SP1621,0,Expense,
+DEFRA,DEFRA,10/05/2016,FM Projects Non Capital Works,Chief Operating Officer DG,Interserve (Facilities Mngmnt) Ltd,FI00052269,91637.13,PO 378132 & MULTI PO SBEWS/ SWM CONTRACT,BS32 4NH,,10195L,0,Expense,
+DEFRA,DEFRA,27/05/2016,EXP - PURCHASE OF G&S - ACCOM & BLDNG MGMT - REACTIVE ELEMENT OF CORE IFM FEE,NETWORK ESTATES - PERFORMANCE,INTERSERVE (FACILITIES MNGMNT) LTD,FI00056037,3190589.65,Interserve Core FM and Reactive contract PO’s for 2016/17 - Std 12 mthly invoices throughout 2016/17 (Reactive),BS32 4NH,SUPPLIER(1),,0,Expense,
+DEFRA,DEFRA,27/05/2016,EXP - PURCHASE OF G&S - ACCOM & BLDNG MGMT - REACTIVE ELEMENT OF CORE IFM FEE,NETWORK ESTATES - PERFORMANCE,INTERSERVE (FACILITIES MNGMNT) LTD,FI00056037,3190589.65,PO 383456 REACTIVE MAINTENANCE FUND FRW 10321-00 01.04.2016 - 30.04.2016,BS32 4NH,SUPPLIER(1),,0,Expense,
+DEFRA,DEFRA,27/05/2016,EXP - PURCHASE OF G&S - ACCOM & BLDNG MGMT - ESTATES IFM CORE MAINTENANCE,NETWORK ESTATES - PERFORMANCE,INTERSERVE (FACILITIES MNGMNT) LTD,FI00056036,3190589.65,Interserve Core FM and Reactive contract PO’s for 2016/17 - Std 12 mthly invoices throughout 2016/17 (Core FM),BS32 4NH,SUPPLIER(1),,0,Expense,
+DEFRA,DEFRA,27/05/2016,EXP - PURCHASE OF G&S - ACCOM & BLDNG MGMT - ESTATES IFM CORE MAINTENANCE,NETWORK ESTATES - PERFORMANCE,INTERSERVE (FACILITIES MNGMNT) LTD,FI00056036,3190589.65,PO 383457 CORE CONTRACT FRAMEWORK FRW 10321-00 01.04.2016 - 30.04.2016,BS32 4NH,SUPPLIER(1),,0,Expense,
+DEFRA,DEFRA,27/05/2016,EXP - PURCHASE OF G&S - ICT OUTSOURCING & MAINT/SUPPORT - IBM BASE SERVS CONTROL,IBM SERVICES - ADMIN COSTS,IBM UNITED KINGDOM LTD,5805160356,6536251.06,May16 IT Baselined Services ref CMM April 16 - June16,GU1 2LD,SUPPLIER,,0,Expense,
+DEFRA,DEFRA,31/05/2016,EXP - PURCHASE OF G&S - ICT OUTSOURCING & MAINT/SUPPORT - COMPUTER & IT SERVICES,NON IBM IT SERVICES,ADAPT SERVICES LTD,AI018864,92240.85,Hosting BAU - Genesis,CF3 0LW,SUPPLIER,,0,Expense,
+DEFRA,DEFRA,31/05/2016,EXP - MISCELLANEOUS EXPENDITURE - OVERHEAD INCIDENTAL EXPENSES,SHARED SERVICE CONNECTED LIMITED (SSCL),SHARED SERVICES CONNECTED LTD,100002963,79491.6,ORACLE LICENCE FEE YEAR 2 SCHEDULE 8,HP2 7AH,SUPPLIER,,0,Expense,
+DEFRA,DEFRA,31/05/2016,EXP - MISCELLANEOUS EXPENDITURE - OVERHEAD INCIDENTAL EXPENSES,SHARED SERVICE CONNECTED LIMITED (SSCL),SHARED SERVICES CONNECTED LTD,100002963,79491.6,Oracle Software licence fees for SSCL staff 2016/17,HP2 7AH,SUPPLIER,,0,Expense,
+DEFRA,DEFRA,31/05/2016,IA - POA & AUC - COST - ADDITIONS,CAP DELIVERY PROGRAMME,SPECIALIST COMPUTER CENTRES,OP/M162313,116949.66,CAP573: Kainos/SCC development sprints 62 to 65 covering period: 11/02/16 to 06/04/16. FY15/16,B11 2LE,SUPPLIER(1),,DEA10304,Asset,
+DEFRA,DEFRA,31/05/2016,IA - POA & AUC - COST - ADDITIONS,CAP DELIVERY PROGRAMME,SPECIALIST COMPUTER CENTRES,OP/M162314,116949.66,CAP573: Kainos/SCC development sprints 62 to 65 covering period: 11/02/16 to 06/04/16. FY15/16,B11 2LE,SUPPLIER(1),,DEA10304,Asset,
+DEFRA,DEFRA,31/05/2016,IA - POA & AUC - COST - ADDITIONS,CAP DELIVERY PROGRAMME,SPECIALIST COMPUTER CENTRES,OP/M162315,116949.66,CAP573: Kainos/SCC development sprints 62 to 65 covering period: 11/02/16 to 06/04/16. FY15/16,B11 2LE,SUPPLIER(1),,DEA10304,Asset,
+DEFRA,DEFRA,31/05/2016,EXP - PURCHASE OF GOODS/SERVICES - OTHER ICT COSTS - COMPUTER SOFTWARE,CAP DELIVERY PROGRAMME,SPECIALIST COMPUTER CENTRES,OP/M162312,116949.66,CAP561 (2): SCC/Kainos extension of Platforms Web Ops resources from 01/04/16 to 30/06/16. FY16/17,B11 2LE,SUPPLIER(1),,DEA10029,Expense,
+DEFRA,AHDB,13/05/2016,Invoice,,JONES LANG LASALLE,025/150857,102981.61,AHDB Facilities: Rent for HQ building at Stoneleigh Park (01 Apr 2016 - 30 June 2016),E14 1HA,,,,,385839396
+DEFRA,AHDB,16/05/2016,Invoice,,TNS UK Ltd,260161945,31676,"Market Research: AHDB Pork - Pork Decline LinkQ, quantitative consumer data",W5 1UA,,,,,210325428
+DEFRA,AHDB,19/05/2016,Invoice,,Carat Ltd,259878,155839.31,"Advertising: AHDB Pork media buying - 'Pulled Pork' campaign, TV, magazine and newspaper advertising - Spending Controls Ref No HMG1965. March 2016",NW1 3BF,,,,,466430542
+DEFRA,AHDB,23/05/2016,Invoice,,Vetscore Ltd,274,25137,"Knowledge Exchange: AHDB Pork - British Pig Health Scheme, costs for assessor days during March 2016 visits",HG4 1XW,,,,,859968731
+DEFRA,AHDB,23/05/2016,Invoice,,Carat Ltd,268486,37910.91,"Advertising: AHDB Pork media buying - 'Pulled Pork' campaign, TV, magazine and newspaper advertising - Spending Controls Ref No SC15/16/1548. April 2016",NW1 3BF,,,,,466430542
+DEFRA,AHDB,23/05/2016,Invoice,,ICA Ltd,010808/ICA1728,55631.11,Works: AHDB Potatoes - 10 new storage cells with environment control at Sutton Bridge Crop Storage Research,TN12 6UT,,,,,619448319
+DEFRA,AHDB,23/05/2016,Invoice,,Carat Ltd,266291,57348.86,"Advertising: AHDB Pork media buying - 'Pulled Pork' campaign, TV, magazine and newspaper advertising, April 2016 - Spending Controls Ref No SC15/16/1548. ",NW1 3BF,,,,,466430542
+DEFRA,AHDB,31/05/2016,Invoice,,NIAB,NI12191,32385,"Research: AHDB Cereals and Oilseeds - Recommended Lists Project Crops Test and Trials, 2nd instalment 2016",CB3 0LE,,,,,100132207
+DEFRA,AHDB,31/05/2016,Invoice,,Is Media Ltd,5629,34809.88,Farmer Engagement: AHDB Dairy - Stand build for Livestock Show 2016,BS1 4HJ,,,,,736582312
+DEFRA,AHDB,31/05/2016,Invoice,,KPMG LLP,5501205040,39869,Internal Audit: Audit Qtr. 3&4 2015/16,BS1 6AG,,,,,791788859
+DEFRA,AHDB,31/05/2016,Invoice,,NIAB,NI12195,49429.21,Research:  AHDB Cereals and Oilseeds - Recommended Lists Pathology Trials contract H2016 - 2nd instalment,CB3 0LE,,,,,100132207
+DEFRA,AHDB,31/05/2016,Invoice,,Carat Ltd,271970,136679.96,"Advertising: AHDB Pork media buying - 'Pulled Pork' campaign, TV, magazine and newspaper advertising - Spending Controls SC15/16/1548. May 2016",NW1 3BF,,,,,466430542
+DREA,APHA,03/05/2016,Service Level Agreement Costs,,DEFRA,1000063944,60000,Regulatory Fee Scientific Diagnostics,YO1 7PX,,,0,Expense,
+DREA,APHA,04/05/2016,Sub Contracted Services,,Royal Holloway&Bedford College,73000910,28362,Payment of outstanding fees and stipend for a completed 3 year PhD project.  Budget had been accrued from the project in year 1 to cover year 2 and 3.,TW20 0EX,,,SCSC1105,Expense,
+DEFRA,APHA,05/05/2016,Mobile Phones,Central Finance Group,Vodafone Ltd,79879312,53444.12,Payment of the April 2016 invoice to Vodafone,,,,0,Asset,
+DEFRA,APHA,09/05/2016,Software Services/Non-Standard Software,Chief Operating Officer DG,Sogeti UK Ltd,XSUK1604062,25329.59,Services supplied by Sogeti for the period of 6 months from 22 March 2016 for licences and testing staff for the computer systems that are part of the County Parish Holding (CPH) England project.,EC2M 7AD,SME,,P10147OT,Expense,
+DEFRA,APHA,10/05/2016,Interim Staff,Chief Operating Officer DG,H M Revenue & Customs,2.90E+13,337010.7,Underpaid VAT and Default Interest,CF14 5XZ,,,0,Expense,
+DEFRA,APHA,27/05/2016,EXP - PURCHASE OF GOODS/SERVICES - OTHER ICT COSTS - COMPUTER HARDWARE,IMT,LOGICALIS UK LTD,INV078235,29888.93,Annual Maintenance Contract renewal - NetApp support 01/05/2016 to 30/04/2017,SL1 4PF,SUPPLIER(1),,0,Expense,
+DEFRA,APHA,31/05/2016,EXP - PURCHASE OF GOODS/SERVICES - CONTRACTORS,PATHOLOGY,L G C LIMITED,50488131,111710.08,TSE samples for April  2016,TW11 0LY,CUSTOMER,,APTS5902,Expense,
+DEFRA,APHA,31/05/2016,EXP - PURCHASE OF GOODS/SERVICES - CONTRACTORS,PATHOLOGY,L G C LIMITED,50488285,27927.52,TSE samples for April  2016,TW11 0LY,CUSTOMER,,APTS5902,Expense,
+DEFRA,CCW,11/05/2016,Consultancy Services,Regulation,PRICEWATERHOUSECOOPERS LLP,1354530591,29058,Fees for upstream competition report and non-household market risk workshop,WC2N 6RH,LARGE,N/A,N/A,Programme,GB243823957
+DEFRA,CEFAS,12/05/2016,Assets Under Construction,Monitoring and Programme Management,3 Ohms Ltd,20089812,32100,Commercial parts for EMU2 aquarium unit,NR32 2PS,STAN,6990,C6902,,874 0442 25
+DEFRA,CEFAS,12/05/2016,Lab Services,Aquatic Health & Hygiene,SAMS Research Services Ltd,20089809,35280.96,Contractual Phytoplankton Analysis 2.4.16-29.4.16,PA37 1SZ,STAN,3615,C5666,,GB 828 9579 61
+DEFRA,CEFAS,19/05/2016,Assets Under Construction,Aquatic Health & Hygiene,Life Technologies Ltd,20089237,137256,Capital Equipment Purchase of a Genetic analyser,PA4 9RF,STAN,6990,66200,,GB 263 3947
+DEFRA,CEFAS,26/05/2016,VAT Settlement,Corporate,DEFRA RECEIPTS,20089789,526857.49,VAT due Qtr4 2015/16,Y01 7PX,OGD,8320,50013,,
+DEFRA,JNCC,06/05/2016,TRAVEL & ACCOMMODATION,Governance & Corporate Services,REDFERN TRAVEL LTD                                          ,Redfern Statement/Apr 2016/1597,29924.91,Various travel & accommodation charges,BD1 3AZ,SME,,130,Administration,
+DEFRA,KEW,04/05/2016,ICT,Information Technology,NTT Data Ltd,7015096,28089.89,EDRMS System Implementation,EC3V 3DG,Trade Creditors,RBGKEW/034,,Software Maintenance,159334590
+DEFRA,KEW,04/05/2016,Capital/Equipment,Estates,Tokheim UK Ltd,7015196,36473.96,Fuel Tank Repairs,DD5 3RT,Trade Creditors,RBGKEW/148,,New works-Pt II-other costs,GB271793729
+DEFRA,KEW,04/05/2016,Capital/Equipment,Estates,Shaylor Group PLC,7015117,61895.3,Lion Gate Lodge Refurbishment,WS9 8BX,Trade Creditors,RBGKEW/185,,New works-Pt II-other costs,8708922468
+DEFRA,KEW,10/05/2016,Consumables & Materials,Learning & Participation,Williams Lea,7015241,489002.64,"DESIGN, PRODUCTION & PACKING OF THE GROW WILD COMMUNITY SEED KITS & INDIVIDUAL SEED PACKS FOR DISTRIBUTION IN 2016",WF6 1TN,Trade Creditors,N/A,,Publication production costs,
+DEFRA,KEW,10/05/2016,Capital/Equipment,Estates,BURGIN LTD,7015306,30362.8,NEEC Heating Works,CO4 9TB,Trade Creditors,RBGKEW/193,,New works-Pt II-other costs,299674774
+DEFRA,KEW,17/05/2016,Consumables & Materials,"Library, Art & Archives",Masumi Yamanaka,7015503,33250,KEW HERITAGE TREES PAINTINGS,KT7 0DA,Trade Creditors,N/A,,Objets D'Art,
+DEFRA,KEW,17/05/2016,Capital/Equipment,Temperate House,Turner & Townsend Project Management Ltd,7015348,27251.49,KEW TEMPERATE HOUSE PRECINCT PROJECT,WC2E 9HE,Trade Creditors,N/A,,New Works - pt1 - prof fees,
+DEFRA,KEW,17/05/2016,ICT,Visitor Operations,Gateway Ticketing Systems UK Ltd,7015494,31146.24,ANNUAL SUPPORT & MAINTENANCE CHARGES FOR TICKETING & MEMBERSHIP SYSTEM,W14 0HN,Trade Creditors,N/A,,Hardware Maintenance and Repairs,
+DEFRA,KEW,17/05/2016,Capital/Equipment,Temperate House,ISG Construction Ltd,7015350,397027.15,TEMPERATE HOUSE Restoration Project,EC3N 1AG,Trade Creditors,N/A,,New works-Pt I-other costs,
+DEFRA,KEW,17/05/2016,Capital/Equipment,Estates,Lily Green Ltd,7015532,31448,CAMBRIDGE COTTAGE REFURB,NW2 6AX,Trade Creditors,RBGKEW/189,,New works-Pt II-other costs,173048122
+DEFRA,KEW,25/05/2016,Pay Agency,Director Of Science,University Of Oxford,7015746,31208.34,PAY COSTS RE SECONDMENT --APRIL 2016,OX1 2XN,Trade Creditors,N/A,,Agency - Interim Snr Managers,
+DEFRA,KEW,25/05/2016,Utilities,Estates,EDF Energy Customers plc,1003361,53658.09,EDF DIRECT DEBIT - Electricity,PL3 5RG,Trade Creditors,N/A,,Electricity - Grid,
+DEFRA,KEW,25/05/2016,Property Related,Estates,Julius Rutherfoord Commercial Cleaning,7015723,31522.68,MONTH OF APRIL 2016 CLEANING CONTRACT,SW8 3NS,Trade Creditors,N/A,,Office and window cleaning,
+DEFRA,KEW,25/05/2016,Capital/Equipment,Estates,Alpheus Environmental Ltd,7015751,42676.46,IRRIGATION PUMPS - Wakehurst,MM40 2AA,Trade Creditors,RBGKEW/179,,New works-Pt II-other costs,297280913
+DEFRA,NE,19/04/2016,Other programme expenditure,Finance and Governance,"Department For Business, Innovation & Skills",5.04E+11,29834.49,"Payment to cancel incorrect credit from Department for Business, Innovation and Skills",SN2 1SZ,,,,,
+DEFRA,NE,04/05/2016,"Monitoring, Evaluation & Surveillance costs",Strategy and Reform,The Mammal Society,MS4385,40000,Progress report on the update of the Review of British Mammals document - 2015-16,SO14 0AA,SME,ecm_42578,,,
+DEFRA,NE,05/05/2016,"IT services, equipment & consumables",Finance and Governance,Atos IT Services UK Ltd,5584209892,396594,Scheduled payment for Genesis IT application services - March 2016,WV10 6UH,,,,,
+DEFRA,NE,05/05/2016,Land Management payments,Finance and Governance,Walshaw Moor Estate Ltd,ERS-989395-54620,134855.14,Wildlife Enhancement Scheme agreement,BB8 9NW,SME,,,,
+DEFRA,NE,06/05/2016,"Monitoring, Evaluation & Surveillance costs",Strategy and Reform,Centre For Ecology & Hydrology,7060009904,29964,Development of PANTHEON - the analytical database for invertebrate conservation in England - 2015-16,OX10 8BB,SME,,,,
+DEFRA,NE,06/05/2016,Staff costs,Corporate Services,Environment Agency,1.04E+11,27979.37,Inward secondment for one person to Natural England - 1 April-28 October 2015,PE2 5ZR,,,,,
+DEFRA,NE,09/05/2016,"IT services, equipment & consumables",Finance and Governance,Atos IT Services UK Ltd,5584210380,145840.8,Scheduled payment for Genesis IT application hosting services - March 2016,WV10 6UH,,,,,
+DEFRA,NE,09/05/2016,Rent & Management Charges,Strategy and Reform,Interserve (Facilities Mngmnt) Ltd,F100056244,42194.88,Fleet fuel costs for March 2016,SE1 8RT,,,,,
+DEFRA,NE,09/05/2016,RBS purchases,Finance and Governance,Royal Bank Of Scotland,5.57E+21,643239.19,Monthly payment for Government Procurement Card expenditure - April 2016,EC2M 4BA,,,,,
+DEFRA,NE,09/05/2016,Land Management payments,Strategy and Reform,Somerset County Council,60576090,108422.05,"England Coast Path Grant - Brean Down to Minehead, Somerset stretch and bridge construction over River Swill at Doniford - 21 December 2015",TA1 4DY,,22749,,,
+DEFRA,NE,09/05/2016,Grants & contributions,Strategy and Reform,Somerset County Council,60576085,183408,"England Coast Path Grant -  Brean Down to Minehead, Somerset establishment costs - 1 October 2015",TA1 4DY,,,,,
+DEFRA,NE,09/05/2016,Land Management payments,Strategy and Reform,T M G A Juhre,ERS-987071-51763,36000,Lease for Aqualate Mere National Nature Reserve - 2015-16,TF10 9DB,SME,,,,
+DEFRA,NE,09/05/2016,Land Management payments,Strategy and Reform,T M G A Juhre,ERS-989357-54523,36000,Lease for Aqualate Mere National Nature Reserve - 2016-17,TF10 9DB,SME,,,,
+DEFRA,NE,09/05/2016,Rent & Management Charges,Strategy and Reform,Willis Ltd,21590078,54152.13,Aviva Insurance Limited - National Nature Reserve fleet Insurance for 1 April 2016-31 March 2017,EC3M 7DQ,,ecm_36888,,,
+DEFRA,NE,10/05/2016,Grants & contributions,Strategy and Reform,Hart District Council,ERS-989414-54676,34632,Fleet Pond SSSI (Site of Special Scientific Interest) restoration works - 2015-16,GU51 4AE,SME,,,,
+DEFRA,NE,10/05/2016,"IT services, equipment & consumables",Finance and Governance,Oracle Corporation UK Ltd,1528852,190871.2,Oracle Programme update license & support fees as specified in Agreement - 6 April 2016-5 April 2017,RG6 1RA,,,,,
+DEFRA,NE,10/05/2016,Service charges,Finance and Governance,Shared Services Connected Ltd,100002741,50828.87,Oracle license and support fees - 2015-16,HP2 7AH,,ecm_40567,,,
+DEFRA,NE,10/05/2016,"Monitoring, Evaluation & Surveillance costs",Science and Evidence,T N S Uk Ltd,260161046,108580.9,Monitor of Engagement with the Natural Environment (MENE) survey - January-March 2016,W5 1UA,,ECM_7014,,,
+DEFRA,NE,27/05/2016,Service charges,Finance and Governance,Shared Services Connected Ltd,100002965,31105.76,SSCL Shared Services Provision for Natural England from 1 April 2016 to 31 March 2017,,,,,,
+DEFRA,RPA,04/05/2016,IT Outsourced services,Rural Development Team,IBM,5804161877,1072526.98,Baseline Charges - April,PO6 3AE,Supplier,PO102072,IBMBS000,Admin,GB107328000
+DEFRA,RPA,04/05/2016,"Postal and Carriage charges
+Outsourced System Development Costs
+Down Stream Access mailing services
+Customer Related Printing - Forms, Booklets & Letters",Rural Development Team,Williams Lea,DEFRA-RPA16040014,93596.02,PRINT - Direct Mail,EC1M 4NA,Supplier,PO102038,n/a,Admin,GB662774703
+DEFRA,RPA,05/05/2016,"Customer Related Printing - Forms, Booklets & Letters
+Down Stream Access mailing services
+Outsourced Scanning Costs",Service Management (Admin),Williams Lea,DEFRA-RPA16040007,51881.38,PRINT - Data Capture,EC1M 4NA,Supplier,"PO101623, PO101963",MDSBCMS1,Admin,GB662774703
+DEFRA,RPA,05/05/2016,"Down Stream Access mailing services
+Customer Related Printing - Forms, Booklets & Letters",Service Management (Admin),Williams Lea,DEFRA-RPA16040015,62821.32,PRINT - Direct Mail,EC1M 4NA,Supplier,PO102058,CUCAPSG0,Admin,GB662774703
+DEFRA,RPA,06/05/2016,Agency Staff,Service Management (Admin),Brook Street,30686859,46194.22,For the supply of temp contract staff for the period ended 1st April 2016,AL1 4JB,Supplier,n/a,n/a,Admin,Blank
+DEFRA,RPA,06/05/2016,External Inspections,Cyient Contracts,Hall Mark Meat Hygeine Ltd,SI 1279,93403.2,Inspectorate resource augmentation for additional CII Inspectors,GL10 2BJ,Supplier,PO101923,n/a,Admin,800543668
+DEFRA,RPA,06/05/2016,External Inspections,"CAP DP
+Managed Document Service (MDS)
+",Hall Mark Meat Hygeine Ltd,SI 1280,41865.6,Inspectorate resource augmentation for additional SAG/CII Inspectors,GL10 2BJ,Supplier,PO101921,n/a,Admin,800543668
+DEFRA,RPA,06/05/2016,IT Outsourced services,Managed Document Service (MDS),IBM,5805160093,53350.54,"RSR4 15 001, CAP Resources ",PO6 3AE,Supplier,PO101870,n/a,Admin,GB107328000
+DEFRA,RPA,06/05/2016,IT Software Assurance,"CAP DP
+Service management Programme",Oracle,1535709,92822.07,Licenses,RG6 1RA,Supplier,PO102036,n/a,Admin,GB391313074
+DEFRA,RPA,09/05/2016,Agency Staff,Cyient Contracts,Brook Street,30676938,56983.47,For the supply of temp contract staff for the period ended 25th March 2016,AL1 4JB,Supplier,n/a,n/a,Admin,Blank
+DEFRA,RPA,09/05/2016,IT Software Assurance,Service Management (Admin),Comparex,160001026VRUKA,113727.74,"SWMVSEMICR0000022355 /AAA03758 SQL Server Enterprise 2014 Core License 2  Licenses Software License, Software Assurance ",HA1 3EL,Supplier,PO101982,OFFS0250,Admin,Blank
+DEFRA,RPA,09/05/2016,"Telecomms - Mobile Charges
+Telecomms - Blackberry Charges",Various,Vodafone,601208731/79899560,35660.2,Mobile phone charges,RG14 2FN,Supplier,PO102011 & PO102012,"BBMOB000
+VODA0000",Admin,GB569953277
+DEFRA,RPA,11/05/2016,IT Software Assurance,Farm Inspectors,Bytes Software Services,445557,37359.76,IBM Mail Dual entitlement Plus Applications Authorised user,KT 22 7TW,Supplier,PO102089,OFFS0250,Admin,GB 8238182 26
+DEFRA,RPA,11/05/2016,Contractors - Implementation,Service Management (Admin),Capita Business Services,LO10111917,59210.32,For the supply of Contractors for the period ended 30th April 2016,SW1P 1JB,Supplier,n/a,n/a,Admin,GB618184141
+DEFRA,RPA,11/05/2016,Contractors - Implementation,,Capita Business Services,LO10112782,37560.59,Fees & Expenses for the period ended 30th April,SW1P 1JB,Supplier,n/a,n/a,Admin,GB618184141
+DEFRA,RPA,11/05/2016,Contractors - Implementation,,Capita Business Services,LO10114597,125725.7,Fees & Expenses for the period ended 7th May 2016,SW1P 1JB,Supplier,n/a,n/a,Admin,GB618184141
+DEFRA,RPA,11/05/2016,Contractors - Implementation,,Capita Business Services,LO10115627,88015.81,Fees & Expenses for the period ended 14th May 2016,SW1P 1JB,Supplier,n/a,n/a,Admin,GB618184141
+DEFRA,RPA,12/05/2016,Records Management & File Destruction Costs,,TNT,9627332,148988.22,Provision of Record Management Services 01/03/16 - 31/03/16,DE11 1EG,Supplier,"PO101221
+PO102104",n/a,Admin,354715057
+DEFRA,RPA,16/05/2016,IT Application Support & Maintenance,,University of Southampton ,44184197,53640,"DORA Hosting and Support 2016, DORA development CCN004",SO17 1BJ,Supplier,PO102118,n/a,Admin,GB568630414
+DEFRA,RPA,16/05/2016,IT Application Support & Maintenance,,University of Southampton ,44184198,45600,DORA development CCN004 extension (63.3 days),SO17 1BJ,Supplier,PO102118,n/a,Admin,GB568630414
+DEFRA,RPA,17/05/2016,IT Application Support & Maintenance,,Hitachi,2260009786,32053.15,DEFRA RPA PPE March 2016,SE1 2AP,Supplier,PO101105,PPS03700,Admin,887129187
+DEFRA,RPA,17/05/2016,IT Outsourced services,,IBM,5805160273,1072822.5,IBM Baseline charges - May,PO6 3AE,Supplier,PO102072,IBMBS000,Admin,GB107328000
+DEFRA,RPA,18/05/2016,IT Outsourced services,,Software AG ,1109007746,123480,RPA DIS Box Upgrade & Support 2016 (9-0002046505-000010),DE24 8PU,Supplier,PO101958,n/a,Admin,GB2985382718
+DEFRA,RPA,20/05/2016,Cartographic & Digitising,,Cyient,970006818,150000,Fixed digitisation rate,WC1V 6RL,Supplier,PO101905,n/a,Admin,GB606138070
+DEFRA,RPA,23/05/2016,"Outsourced System Development Costs
+Customer Related Printing - Forms, Booklets & Letters
+Down Stream Access mailing services
+",,Williams Lea,DEFRA-RPA16040005,66921.58,PRINT - Booklets and leaflets,EC1M 4NA,Supplier,"PO101601, PO102111, PO101956","MDSSPS01
+MDSFIN01",Admin,GB662774703
+DEFRA,RPA,23/05/2016,"Down Stream Access mailing services
+Customer Related Printing - Forms, Booklets & Letters",,Williams Lea,DEFRA-RPA16040009,29187.37,PRINT - Postage - No Fees,EC1M 4NA,Supplier,"PO101962, PO101956","MDSBPS01
+MDSFIN01",Admin,GB662774703
+DEFRA,RPA,24/05/2016,"IT Outsourced Services
+IT Application Support and Maintenance",,Accenture,3003319381,473168.24,Various Projects for work carried out in  April and Hot Service Charge,EC3M 3BD,Supplier,"PO65289, PO101984, PO101913, PO102097, PO101841, PO101951, PO102123, PO102068 & PO102052","FOP01000
+SPSS0110",Admin,GB888800182
+DEFRA,RPA,24/05/2016,Cartographic & Digitising,,Cyient,970006980,603211.23,"BPS, CAPI & Discard Parcel Rates",WC1V 6RL,Supplier,PO101905 & PO101991,n/a,Admin,GB606138070
+DEFRA,RPA,24/05/2016,IT Outsourced services,,IBM,5805160887,37781.85,Feb'16 Volumetric true up 01/02/16 to 29/02/16,PO6 3AE,Supplier,PO102071,IBMBSVOL,Admin,GB107328000
+DEFRA,RPA,24/05/2016,Various,,Redfern Travel,1583,159984.69,Travel & Accommodation for April'16,BD1 3AZ,Supplier,n/a,n/a,Admin,GB708374132
+DEFRA,RPA,26/05/2016,External Inspections,,Hall Mark Meat Hygeine Ltd,SI 1311,35884.8,Inspectorate resource augmentation for additional SAG Inspectors,GL10 2BJ,Supplier,PO101921,n/a,Admin,800543668
+DEFRA,RPA,27/05/2016,IT Outsourced services,,IBM,5805161209,28374.02,APR 15 - 073 Milestone 1 of the Scottish CTS data project,PO6 3AE,Supplier,PO102063,IBMAPR01,Admin,GB107328000
+DEFRA,VMD,03/05/2016,IT EQUIPMENT MAINTENANCE,FINANCE,SAPPHIRE SYSTEMS PLC,72708,44389.8,IT equipment maintenance,SE1 9SG,LGEN,,,ADMINISTRATION,
+DEFRA,VMD,05/05/2016,STATUTORY RESIDUES SURVEILLANCE - LABORATORY TESTING,RESIDUES SURVEILLANCE UNIT,FERA SCIENCE LTD,72731,156225.33,Laboratory testing of food animal products under the Statutory Residues Surveillance Programme,DL1 9HN,GOVN,,,ADMINISTRATION,
+DEFRA,VMD,06/05/2016,STATUTORY RESIDUES SURVEILLANCE - SAMPLE COLLECTION,RESIDUES SURVEILLANCE UNIT,APHA,72748,134076.09,Collection of samples of food animal products for laboratory testing under the Statutory Residues Surveillance Programme,YO1 7PX,GOVN,,,ADMINISTRATION,

@@ -10,8 +10,8 @@
   "branch": "master",
   "assess_timeliness": true,
   "timeliness":{
-	"timeliness_strategy": ["title", "data"],
-	"extract_period": true
+  	"timeliness_strategy": ["title", "data"],
+  	"extract_period": true
   },
   "scoring_algorithm": 2,
   "goodtables": {

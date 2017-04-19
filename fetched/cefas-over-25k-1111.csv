@@ -1,5 +1,5 @@
 Department family(T),Entity(T),Pay date,Expense type(T),Expense area(T),Supplier,TransNo,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
-DEFRA,Cefas,04/11/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20024365,"≈Å35,972.09",Defra recharge,YO1 7PX,Large,N/A,51000,Administration
-DEFRA,Cefas,04/11/2011,Data Collection Services,Aquatic Health & Hygiene,UNIVERSITY OF STIRLING,20023717,"≈Å28,969.00",Impact of Gyrodactylus salaris - Work period 3,FK9 4LA,Large,N/A,C3512A,Programme
-DEFRA,Cefas,11/11/2011,Data Collection Services,Monitoring and Programme Management,John William Hall,20024773,"≈Å52,250.00",Vessel Charter,YO22 4JW,SME,N/A,C3300A,Programme
-DEFRA,Cefas,11/11/2011,Subscriptions,Corporate,ELSEVIER SCIENCE BV,20024729,"≈Å75,478.90",Electronic Subscription Fee,1000AE (Amsterdam),Large,N/A,77002,Administration
+DEFRA,Cefas,04/11/2011,Assets Under Construction,Corporate,DEFRA RECEIPTS,20024365,"£35,972.09",Defra recharge,YO1 7PX,Large,N/A,51000,Administration
+DEFRA,Cefas,04/11/2011,Data Collection Services,Aquatic Health & Hygiene,UNIVERSITY OF STIRLING,20023717,"£28,969.00",Impact of Gyrodactylus salaris - Work period 3,FK9 4LA,Large,N/A,C3512A,Programme
+DEFRA,Cefas,11/11/2011,Data Collection Services,Monitoring and Programme Management,John William Hall,20024773,"£52,250.00",Vessel Charter,YO22 4JW,SME,N/A,C3300A,Programme
+DEFRA,Cefas,11/11/2011,Subscriptions,Corporate,ELSEVIER SCIENCE BV,20024729,"£75,478.90",Electronic Subscription Fee,1000AE (Amsterdam),Large,N/A,77002,Administration

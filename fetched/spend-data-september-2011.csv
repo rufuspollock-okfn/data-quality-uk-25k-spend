@@ -1,36 +1,36 @@
 Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling,Line Description
-ECGD,ECGD,05-Sep-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,61841,"≈Å91,959.00",Business rates for ECGD's premises
-ECGD,ECGD,13-Sep-11,Legal Fees claims,(DAB) GCO: Legal Serv - Admin,Clyde and Co LLP,61879,"≈Å23,480.60",Legal Advice
-ECGD,ECGD,13-Sep-11,Legal Fees transactions,(DAB) GCO: Legal Serv - Admin,Pinheiro Neto Advogados,61885,"≈Å41,269.84",Legal Advice
-ECGD,ECGD,13-Sep-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,61887,"≈Å612,500.00",Quarterly rent for ECGD's premises 
-ECGD,ECGD,13-Sep-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,61887,"≈Å267,607.50",Quarterly service charge 
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) FG ID: Admin Costs,American Express,61899,≈Å225.00,Business Travel
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,≈Å110.50,Business Travel
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,≈Å205.00,Business Travel
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,≈Å98.00,Business Travel
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,≈Å104.50,Business Travel
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,≈Å205.00,Business Travel
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,≈Å158.50,Business Travel
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB)BG Business Division2,American Express,61899,≈Å236.94,Business Travel
-ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,CXO: admin,American Express,61899,≈Å102.63,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB) GCO: Legal Serv - Admin,American Express,61899,≈Å279.25,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB) GCO: Legal Serv - Admin,American Express,61899,≈Å279.25,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB) GCO: Legal Serv - Admin,American Express,61899,"≈Å3,898.10",Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division 3,American Express,61899,"≈Å4,265.63",Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division 3,American Express,61899,"≈Å4,265.63",Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,61899,≈Å299.75,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,61899,≈Å367.70,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,61899,≈Å206.90,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,61899,≈Å340.70,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,≈Å232.30,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,"≈Å1,863.43",Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,≈Å589.83,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,"≈Å4,265.63",Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,"≈Å4,265.63",Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,61899,≈Å279.25,Business Travel
-ECGD,ECGD,13-Sep-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,61899,≈Å279.25,Business Travel
-ECGD,ECGD,13-Sep-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Fidelity National Info Services,61900,"≈Å201,366.06",Software Maintenance
-ECGD,ECGD,16-Sep-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,61919,"≈Å86,000.00",Operation and Maintenance of ECGD's IT Infrastructure
+ECGD,ECGD,05-Sep-11,Rates,(DAB) Others HRD PP: Admin Costs,London Borough Of Tower Hamlets,61841,"£91,959.00",Business rates for ECGD's premises
+ECGD,ECGD,13-Sep-11,Legal Fees claims,(DAB) GCO: Legal Serv - Admin,Clyde and Co LLP,61879,"£23,480.60",Legal Advice
+ECGD,ECGD,13-Sep-11,Legal Fees transactions,(DAB) GCO: Legal Serv - Admin,Pinheiro Neto Advogados,61885,"£41,269.84",Legal Advice
+ECGD,ECGD,13-Sep-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,61887,"£612,500.00",Quarterly rent for ECGD's premises 
+ECGD,ECGD,13-Sep-11,"Rent, Build, Fuel & Utilities London",(DAB) Others HRD PP: Admin Costs,Cushman & Wakefield,61887,"£267,607.50",Quarterly service charge 
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) FG ID: Admin Costs,American Express,61899,£225.00,Business Travel
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,£110.50,Business Travel
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,£205.00,Business Travel
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,£98.00,Business Travel
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,£104.50,Business Travel
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,£205.00,Business Travel
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB) Others HRD PP: Admin Costs,American Express,61899,£158.50,Business Travel
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,(DAB)BG Business Division2,American Express,61899,£236.94,Business Travel
+ECGD,ECGD,13-Sep-11,Home Travel /Subsistence,CXO: admin,American Express,61899,£102.63,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB) GCO: Legal Serv - Admin,American Express,61899,£279.25,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB) GCO: Legal Serv - Admin,American Express,61899,£279.25,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB) GCO: Legal Serv - Admin,American Express,61899,"£3,898.10",Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division 3,American Express,61899,"£4,265.63",Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division 3,American Express,61899,"£4,265.63",Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,61899,£299.75,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,61899,£367.70,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,61899,£206.90,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division1,American Express,61899,£340.70,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,£232.30,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,"£1,863.43",Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,£589.83,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,"£4,265.63",Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel (Case Related),(DAB)BG Business Division2,American Express,61899,"£4,265.63",Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,61899,£279.25,Business Travel
+ECGD,ECGD,13-Sep-11,Overseas Travel/Subsistence,(DAB)BG Business Division 3,American Express,61899,£279.25,Business Travel
+ECGD,ECGD,13-Sep-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Fidelity National Info Services,61900,"£201,366.06",Software Maintenance
+ECGD,ECGD,16-Sep-11,Fixed IT charges,(DAB) FG ID: Admin Costs,Logica UK Limited,61919,"£86,000.00",Operation and Maintenance of ECGD's IT Infrastructure
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,

@@ -1,18 +1,18 @@
 Department,Entity,Date,Expense type,Expense Area,Supplier Name,Transaction Number,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Number,Expenditure type
-Defra,Cefas,12/04/2012,Lab Services,Environment & Ecosystems,Thomson Unicomarine,20030736,"≈Å49,450.00",Analysis of 100 samples,SG6 1LW,Large,N/A,C5432,Programme
-Defra,Cefas,12/04/2012,Data Collection Services,Environment & Ecosystems,BLUE LOBSTER,20030946,"≈Å39,600.00",Professional services,NR33 0TQ,SME,N/A,C5207,Programme
-Defra,Cefas,12/04/2012,Assets Under Construction,Aquatic Health & Hygiene,JEOL UK LTD,20030897,"≈Å88,542.40",Microscope 40%,AL7 1LT,Large,N/A,66201,Programme
-Defra,Cefas,12/04/2012,Assets Under Construction,Aquatic Health & Hygiene,JEOL UK LTD,20030898,"≈Å110,678.00",Microscope 50%,AL7 1LT,Large,N/A,66201,Programme
-Defra,Cefas,12/04/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20030916,"≈Å367,005.63",Operational survey time,CH62 3NY,SME,N/A,C5650,Programme
-Defra,Cefas,12/04/2012,Data Collection Services,Monitoring and Programme Management,TITAN ENVIRONMENTAL SURVEYS LTD,20030852,"≈Å68,310.00",Marine Conservation Zone (MCZ) Survey LOT12,CF32 OQP,Large,N/A,C5650,Programme
-Defra,Cefas,12/04/2012,Data Collection Services,Monitoring and Programme Management,TITAN ENVIRONMENTAL SURVEYS LTD,20030851,"≈Å57,473.00",Marine Conservation Zone (MCZ) survey LOT21,CF32 OQP,Large,N/A,C5650,Programme
-Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Hydro Projects ltd,20031427,"≈Å31,263.15",Quality Control representative onboard fishing vessel Tridens 2,NR1 1RT,SME,N/A,C5650,Programme
-Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Gardline Environmental Limited,20031406,"≈Å32,227.23",Marine Conservation Zone (MCZ) services Tridens 1,NR30 3NG,Large,N/A,C5650,Programme
-Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Gardline Environmental Limited,20031409,"≈Å78,989.33",Marine Conservation Zone (MCZ) Services Confidante,NR30 3NG,Large,N/A,DP319,Programme
-Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Gardline Environmental Limited,20031411,"≈Å59,441.20",Marine Conservation Zone (MCZ) Services Ivero,NR30 3NG,Large,N/A,DP319,Programme
-Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Gardline Environmental Limited,20031408,"≈Å511,891.22","Data Collection Survey in Irish Sea North of Celtic Deep, Finding Sanctuary 11 North West of Jones Bank, of Celtic Deep and East of Haif Fras",NR30 3NG,Large,N/A,C5650,Programme
-Defra,Cefas,20/04/2012,Data Collection Services,Environment & Ecosystems,UNIVERSITY OF EAST ANGLIA,20031164,"≈Å25,000.00",Professional services,NR4 7TJ,University,N/A,C5002,Programme
-Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20031071,"≈Å198,898.38",Lot 22-Ocean Dragon,CH62 3NY,SME,N/A,C5650,Programme
-Defra,Cefas,27/04/2012,Data Collection Services,Monitoring and Programme Management,ENVIRONMENT AGENCY,20031467,"≈Å85,000.00",Survey days,PE2 5ZR,Large,N/A,C5650,Programme
-Defra,Cefas,27/04/2012,Data Collection Services,Monitoring and Programme Management,RSS Marine Ltd,20031485,"≈Å51,709.77",Fisheries liaison duties,YO14 0JD,Large,N/A,C5650,Programme
-Defra,Cefas,27/04/2012,Data Collection Services,Environment & Ecosystems,UNIVERSITY OF EAST ANGLIA,20031457,"≈Å25,000.00",Professional services,NR4 7TJ,University,N/A,C5002,Programme
+Defra,Cefas,12/04/2012,Lab Services,Environment & Ecosystems,Thomson Unicomarine,20030736,"£49,450.00",Analysis of 100 samples,SG6 1LW,Large,N/A,C5432,Programme
+Defra,Cefas,12/04/2012,Data Collection Services,Environment & Ecosystems,BLUE LOBSTER,20030946,"£39,600.00",Professional services,NR33 0TQ,SME,N/A,C5207,Programme
+Defra,Cefas,12/04/2012,Assets Under Construction,Aquatic Health & Hygiene,JEOL UK LTD,20030897,"£88,542.40",Microscope 40%,AL7 1LT,Large,N/A,66201,Programme
+Defra,Cefas,12/04/2012,Assets Under Construction,Aquatic Health & Hygiene,JEOL UK LTD,20030898,"£110,678.00",Microscope 50%,AL7 1LT,Large,N/A,66201,Programme
+Defra,Cefas,12/04/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20030916,"£367,005.63",Operational survey time,CH62 3NY,SME,N/A,C5650,Programme
+Defra,Cefas,12/04/2012,Data Collection Services,Monitoring and Programme Management,TITAN ENVIRONMENTAL SURVEYS LTD,20030852,"£68,310.00",Marine Conservation Zone (MCZ) Survey LOT12,CF32 OQP,Large,N/A,C5650,Programme
+Defra,Cefas,12/04/2012,Data Collection Services,Monitoring and Programme Management,TITAN ENVIRONMENTAL SURVEYS LTD,20030851,"£57,473.00",Marine Conservation Zone (MCZ) survey LOT21,CF32 OQP,Large,N/A,C5650,Programme
+Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Hydro Projects ltd,20031427,"£31,263.15",Quality Control representative onboard fishing vessel Tridens 2,NR1 1RT,SME,N/A,C5650,Programme
+Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Gardline Environmental Limited,20031406,"£32,227.23",Marine Conservation Zone (MCZ) services Tridens 1,NR30 3NG,Large,N/A,C5650,Programme
+Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Gardline Environmental Limited,20031409,"£78,989.33",Marine Conservation Zone (MCZ) Services Confidante,NR30 3NG,Large,N/A,DP319,Programme
+Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Gardline Environmental Limited,20031411,"£59,441.20",Marine Conservation Zone (MCZ) Services Ivero,NR30 3NG,Large,N/A,DP319,Programme
+Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Gardline Environmental Limited,20031408,"£511,891.22","Data Collection Survey in Irish Sea North of Celtic Deep, Finding Sanctuary 11 North West of Jones Bank, of Celtic Deep and East of Haif Fras",NR30 3NG,Large,N/A,C5650,Programme
+Defra,Cefas,20/04/2012,Data Collection Services,Environment & Ecosystems,UNIVERSITY OF EAST ANGLIA,20031164,"£25,000.00",Professional services,NR4 7TJ,University,N/A,C5002,Programme
+Defra,Cefas,20/04/2012,Data Collection Services,Monitoring and Programme Management,Osiris Projects,20031071,"£198,898.38",Lot 22-Ocean Dragon,CH62 3NY,SME,N/A,C5650,Programme
+Defra,Cefas,27/04/2012,Data Collection Services,Monitoring and Programme Management,ENVIRONMENT AGENCY,20031467,"£85,000.00",Survey days,PE2 5ZR,Large,N/A,C5650,Programme
+Defra,Cefas,27/04/2012,Data Collection Services,Monitoring and Programme Management,RSS Marine Ltd,20031485,"£51,709.77",Fisheries liaison duties,YO14 0JD,Large,N/A,C5650,Programme
+Defra,Cefas,27/04/2012,Data Collection Services,Environment & Ecosystems,UNIVERSITY OF EAST ANGLIA,20031457,"£25,000.00",Professional services,NR4 7TJ,University,N/A,C5002,Programme

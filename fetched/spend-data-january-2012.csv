@@ -1,13 +1,13 @@
 Department Family,Entity,Date of Payment,Expense Type,Expense Area,Supplier,Transaction Number,Amount in Sterling,Line Description
-ECGD,ECGD,09-Jan-12,Fixed IT charges,ID,Cable & Wireless Communications,62546,"≈Å26,263.50",GSI Leased Line 01/10/11-31/3/12
-ECGD,ECGD,10-Jan-12,"Rent, Build, Fuel & Utilities London",RD,Cushman & Wakefield,62570,"≈Å31,988.50",Annual Building Insurance Charge
-ECGD,ECGD,16-Jan-12,Fixed IT charges,ID,Logica UK Limited,62595,"≈Å91,160.00",Operation and Maintenance of ECGD's IT Infrastructure
-ECGD,ECGD,16-Jan-12,BSIC Projects,BSIC Projects,Logica UK Limited,62596,"≈Å33,030.00",Final Transition Charge
-ECGD,ECGD,23-Jan-12,BSIC Projects,BSIC Projects,Logica UK Limited,62652,"≈Å5,082.71",Application Development and Maintenance
-ECGD,ECGD,23-Jan-12,BSIC Projects,BSIC Projects,Logica UK Limited,62652,"≈Å8,615.44",Support for the implementation of a new data warehouse
-ECGD,ECGD,23-Jan-12,BSIC Projects,BSIC Projects,Logica UK Limited,62652,"≈Å12,923.16",Support for the implementation of a new data warehouse
-ECGD,ECGD,23-Jan-12,IT Non Project Expenditure,ID,Logica UK Limited,62652,"≈Å5,211.39",Application Development and Maintenance
-ECGD,ECGD,23-Jan-12,Fixed IT charges,ID,Oracle Corporation UK Limited,62653,"≈Å20,949.26",Annual Software License and Support
+ECGD,ECGD,09-Jan-12,Fixed IT charges,ID,Cable & Wireless Communications,62546,"£26,263.50",GSI Leased Line 01/10/11-31/3/12
+ECGD,ECGD,10-Jan-12,"Rent, Build, Fuel & Utilities London",RD,Cushman & Wakefield,62570,"£31,988.50",Annual Building Insurance Charge
+ECGD,ECGD,16-Jan-12,Fixed IT charges,ID,Logica UK Limited,62595,"£91,160.00",Operation and Maintenance of ECGD's IT Infrastructure
+ECGD,ECGD,16-Jan-12,BSIC Projects,BSIC Projects,Logica UK Limited,62596,"£33,030.00",Final Transition Charge
+ECGD,ECGD,23-Jan-12,BSIC Projects,BSIC Projects,Logica UK Limited,62652,"£5,082.71",Application Development and Maintenance
+ECGD,ECGD,23-Jan-12,BSIC Projects,BSIC Projects,Logica UK Limited,62652,"£8,615.44",Support for the implementation of a new data warehouse
+ECGD,ECGD,23-Jan-12,BSIC Projects,BSIC Projects,Logica UK Limited,62652,"£12,923.16",Support for the implementation of a new data warehouse
+ECGD,ECGD,23-Jan-12,IT Non Project Expenditure,ID,Logica UK Limited,62652,"£5,211.39",Application Development and Maintenance
+ECGD,ECGD,23-Jan-12,Fixed IT charges,ID,Oracle Corporation UK Limited,62653,"£20,949.26",Annual Software License and Support
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,

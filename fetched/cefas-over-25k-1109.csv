@@ -1,5 +1,5 @@
 Department family(T),Entity(T),Pay date,Expense type(T),Expense area(T),Supplier,Supplier(T),TransNo,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
-DEFRA,Cefas,09/09/2011,Data Collection Services,Monitoring and Programme Management,202224,SH90 Ltd,20022637,"≈Å92,625.00",Allegiance x 30 days,YO11 1QY,SME,N/A,69031,Programme
-DEFRA,Cefas,19/09/2011,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20022566,"≈Å91,129.31",Recharge of 11/12 June & July capital costs,YO1 7PX,Large,N/A,50000,Administration
-DEFRA,Cefas,19/09/2011,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20022566,"≈Å85,620.82",Recharge of 11/12 June & July capital costs,YO1 7PX,Large,N/A,73000,Administration
-DEFRA,Cefas,29/09/2011,Data Collection Services,Monitoring and Programme Management,202226,Waterdance Ltd,20023160,"≈Å30,324.00",FSP Common skate,EX5 1EL,SME,N/A,69031,Programme
+DEFRA,Cefas,09/09/2011,Data Collection Services,Monitoring and Programme Management,202224,SH90 Ltd,20022637,"£92,625.00",Allegiance x 30 days,YO11 1QY,SME,N/A,69031,Programme
+DEFRA,Cefas,19/09/2011,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20022566,"£91,129.31",Recharge of 11/12 June & July capital costs,YO1 7PX,Large,N/A,50000,Administration
+DEFRA,Cefas,19/09/2011,Assets Under Construction,Corporate,200335,DEFRA RECEIPTS,20022566,"£85,620.82",Recharge of 11/12 June & July capital costs,YO1 7PX,Large,N/A,73000,Administration
+DEFRA,Cefas,29/09/2011,Data Collection Services,Monitoring and Programme Management,202226,Waterdance Ltd,20023160,"£30,324.00",FSP Common skate,EX5 1EL,SME,N/A,69031,Programme

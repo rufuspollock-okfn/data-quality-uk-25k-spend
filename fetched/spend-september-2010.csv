@@ -1,4 +1,4 @@
-Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (ÂŁ)
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier Name,Transactions Number, Amount (£)
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Sep-10,Nursery Childcare Subsidy,DG CHANGE & DELIVERY,BRIGHT HORIZONS FAMILY SOLUTION LTD,1171395,"39,499.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Sep-10,Inward Visits/Uk Conferences,DG CHANGE & DELIVERY,MANTAPLAN LTD,2000061,"391,992.93"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,01-Sep-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,MANTAPLAN LTD,2000061,"68,598.76"
@@ -489,7 +489,7 @@ Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Sep-10,Recharge S
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,29-Sep-10,Recharge Suspense Account (Oracle PA Control Account),NON CASH & UNALLOCATED COSTS,IFES,2000000897,"48,465.27"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1000116,"97,052.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1000116,"16,984.10"
-Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Information Systems Under ĂÂŁ3000,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1000117,"130,000.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Information Systems Under Â£3000,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1000117,"130,000.70"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1000117,"25,465.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1000117,"27,206.50"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Training Course: Fees,DG CHANGE & DELIVERY,THE TAYLOR CLARKE PARTNERSHIP LTD,1000181,"25,685.00"
@@ -498,7 +498,7 @@ Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Training C
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,THE TAYLOR CLARKE PARTNERSHIP LTD,1000181,"4,615.84"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Other It (Maint),DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1173227,"97,052.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1173227,"16,984.10"
-Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Information Systems Under ĂÂŁ3000,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1173228,"130,000.70"
+Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Information Systems Under Â£3000,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1173228,"130,000.70"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,IT/IS Consultancy,DG CENTRAL GROUP,HEWLETT-PACKARD LTD,1173228,"25,465.00"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,VAT (Input) (Oracle Sub-Ledger Control Account),NON CASH & UNALLOCATED COSTS,HEWLETT-PACKARD LTD,1173228,"27,206.50"
 Foreign & Commonwealth Office,Foreign & Commonwealth Office,30-Sep-10,Training Course: Fees,DG CHANGE & DELIVERY,THE TAYLOR CLARKE PARTNERSHIP LTD,1173286,"25,685.00"
